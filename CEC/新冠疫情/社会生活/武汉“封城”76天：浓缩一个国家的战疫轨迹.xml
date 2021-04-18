@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>武汉“封城”76天：浓缩一个国家的战疫轨迹</Title>
+    <ReportTime type="absTime">2020-04-08T00:00</ReportTime>中国新闻网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">4月8日</Time>，
+                    <Location lid="l1">武汉</Location>“
+                    <Denoter did="d1" type="stateChange">解封</Denoter>”
+                </Event>！
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e2">从
+                    <Time tid="t2" type="relTime">1月23日</Time>“
+                    <Denoter did="d2" type="stateChange">封城</Denoter>”至今，
+                    <Location lid="l2">武汉</Location>的76个日日夜夜，也浓缩了一个国家的战疫轨迹
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>2020年，是进入新世纪二十年代的第一年。</Sentence>
+            <Sentence>但让人始料未及的是，与这个充满希望的新年一起到来的，还有一个不速之“客”——这个后来被命名的
+                <Event eid="e3">“
+                    <Object oid="o3">新冠病毒</Object>”
+                    <Denoter did="d3" type="action">带来</Denoter>一场
+                    <Object sid="s3">席卷全球的疫情</Object>
+                </Event>，
+                <Event eid="e4">
+                    <Location lid="l4">武汉</Location>
+                    <Denoter did="d4" type="stateChange">成为</Denoter>最初的“
+                    <Object sid="s4">震中</Object>”
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">
+                    <Time tid="t5" type="relTime">2019年12月底</Time>，
+                    <Location lid="l5">湖北省武汉市</Location>
+                    <Participant oid="o5" type="agent">疾控中心</Participant>
+                    <Denoter did="d5" type="perception">监测发现</Denoter>
+                    <Participant sid="s5" type="recipient">不明原因肺炎病例</Participant>
+                </Event>，这是中国最早出现的病例。
+            </Sentence>
+            <Sentence>
+                <Event eid="e6">
+                    <Time tid="t6" type="absTime">2020年1月8日</Time>，
+                    <Participant oid="o6" type="agent">国家卫健委专家</Participant>评估组初步
+                    <Denoter did="d6" type="action">确认</Denoter>“
+                    <Object sid="s6">新冠病毒</Object>”为疫情病原
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e7">
+                    <Time tid="t7" type="relTime">1月20日</Time>，
+                    <Location lid="l7">在武汉</Location>实地考察后的
+                    <Participant oid="o7">国家卫健委高级别专家组组长钟南山</Participant>代表专家组
+                    <Denoter did="d7" type="statement">通报</Denoter>
+                </Event>，
+                <Event eid="e8">
+                    <Object oid="o8">新冠肺炎</Object>“
+                    <Denoter did="d8" type="action">人传人</Denoter>”
+                </Event>“除非极为重要的事情，一般不要去武汉。”
+            </Sentence>——
+            <Sentence>
+                <Event eid="e9">
+                    <Object oid="o9">疫情警报</Object>
+                    <Denoter did="d9" type="stateChange">拉响</Denoter>
+                </Event>，
+                <Event eid="e10">一场新中国成立以来
+                    <Object oid="o10">传播速度最快、感染范围最广、防控难度最大的重大突发公共卫生事件</Object>
+                    <Denoter did="d10" type="stateChange">突如其来</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e11">当日，
+                    <Location lid="l11">武汉市</Location>
+                    <Denoter did="d11" type="operation">成立</Denoter>
+                    <Object sid="s11">新型冠状病毒感染肺炎疫情防控指挥部</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e12">
+                    <Participant oid="o12" type="agent">国家卫健委</Participant>
+                    <Time tid="t12" type="relTime">次日</Time>开始疫情
+                    <Denoter did="d12" type="statement">通报</Denoter>“日发布”。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e13">
+                    <Time tid="t13" type="timeInterval">截至1月20日24时</Time>，
+                    <Location lid="l13">全国</Location>累计报告
+                    <Denoter did="d13">确诊</Denoter>
+                    <Participant sid="s13">病例291例</Participant>，其中武汉258例。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>此时，已是农历腊月二十六。</Sentence>
+            <Sentence>中国春运，一场人类最大规模的迁徙正在960万平方公里的土地上拉开。</Sentence>
+            <Sentence>
+                <Event eid="e14">多地开始
+                    <Denoter did="d14" type="stateChange">出现</Denoter>
+                    <Object sid="s14">由湖北输入的病例</Object>
+                </Event>，
+                <Event eid="e15">
+                    <Location lid="l15">武汉</Location>“
+                    <Object sid="s15">封城</Object>”被
+                    <Denoter did="d15">提上</Denoter>议事日程
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>1月23日，农历除夕的前一天。</Sentence>
+            <Sentence>当家家户户门前代表祝福与喜庆的大红灯笼和对联还笼罩在黎明前的黑暗中时，
+                <Event eid="e16">
+                    <Location lid="l16">武汉市</Location>
+                    <Participant oid="o16" type="agent">疫情防控指挥部</Participant>
+                    <Denoter did="d16" type="statement">发布1号通告</Denoter>
+                </Event>：自
+                <Event eid="e17">
+                    <Time tid="t17" type="timeInterval">当日上午10时起</Time>，
+                    <Object oid="o17">全市城市公交、地铁、轮渡、长途客运</Object>
+                    <Denoter did="d17" type="operation">暂停运营</Denoter>
+                </Event>；
+                <Event eid="e18">
+                    <Object oid="o18">机场、火车站离汉通道</Object>
+                    <Denoter did="d18" type="stateChange">暂时关闭</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>武汉“封城”！</Sentence>
+            <Sentence>900多万人留在了这座被迫按下暂停键的城市之中。</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>此时，
+                <Event eid="e19">
+                    <Participant oid="o19">外界</Participant>对
+                    <Object sid="s19">新冠病毒</Object>
+                    <Denoter did="d19" type="perception">缺乏认知</Denoter>
+                </Event>，医院床位不够、检测条件不足、医疗物质匮乏、未来形势不明，
+                <Event eid="e20">“封城令”下的
+                    <Location lid="l20">武汉</Location>
+                    <Denoter did="d20" type="stateChange">陷入</Denoter>前所未有的
+                    <Object sid="s20">恐慌</Object>之中。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>更让人惊惧的是，
+                <Event eid="e21">
+                    <Location lid="l21">武汉</Location>的每日病例领衔
+                    <Object oid="o21">全国疫情数据</Object>以
+                    <Means mid="m21">令人揪心的速度</Means>
+                    <Denoter did="d21" type="stateChange">上涨</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e22">
+                    <Time tid="t22" type="relTime">1月27日</Time>，
+                    <Location lid="l22">武汉</Location>
+                    <Object oid="o22">新增病例</Object>从此前的两位数
+                    <Denoter did="d22">陡增</Denoter>
+                    <Participant sid="s22">892例</Participant>
+                </Event>，
+                <Event eid="e23">
+                    <Location lid="l23">全国30个省份</Location>
+                    <Denoter did="d23" type="stateChange">新增</Denoter>
+                    <Participant sid="s23" type="recipient">确诊病例1771例</Participant>
+                </Event>，首次突破千例。
+                <Event eid="e24">在
+                    <Location lid="l24">湖北省内，孝感、黄冈</Location>相继
+                    <Denoter did="d24">告急</Denoter>
+                </Event>；在省外，新冠病毒袭击了中国最后一块净土，
+                <Event eid="e25">
+                    <Location lid="l25">西藏</Location>
+                    <Time tid="t25" type="relTime">28日</Time>
+                    <Denoter did="d25" type="statement">报告</Denoter>
+                    <Participant sid="s25">确诊病例</Participant>，疫情至此覆盖全国
+                </Event>，
+                <Event eid="e26">
+                    <Participant oid="o26" type="agent">31个省份</Participant>全部
+                    <Denoter did="d26" type="stateChange">启动</Denoter>
+                    <Object sid="s26">重大突发公共卫生事件一级响应</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e27">
+                    <Time tid="t27" type="relTime">1月31日</Time>，
+                    <Location lid="l27">全国</Location>
+                    <Object oid="o27">新增确诊病例</Object>首次
+                    <Denoter did="d27" type="stateChange">超过</Denoter>
+                    <Participant sid="s27" type="recipient">2000例</Participant>(2102例)
+                </Event>，累计确诊破万例(11791例)。
+            </Sentence>
+            <Sentence>
+                <Event eid="e28">仅仅
+                    <Time tid="t28">3天后</Time>，
+                    <Location lid="l28">全国</Location>
+                    <Object oid="o28">累计确诊病例</Object>
+                    <Denoter did="d28" type="stateChange">超过</Denoter>
+                    <Participant sid="s28" type="recipient">两万例</Participant>(20438例)
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>2月13日，湖北新增确诊病例(4823例)占全国(5090例)近95%，武汉当日新增病例(3910例)占湖北的81%；湖北累计确诊病例(51986例)占全国(63851例)的81%，武汉累计确诊病例(35991例)占湖北的近70%。</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>疫情阴霾下的武汉进入至暗时刻，这也是中国战疫最吃劲时期。</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>生命至上，刻不容缓。</Sentence>
+            <Sentence>
+                <Event eid="e29">以“中国速度”
+                    <Denoter did="d29" type="operation">建造</Denoter>的
+                    <Object sid="s29">火神山、雷神山医院</Object>
+                </Event>和
+                <Event eid="e30">临时
+                    <Denoter did="d30" type="operation">改建</Denoter>的
+                    <Object sid="s30">方舱医院</Object>
+                </Event>成为照亮至暗时刻的“光”。
+            </Sentence>
+            <Sentence>
+                <Event eid="e31">
+                    <Location lid="l31">武汉</Location>“
+                    <Denoter did="d31" type="action">封城</Denoter>”
+                </Event>当天，
+                <Event eid="e32">
+                    <Object sid="s32">火神山医院</Object>
+                    <Denoter did="d32" type="operation">启动建造</Denoter>
+                </Event>，
+                <Event eid="e33">仅仅
+                    <Time tid="t33" type="timeInterval">10天后</Time>开始
+                    <Denoter did="d33" type="operation">接收</Denoter>
+                    <Participant sid="s33" type="recipient">患者</Participant>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e34">随后
+                    <Object oid="o34">雷神山医院和16家方舱医院</Object>
+                    <Denoter did="d34" type="operation">投入使用</Denoter>
+                </Event>，为患者打开生命和健康之门。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>举国一盘棋中，逆行者的身影成为温暖这个萧瑟寒冬的“火”。</Sentence>
+            <Sentence>
+                <Event eid="e35">
+                    <Time tid="t35" type="relTime">1月24日</Time>，在万家团圆的除夕之夜，
+                    <Participant oid="o35" type="agent">第一支援鄂医疗队</Participant>
+                    <Denoter did="d35" type="movement">抵达</Denoter>
+                    <Location lid="l35">武汉</Location>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e36">迄今，
+                    <Participant oid="o36" type="agent">全国各地300多支医疗队、4万多名医护人员</Participant>
+                    <Denoter did="d36" type="movement">驰援</Denoter>
+                    <Location lid="l36">湖北</Location>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e37">与此同时，
+                    <Location lid="l37">全国各地</Location>
+                    <Denoter did="d37" type="operation">织密加牢</Denoter>
+                    <Object sid="s37">防护网</Object>
+                </Event>，中国战疫人人皆“兵”。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>发起总攻</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>武汉胜则湖北胜，湖北胜则全国胜！</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e38">
+                    <Time tid="t38" type="relTime">2月14日</Time>，
+                    <Participant sid="s38" type="recipient">湖北工作组</Participant>发布
+                    <Denoter did="d38" type="statement">动员</Denoter>令
+                </Event>，
+                <Event eid="e39">一场
+                    <Location lid="l39">武汉</Location>
+                    <Denoter did="d39" type="action">保卫战</Denoter>、
+                    <Location lid="l39">湖北</Location>保卫战全面
+                </Event>
+                <Event eid="e40">总攻正式
+                    <Denoter did="d40" type="operation">打响</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e41">
+                    <Time tid="t41" type="timeInterval">2月17日-19日</Time>，
+                    <Location lid="l41">武汉</Location>
+                    <Denoter did="d41" type="stateChange">开启</Denoter>
+                    <Object sid="s41">二次拉网式排查</Object>
+                </Event>，
+                <Event eid="e42">到
+                    <Time tid="t42" type="relTime">21日</Time>
+                    <Denoter did="d42" type="operation">完成</Denoter>
+                    <Object sid="s42">全市“四类人员”核酸检测存量筛查</Object>
+                </Event>，从22日起，做到当日新增当日检测清零；
+                <Event eid="e43">
+                    <Location lid="l43">收治“四类人员”的定点医院、方舱医院和相关隔离点</Location>均
+                    <Denoter did="d43" type="stateChange">实现</Denoter>了“
+                    <Object sid="s43">床等人</Object>”
+                </Event>；
+                <Event eid="e44">
+                    <Time tid="t44" type="relTime">3月1日</Time>，
+                    <Participant oid="o44">武汉硚口武体方舱医院</Participant>
+                    <Denoter did="d44" type="stateChange">不再接收</Denoter>
+                    <Participant sid="s44" type="recipient">患者</Participant>
+                </Event>，成为首家“休舱”的方舱医院，意味着武汉的病例存量被逐渐消化，
+                <Event eid="e45">
+                    <Participant sid="s45" type="recipient">滞留在社区的病人</Participant>基本
+                    <Denoter did="d45" type="operation">清理完毕</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e46">
+                    <Location lid="l46">湖北各地</Location>
+                    <Denoter did="d46" type="stateChange">防控升级</Denoter>
+                </Event>。
+                <Event eid="e47">
+                    <Time tid="t47" type="timeInterval">截至2月14日零时</Time>，
+                    <Location lid="l47">湖北已有孝感市云梦县、十堰市张湾区、孝感市大悟县三地</Location>
+                    <Denoter did="d47" type="operation">实现</Denoter>“
+                    <Object sid="s47">战时管制</Object>”
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e48">
+                    <Participant oid="o48" type="agent">各级党员干部</Participant>
+                    <Denoter did="d48" type="action">深入</Denoter>
+                    <Object sid="s48">一线防控</Object>
+                </Event>，
+                <Event eid="e49">
+                    <Object sid="s49">城乡社区人传人现象</Object>得到有效
+                    <Denoter did="d49" type="operation">遏制</Denoter>
+                </Event>，截至3月3日，武汉无疫情村(大队)1165个，占1943个村(大队)中的60%。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e50">在患者救治上，
+                    <Denoter did="d50" type="operation">统筹</Denoter>
+                    <Object sid="s50">国家队、各地的医疗队和湖北医疗资源</Object>
+                </Event>，提高救治水平。
+            </Sentence>
+            <Sentence>
+                <Event eid="e51">
+                    <Denoter did="d51" type="operation">集中收治</Denoter>
+                    <Participant sid="s51" type="recipient">重症患者</Participant>
+                </Event>，
+                <Event eid="e52">
+                    <Denoter did="d52" type="operation">发挥</Denoter>
+                    <Object sid="s52">专家荟萃和中西医结合的优势</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e53">
+                    <Object oid="o53">武汉重症病例占比</Object>从2月11日的31.6%波动
+                    <Denoter did="d53" type="stateChange">下降</Denoter>到2月27日的22.4
+                </Event>%，
+                <Event eid="e54">
+                    <Object oid="o54">病死率</Object>从1月26日最高点9.0%
+                    <Denoter did="d54" type="stateChange">下降</Denoter>到2月27日的4.4%。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e55">
+                    <Time tid="t55" type="timeInterval">截至3月3日</Time>，
+                    <Location lid="l55">武汉市</Location>
+                    <Object oid="o55">累计治愈出院</Object>
+                    <Denoter did="d55" type="stateChange">首超</Denoter>
+                    <Object sid="s55">现有确诊病例</Object>
+                </Event>，治愈率升至50.2%，连续19日上升。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e56">
+                    <Object oid="o56">武汉“封城”</Object>也
+                    <Denoter did="d56" type="action">遏制</Denoter>了
+                    <Object sid="s56">疫情在全国的蔓延</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e57">
+                    <Time tid="t57" >从2月4日至19日</Time>，除湖北外，全国新增确诊病例连续16天呈下降态势
+                </Event>，至3月3日降至个位数(4例)，28个省份无新增确诊病例。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>根据国内疫情防控的新形势，
+                <Event eid="e58">
+                    <Participant oid="o58" type="agent">国务院联防联控机制</Participant>于
+                    <Time tid="t58" type="relTime">2月17日</Time>
+                    <Denoter did="d58" type="statement">印发指导意见</Denoter>
+                </Event>，
+                <Event eid="e59">要求
+                    <Location lid="l59">各地</Location>
+                    <Means mid="m59">科学防治、精准施策、分区分级</Means>做好
+                    <Denoter did="d59" type="operation">疫情防控</Denoter>工作
+                </Event>，制定
+                <Event eid="e60">
+                    <Means mid="m60">差异化的县域</Means>
+                    <Denoter did="d60" type="operation">防控</Denoter>
+                </Event>和
+                <Event eid="e61">
+                    <Denoter did="d61" type="operation">恢复</Denoter>
+                    <Object sid="s61">经济社会秩序</Object>
+                </Event>的措施。
+            </Sentence>
+            <Sentence>
+                <Event eid="e62">
+                    <Participant oid="o62" type="agent">部分省份</Participant>
+                    <Denoter did="d62" type="stateChange">下调</Denoter>
+                    <Object sid="s62">应急响应级别</Object>
+                </Event>，
+                <Event eid="e63">
+                    <Participant oid="o63" type="agent">各地</Participant>陆续
+                    <Denoter did="d63" type="stateChange">复工复产</Denoter>
+                </Event>，疫情下的中国逐渐恢复活力。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>决战决胜</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e64">
+                    <Time tid="t64" type="relTime">3月4日</Time>，
+                    <Participant oid="o64" type="agent">中央指导组副组长、中央政法委秘书长陈一新</Participant>在
+                    <Location lid="l64">武汉指挥部</Location>指导督导疫情防控工作时
+                    <Denoter did="d64" type="statement">指出</Denoter>
+                </Event>，
+                <Event eid="e65">目前
+                    <Location lid="l65">武汉</Location>
+                    <Object oid="o65">疫情防控形势</Object>呈现出
+                    <Denoter did="d65" type="action">持续向好</Denoter>
+                    <Object sid="s65">态势</Object>
+                </Event>，
+                <Event eid="e66">
+                    <Object oid="o66">武汉保卫战</Object>
+                    <Denoter did="d66" type="action">进入</Denoter>
+                    <Object sid="s66">决战决胜新阶段</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>提高治愈率、降低病死率成为“武汉保卫战”决胜阶段的重中之重。</Sentence>
+            <Sentence>
+                <Event eid="e67">全国
+                    <Participant oid="o67" type="agent">逾万名重症医学科、感染科、呼吸科、心血管科和麻醉科的专家</Participant>留守武汉“
+                    <Denoter did="d67" type="operation">攻坚</Denoter>”
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e68">为
+                    <Denoter did="d68" type="operation">消除</Denoter>
+                    <Object sid="s68">传染源</Object>
+                </Event>、
+                <Event eid="e69">
+                    <Denoter did="d69" type="action">阻断</Denoter>
+                    <Object sid="s69">传染链</Object>
+                </Event>，
+                <Event eid="e70">
+                    <Location lid="l70">武汉</Location>继续采取最严格的
+                    <Denoter did="d70" type="operation">防控</Denoter>措施
+                </Event>，
+                <Event eid="e71">
+                    <Means mid="m71">按照“疫情零发生、防控全到位”标准</Means>，
+                    <Denoter did="d71" type="operation">创建</Denoter>
+                    <Object sid="s71">“无疫情小区”“无疫情社区”</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e72">
+                    <Time tid="t72" type="relTime">3月11日</Time>，
+                    <Location lid="l72">武汉</Location>
+                    <Object oid="o72">新增确诊病例</Object>
+                    <Denoter did="d72" type="stateChange">降至个位数(8例)</Denoter>首次
+                </Event>，
+                <Event eid="e73">
+                    <Time tid="t73" type="relTime">18日</Time>，首次
+                    <Denoter did="d73" type="operation">实现</Denoter>
+                    <Object sid="s73">零报告</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                至4月7日的21天里，除了其中两天各有1例确诊病人外，其它时间均无新增病例。</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e74">根据疫情风险等级评评估，
+                    <Location lid="l74">武汉</Location>于
+                    <Time tid="t74">3月25日</Time>
+                    <Denoter did="d74" type="operation">被列入</Denoter>中风险地区。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e75">当日，除
+                    <Location lid="l75">武汉外湖北其他地区</Location>率先“
+                    <Denoter did="d75" type="stateChange">解封</Denoter>”。
+                </Event>
+            </Sentence>
+            <Sentence>此时，全国本土疫情防控形势保持稳定向好的局面，当疫情在全球蔓延之时，中国成为世界上最为安全的国家之一。</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e76">
+                    <Time tid="t76" type="relTime">4月8日</Time>，
+                    <Location lid="l76">武汉</Location>“
+                    <Denoter did="d76">解封</Denoter>”
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e77">这个曾
+                    <Object oid="o77">因疫情重灾区而举世瞩目的城市</Object>终于
+                    <Denoter did="d77" type="stateChange">打开</Denoter>
+                    <Object sid="s77">城门</Object>
+                </Event>，标志着中国战疫取得阶段性的重大胜利。
+            </Sentence>
+            <Sentence>
+                <Event eid="e78">
+                    <Time tid="t78" type="relTime">截至7日24时</Time>，
+                    <Participant oid="o78" type="agent">全国现有本土确诊病例</Participant>
+                    <Denoter did="d78" type="stateChange">降至</Denoter>
+                    <Participant sid="s" type="recipient">476例</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e79">据
+                    <Participant oid="o79" type="agent">法新社</Participant>
+                    <Denoter did="d79" type="statement">报道</Denoter>
+                </Event>，
+                <Event eid="e80">多国研究人员发表在
+                    <Object oid="o80">美国权威学术刊物《科学》杂志上的一篇论文</Object>
+                    <Denoter did="d80" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e81">在新冠肺炎疫情暴发初期，
+                    <Object oid="o81">中国政府 “封锁”武汉的决定</Object>
+                    <Denoter did="d81" type="operation">延迟</Denoter>了病毒的
+                    <Object oid="o81">传播</Object>
+                </Event>
+                <Event eid="e82">并可能由此
+                    <Denoter did="d82" type="action">防止</Denoter>了
+                    <Object sid="s82">70万例确诊病例</Object>的出现。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>这也意味着，武汉“封城”，不仅成为中国遏制疫情进一步蔓延的关键之</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>如今，武汉虽已“解封”，但中国战疫仍未结束。
+                <Event eid="e83">正如
+                    <Participant oid="o83" type="agent">武汉市疫情防控指挥部副指挥长胡曙光</Participant>所
+                    <Denoter did="d83" type="statement">言</Denoter>
+                </Event>，零新增不等于零风险，解封通道不等于解除防疫，打开城门不等于打开家门。
+            </Sentence>
+            <Sentence>
+                <Event eid="e84">刚刚“
+                    <Denoter did="d84" type="stateChange">重启</Denoter>”的
+                    <Location lid="l84">武汉</Location>
+                </Event>和
+                <Event eid="e85">正在
+                    <Denoter did="d85" type="action">复苏</Denoter>的
+                    <Location lid="l85">中国</Location>
+                </Event>，
+                <Event eid="e86">仍
+                    <Means mid="m86">需以耐心和信心</Means>
+                    <Denoter did="d86" type="action">迎接</Denoter>这场
+                    <Object sid="s86">抗疫决战</Object>的
+                    <Object sid="s86">最后胜利</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+    <eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eid="e8"/>
+    <eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+    <eRelation relType="Causal" cause_eid="e14" effect_eid="e15"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e16" thoughtcontent_eid="e17-e18"/>
+    <eRelation relType="Accompany" accompanya_eid="e17" accompanyb_eid="e18"/>
+    <eRelation relType="Accompany" accompanya_eid="e23" accompanyb_eid="e24-e26"/>
+    <eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+    <eRelation relType="Accompany" accompanya_eid="e31" accompanyb_eid="e32"/>
+    <eRelation relType="Follow" bevent_eid="e32" aevent_eid="e33"/>
+    <eRelation relType="Follow" bevent_eid="e33" aevent_eid="e34"/>
+    <eRelation relType="Follow" bevent_eid="e38" aevent_eid="e39-e40"/>
+    <eRelation relType="Follow" bevent_eid="e41" aevent_eid="e42"/>
+    <eRelation relType="Follow" bevent_eid="e42" aevent_eid="e43"/>
+    <eRelation relType="Follow" bevent_eid="e43" aevent_eid="e44"/>
+    <eRelation relType="Causal" cause_eid="e48" effect_eid="e49"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e58" thoughtcontent_eid="e59-61"/>
+    <eRelation relType="Follow" bevent_eid="e62" aevent_eid="e63"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e64" thoughtcontent_eid="e65-e66"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e79" thoughtcontent_eid="e80"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e80" thoughtcontent_eid="e81-e82"/>
+    <eRelation relType="Follow" bevent_eid="e85" aevent_eid="e86"/>
+</Body>

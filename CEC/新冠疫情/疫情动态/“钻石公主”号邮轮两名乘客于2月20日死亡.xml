@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>“钻石公主”号邮轮两名乘客于2月20日死亡</Title>
+    <ReportTime type="absTime">2020-02-21T00:00</ReportTime>
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="absTime">截至2020年2月20日</Time>，
+                    <Object sid="s1" type="agent">“钻石公主”号邮轮</Object>共
+                    <Denoter did="d1" type="operation">确诊</Denoter>
+                    <Object oid="o1" type="recipient">634例新冠肺炎病例</Object>
+                </Event>，
+                <Event eid="e2">
+                    <Participant sid="s3" type="agent">两名乘客</Participant>于
+                    <Time tid="t3" type="relTime">2月20日</Time>
+                    <Denoter did="d3" type="stateChange">死亡</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e3">
+                    <Event eid="e3" type="absTime">2020年2月20日</Event>，
+                    <Participant sid="s3" type="agent">两名感染新型冠状病毒的“钻石公主”号邮轮乘客</Participant>在
+                    <Location lid="l3">医院</Location>
+                    <Denoter did="d3" type="stateChange">死亡</Denoter>
+                </Event>，这是
+                <Event eid="e4">
+                    <Object sid="s" type="agent">该邮轮确诊病例</Object>首次
+                    <Denoter did="d4" type="stateChange">出现</Denoter>
+                    <Object oid="o4" type="recipient">死亡情况</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e5">
+                    <Participant sid="s5" type="agent">两名乘客</Participant>均为80多岁，一男一女，日本国籍，均有基础疾病，被确诊感染后
+                    <Time tid="t5" type="relTime">分别于2月11日和12日</Time>
+                    <Denoter did="d5" type="operation">住院</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e6">
+                  	<Time tid="t6" type="relTime">同日</Time>，又有
+                    <Participant sid="s6" type="agent">2名俄罗斯籍“钻石公主”号邮轮乘客</Participant>
+                    <Denoter did="d6" type="operation">确诊</Denoter>感染新冠病毒
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e7">
+                    <Time tid="t7" type="absTime">2020年1月20日</Time>，
+                    <Participant sid="s7" type="agent">载有2666名乘客和1045名船员的“钻石公主号”</Participant>由
+                    <Location lid="l7" type="origin">横滨</Location>
+                    <Denoter did="d7" type="movement">出发</Denoter>
+                </Event>，
+                <Event eid="e8">于
+                    <Time tid="t8" type="relTime">1月25日</Time>
+                    <Denoter did="d8" type="stateChange">抵达</Denoter>
+                    <Location lid="l8" type="destination">香港</Location>
+                </Event>，在此
+                <Event eid="e9">
+                    <Denoter did="d9" type="stateChange">停留</Denoter>
+                  	<Time tid="t9" type="timeInterval">一天</Time>
+                </Event>、
+                <Event eid="e10">
+                    <Participant sid="s10" type="agent">部分乘客</Participant>
+                    <Denoter did="d10" type="movement">上下船</Denoter>
+                </Event>后，
+                <Event eid="e11">
+                    <Object sid="s11" type="agent">邮轮</Object>继续
+                    <Denoter did="d11" type="movement">前往</Denoter>
+                    <Location lid="l11" type="destination">越南</Location>、
+                    <Location lid="l11" type="destination">台湾基隆</Location>、
+                    <Location lid="l11" type="destination">日本冲绳</Location>等地
+                </Event>，原计划于2月4日返回横滨
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12">
+                    <Time tid="t12" type="absTime">2020年2月1日</Time>，
+                    <Participant sid="s12" type="agent">香港特区政府</Participant>
+                    <Denoter did="d12" type="statement">通报</Denoter>
+                </Event>，
+                <Event eid="e13">
+                    <Participant sid="s13" type="agent">一名此前下船的80岁香港男性乘客</Participant>
+                    <Denoter did="d13" type="operation">确诊</Denoter>
+                  	<Object oid="o13" type="agent">感染新型冠状病毒</Object>
+                </Event>
+            </Sentence>。受此消息影响，
+            <Sentence>
+                <Event eid="e14">
+                    <Object sid="s14" type="agent">“钻石公主号”</Object>提前
+                    <Denoter did="d14" type="movement">返回</Denoter>
+                    <Location lid="l14" type="destination">横滨</Location>
+                </Event>，并于
+                <Event eid="e15">
+                    <Time tid="t15" type="relTime">2月3日晚间</Time>开始接受
+                    <Participant sid="s15" type="agent">日本厚生劳动省</Participant>的
+                    <Denoter did="d15" type="operation">检疫</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e16">
+                    <Time tid="t16" type="absTime">2020年2月5日</Time>，
+                    <Object sid="s16" type="agent">邮轮</Object>
+                    <Means mid="m16" type="method">应日本政府的相关要求开始了为期14天的</Means>
+                    <Denoter did="d16" type="stateChange">隔离</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e17">
+                    <Time tid="t17" type="absTime">2020年2月7日</Time>，
+                    <Participant sid="s17" type="agent">日本厚生劳动省</Participant>
+                    <Denoter did="d17" type="statement">发布</Denoter>“钻石公主”号上新确认感染新型冠状病毒的
+                    <Object oid="o17" type="recipient">41人的国籍</Object>
+                </Event>，其中21名为日本人
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e18">
+                    <Time tid="t18" type="absTime">2020年2月19日</Time>，在海上隔离了14天的“钻石公主”号邮轮
+                    <Participant sid="s18" type="agent">滞留乘客</Participant>正式开始
+                    <Denoter did="d18" type="movement">下船</Denoter>
+                </Event>，
+                <Event eid="e19">
+                    <Time tid="t19" type="relTime">当日</Time>
+                    <Participant sid="s19" type="agent">约有500名乘客</Participant>
+                    <Denoter did="d19" type="movement">下船</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+</Body>
+<eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2"/>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+<eRelation relType="Accompany" accompanya_eid="e3-e5" accompanyb_eid="e6"/>
+<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eid="e13"/>
+<eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/>

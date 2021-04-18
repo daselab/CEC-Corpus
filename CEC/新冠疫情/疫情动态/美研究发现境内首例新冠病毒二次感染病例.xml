@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>美研究发现境内首例新冠病毒二次感染病例</Title>
+    <ReportTime type="absTime">2020-08-31T00:00</ReportTime>人民日报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1" type="thoughtevent">据
+                    <Participant sid="s1" type="agent">美国《纽约时报》</Participant>
+                    <Denoter did="d1" type="statement">报道</Denoter>
+                </Event>，
+                <Event eid="e2">美国内华达州的一项
+                    <Object sid="s2">研究</Object>
+                    <Denoter did="d2" type="perception">发现</Denoter>了
+                    <Location lid="l2">美国境内</Location>
+                </Event>，
+                <Event eid="e3">
+                    <Object oid="o3">首例新冠病毒</Object>
+                    <Denoter did="d3" type="stateChange">二次感染</Denoter>
+                    <Participant sid="s3" type="agent">病例</Participant>
+                </Event>
+                <Event eid="e4">同时这也是
+                    <Location lid="l4">世界上</Location>已知的首例
+                    <Denoter did="d4" type="stateChange">导致严重症状</Denoter>的
+                </Event>
+                <Event eid="e5">
+                    <Object oid="o5">新冠病毒</Object>
+                    <Denoter did="d5" type="stateChange">二次感染</Denoter>
+                    <Participant sid="s5" type="agent">病例</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6" type="Thoughtevent">
+                    <Participant sid="s6" type="agent">研究人员</Participant>
+                    <Denoter did="d6" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e7" type="Thoughtevent">病毒的
+                    <Object sid="s7">基因测序</Object>
+                    <Denoter did="d7" type="statement">表明</Denoter>
+                </Event>
+                <Event eid="e8">该
+                    <Participant sid="s8" type="agent">患者</Participant>
+                    <Denoter did="d8" type="stateChange">感染</Denoter>了
+                    <Object oid="o8">稍有不同的新冠病毒毒株</Object>
+                </Event>，
+                <Event eid="e9" type="Polarity-negative ">
+                    <Time tid="t9" type="relTime">目前</Time>
+                    <Denoter did="d9" type="stateChange">尚不清楚</Denoter>导致其再次感染的
+                    <Object oid="o9">原因</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e10" type="Thoughtevent">
+                    <Location lid="l10">内华达州</Location>公共卫生实验室主任
+                    <Participant sid="s10" type="agent">马克·潘多里</Participant>
+                    <Denoter did="d10" type="statement">强调</Denoter>
+                </Event>，新冠病毒二次感染情况很少见，
+                <Event eid="e11">这是
+                    <Time tid="t11" type="relTime">迄今为止</Time>在
+                    <Location lid="l11">美国近600万感染病例中</Location>
+                    <Denoter did="d11" type="perception">发现</Denoter>的
+                    <Participant oid="o11" type="recipient">第一例</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12">
+                    <Time tid="t12" type="relTime">此前</Time>，
+                    <Location lid="l12">全球</Location>共
+                    <Denoter did="d12" type="statement">报告</Denoter>了
+                    <Participant oid="o12" type="recipient">3例</Participant>
+                </Event>
+                <Event eid="e13">
+                    <Object oid="o13">新冠病毒</Object>
+                    <Denoter did="d13" type="stateChange">二次感染</Denoter?>
+                    <Participant sid="s13" type="agent">病例</Participant>
+                </Event>，其中一例在中国香港，两例在欧洲。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e4"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e9"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e9"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eid="e11"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eid="e13"/>
+    <eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e3"/>
+</Body>

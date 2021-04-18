@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>武汉将建11座方舱医院</Title>
+    <ReportTime type="absTime">2020-02-04T00:00</ReportTime>每日经济新闻
+    <Content>
+        <Paragraph>
+            <Sentence>为
+                <Event eid="e1">
+                    <Denoter did="d1" type="operation">缓解</Denoter>
+                    <Object oid="o1" type="recipient">病床紧张</Object>
+                </Event>，2月3日晚，
+                <Event eid="e2">
+                    <Location lid="l2">武汉市</Location>宣布将
+                    <Denoter did="d2" type="operation">建设</Denoter>
+                    <Object oid="o2,o3" type="recipient">3处“方舱医院”</Object>
+                </Event>，分别
+                <Event eid="e3">
+                    <Denoter did="d3" type="operation">位于</Denoter>
+                    <Location lid="l3">洪山体育馆</Location>、
+                    <Location lid="l4">武汉客厅</Location>、
+                    <Location lid="l5">武汉国际会展中心</Location>
+                </Event>，以
+                <Event eid="e4">
+                    <Denoter did="d4" type="operation">收治</Denoter>
+                    <Participant oid="o4" type="recipient">新型冠状病毒感染的肺炎轻症患者</Participant>
+                </Event>为主
+            </Sentence>。
+            <Sentence>另据武汉市各区指挥部消息，2月4日，汉阳、江岸、硚口、洪山、武汉开发区、东湖高新区、江夏区、黄陂区等城区将再
+                <Event eid="e5">
+                    <Denoter did="d5" type="operation">建</Denoter>
+                    <Object oid="o5" type="recipient">8座“方舱医院”</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">
+                    <Object oid="o6" type="recipient">方舱医院</Object>
+                    <Denoter did="d6" type="operation">建设</Denoter>进展
+                </Event>如何
+            </Sentence>？
+            <Sentence>
+                <Event eid="e7">
+                    <Time tid="t7" type="relTime">2月4日上午</Time>，
+                    <Participant sid="s7" type="agent">《每日经济新闻》记者</Participant>来到
+                    <Object oid="o7" type="recipient">3处“方舱医院”之一的武汉国际会展中心</Object>
+                    <Denoter did="d7" type="operation">实地探访</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e8">
+                    <Participant sid="s8" type="agent">记者</Participant>
+                    <Denoter did="d8" type="operation">了解到</Denoter>
+                </Event>，武汉国际会展中心分两层共有近1600张床位
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9">
+                    <Participant sid="s9" type="agent">大量工人</Participant>
+                    <Means mid="m9" type="method">连夜</Means>
+                    <Denoter did="d9" type="operation">施工</Denoter>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">
+                    <Object sid="s10" type="agent">武汉国际会展中心</Object>
+                    <Denoter did="d10" type="operation">位于</Denoter>
+                    <Location lid="l10">武汉市汉口解放大道</Location>
+                </Event>，
+                <Event eid="e11">因为疫情已经于
+                    <Time tid="t11" type="absTime">2020年1月23日</Time>起
+                    <Denoter did="d11" type="operation">暂停营业</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12">
+                    <Time tid="t12" type="relTime">2月4日上午</Time>，
+                    <Participant sid="s12" type="agent">《每日经济新闻》记者</Participant>在
+                    <Location lid="l12">武汉国际会展中心</Location>
+                    <Denoter did="d12" type="operation">看到</Denoter>
+                </Event>，
+                <Event eid="e13">现场
+                    <Denoter did="d13" type="operation">堆放</Denoter>了
+                    <Object oid="o13" type="recipient">很多板材、枕头和棉被等物资</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e14">
+                    <Object oid="o14" type="recipient">部分床位</Object>已经
+                    <Denoter did="d14" type="operation">搭建完成</Denoter>
+                </Event>，被褥也已经就位，但还有
+                <Event eid="e15">
+                    <Object oid="o15" type="recipient">很多床位</Object>
+                    <Denoter did="d15" type="operation">正在搭建</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>在
+                <Event eid="e16">
+                    <Location lid="l16">武汉国际会展中心</Location>
+                    <Denoter did="d16" type="operation">改建</Denoter>现场
+                </Event>，
+                <Event eid="e17">
+                    <Participant sid="s17" type="agent">武汉地产集团总经理助理冯光乐</Participant>
+                    <Time tid="t17" type="relTime">接受《每日经济新闻》记者采访时</Time>
+                    <Denoter did="d17" type="statement">介绍</Denoter>
+                </Event>，
+                <Event eid="e18">
+                    <Object sid="s18" type="agent">武汉地产集团</Object>参与了
+                    <Object oid="o18" type="recipient">洪山体育馆、武汉客厅、武汉国际会展中心等三个方舱医院</Object>的
+                    <Denoter did="d18" type="operation">建设</Denoter>
+                </Event>，包括
+                <Event eid="e19">
+                    <Denoter did="d19" type="operation">改建设计</Denoter>
+                </Event>及
+                <Event eid="e20">
+                    <Object oid="o20" type="recipient">方舱材料</Object>
+                    <Denoter did="d20" type="operation">采购</Denoter>
+                </Event>等均由武汉地产集团完成
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e21">
+                    <Participant sid="s21" type="agent">冯光乐</Participant>原本在
+                    <Denoter did="d21">参与</Denoter>
+                    <Object oid="o21" type="recipient">雷神山医院的建设</Object>
+                </Event>，直至
+                <Event eid="e22">
+                    <Time tid="t22" type="relTime">2月3日</Time>调来
+                    <Denoter did="d22" type="operation">参与</Denoter>
+                    <Object oid="o22" type="recipient">方舱医院的改造</Object>
+                </Event>
+            </Sentence>。“
+            <Sentence>我是大年初一早上到雷神山医院的，之前本来一直是在
+                <Event eid="e23">参加
+                    <Object oid="o23" type="recipient">雷神山医院</Object>的
+                    <Denoter did="d23" type="operation">建设管理</Denoter>
+                </Event>
+            </Sentence>。”
+            <Sentence>
+                <Event eid="e24">
+                    <Participant sid="s24" type="agent">冯光乐</Participant>
+                    <Denoter did="d24" type="statement">介绍</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>另外，
+                <Event eid="e25">
+                    <Location lid="l25">武汉市</Location>
+                    <Location lid="l25">江汉区</Location>
+                    <Participant sid="s25" type="agent">有关工作人员</Participant>正在现场快速
+                    <Denoter did="d25" type="operation">搭建</Denoter>
+                    <Object oid="o25" type="recipient">床位</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e26">
+                    <Object sid="s26" type="agent">武汉地铁集团</Object>于
+                    <Time tid="t26" type="relTime">2月4日早上</Time>
+                    <Denoter did="d26" type="movement">赶来</Denoter>
+                </Event>
+                <Event eid="e27">
+                    <Denoter did="d27" type="operation">支援</Denoter>
+                    <Object oid="o27" type="recipient">武汉地产</Object>
+                </Event>
+                <Event eid="e28">
+                    <Denoter did="d28" type="operation">搭建</Denoter>
+                    <Object oid="o28" type="recipient">方舱医院</Object>
+                </Event>
+            </Sentence>。“
+            <Sentence>现场（施工工人）至少有500人吧</Sentence>。”
+            <Sentence>
+                <Event eid="e29">
+                    <Participant sid="s29" type="agent">冯光乐</Participant>
+                    <Denoter did="d29" type="statement">说</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e30">
+                    <Participant sid="s30" type="agent">记者</Participant>现场
+                    <Denoter did="d30" type="perception">看到</Denoter>
+                </Event>，
+                <Event eid="e31">
+                    <Location lid="l31">武汉国际会展中心</Location>
+                    <Denoter did="d31" type="operation">参与搭建</Denoter>
+                    <Object oid="o31" type="recipient">床位</Object>的也有
+                    <Participant sid="s31">大量环卫工人</Participant>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e32">很多
+                    <Participant sid="s32,s33,s34" type="agent">环卫工人</Participant>
+                    <Time tid="t32" type="relTime">2月3日晚间七八点</Time>已经
+                    <Denoter did="d32" type="movement">进入</Denoter>
+                    <Object oid="o32" type="recipient">场地</Object>
+                </Event>，
+                <Event eid="e33">
+                    <Denoter did="d33" type="operation">完成</Denoter>了
+                    <Object oid="o33" type="recipient">场地的清扫工作</Object>之后
+                </Event>，
+                <Event eid="e34">
+                    <Time tid="t34" type="relTime">2月4日早上</Time>开始
+                    <Denoter did="d34" type="operation">负责</Denoter>
+                    <Object oid="o34" type="recipient">床被的航运和床铺的搭建</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>另外，
+                <Event eid="e35">
+                    <Location lid="l35">武汉市</Location>
+                    <Participant sid="s35" type="agent">城管部门方面工作人员</Participant>也
+                    <Location lid="l35">在现场</Location>快速
+                    <Denoter did="d35" type="operation">搭建</Denoter>
+                    <Object oid="o35" type="recipient">床位</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>50张床位一个单元</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>根据
+                <Event eid="e36">此前
+                    <Participant sid="s36" type="agent">媒体</Participant>
+                    <Denoter did="d36" type="statement">报道</Denoter>
+                </Event>，
+                <Event eid="e37">
+                    <Object sid="s37" type="agent">武汉国际会展中心</Object>将
+                    <Denoter did="d37" type="operation">改造</Denoter>成为
+                    <Object oid="o37" type="recipient">1000张床位的“方舱医院”</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>但据
+                <Event eid="e38">
+                    <Participant sid="s38">记者</Participant>
+                    <Time tid="t38" type="relTime">2月4日上午</Time>
+                    <Denoter did="d38" type="perception">了解</Denoter>
+                </Event>，
+                <Event eid="e39">
+                    <Object sid="s39" type="agent">武汉国际会展中心</Object>分两层共
+                    <Denoter did="d39" type="stateChange">有</Denoter>
+                    <Object oid="o39" type="recipient">近1600张床位</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>“
+            <Sentence>
+                <Event eid="e40">
+                    <Time tid="t40" type="relTime">今天（2月4日）凌晨三点钟</Time>就
+                    <Denoter did="d40" type="operation">开始搭建</Denoter>了
+                </Event>
+            </Sentence>。”
+            <Sentence>
+                <Event eid="e41">
+                    <Participant sid="s41" type="agent">冯光乐</Participant>
+                    <Denoter did="d41" type="statement">介绍</Denoter>
+                </Event>，“
+                <Event eid="e42">现在
+                    <Object oid="o42" type="recipient">一楼的1100张床位</Object>基本上
+                    <Denoter did="d42" type="operation">搭建</Denoter>完了
+                </Event>，
+                <Event eid="e43">
+                    <Object oid="o43" type="recipient">二楼的500张床位</Object>正在
+                    <Denoter did="d43" type="operation">搭</Denoter>
+                </Event>
+            </Sentence>。”
+            <Sentence>根据规划，
+                <Event eid="e44">
+                    <Object oid="o44" type="recipient">武汉国际会展中心病床</Object>将
+                    <Means mid="m44" type="method">按照单元</Means>来
+                    <Denoter did="d44" type="operation">分开管理</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>按照
+                <Event eid="e45">
+                    <Participant sid="s45" type="agent">一医一护</Participant>
+                    <Denoter did="d45" type="operation">管理</Denoter>
+                    <Object oid="o45" type="recipient">一个单元</Object>
+                </Event>，
+                <Event eid="e46">
+                    <Object sid="s46" type="agent">每个单元</Object>
+                    <Denoter did="d46" type="operation">设置</Denoter>
+                    <Object oid="o46" type="recipient">50张床位</Object>
+                </Event>，而床位与床位之间也有隔板
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>“
+            <Sentence>
+                <Event eid="e47">我们力争
+                    <Time tid="t47" type="relTime">今天（2月4日）</Time>
+                    <Denoter did="d47" type="operation">搞完</Denoter>
+                </Event>
+            </Sentence>。”
+            <Sentence>不过，
+                <Event eid="e48">
+                    <Participant sid="s48" type="agent">冯光乐</Participant>也
+                    <Denoter did="d48" type="statement">介绍</Denoter>
+                </Event>，
+                <Event eid="e49">
+                    <Time tid="t49" type="relTime">目前</Time>
+                    <Object sid="s49" type="agent">进度</Object>仍在不停地
+                    <Denoter did="d49" type="stateChange">变化</Denoter>
+                </Event>，包括
+                <Event eid="e50">
+                    <Object oid="o50" type="recipient">医护区的桌子和运输</Object>还在
+                    <Denoter did="d50" type="operation">调度</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e51">
+                    <Participant sid="s51" type="agent">中国工程院副院长、中国医学科学院院长王辰</Participant>曾经
+                    <Denoter did="d51" type="statement">表示</Denoter>
+                </Event>，“方舱医院”就像一个大的集体宿舍，
+                <Event eid="e52">
+                    <Participant sid="s52" type="agent">建设者</Participant>要
+                    <Denoter did="d52" type="operation">做好</Denoter>
+                    <Object oid="o52" type="recipient">男女分区</Object>
+                </Event>，
+                <Event eid="e53">
+                    <Denoter did="d53" type="operation">重视</Denoter>
+                    <Object oid="o53" type="recipient">洗漱卫生问题</Object>
+                </Event>，
+                <Event eid="e54">
+                    <Denoter did="d54" type="operation">做好</Denoter>
+                    <Object oid="o54" type="recipient">隔离分区</Object>
+                </Event>及
+                <Event eid="e55">
+                    <Object oid="o55" type="recipient">医疗废水废物</Object>
+                    <Denoter did="d55"type="operation" >处理</Denoter>
+                </Event>，“尤其要
+                <Event eid="e56">
+                    <Denoter did="d56" type="operation">保持</Denoter>
+                    <Object oid="o56" type="recipient">重症转诊的渠道畅通</Object>
+                </Event>”
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e57">
+                    <Time tid="t57" type="relTime">2月4日晚间</Time>，为进一步
+                    <Denoter did="d57" type="operation">了解</Denoter>
+                    <Object oid="o57" type="recipient">方舱医院施工进度</Object>
+                </Event>，
+                <Event eid="e58">
+                    <Participant sid="s58" type="agent">《每日经济新闻》记者</Participant>再次
+                    <Denoter did="d58" type="movement">来到</Denoter>
+                    <Object oid="o58" type="recipient">武汉国际会展中心</Object>
+                </Event>，
+                <Event eid="e59">现场仍在紧张
+                    <Denoter did="d59" type="operation">施工</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+    <eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+    <eRelation relType="Follow" bevent_eid="e2" aevent_eid="e4"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eid="e7-e35"/>
+    <eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>
+    <eRelation relType="Composite" fevent_eid="e18" sevent_eids="e19-e20"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eid="e18-e20"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eid="e7-e35"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e24" thoughtcontent_eid="e23"/>
+    <eRelation relType="Composite" fevent_eid="e26" sevent_eids="e27-e28"/>
+    <eRelation relType="Follow" bevent_eid="e27" aevent_eid="e28"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e30" thoughtcontent_eid="e31-e35"/>
+    <eRelation relType="Composite" fevent_eid="e31" sevent_eids="e32-e34"/>
+    <eRelation relType="Follow" bevent_eid="e32" aevent_eid="e33"/>
+    <eRelation relType="Follow" bevent_eid="e33" aevent_eid="e34"/>
+    <eRelation relType="Accompany" accompanya_eid="e37" accompanyb_eid="e39"/>
+    <eRelation relType="Composite" fevent_eid="e44" sevent_eids="e45-e46"/>
+    <eRelation relType="Accompany" accompanya_eid="e52" accompanyb_eid="e53"/>
+    <eRelation relType="Accompany" accompanya_eid="e54" accompanyb_eid="e55"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e36" thoughtcontent_eid="e37-e39"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e41" thoughtcontent_eid="e40-e47"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e48" thoughtcontent_eid="e49-e50"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e51" thoughtcontent_eid="e52-e56"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e57" thoughtcontent_eid="e58-e59"/>
+</Body>

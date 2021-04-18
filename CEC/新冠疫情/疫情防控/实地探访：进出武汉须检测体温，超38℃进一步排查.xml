@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>实地探访：进出武汉须检测体温，超38℃进一步排查</Title>
+    <ReportTime type="absTime">2020-01-21T00:00</ReportTime>人民日报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Object sid="s1">新型冠状病毒疫情</Object>仍在
+                    <Denoter did="d1" type="emergency">持续</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e2">
+                    <Time tid="t2" type="relTime">1月20日</Time>，
+                    <Participant sid="s2" type="agent">记者</Participant>在武
+                    <Location lid="l2">汉高铁站</Location>、
+                    <Location lid="l2">汉口火车站</Location>
+                    <Denoter did="d" type="perception">看到</Denoter>
+                </Event>，
+                <Event eid="e3">
+                    <Location lid="l3">进出站口</Location>均已
+                    <Denoter did="d3" type="action">安装</Denoter>
+                    <Object oid="o3">测温仪</Object>
+                </Event>，
+                <Event eid="e4">
+                    <Denoter did="d4" type="movement">抵离</Denoter>
+                    <Location lid="l4">武汉</Location>
+                </Event>
+                <Event eid="e5">
+                    <Participant sid="s5" type="agent">旅客</Participant>
+                    <Object sid="s5">体温</Object>
+                    <Denoter did="d5" type="stateChange">超38度</Denoter>
+                </Event>
+                <Event eid="e6">须进一步
+                    <Denoter did="d6" type="operation">检测</Denoter>
+                </Event>，
+                <Event eid="e7">
+                    <Location lid="l7">火车站</Location>附近超市
+                    <Object sid="s7">口罩</Object>
+                    <Denoter did="d7" type="stateChange">“脱销”。</Denoter>
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e8">
+                    <Location lid="l8,l9">华南海鲜市场</Location>
+                    <Time tid="t8" type="relTime">24小时</Time>
+                    <Denoter did="d8" type="operation">戒备</Denoter>
+                </Event>，
+                <Event eid="e9" type="Polarity-negative">禁止
+                    <Denoter did="d9" type="movement">随意进出</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">
+                    <Location lid="l10">火车站</Location>
+                    <Denoter did="d10" type="action">配备</Denoter>
+                    <Object oid="o10">测温仪</Object>
+                </Event>
+                <Event eid="e11">重点
+                    <Denoter did="d11" type="operation">监测</Denoter>
+                    <Participant oid="o11" type="recipient">发热旅客</Participant>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12" type="Thoughtevent">
+                    <Time tid="t12" type="relTime">1月19日</Time>，据武汉广播电视台消息，
+                    <Location lid="l12">武汉市</Location>
+                    <Denoter did="d12" type="statement">表示</Denoter>
+                </Event>
+                <Event eid="e13">将
+                    <Denoter did="d13" type="operation">严防</Denoter>
+                    <Object oid="o13">疫情扩散</Object>
+                </Event>，实施
+                <Event eid="e14">
+                    <Denoter did="d14" type="movement">出境离汉</Denoter>
+                    <Participant sid="s14,s15" type="agent">人员</Participant>
+                </Event>
+                <Event eid="e15">
+                    <Denoter did="d15" type="operation">管控</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e16">
+                    <Time tid="t16" type="relTime">1月20日晚间22时</Time>，距离华南海鲜市场不足1公里的
+                    <Location lid="l16">汉口火车站</Location>仍然
+                    <Participant sid="s16" type="agent">人流</Participant>
+                    <Denoter did="d16" type="stateChange">密集</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e17">
+                    <Participant sid="s17" type="agent">记者</Participant>在现场
+                    <Denoter did="d17" type="perception">看到</Denoter>
+                </Event>，
+                <Event eid="e18">汉口火车站地面
+                    <Location lid="l18">南进站口</Location>至少
+                    <Denoter did="d18" type="action">安装</Denoter>有
+                    <Object oid="o18">4台红外线测温仪</Object>
+                </Event>，以
+                <Event eid="e19">
+                    <Denoter did="d19" type="operation">检测</Denoter>
+                    <Participant oid="o19" type="recipient">离汉旅客</Participant>
+                    <Object oid="o19">体温</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e20" type="Thoughtevent">
+                    <Participant sid="s20" type="agent">工作人员</Participant>
+                    <Denoter did="d20" type="statement">告诉</Denoter>
+                    <Participant oid="o20" type="recipient">记者</Participant>
+                </Event>，
+                <Event eid="e21">
+                    <Location lid="l21">火车站进出站口</Location>都会对
+                    <Participant oid="o21" type="recipient">旅客</Participant>进行
+                    <Object oid="o21">体温</Object>
+                    <Denoter did="d21" type="operation">检测</Denoter>
+                </Event>，
+                <Event eid="e22">
+                    <Participant sid="s22" type="agent">旅客</Participant>
+                    <Object sid="s22">体温</Object>
+                    <Denoter did="d22" type="stateChange">超过38摄氏度</Denoter>
+                </Event>
+                <Event eid="e23">将接受
+                    <Denoter did="d23" type="operation">进一步检测</Denoter>，
+                </Event>
+                <Event eid="e24">必要时将
+                    <Denoter did="d24" type="action">通知</Denoter>
+                    <Object oid="o24">医院</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e25">
+                    <Participant sid="s25" type="agent">记者</Participant>在
+                    <Location lid="l25">武汉高铁站</Location>同样
+                    <Denoter did="d25" type="perception">看到</Denoter>
+                </Event>
+                <Event eid="e26">
+                    <Denoter did="d26" type="action">安装</Denoter>有
+                    <Object oid="o26">红外线测温仪</Object>
+                </Event>，
+                <Event eid="e27">
+                    <Denoter did="d27" type="operation">检测</Denoter>
+                    <Location lid="l27">进出站</Location>
+                    <Participant oid="o27" type="recipient">旅客</Participant>
+                    <Object oid="o27">体温</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e28" type="Thoughtevent">据
+                    <Denoter did="d28" type="statement">了解</Denoter>
+                </Event>，
+                <Event eid="e29">
+                    <Time tid="t29" type="relTime">自1月14日</Time>开始，
+                    <Location lid="l29">武汉市</Location>在
+                    <Location lid="l29">机场</Location>、
+                    <Location lid="l29">火车站</Location>、
+                    <Location lid="l29">长途汽车站</Location>、
+                    <Location lid="l29">客运码头</Location>迅速
+                    <Denoter did="d29"type="action">安装</Denoter>
+                    <Object oid="o29">红外线测温仪35台</Object>，
+                </Event>
+                <Event eid="e30">
+                    <Denoter did="d30" type="action">配备</Denoter>
+                    <Object oid="o30">手持红外线测温仪</Object>300余台
+                </Event>，
+                <Event eid="e31">并在陆续
+                    <Denoter did="d31" type="stateChange">加大</Denoter>
+                    <Object oid="o31">配备力度</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e32">
+                    <Location lid="l32">汉口火车站周边</Location>
+                    <Object sid="s32">口罩销量</Object>
+                    <Denoter did="d32" type="stateChange">剧增</Denoter>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e33">
+                    <Time tid="t33" type="relTime">1月20日</Time>，
+                    <Participant sid="s33" type="agent">记者</Participant>
+                    <Denoter did="d33" type="movement">探访</Denoter>
+                    <Location lid="l33">汉口火车站周边多家超市</Location>
+                </Event>
+                <Event eid="e34" type="Thoughtevent">
+                    <Denoter did="d34" type="statement">获悉</Denoter>
+                </Event>，
+                <Event eid="e35">一次性
+                    <Object sid="s35">口罩</Object>
+                    <Time tid="t35" type="timeInterval">短时间内</Time>
+                    <Denoter did="d35" type="stateChange">销量剧增</Denoter>
+                </Event>，
+                <Event eid="e36">购买者多为
+                    <Denoter did="d36" type="movement">抵达</Denoter>
+                    <Location lid="l36">武汉</Location>的
+                    <Participant sid="s36" type="agent">外地旅客</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e37" type="Thoughtevent">一家超市
+                    <Participant sid="s37" type="agent">老板</Participant>向
+                    <Participant oid="o37" type="recipient">记者</Participant>
+                    <Denoter did="d37" type="statement">展示</Denoter>了
+                </Event>
+                <Event eid="e38">店内
+                    <Denoter did="d38" type="operation">售卖</Denoter>的
+                    <Object oid="o38">普通一次性口罩</Object>和
+                    <Object oid="o38">棉质口罩</Object>，
+                </Event>“一次性口罩 8块钱10个，
+                <Event eid="e39">
+                    <Time tid="t39" type="timeInterval">今天一天</Time>就
+                    <Denoter did="d39" type="action">卖</Denoter>了
+                    <Object oid="o39">200多块钱</Object>。
+                </Event>
+            </Sentence>”
+            <Sentence>
+                <Event eid="e40" type="Thoughtevent">
+                    <Participant sid="s40" type="agent">他</Participant>
+                    <Denoter did="d40" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e41" type="Thoughtevent">
+                    <Time tid="t41" type="relTime">这两天</Time>
+                    <Participant sid="s41" type="agent">新闻</Participant>
+                    <Denoter did="d41" type="statement">报道</Denoter>有很多
+                    <Participant oid="o41" type="recipient">确诊病例</Participant>
+                </Event>，
+                <Event eid="e42">来
+                    <Denoter did="d42" type="action">买</Denoter>
+                    <Object oid="o42">口罩</Object>的
+                    <Participant sid="s42" type="agent">人</Participant>
+                </Event>多了不少。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e43" type="Thoughtevent">另一位
+                    <Participant sid="s43" type="agent">超市老板</Participant>
+                    <Denoter did="d43" type="statement">告诉</Denoter>
+                    <Participant oid="o43" type="recipient">记者</Participant>
+                </Event>，
+                <Event eid="e44">
+                    <Object oid="o44">一次性口罩</Object>
+                    <Time tid="t44" type="timeInterval">一天</Time>就
+                    <Denoter did="d44" type="action">卖</Denoter>了
+                    <Object oid="o44">100多个</Object>
+                </Event>，
+                <Event eid="e45">
+                    <Denoter did="d45" type="action">购买</Denoter>者也有
+                    <Participant sid="s45" type="agent">当地住户</Participant>
+                </Event>，
+                <Event eid="e46">“
+                    <Location lid="l46" type="origin">汉口火车站</Location>
+                    <Denoter did="d46" type="movement">距离</Denoter>
+                    <Location lid="l46" type="destination">华南海鲜市场</Location>很近
+                </Event>，我们也怕会传染。
+            </Sentence>”
+            <Sentence>在位于火车站进站口旁的一家小卖部窗口，
+                <Event eid="e47">
+                    <Participant sid="s47" type="agent">记者</Participant>
+                    <Denoter did="d47" type="action">购买</Denoter>到一袋
+                    <Object oid="o47">一次性医用口罩</Object>
+                </Event>，
+                <Event eid="e48">“
+                    <Denoter did="d48" type="action">进</Denoter>了
+                    <Object oid="o48">十几包</Object>
+                </Event>
+                <Event eid="e49">
+                    <Time tid="t49" type="relTime">今天</Time>都
+                    <Denoter did="d49" type="stateChange">卖完</Denoter>了
+                </Event>，
+                <Event eid="e50" type="Polarity-negative">
+                    <Time tid="t50" type="relTime">现在</Time>都
+                    <Denoter did="d50" type="action">进</Denoter>不到
+                    <Object oid="o50">货</Object>了
+                </Event>。
+            </Sentence>”
+            <Sentence>
+                <Event eid="e51" type="Thoughtevent">
+                    <Participant sid="s51" type="agent">老板</Participant>
+                    <Denoter did="d51" type="statement">说</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>但在汉口火车站附近，
+                <Event eid="e52">外出
+                    <Denoter did="d52" type="action">佩戴</Denoter>
+                    <Object oid="o52">口罩</Object>的
+                    <Location lid="l52">武汉</Location>
+                    <Participant sid="s52" type="agent">市民</Participant>并不多
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e53" type="Thoughtevent">一位就读于武汉文华学院的
+                    <Participant sid="s53" type="agent">女大学生</Participant>
+                    <Denoter did="d53" type="statement">告诉</Denoter>
+                    <Participant oid="o53" type="recipient">记者</Participant>
+                </Event>，
+                <Event eid="e54">她刚从
+                    <Location lid="l54" type="origin">长沙</Location>
+                    <Denoter did="d54" type="action">参加</Denoter>完一个
+                    <Object oid="o54">活动</Object>
+                </Event>
+                <Event eid="e55">
+                    <Denoter did="d55" type="movement">返回</Denoter>
+                    <Location lid="l55" type="destination">武汉</Location>
+                </Event>，
+                <Event eid="e56" type="Polarity-negative">但并未
+                    <Denoter did="d56" type="action">携带</Denoter>
+                    <Object oid="o56">口罩</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>“
+                <Event eid="e57" type="Thoughtevent">
+                    <Time tid="t57" type="relTime">之前</Time>学校
+                    <Participant sid="s57" type="agent">辅导员</Participant>有
+                    <Denoter did="d57" type="statement">提醒</Denoter>
+                    <Participant oid="o57" type="recipient">我们</Participant>
+                </Event>
+                <Event eid="e58" type="Polarity-negative">尽量不要
+                    <Denoter did="d58" type="movement">去</Denoter>
+                    <Location lid="l58">人多的地方</Location>
+                </Event>，
+                <Event eid="e59">
+                    <Denoter did="d59" type="movement">出门</Denoter>
+                </Event>
+                <Event eid="e60">要
+                    <Denoter did="d60" type="action">戴</Denoter>
+                    <Object oid="o60">口罩</Object>
+                </Event>，
+                <Event eid="e61">但
+                    <Participant sid="s61" type="agent">大家</Participant>
+                    <Denoter did="d61" type="perception">感觉</Denoter>
+                    <Object oid="o61">没那么严重</Object>
+                </Event>，
+                <Event eid="e62">
+                    <Denoter did="d62" type="movement">出门</Denoter>
+                </Event>
+                <Event eid="e63">也不是每次都
+                    <Denoter did="d63" type="action">戴</Denoter>
+                    <Object oid="o63">口罩</Object>。
+                </Event>”
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e64" type="Thoughtevent">
+                    <Time tid="t64" type="relTime">1月20日晚间</Time>，国家卫健委高级别专家组组长、中国工程院院士
+                    <Participant sid="s64" type="agent">钟南山</Participant>
+                    <Denoter did="d64" type="statement">表示</Denoter>，
+                </Event>
+                <Event eid="e65">此次新型冠状病毒感染的
+                    <Object sid="s65">肺炎</Object>存在
+                    <Denoter did="d65" type="movement">人传人</Denoter>的现象。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e66" type="Thoughtevent">
+                    <Participant sid="s66" type="agent">记者</Participant>
+                    <Denoter did="d66" type="statement">了解</Denoter>到
+                </Event>，
+                <Event eid="e67" type="Thoughtevent">某
+                    <Participant sid="s67" type="agent">生产商</Participant>内部已
+                    <Denoter did="d67" type="statement">明确</Denoter>
+                </Event>，
+                <Event eid="e68">其所生产的
+                    <Object oid="o68">医用防护口罩</Object>
+                    <Denoter did="d68" type="action">优先供应</Denoter>给
+                    <Location lid="l68">武汉</Location>
+                </Event>，
+                <Event eid="e69">多地
+                    <Participant sid="s69" type="agent">经销商</Participant>已经把
+                    <Object oid="o69">口罩</Object>库存
+                    <Denoter did="d69" type="movement">调往</Denoter>
+                    <Location lid="l69">武汉</Location>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e70">
+                    <Location lid="l70">华南海鲜市场</Location>
+                    <Time tid="t70" type="relTime">24小时</Time>
+                    <Denoter did="d70" type="operation">戒备</Denoter>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e71">从
+                    <Location lid="l71" type="origin">汉口火车站</Location>
+                    <Denoter did="d71" type="movement">步行</Denoter>
+                    <Time tid="t71" type="timeInterval">10分钟</Time>
+                </Event>
+                <Event eid="e72">，就可以
+                    <Denoter did="d72" type="movement">抵达</Denoter>
+                    <Location lid="l72" type="destination">华南海鲜市场</Location>
+                </Event>，这里是武汉最大的海鲜市场，也是华中地区规模最大的海鲜市场。
+            </Sentence>
+            <Sentence>
+                <Event eid="e73">
+                    <Participant oid="o73" type="recipient">首例新型冠状病毒肺炎感染者</Participant>就在此
+                    <Denoter did="d73" type="perception">发现</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e74">自
+                    <Time tid="t74" type="relTime">1月1日</Time>
+                    <Denoter did="d74" type="stateChange">休业</Denoter>起
+                </Event>，
+                <Event eid="e75">
+                    <Location lid="l75">华南海鲜市场</Location>仍旧处于
+                    <Denoter did="d75" type="stateChange">关闭</Denoter>状态
+                </Event>，东
+                <Event eid="e76">区和西区全部
+                    <Participant sid="s76" type="agent">商户</Participant>已
+                    <Denoter did="d76" type="stateChange">关门停业</Denoter>
+                </Event>，
+                <Event eid="e77">
+                    <Location lid="l77">市场外围</Location>
+                    <Denoter did="d77" type="action">拉</Denoter>有
+                    <Object oid="o77">警戒线</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e78">
+                    <Time tid="t78" type="relTime">1月20日晚间23时</Time>，在市
+                    <Location lid="l78">场西区入口处的帐篷内</Location>，多名
+                    <Participant sid="s78" type="agent">保安</Participant>在此
+                    <Time tid="t78" type="relTime">24小时</Time>
+                    <Denoter did="d78" type="operation">值班</Denoter>
+                </Event>
+                <Event eid="e79">，
+                    <Location lid="l79">西区出口处</Location>同样
+                    <Denoter did="d79" type="action">设置</Denoter>有
+                    <Object oid="o79">安保措施</Object>
+                </Event>，
+                <Event eid="e80">
+                    <Denoter did="d80" type="action">禁止</Denoter>
+                    <Participant oid="o80" type="agent">任何人</Participant>
+                </Event>
+                <Event eid="e81">
+                    <Denoter did="d81" type="movement">进出</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e82" type="Thoughtevent">
+                    <Participant sid="s82" type="agent">记者</Participant>
+                    <Denoter did="d82" type="statement">了解</Denoter>到
+                </Event>，
+                <Event eid="e83">至少有
+                    <Participant sid="s83" type="agent">30名保安人员</Participant>彻夜
+                    <Denoter did="d83" type="operation">值守</Denoter>
+                    <Location lid="l83">市场东区</Location>和
+                    <Location lid="l83">西区</Location>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e84" type="Thoughtevent">
+                    <Location lid="l84">附近一家早餐店</Location>的
+                    <Participant sid="s84" type="agent">老板</Participant>
+                    <Denoter did="d84" type="statement">告诉</Denoter>
+                    <Participant oid="o84" type="recipient">记者</Participant>
+                </Event>，
+                <Event eid="e85">
+                    <Object sid="s85">市场</Object>
+                    <Denoter did="d85" type="stateChange">休业</Denoter>后
+                </Event>
+                <Event eid="e86">不少
+                    <Participant sid="s86" type="agent">商户</Participant>的海鲜等
+                    <Object sid="s86">货品</Object>仍
+                    <Denoter did="d86" type="movement">留在</Denoter>
+                    <Location lid="l86">店内</Location>
+                </Event>，
+                <Event eid="e87">
+                    <Object oid="o87">有些</Object>已经被
+                    <Denoter did="d87" type="action">处理</Denoter>
+                </Event>，
+                <Event eid="e88">时常有
+                    <Participant sid="s88" type="agent">疾控部门人员</Participant>来
+                    <Location lid="l88">市场</Location>
+                    <Denoter did="d88" type="action">消杀</Denoter>
+                </Event>，
+                <Event eid="e89">
+                    <Time tid="t89" type="relTime">当天下午</Time>就刚刚进行过一次
+                    <Denoter did="d89" type="action">消毒</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e7"/>
+    <eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+    <eRelation relType="Causal" cause_eid="e1" effect_eid="e7"/>
+    <eRelation relType="Causal" cause_eid="e1" effect_eid="e8"/>
+    <eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+    <eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eids="e13-e15"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eids="e18-e19"/>
+    <eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eids="e21-e24"/>
+    <eRelation relType="Follow" bevent_eid="e22" aevent_eid="e23"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e25" thoughtcontent_eids="e26-e27"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e28" thoughtcontent_eids="e29-e31"/>
+    <eRelation relType="Follow" bevent_eid="e33" aevent_eid="e34"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e34" thoughtcontent_eids="e35-36"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e37" thoughtcontent_eids="e38-e39"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e40" thoughtcontent_eids="e41-e42"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e43" thoughtcontent_eids="e44-e46"/>
+    <eRelation relType="Follow" bevent_eid="e48" aevent_eid="e49"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e51" thoughtcontent_eids="e48-e50"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e53" thoughtcontent_eids="e54-56"/>
+    <eRelation relType="Follow" bevent_eid="e54" aevent_eid="e55"/>
+    <eRelation relType="Accompany" accompanya_eid="e55" accompanyb_eid="e56"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e56" thoughtcontent_eids="e58-e63"/>
+    <eRelation relType="Accompany" accompanya_eid="e59" accompanyb_eid="e60"/>
+    <eRelation relType="Accompany" accompanya_eid="e62" accompanyb_eid="e63"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e64" thoughtcontent_eid="e65"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e66" thoughtcontent_eids="e67-e69"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e67" thoughtcontent_eid="e68"/>
+    <eRelation relType="Follow" bevent_eid="e71" aevent_eid="e72"/>
+    <eRelation relType="Follow" bevent_eid="e74" aevent_eids="e75-e77"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e82" thoughtcontent_eid="e83"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e84" thoughtcontent_eids="e85-e89"/>
+</Body>

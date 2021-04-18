@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>欧盟封盟令延至6月15日，继续限制赴欧“非必要旅行”</Title>
+    <ReportTime type="absTime">2020-05-09T00:00</ReportTime>
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="absTime">2020年5月8日</Time>，
+                    <Participant sid="s1" type="agent">欧盟</Participant>
+                    <Denoter did="d1" type="statement">宣布</Denoter>
+                </Event>
+                <Event eid="e2">将
+                    <Object oid="o2">“封盟令”</Object>
+                    <Denoter did="d2" type="operation">延</Denoter>
+                </Event>
+                <Event eid="e3">
+                    <Denoter did="d3" type="stateChange">至</Denoter>
+                    <Time tid="t3" type="relTime">6月15日</Time>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e4">由于
+                    <Object sid="s4">新冠肺炎疫情</Object>在
+                    <Location lid="l4">欧洲</Location>及
+                    <Location lid="l4">全球</Location>仍
+                    <Denoter did="d4" type="stateChange">未企稳</Denoter>，
+                </Event>
+                <Event eid="e5">
+                    <Participant sid="s5" type="agent">欧盟</Participant>决定继续
+                    <Denoter did="d5" type="operation">限制</Denoter>
+                    <Object oid="o5">赴欧“非必要旅行”</Object>，
+                </Event>
+                <Event eid="e6">将
+                    <Time tid="t6" type="relTime">今年3月中旬</Time>开始
+                    <Denoter did="d6" type="operation">实施</Denoter>的
+                    <Object oid="o6">“封盟令”</Object>
+                </Event>
+                <Event eid="e7">
+                    <Denoter did="d7" type="stateChange">延至</Denoter>
+                    <Object oid="o7">6月15日</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e8">
+                    <Time tid="t8" type="timeInterval">截止当地时间5月8日17时，</Time>
+                    <Location lid="l8,l9,l10,l11,l12">英国</Location>
+                    <Denoter did="d8" type="stateChange">单日新增</Denoter>
+                    <Participant oid="o8" type="recipient">4649例确诊病例</Participant>，
+                </Event>
+                <Event eid="e9">
+                    <Denoter did="d9" type="stateChange">累计</Denoter>达
+                    <Participant oid="o9" type="recipient">211364例确诊病例</Participant>，
+                </Event>
+                <Event eid="e10">
+                    <Denoter did="d10" type="stateChange">单日新增</Denoter>
+                    <Participant oid="o10" type="recipient">626例死亡病例</Participant>，
+                </Event>
+                <Event eid="e11">
+                    <Denoter did="d11" type="operation">累计</Denoter>
+                    <Participant oid="o11" type="recipient">31214例死亡病例</Participant>。
+                </Event>
+                <Event eid="e12">新增的死亡病例中，有
+                    <Participant sid="s12" type="agent">一名6周大的婴儿</Participant>，是英国
+                    <Time tid="t12" type="relTime">目前</Time>
+                    <Denoter did="d12" type="stateChange">年龄最小</Denoter>的
+                    <Participant oid="o12" type="recipient">死亡病例</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e13">
+                    <Time tid="t13" type="relTime">截止当地时间5月8日18时</Time>，
+                    <Location lid="l13,l14,l15">意大利</Location>
+                    <Participant sid="s13" type="agent">确诊病例</Participant>已
+                    <Denoter did="d13" type="operation">累计</Denoter>
+                    <Participant oid="o13" type="recipient">逾21.7万例</Participant>，
+                </Event>
+                <Event eid="e14">
+                    <Participant sid="s14,s15" type="agent">死亡病例</Participant>
+                    <Denoter did="d14" type="statement">超过</Denoter>
+                    <Object oid="o14">3万</Object>，
+                </Event>
+                <Event eid="e15">仅
+                    <Denoter did="d15" type="stateChange">次于</Denoter>
+                    <Location lid="l15">美国</Location>和
+                    <Location lid="l15">英国</Location>的
+                    <Object oid="o15">死亡人数</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e16">
+                    <Time tid="t16" type="timeInterval" >截止5月8日</Time>，
+                    <Location lid="l16">西班牙</Location>
+                    <Time tid="t16" type="timeInterval">过去24小时</Time>
+                    <Object sid="s16">新增确诊病例数</Object>
+                    <Denoter did="d16" type="stateChange">过</Denoter>
+                    <Object oid="o16">千</Object>，
+                </Event>
+                <Event eid="e17">
+                    <Denoter did="d17" type="action">累计</Denoter>
+                    <Object oid="o17">逾22万例</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e18">
+                    <Participant sid="s18" type="agent">欧盟委员会</Participant>
+                    <Time tid="t18" type="relTime">当日</Time>在一份公告中
+                    <Denoter did="d18" type="statement">称</Denoter>，
+                </Event>
+                <Event eid="e19">尽管目前
+                    <Participant sid="s19" type="agent">一些欧盟成员国</Participant>和
+                    <Participant sid="s19" type="agent">申根区成员国</Participant>正着手
+                    <Denoter did="d19" type="operation">放松</Denoter>
+                    <Object oid="o19">管制</Object>，
+                </Event>
+                <Event eid="e20">但
+                    <Object sid="s20">新冠肺炎疫情</Object>在
+                    <Location lid="l20">欧洲</Location>及
+                    <Location lid="l20">全球</Location>依然
+                    <Denoter did="d20" type="stateChange">不稳定</Denoter>，
+                </Event>
+                <Event eid="e21">在此情况下，
+                    <Participant sid="s21,s22" type="agent">欧盟</Participant>有必要
+                    <Denoter did="d21" type="operation">继续管控</Denoter>
+                    <Object oid="o21">外部边境</Object>，
+                </Event>
+                <Event eid="e22">
+                    <Denoter did="d22" type="stateChange">降低</Denoter>赴欧旅行引发
+                    <Object oid="o22">疫情扩散的风险</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e23">为此
+                    <Participant sid="s23" type="agent">欧盟委员会</Participant>
+                    <Denoter did="d23" type="perception">倡议</Denoter>
+                    <Participant oid="o23" type="recipient">26个欧盟成员国(爱尔兰除外)</Participant>和
+                    <Participant oid="o23" type="recipient">隶属申根区的瑞士</Participant>、
+                    <Participant oid="o23" type="recipient">冰岛</Participant>、
+                    <Participant oid="o23" type="recipient">挪威</Participant>、
+                    <Participant oid="o23" type="recipient">列支敦士登</Participant>4个非欧盟成员国
+                </Event>
+                <Event eid="e24">继续
+                    <Denoter did="d24" type="operation">统一</Denoter>
+                    <Object oid="o24">行动</Object>，
+                </Event>
+                <Event eid="e25">
+                    <Object oid="o25">对赴欧“非必要旅行”</Object>实施
+                    <Denoter did="d25" type="operation">限制</Denoter>，
+                </Event>
+                <Event eid="e26">直至
+                    <Time tid="t26" type="timeInterval">6月15日后</Time>
+                    <Participant sid="s26" type="agent">欧盟</Participant>视
+                    <Means mid="m26">疫情演变</Means>再做
+                    <Denoter did="d26" type="perception">评估</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e27">
+                    <Time tid="t27" type="absTime">2020年3月17日</Time>，
+                    <Participant sid="s27" type="agent">欧盟成员国领导人</Participant>
+                    <Denoter did="d27" type="action">一致批准</Denoter>欧盟
+                    <Object oid="o27">“封盟令”</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e28">在
+                    <Time tid="t28" type="relTime" >今年3月份</Time>
+                    <Location lid="l28">意大利</Location>、
+                    <Location lid="l28">西班牙</Location>、
+                    <Location lid="l28">法国</Location>、
+                    <Location lid="l28">德国</Location>等
+                    <Location lid="l28">多个成员国</Location>
+                    <Object sid="s28">疫情</Object>
+                    <Denoter did="d28" type="stateChange">极为严峻</Denoter>的形势下，
+                </Event>
+                <Event eid="e29">
+                    <Participant sid="s29" type="agent">欧盟委员会主席冯德莱恩</Participant>于
+                    <Time tid="t29" type="relTime">3月16日</Time>
+                    <Denoter did="d29" type="statement">倡议</Denoter>，
+                </Event>
+                <Event eid="e30">将对
+                    <Object oid="o30">进入欧盟的非必要旅行</Object>实施
+                    <Object oid="o30">30天</Object>
+                    <Denoter did="d30" type="operation">临时限制</Denoter>，
+                </Event>
+                <Event eid="e31">其中
+                    <Participant oid="o31" type="recipient">返家的欧盟公民</Participant>和
+                    <Participant oid="o31" type="recipient">医护人员</Participant>将被
+                    <Denoter did="d31" type="operation">豁免</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e32">该
+                    <Participant sid="s32" type="agent">封盟</Participant>
+                    <Denoter did="d32" type="action">计划</Denoter>原定于
+                    <Object oid="o32">4月15日到期</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e33">
+                    <Time tid="t33" type="absTime">2020年4月8日</Time>，
+                    <Participant sid="s33" type="agent">欧盟</Participant>将
+                    <Object oid="o33">“封盟令”</Object>
+                    <Denoter did="d33" type="stateChange">延</Denoter>
+                </Event>
+                <Event eid="e34">
+                    <Denoter did="d34" type="stateChange">至</Denoter>
+                    <Time tid="t34" type="relTime">5月15日</Time>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e35">
+                    <Time tid="t35" type="relTime">2020年4月8日</Time>，由于欧盟
+                    <Participant sid="s35" type="agent">新增病例</Participant>和
+                    <Object sid="s35">死亡人数</Object>
+                    <Denoter did="d35" type="stateChange">持续上升</Denoter>，
+                </Event>
+                <Event eid="e36">而且
+                    <Location lid="l36">欧盟以外地区</Location>
+                    <Object sid="s36">疫情</Object>不断
+                    <Denoter did="d36" type="stateChange">发展</Denoter>，
+                </Event>
+                <Event eid="e37">特别是一些
+                    <Location lid="l37">赴欧旅行“热门国家”</Location>
+                    <Object sid="s37">疫情</Object>
+                    <Denoter did="d37" type="perception">堪忧</Denoter>，
+                </Event>
+                <Event eid="e38">
+                    <Participant sid="s38" type="agent">欧盟</Participant>决定继续
+                    <Denoter did="d38" type="operation">限制</Denoter>
+                    <Object oid="o38">赴欧“非必要旅行”</Object>，
+                </Event>
+                <Event eid="e39">将原定
+                    <Time tid="t39" type="relTime">4月15日</Time>
+                    <Denoter did="d39" type="stateChange">到期</Denoter>的欧盟
+                    <Object sid="s39,s40">“封盟令”</Object>
+                </Event>
+                <Event eid="e40">
+                    <Denoter did="d40" type="operation">延至</Denoter>
+                    <Time tid="t40">5月15日</Time>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e41">
+                    <Time tid="t41" type="absTime">2020年5月8日</Time>欧盟
+                    <Object sid="s41">“封盟令”</Object>再度
+                    <Denoter did="d41" type="operation">延期</Denoter>后，
+                </Event>
+                <Event eid="e42">
+                    <Participant sid="s42" type="agent">欧盟委员</Participant>会在公告中
+                    <Denoter did="d42" type="statement">称</Denoter>，
+                </Event>
+                <Event eid="e43">
+                    <Time tid="t43" type="timeInterval">未来</Time>
+                    <Participant sid="s43,s44,s45" type="agent">欧盟</Participant>将
+                    <Means mid="m43">分阶段</Means>
+                    <Denoter did="d43" type="operation">解除</Denoter>
+                    <Object oid="o43">禁令</Object>，
+                </Event>
+                <Event eid="e44">即首先
+                    <Denoter did="d44" type="operation">逐步解除</Denoter>
+                    <Location lid="l44">欧盟内部边境</Location>
+                    <Object oid="o44">管控</Object>，
+                </Event>
+                <Event eid="e45">
+                    <Denoter did="d45" type="statement">恢复</Denoter>
+                    <Location lid="l45">欧盟成员国和申根区成员国之间</Location>的
+                    <Object oid="o45">人员流动</Object>，
+                </Event>
+                <Event eid="e46">其后再
+                    <Denoter did="d46" type="action">叫停</Denoter>
+                    <Object oid="o46">“封盟令”</Object>，
+                </Event>
+                <Event eid="e47">逐步
+                    <Denoter did="d47" type="operation">解除</Denoter>
+                    <Location lid="l47">外部边境</Location>
+                    <Object oid="o47">管控</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e48">
+                    <Time tid="t48">此前</Time>
+                    <Participant sid="s48" type="agent">欧盟委员会</Participant>
+                    <Denoter did="d48" type="statement">表示</Denoter>，
+                </Event>
+                <Event eid="e49">
+                    <Time tid="t49" type="timeInterval">“封盟令”实施以来</Time>，
+                    <Object sid="s49">赴欧航空</Object>、
+                    <Object sid="s49">铁路</Object>、
+                    <Object sid="s49">公路</Object>及
+                    <Object sid="s49">轮渡</Object>的客运运输
+                    <Denoter did="d49" type="stateChange">停摆</Denoter>，
+                </Event>
+                <Event eid="e50">
+                    <Object sid="s50">客运量</Object>
+                    <Denoter did="d50" type="stateChange">几乎为零</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e51">根据
+                    <Means mid="m51">欧盟现阶段政策</Means>，
+                    <Object sid="s51">“封盟令”</Object>也
+                    <Denoter did="d51" type="action">规定</Denoter>了
+                    <Participant oid="o51" type="recipient">部分豁免人群</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e52">如
+                    <Participant sid="s52" type="agent">外交官</Participant>、
+                    <Participant sid="s52" type="agent">军方人员</Participant>、
+                    <Participant sid="s52" type="agent">人道主义救援人员</Participant>、
+                    <Participant sid="s52" type="agent">医护人员</Participant>、
+                    <Participant sid="s52" type="agent">卫生专家</Participant>、
+                    <Participant sid="s52" type="agent">运输货物人员</Participant>、
+                    <Participant sid="s52" type="agent">季节性农业工人</Participant>等
+                    <Denoter did="d52" type="stateChange">属</Denoter>
+                    <Object oid="o52" type="recipient">“豁免群体”</Object>，
+                </Event>
+                <Event eid="e53">
+                    <Participant sid="s53" type="agent">欧盟成员国外籍常驻居民</Participant>、
+                    <Participant sid="s53" type="agent">长期签证持有者</Participant>、
+                    <Participant sid="s53" type="agent">欧盟成员国公民的家属</Participant>或
+                    <Participant sid="s53" type="agent">出于家庭原因必须赴欧人员</Participant>也
+                    <Denoter did="d53" type="movement">可入境</Denoter>
+                    <Location lid="l53" type="destination">欧盟成员国</Location>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e54">
+                    <Participant sid="s54" type="agent">欧盟</Participant>
+                    <Denoter did="d54" type="stateChange">解封</Denoter>
+                    <Object oid="o54">边境</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e55">
+                    <Time tid="t55">6月30日</Time>，
+                    <Participant sid="s55" type="agent">欧洲理事会</Participant>
+                    <Denoter did="d55" type="statement">宣布</Denoter>，
+                </Event>
+                <Event eid="e56">
+                    <Participant sid="s56" type="agent">欧盟</Participant>
+                    <Time tid="t56" type="timeInterval">从7月1日起</Time>
+                    <Denoter did="d56" type="action">取消</Denoter>对
+                    <Participant oid="o57" type="recipient">中国等15个国家公民</Participant>的
+                    <Object oid="o56">入境限制</Object>，
+                </Event>
+                <Event eid="e57">
+                    <Denoter did="d57" type="perception">准许</Denoter>
+                </Event>
+                <Event eid="e58">
+                    <Participant sid="s58" type="agent">中国等15个国家公民</Participant>
+                    <Denoter did="d58" type="movement">进入</Denoter>
+                    <Location lid="l58" type="destination">欧盟国家</Location>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e59">由于
+                    <Location lid="l59">美国</Location>、
+                    <Location lid="l59">巴西</Location>等国
+                    <Object sid="s59">新冠肺炎疫情局势</Object>依然
+                    <Denoter did="d59" type="stateChange">严峻</Denoter>，
+                </Event>
+                <Event eid="e60">此次
+                    <Participant sid="s60" type="agent">欧盟</Participant>重开边界暂时对
+                    <Location lid="l60">美国</Location>、
+                    <Location lid="l60">俄罗斯</Location>、
+                    <Location lid="l60">巴西</Location>、
+                    <Location lid="l60">印度</Location>等国
+                    <Denoter did="d60" type="operation">不开放</Denoter>
+                    <Object oid="o60">边境</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e61">
+                    <Participant sid="s61" type="agent">欧盟</Participant>
+                    <Time tid="t61" type="timeInterval">7月1日起</Time>
+                    <Denoter did="d61" type="action">取消</Denoter>
+                    <Object oid="o61">入境限制</Object>
+                </Event>
+                <Event eid="e62">
+                    <Denoter did="d62" type="movement">入境限制</Denoter>的15个国家包括
+                    <Location lid="l62" type="origin">阿尔及利亚</Location>、
+                    <Location lid="l62" type="origin">澳大利亚</Location>、
+                    <Location lid="l62" type="origin">格鲁吉亚</Location>、
+                    <Location lid="l62" type="origin">日本</Location>、
+                    <Location lid="l62" type="origin">加拿大</Location>、
+                    <Location lid="l62" type="origin">摩洛哥</Location>、
+                    <Location lid="l62" type="origin">黑山共和国</Location>、
+                    <Location lid="l62" type="origin">新西兰</Location>、
+                    <Location lid="l62" type="origin">卢旺达</Location>、
+                    <Location lid="l62" type="origin">塞尔维亚</Location>、
+                    <Location lid="l62" type="origin">韩国</Location>、
+                    <Location lid="l62" type="origin">泰国</Location>、
+                    <Location lid="l62" type="origin">突尼斯</Location>、
+                    <Location lid="l62" type="origin">乌拉圭</Location>，还有
+                    <Location lid="l62" type="origin">带有前提条件的中国</Location>，
+                </Event>
+                <Event eid="e63">
+                    <Denoter did="d63" type="operation">取消</Denoter>
+                    <Object oid="o63">中国公民入境限制</Object>的
+                </Event>
+                <Event eid="e64">前提条件是
+                    <Location lid="l64">中国</Location>也
+                    <Denoter did="d64" type="operation">对欧盟旅客开放</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>这是
+                <Event eid="e65">
+                    <Participant sid="s65" type="agent">欧盟</Participant>
+                    <Time tid="t65">自今年3月份以来</Time>对
+                    <Location lid="l65">非欧盟国家</Location>
+                    <Denoter did="d65" type="operation">首次开放</Denoter>
+                    <Object oid="o65">边境</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                据报道，
+                <Event eid="e66">
+                    <Participant sid="s66,s67,s68" type="agent">欧盟</Participant>将每两周
+                    <Denoter did="d66" type="perception">评估</Denoter>
+                </Event>
+                <Event eid="e67">并
+                    <Denoter did="d67" type="operation">更新</Denoter>一次
+                    <Object oid="o66,067">边境开放国家名单</Object>，
+                </Event>
+                <Event eid="e68">
+                    <Location lid="l68">对评估结果为安全的国家</Location>将
+                    <Denoter did="d68" type="stateChange">取消</Denoter>
+                    <Object oid="o68">旅行限制</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e3"/>
+    <eRelation relType="Causal" cause_eid="e4" effect_eid="e5-e7"/>
+    <eRelation relType="Composite" fevent_eid="e9" sevent_eids="e8"/>
+    <eRelation relType="Composite" fevent_eid="e11" sevent_eids="e10"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e18" thoughtcontent_eids="e19-e22"/>
+    <eRelation relType="Causal" cause_eid="e20" effect_eid="e21"/>
+    <eRelation relType="Composite" fevent_eid="e23" sevent_eids="e24-e26"/>
+    <eRelation relType="Causal" cause_eid="e28" effect_eid="e29-e30"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e29" thoughtcontent_eids="e30-e31"/>
+    <eRelation relType="Causal" cause_eid="e35-e37" effect_eid="e38"/>
+    <eRelation relType="Follow" bevent_eid="e39" aevent_eid="e40"/>
+    <eRelation relType="Follow" bevent_eid="e44" aevent_eid="e45"/>
+    <eRelation relType="Follow" bevent_eid="e46" aevent_eid="e47"/>
+    <eRelation relType="Causal" cause_eid="e49" effect_eid="e50"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e42" thoughtcontent_eids="e43-e47"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e48" thoughtcontent_eids="e49-e50"/>
+    <eRelation relType="Composite" fevent_eid="e51" sevent_eids="e52-e53"/>
+    <eRelation relType="Follow" bevent_eid="e56" aevent_eid="e57-e58"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e55" thoughtcontent_eids="e56-e58"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e57" thoughtcontent_eids="e58"/>
+    <eRelation relType="Causal" cause_eid="e59" effect_eid="e60"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e61" thoughtcontent_eids="e62"/>
+    <eRelation relType="Composite" fevent_eid="e64" sevent_eids="e63"/>
+    <eRelation relType="Accompany" accompanya_eid="e66" accompanyb_eid="e67"/>
+</Body>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>卫健委：已第一时间向世界卫生组织分享新型冠状病毒全基因序列</Title>
+    <ReportTime type="absTime">2020-01-22T00:00</ReportTime>大众网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">1月22日</Time>，在
+                    <Participant oid="o1" type="agent">国新办</Participant>
+                    <Denoter did="d1" type="operation">举行</Denoter>的
+                    <Object sid="s1">新型冠状病毒感染的肺炎防控工作新闻发布会</Object>上
+                </Event>，
+                <Event eid="e2">
+                    <Participant oid="o2" type="agent">国家卫生健康委员会副主任李斌</Participant>在
+                    <Denoter did="d2" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e3">
+                    <Object oid="o3">全国防控</Object>要真正
+                    <Denoter did="d3" type="operation">落实</Denoter>“五早”，即
+                    <Object sid="s3">早发现</Object>、
+                    <Object sid="s3">早报告</Object>、
+                    <Object sid="s3">早诊断</Object>、
+                    <Object sid="s3">早隔离</Object>、
+                    <Object sid="s3">早治疗</Object>
+                </Event>，
+                <Event eid="e4">把
+                    <Object sid="s4">疫情</Object>有效地
+                    <Denoter did="d4" type="operation">控制</Denoter>住
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">
+                    <Participant oid="o5" type="agent">李斌</Participant>
+                    <Denoter did="d5" type="statement">介绍</Denoter>
+                </Event>，
+                <Event eid="e6">
+                    <Time tid="t6" type="timeInterval">疫情发生后</Time>在
+                    <Participant oid="o6" type="agent">国际</Participant>和
+                    <Participant oid="o6" type="agent">地区</Participant>
+                    <Denoter did="d6" type="operation"type="perception">合作</Denoter>上
+                </Event>，
+                <Event eid="e7">本着
+                    <Denoter did="d7" type="action">公开透明</Denoter>
+                </Event>以及
+                <Event eid="e8">对
+                    <Object sid="s8">全球卫生安全</Object>
+                    <Denoter did="d8" type="operation">高度负责</Denoter>
+                </Event>的态度，
+                <Event eid="e9">
+                    <Participant oid="o9" type="agent">中方</Participant>及时向
+                    <Participant sid="s9" type="recipient">世界卫生组织，包括俄罗斯在内的有关国家和港澳台地区</Participant>及时
+                    <Denoter did="d9" type="action">通报</Denoter>了
+                    <Object sid="s9">疫情信息</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e10">
+                    <Time tid="t10" type="timeInterval">截止到1月20日</Time>，已经
+                    <Denoter did="d10" type="action">累计分享</Denoter>
+                    <Object sid="s10">信息15次</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e11">第一时间向
+                    <Participant sid="s11" type="recipient">世界卫生组织</Participant>
+                    <Denoter did="d11" type="action">分享</Denoter>
+                    <Object sid="s11">新型冠状病毒全基因序列</Object>
+                </Event>，
+                <Event eid="e12">
+                    <Denoter did="d12" type="operation">成立</Denoter>了
+                    <Object sid="s12">专班组织</Object>
+                </Event>，
+                <Event eid="e13">
+                    <Participant oid="o13">中方专家与世卫组织专家</Participant>深入开展
+                    <Denoter did="d13" type="action">交流</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e14">
+                    <Time tid="t14" type="timeInterval">目前</Time>已
+                    <Denoter did="d14" type="action">召开</Denoter>了
+                    <Object sid="s14">4次专家沟通会</Object>
+                </Event>，
+                <Event eid="e15">
+                    <Denoter did="d15" type="action">邀请</Denoter>
+                    <Participant sid="s15,s16,s17" type="recipient">世卫组织专家</Participant>
+                </Event>
+                <Event eid="e16">
+                    <Denoter did="d16" type="movement">赴</Denoter>
+                    <Location lid="l16" type="destination">湖北武汉</Location>实地考察和访问
+                </Event>，
+                <Event eid="e17">进一步
+                    <Denoter did="d17" type="perception">了解</Denoter>
+                    <Object sid="s17">疫情情况</Object>
+                </Event>，加深对疫情的理解和达到共识，加强合作、共同应对。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e18">
+                    <Participant oid="o18">李斌</Participant>
+                    <Denoter did="d18" type="statement">介绍</Denoter>
+                </Event>，
+                <Event eid="e19">
+                    <Denoter did="d19" type="action">做好</Denoter>
+                    <Object oid="o19">双边工作</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e20">
+                    <Participant oid="o20,o21,o22,o23" type="agent">我委</Participant>与
+                    <Participant oid="o20,o21,o22,o23" type="agent">泰国、日本、韩国、美国等国对口技术部门、驻华使馆</Participant>
+                    <Denoter did="d20" type="operation">保持</Denoter>
+                    <Object oid="o20">密切沟通</Object>
+                </Event>，
+                <Event eid="e21">
+                    <Denoter did="d21" type="operation">分享</Denoter>
+                    <Object sid="s21">疫情信息</Object>
+                </Event>，
+                <Event eid="e22">
+                    <Denoter did="d22" type="operation">核实</Denoter>
+                    <Object sid="s22">疑似和确诊病例信息</Object>
+                </Event>，
+                <Event eid="e23">及时
+                    <Denoter did="d23" type="operation">回应</Denoter>
+                    <Object sid="s23">外方关切</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e24">加强与
+                    <Participant sid="s24">港澳台</Participant>
+                    <Denoter did="d24" type="operation">沟通协作</Denoter>
+                </Event>。除了常规信息分享外，
+                <Event eid="e25">
+                    <Participant oid="o25,o24" type="agent">我委</Participant>已经
+                    <Denoter did="d25" type="action">邀请</Denoter>了
+                    <Participant sid="s25" oid="o26,o27">港澳台专家</Participant>
+                </Event>
+                <Event eid="e26">
+                    <Denoter did="d26" type="action">访问</Denoter>
+                    <Location lid="l26">武汉</Location>相应的
+                    <Object sid="s26">医疗卫生机构</Object>
+                </Event>，并
+                <Event eid="e27">与当地的
+                    <Participant oid="o27">医疗卫生人员</Participant>进行了深入
+                    <Denoter did="d27" type="action">交流</Denoter>
+                </Event>，进一步了解情况。
+            </Sentence>
+            <Sentence>应
+                <Event eid="e28">
+                    <Location lid="l28">香港</Location>和
+                    <Location lid="l28">澳门</Location>
+                    <Denoter did="d28" type="statement">提出</Denoter>的
+                    <Object sid="s28">需求</Object>
+                </Event>，
+                <Event eid="e29">
+                    <Participant oid="o29" type="agent">我们</Participant>已经免费向
+                    <Location lid="l29">香港和澳门</Location>
+                    <Denoter did="d29" type="operation">提供</Denoter>了
+                    <Object sid="s29">诊断试剂盒</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3-e4"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eid="e6-e9"/>
+    <eRelation relType="Composite" fevent_eid="e6" sevent_eids="e7-e9"/>
+    <eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+    <eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+    <eRelation relType="Follow" bevent_eid="e15" aevent_eid="e16"/>
+    <eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+    <eRelation relType="Composite" fevent_eid="e14" sevent_eids="e15-e17"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e18" thoughtcontent_eid="e19"/>
+    <eRelation relType="Accompany" accompanya_eid="e20" accompanyb_eid="e21"/>
+    <eRelation relType="Accompany" accompanya_eid="e21" accompanyb_eid="e22"/>
+    <eRelation relType="Accompany" accompanya_eid="e22" accompanyb_eid="e23"/>
+    <eRelation relType="Follow" bevent_eid="e25" aevent_eid="e26"/>
+    <eRelation relType="Follow" bevent_eid="e26" aevent_eid="e27"/>
+</Body>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>马克龙道歉讲话收视破3500万，宣布国内封锁措施将延长至5月11日</Title>
+    <ReportTime type="absTime">2020-04-16T00:00</ReportTime>
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">据
+                    <Participant sid="s1" type="agent">外媒</Participant>
+                    <Denoter did="d1" type="statement">报道</Denoter>，
+                </Event>
+                <Event eid="e2">
+                    <Participant sid="s2,s3,s4" type="agent">法国总统马克龙</Participant>
+                    <Time tid="t2" type="relTime">4月13日晚</Time>在
+                    <Location lid="l2">巴黎爱丽舍宫</Location>
+                    <Denoter did="d2" type="statement">发表</Denoter>
+                    <Object oid="o2">电视讲话</Object>，
+                </Event>
+                <Event eid="e3">
+                    <Denoter did="d3" type="perception">承认</Denoter>法国
+                    <Object oid="o3">在应对新冠病毒危机上的失误</Object>，
+                </Event>
+                <Event eid="e4">并向
+                    <Participant oid="o4" type="recipient">民众</Participant>
+                    <Denoter did="d4" type="statement">道歉</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e5">
+                    <Object sid="s5,s6,s7">这场直播</Object>
+                    <Denoter did="d5" type="stateChange">打破</Denoter>了
+                    <Object oid="o5">法国电视收视率纪录</Object>，
+                </Event>
+                <Event eid="e6">
+                    <Object sid="s6">观众人数</Object>
+                    <Denoter did="d6" type="stateChange">达到</Denoter>了前所未有的
+                    <Object oid="o6">3500多万</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>这个庞大的数字代表了
+                <Event eid="e7">
+                    <Participant sid="s7" type="agent">全国86.6%的电视观众</Participant>都在
+                    <Denoter did="d7" type="perception">收看</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e8">
+                    <Participant sid="s8,s10" type="agent">马克龙</Participant>在
+                    <Denoter did="d8" type="action">发表</Denoter>
+                    <Object oid="o8">讲话</Object>时，
+                </Event>
+                <Event eid="e9">为
+                    <Participant sid="s9" type="agent">他的政府</Participant>“对新冠病毒危机准备不足”表示
+                    <Denoter did="d9">道歉</Denoter>，
+                </Event>
+                <Event eid="e10">并
+                    <Denoter did="d10" type="statement">宣布</Denoter>，
+                </Event>
+                <Event eid="e11">
+                    <Time tid="t11" type="relTime">自3月17日开始</Time>的
+                    <Object sid="s11">国内封锁措施</Object>将
+                    <Denoter did="d11" type="stateChange">延长</Denoter>
+                    <Time tid="t11" type="relTime">至5月11日</Time>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12">
+                    <Object sid="s12">马克龙的演讲</Object>
+                    <Denoter did="d12" type="perception">吸引</Denoter>了
+                    <Object oid="o12">最高的观看人数</Object>，
+                </Event>
+                <Event eid="e13">
+                    <Denoter did="d13" type="stateChange">超过</Denoter>了他在
+                    <Time tid="t13" type="timeInterval">2018年“黄背心”运动危机时期</Time>
+                    <Object oid="o13">电视讲话的收视率</Object>，
+                </Event>当时的观众数量为2300万。
+            </Sentence>
+            <Sentence>
+                <Event eid="e14">
+                    <Object sid="s14">法国第二高的电视收视率记录</Object>
+                    <Denoter did="d14" type="stateChange">发生</Denoter>
+                    <Time tid="t14" type="timeInterval">在2000年欧洲杯决赛法国队与意大利队的比赛</Time>，
+                </Event>当时有2140万观众观看了那场球赛。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e14"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3-e4"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eid="e6-e7"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eid="e9-e11"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eid="e11"/>
+    <eRelation relType="Causal" cause_eid="e12" effect_eid="e13"/>
+    <eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10-e11"/>
+</Body>

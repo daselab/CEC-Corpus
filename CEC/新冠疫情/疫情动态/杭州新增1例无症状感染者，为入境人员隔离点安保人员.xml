@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>杭州新增1例无症状感染者，为入境人员隔离点安保人员</Title>
+    <ReportTime type="absTime">2020-12-29T00:00</ReportTime>环球网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">今天凌晨</Time>，
+                    <Location lid="l1">杭州</Location>
+                    <Denoter did="d1" type="stateChange">新增</Denoter>
+                    <Object oid="o1,o2" type="recipient">1例无症状感染者</Object>
+                </Event>，
+                <Event eid="e2">
+                    <Denoter did="d2" type="operation">为</Denoter>
+                    <Object oid="o2" type="recipient">入境人员隔离点安保人员</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>据杭州卫健委</Sentence>：
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e3">
+                    <Time tid="t3" type="relTime">12月29日凌晨</Time>，
+                    <Location lid="l3">杭州市</Location>
+                    <Denoter did="d3" type="operation">发现</Denoter>
+                    <Object oid="o3" type="recipient">一例新冠肺炎无症状感染者</Object>
+                </Event>，系某安保公司员工
+            </Sentence>。
+            <Sentence>
+                <Event eid="e4">
+                    <Time tid="t4" type="relTime">28日</Time>
+                    <Participant sid="s4" type="agent">该人员</Participant>
+                    <Means mid="m4" type="method">在常规采样检测中</Means>
+                    <Denoter did="d4" type="operation">发现</Denoter>
+                    <Object oid="o4" type="recipient">核酸检测阳性</Object>
+                </Event>，经
+                <Event eid="e5">
+                    <Participant sid="s5" type="agent">市疾控中心</Participant>
+                    <Denoter did="d5" type="operation">复核确认</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">
+                    <Location lid="l6">杭州市</Location>
+                    <Participant sid="s6" type="agent">防控办</Participant>立即
+                    <Denoter did="d6" type="operation">联动</Denoter>
+                    <Participant oid="o6" type="recipient">相关单位</Participant>
+                </Event>
+                <Event eid="e7">
+                    <Denoter did="d7" type="operation">开展</Denoter>
+                    <Object oid="o7" type="recipient">流行病学调查</Object>和
+                    <Object oid="o7" type="recipient">应急处置工作</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>据初步研判，
+                <Event eid="e8">
+                    <Participant sid="s8" type="agent">该人员</Participant>与
+                    <Participant oid="o8" type="recipient">境外输入确诊病人</Participant>
+                    <Denoter did="d8" type="stateChange">有关联</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e9">
+                    <Participant sid="s9" type="agent">疾控部门</Participant>已
+                    <Denoter did="d9" type="operation">追踪</Denoter>管控
+                    <Participant oid="o9" type="recipient">密切接触者137名</Participant>
+                </Event>，
+                <Event eid="e10">对
+                    <Participant oid="o10" type="recipient">其居住点相关人员</Participant>也已采样
+                    <Denoter did="d10" type="operation">检测</Denoter>
+                </Event>、
+                <Event eid="e11">
+                    <Denoter did="d11" type="operation">落实</Denoter>
+                    <Object oid="o11" type="recipient">管控措施</Object>
+                </Event>，
+                <Event eid="e12">对
+                    <Object oid="o12" type="recipient">相关的环境</Object>进行了
+                    <Denoter did="d12" type="operation">消杀</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e13">截至
+                    <Time tid="t13" type="relTime">29日9时</Time>，
+                    <Object sid="s13" type="agent">所有样本核酸</Object>
+                    <Denoter did="d13" type="operation">检测</Denoter>均为阴性
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+</Body>
+<eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2"/>
+<eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eid="e7"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10-e12"/>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e6-e7"/>

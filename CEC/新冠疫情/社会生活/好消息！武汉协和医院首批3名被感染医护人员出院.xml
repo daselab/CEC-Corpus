@@ -1,0 +1,420 @@
+<Denoter did="d"></Denoter>
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>好消息！武汉协和医院首批3名被感染医护人员出院</Title>
+    <ReportTime type="absTime">2020-01-28T00:00</ReportTime>人民日报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">1月28日</Time>，从
+                    <Participant sid="s1" type="recipient">华中科技大学附属协和医院</Participant>
+                    <Denoter did="d1" type="statement">获悉</Denoter>
+                </Event>，
+                <Event eid="e2">该院
+                    <Participant sid="s2" type="recipient">医护人员</Participant>经过
+                    <Denoter did="d2" type="operation">治疗</Denoter>后
+                </Event>，
+                <Event eid="e3">
+                    <Object sid="s3">临床症状</Object>
+                    <Denoter did="d3" type="stateChange">得到有效控制</Denoter>
+                </Event>，
+                <Event eid="e4">经
+                    <Participant oid="o4" type="agent">专家组</Participant>
+                    <Denoter did="d4" type="statement">讨论</Denoter>
+                </Event>，
+                <Event eid="e5">
+                    <Denoter did="d5" type="action">符合</Denoter>
+                    <Object sid="s5">出院标准</Object>
+                </Event>，
+                <Event eid="e6">截至今日，
+                    <Location lid="l6"> 协和医院</Location>首批共
+                    <Participant oid="o6" type="agent">有3名医护人员</Participant>
+                    <Denoter did="d6" type="action">出院</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e7">
+                    <Time tid="t7" type="relTime">今日上午11时</Time>许，
+                    <Participant oid="o7" type="agent">协和医院党委书记张玉</Participant>、
+                    <Participant oid="o7" type="agent">院长胡豫</Participant>
+                    <Denoter did="d7" type="action">看望</Denoter>
+                    <Participant sid="s7" type="recipient">出院的医务人员</Participant>
+                </Event>，
+                <Event eid="e8">对
+                    <Participant sid="s8" type="recipient">他们</Participant>康复表达了
+                    <Denoter did="d8" type="statement">祝贺</Denoter>
+                </Event>，
+                <Event eid="e9">并
+                    <Denoter did="d9" type="action">送上</Denoter>
+                    <Object sid="s9">居家防护用品</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e10">
+                    <Participant oid="o10" type="agent">协和医院党委书记张玉</Participant>
+                    <Denoter did="d10" type="statement">表示</Denoter>
+                </Event>，作为国家队，
+                <Event eid="e11">
+                    <Participant oid="o11" type="agent">我院</Participant>积极
+                    <Denoter did="d11" type="action">响应</Denoter>
+                    <Participant sid="s11" type="recipient">国家与各级政府</Participant>的
+                    <Object sid="s11">号召</Object>
+                </Event>，
+                <Event eid="e12">已
+                    <Denoter did="d12" type="action">派出</Denoter>
+                    <Participant sid="s12">专家及医护人员共计80余人</Participant>
+                </Event>
+                <Event eid="e13">
+                    <Denoter did="d13" type="action">支援</Denoter>
+                    <Object sid="s13">定点诊疗医院</Object>
+                </Event>，即武汉红十字会医院。
+            </Sentence>
+            <Sentence>
+                <Event eid="e14">同时，
+                    <Object oid="o14">协和医院西院</Object>将
+                    <Denoter did="d14" type="action">作为</Denoter>
+                    <Object sid="s14">第三批发热就诊定点医院</Object>
+                </Event>，
+                <Event eid="e15">共
+                    <Denoter did="d15" type="operation">腾出</Denoter>
+                    <Object sid="s15">700张床位</Object>收治病人
+                </Event>，
+                <Event eid="e16">
+                    <Participant oid="o16" type="agent">我们</Participant>将全力以赴
+                    <Denoter did="d16" type="operation">打赢</Denoter>这场
+                    <Object sid="s16">疫情保卫战</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>协和医院院长胡豫指出，我院已派出500余名医护人员奋战在一线，他们非常辛苦，积极参与患者的救治。</Sentence>
+            <Sentence>我希望出院以后多注意休息，我们也相信会有更多的患者能够被治愈。</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e17">
+                    <Participant oid="o17" type="agent">协和医院内科党支部书记、呼吸内科周琼教授</Participant>
+                    <Denoter did="d17" type="statement">介绍</Denoter>
+                </Event>，
+                <Event eid="e18">这些
+                    <Participant sid="s18" type="agent">医务人员</Participant>
+                    <Object sid="s18">临床症状</Object>得到
+                    <Denoter did="d18" type="operation">有效控制</Denoter>
+                </Event>，
+                <Event eid="e19">
+                    <Object oid="o19">病情</Object>
+                    <Denoter did="d19" type="stateChange">好转</Denoter>
+                </Event>，
+                <Event eid="e20">经
+                    <Participant oid="o20" type="agent">专家组</Participant>
+                    <Denoter did="d20" type="statement">讨论</Denoter>
+                </Event>，
+                <Event eid="e21">
+                    <Participant oid="o21" type="agent">首批3名医护人员</Participant>
+                    <Denoter did="d21" type="operation">符合</Denoter>出院标准
+                </Event>，
+                <Event eid="e22">可以
+                    <Denoter did="d22" type="action">出院</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e23">其间，
+                    <Participant oid="o23" type="agent">我们</Participant>对这些
+                    <Participant sid="s23,s24" type="recipient">医务工作者</Participant>展开
+                    <Means mid="m23">积极</Means>
+                    <Denoter did="d23" type="operation">治疗</Denoter>
+                </Event>：
+                <Event eid="e24">卧床
+                    <Denoter did="d24" type="action">休息</Denoter>
+                </Event>，加强支持对症处理，
+                <Event eid="e25">
+                    <Denoter did="d25" type="action">检测</Denoter>
+                    <Object sid="s25">生命体征和体温、氧合情况</Object>
+                </Event>；
+                <Event eid="e26">常规
+                    <Denoter did="d26" type="operation">检测</Denoter>
+                    <Object oid="o26">血常规、生化指标</Object>
+                </Event>，
+                <Event eid="e27">
+                    <Denoter did="d27" type="operation">复查</Denoter>肺部CT、复查病毒核酸检测
+                </Event>；
+                <Event eid="e28">根据氧饱和度
+                    <Denoter did="d28" type="action">给予</Denoter>
+                    <Object oid="o28">氧疗</Object>
+                </Event>，大部分为鼻导管给氧，有患者使用经鼻高流量；抗病毒治疗：α-干扰素雾化吸入联合抗病毒药物；
+                <Event eid="e29">
+                    <Object oid="o29">部分淋巴细胞</Object>
+                    <Denoter did="d29" type="stateChange">持续下降</Denoter>
+                </Event>，肺部影像学病变重的患者使用丙种球蛋白；根据体温、呼吸道症状，结合生化检测结果，比如血常规、CRP、PCT等选择
+                <Event eid="e30">
+                    <Denoter did="d30" type="operation">抗菌治疗</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>“
+                <Event eid="e31">从
+                    <Time tid="t31" type="relTime">1月15日</Time>
+                    <Denoter did="d31" type="action">下夜班</Denoter>
+                </Event>，
+                <Event eid="e32">
+                    <Participant oid="o32" type="agent">我</Participant>就
+                    <Denoter did="d32" type="perception">发现</Denoter>自己
+                    <Object sid="s32">发烧</Object>了
+                </Event>，
+                <Event eid="e33">连
+                    <Denoter did="d33" type="action">烧</Denoter>
+                    <Time tid="t33" type="timeInterval">四天</Time>
+                </Event>，
+                <Event eid="e34">
+                    <Denoter did="d34" type="action">吃</Denoter>了
+                    <Object sid="s34">药</Object>
+                </Event>也
+                <Event eid="e35">
+                    <Denoter did="d35" type="action">退不下来</Denoter>
+                </Event>。”
+                <Event eid="e36">
+                    <Participant oid="o36" type="agent">ICU杨护士</Participant>
+                    <Denoter did="d36" type="statement">说</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>连日的发烧，让
+                <Event eid="e37">
+                    <Object oid="o37">她身体</Object>非常
+                    <Denoter did="d37" type="operation">疲累</Denoter>
+                </Event>，
+                <Event eid="e38">
+                    <Participant oid="o38" type="agent">她</Participant>将
+                    <Object oid="o38">此事</Object>
+                    <Denoter did="38d" type="statement">汇报</Denoter>给
+                    <Participant sid="s38" type="recipient">护士长</Participant>后
+                </Event>，
+                <Event eid="e39">
+                    <Participant oid="o39,o40" type="agent">医院领导</Participant>非常
+                    <Denoter did="d39" type="action">重视</Denoter>
+                </Event>，
+                <Event eid="e40">纷纷给
+                    <Participant sid="s40" type="recipient">她</Participant>
+                    <Denoter did="d40" type="action">打了电话</Denoter>
+                </Event>。
+                <Event eid="e41">表示
+                    <Denoter did="d41" type="action">慰问</Denoter>
+                </Event>
+            </Sentence>
+            <Sentence>随后，
+                <Event eid="e42">
+                    <Participant oid="o42"type="agent" >她</Participant>
+                    <Denoter did="d42" type="action">住进</Denoter>
+                    <Object oid="o42">感染科</Object>
+                </Event>
+                <Event eid="e43">进行
+                    <Denoter did="d43" type="action">隔离治疗</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>“
+                <Event eid="e44">没有
+                    <Participant oid="o44" type="agent">他们</Participant>的
+                    <Denoter did="d44" type="operation">照顾</Denoter>
+                </Event>，
+                <Event eid="e45">
+                    <Participant oid="o45"type="agent" >我</Participant>不可能这么快
+                    <Denoter did="d45" type="action">恢复</Denoter>好
+                </Event>。正是有了协和大家庭的温暖，让我有了前行的动力！”
+                <Event eid="e46">
+                    <Participant oid="o46" type="agent">杨护士</Participant>非常
+                    <Denoter did="d46" type="action">感谢</Denoter>
+                </Event>
+                <Event eid="e47">
+                    <Denoter did="d47" type="operation">照顾</Denoter>
+                    <Participant sid="s47" type="recipient">她</Participant>的
+                    <Participant oid="o47" type="agent">医护人员</Participant>
+                </Event>和
+                <Event eid="e48">给
+                    <Participant sid="s48" type="recipient">她</Participant>
+                    <Denoter did="d48" type="action">鼓劲加油</Denoter>的
+                    <Participant oid="o48" type="agent">院领导</Participant>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e49">经过
+                    <Time tid="t49" type="timeInterval">6天</Time>的
+                    <Denoter did="d49" type="operation">抗病毒治疗</Denoter>
+                </Event>，
+                <Event eid="e50">她
+                    <Object oid="o50">发烧咳嗽的症状</Object>逐渐
+                    <Denoter did="d50" type="stateChange">消失</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e51">
+                    <Time tid="t51" type="relTime">1月25日</Time>，核酸
+                    <Denoter did="d51" type="operation">复查</Denoter>为
+                    <Object sid="s51">阴性</Object>
+                </Event>，5
+                <Event eid="e52">
+                    <Object oid="o51">各项指标</Object>已
+                    <Denoter did="d51" type="action"> 达到</Denoter>
+                    <Object sid="s51">国家所规定的出院标准</Object>
+                </Event>，5
+                <Event eid="e53">今日
+                    <Denoter did="d53" type="action">出院</Denoter>的她
+                </Event>，露出了久违的笑容。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e54">她说出院后
+                    <Participant oid="o54" type="agent">她</Participant>将继续
+                    <Denoter did="d54" type="action">坚守</Denoter>
+                    <Object sid="s54">工作岗位</Object>
+                </Event>，
+                <Event eid="e55">并向
+                    <Participant sid="s55" type="recipient">大众</Participant>进行
+                    <Denoter did="d55" type="operation">科普宣教</Denoter>
+                </Event>，
+                <Event eid="e56">为此次
+                    <Object oid="o56">疫情保卫战</Object>
+                    <Denoter did="d56" type="action">贡献</Denoter>
+                    <Object oid="o56">力量</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>“医生和护士真的都很辛苦，
+                <Event eid="e57">
+                    <Participant oid="o57" type="agent">他们</Participant>很累但一直在
+                    <Denoter did="d57" type="action">坚持</Denoter>着
+                </Event>，
+                <Event eid="e58">如果
+                    <Participant sid="s58" type="agent">我</Participant>能
+                    <Denoter did="d58" type="operation">治好</Denoter>
+                </Event>
+                <Event eid="e59">
+                    <Participant oid="o59" type="agent">我</Participant>也要加入他们，
+                    <Denoter did="d59" type="action">分担</Denoter>
+                    <Object sid="s59">工作</Object>
+                </Event>。”
+                <Event eid="e60">
+                    <Participant oid="o60" type="agent">外科杨护士</Participant>
+                    <Denoter did="d60" type="statement">说</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e61">在
+                    <Participant oid="o61" type="agent">协和医院医生护士们</Participant>的
+                    <Denoter did="d61" type="operation">悉心照料</Denoter>下
+                </Event>，
+                <Event eid="e62">
+                    <Object oid="o62">她的病情</Object>日益
+                    <Denoter did="d62" type="stateChange">好转</Denoter>
+                </Event>，
+                <Event eid="e63">
+                    <Object oid="o63">各项指标</Object>
+                    <Denoter did="d63" type="action">符合</Denoter>
+                    <Object sid="s63">出院标准</Object>
+                </Event>，
+                <Event eid="e64">
+                    <Participant oid="o64" type="agent">她</Participant>终于可以顺利
+                    <Denoter did="d64" type="action">出院</Denoter>了
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e65">
+                    <Participant oid="o65" type="agent">她</Participant>
+                    <Denoter did="d65" type="statement">说</Denoter>
+                </Event>，其实疾病没那么可怕，
+                <Event eid="e66">积极配合医务人员进行
+                    <Denoter did="d66" type="operation">隔离治疗</Denoter>
+                </Event>，治愈希望很大。
+            </Sentence>
+            <Sentence>
+                <Event eid="e67">
+                    <Participant oid="o67" type="agent">她</Participant>希望
+                    <Denoter did="d67" type="action">完全康复</Denoter>后
+                </Event>，
+                <Event eid="e68">如果
+                    <Object oid="o68">一线</Object>有
+                    <Denoter did="d68" type="action">需要</Denoter>
+                </Event>，
+                <Event eid="e69">
+                    <Participant oid="o69" type="agent">她</Participant>将毫不犹豫地去
+                    <Denoter did="d69" type="operation">支援</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e70">
+                    <Participant oid="o70" type="agent">协和医院西院胡医生</Participant>
+                    <Denoter did="d70" type="statement">表示</Denoter>
+                </Event>，出院后，
+                <Event eid="e71">希望能尽快
+                    <Denoter did="d71" type="action">回</Denoter>到
+                    <Object sid="s71">抗击疫情的一线</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>“此次的疫情并不是无法战胜，
+                <Event eid="e72">做好
+                    <Denoter did="d72" type="operation">科学防护</Denoter>
+                </Event>，
+                <Event eid="e73">
+                    <Denoter did="d73" type="action">相信</Denoter>
+                    <Object sid="s73">党和国家</Object>
+                </Event>，
+                <Event eid="e74">
+                    <Denoter did="d74" type="action">相信</Denoter>一起奋战
+                    <Object sid="s74">白衣战士</Object>
+                </Event>，
+                <Event eid="e75">
+                    <Participant oid="o75" type="agent">全体武汉人</Participant>一定会
+                    <Denoter did="d75" type="action">守护</Denoter>好我们的城
+                </Event>，因为坚守就是我们的使命。
+                <Event eid="e76">我们全体
+                    <Participant oid="o76" type="agent">协和人</Participant>
+                    <Means mid="m76">一定能</Means>
+                    <Denoter did="d76" type="action">打赢</Denoter>这场
+                    <Object sid="s76">硬战</Object>
+                </Event>！”
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e6"/>
+    <eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
+    <eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+    <eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+    <eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>
+    <eRelation relType="Composite" fevent_eid="e11" sevent_eids="e12-e15"/>
+    <eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+    <eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e14"/>
+    <eRelation relType="Follow" bevent_eid="e14" aevent_eid="e15"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eid="e18-e19"/>
+    <eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eid="e21-e22"/>
+    <eRelation relType="Causal" cause_eid="e21" effect_eid="e22"/>
+    <eRelation relType="Accompany" accompanya_eid="e23" accompanyb_eid="e24"/>
+    <eRelation relType="Accompany" accompanya_eid="e24" accompanyb_eid="e25"/>
+    <eRelation relType="Accompany" accompanya_eid="e25" accompanyb_eid="e26"/>
+    <eRelation relType="Accompany" accompanya_eid="e26" accompanyb_eid="e27"/>
+    <eRelation relType="Accompany" accompanya_eid="e27" accompanyb_eid="e28"/>
+    <eRelation relType="Accompany" accompanya_eid="e28" accompanyb_eid="e29"/>
+    <eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+    <eRelation relType="Follow" bevent_eid="e32" aevent_eid="e33"/>
+    <eRelation relType="Causal" cause_eid="e32" effect_eid="e34"/>
+    <eRelation relType="Follow" bevent_eid="e38" aevent_eid="e39"/>
+    <eRelation relType="Follow" bevent_eid="e32" aevent_eid="e43"/>
+    <eRelation relType="Follow" bevent_eid="e42" aevent_eid="e43"/>
+    <eRelation relType="Follow" bevent_eid="e49" aevent_eid="e50"/>
+    <eRelation relType="Causal" cause_eid="e52" effect_eid="e53"/>
+    <eRelation relType="Accompany" accompanya_eid="e54" accompanyb_eid="e55"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e60" thoughtcontent_eid="e57-e59"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e65" thoughtcontent_eid="e66"/>
+    <eRelation relType="Follow" bevent_eid="e63" aevent_eid="e64"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e70" thoughtcontent_eid="e71"/>
+</Body>

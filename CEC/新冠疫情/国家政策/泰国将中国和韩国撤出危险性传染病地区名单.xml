@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>泰国将中国和韩国撤出危险性传染病地区名单</Title>
+    <ReportTime type="absTime">2020-05-16T00:00</ReportTime>
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">5月15日</Time>，
+                    <Participant sid="s1" type="agent">泰国公共卫生部</Participant>将
+                    <Object oid="o1">中国</Object>和
+                    <Object oid="o1">韩国</Object>
+                    <Denoter did="d1" type="stateChange">撤出</Denoter>
+                    <Means mid="m1">危险性传染病地区名单</Means>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e2">
+                    <Time tid="t2" type="absTime">当地时间2020年5月15日</Time>，
+                    <Participant sid="s2,s3" type="agent">泰国公共卫生部</Participant>
+                    <Denoter did="d2" type="action">签发</Denoter>
+                    <Object oid="o2">公文</Object>，
+                </Event>
+                <Event eid="e3">正式将
+                    <Object oid="o3">中国（包括香港和澳门特别行政区）</Object>以及
+                    <Object oid="o3">韩国</Object>从
+                    <Means mid="m3">危险性传染病地区的名单</Means>中
+                    <Denoter did="d3" type="action">剔除</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e4">该
+                    <Object sid="s4">公文</Object>将
+                    <Time tid="t4" type="absTime">从2020年5月16日起</Time>
+                    <Denoter did="d4" type="stateChange">生效</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">
+                    <Object sid="s5">公文</Object>中
+                    <Denoter did="d5" type="statement">表示</Denoter>，
+                </Event>
+                <Event eid="e6">鉴于
+                    <Participant sid="s6" type="agent">中国</Participant>和
+                    <Participant sid="s6" type="agent">韩国</Participant>
+                    <Denoter did="d6" type="operation">有效遏制</Denoter>了
+                    <Object oid="o6">新冠肺炎传播</Object>，
+                </Event>
+                <Event eid="e7">为了
+                    <Denoter did="d7">适应</Denoter>
+                    <Time tid="t7">目前</Time>的
+                    <Object oid="o7">疫情防控措施</Object>，
+                </Event>
+                <Event eid="e8">在
+                    <Means mid="m8">泰国专家团队的指导意见</Means>之下，
+                    <Participant sid="s8">泰国公共卫生部</Participant>
+                    <Denoter did="d8" type="statement">认为</Denoter>
+                </Event>
+                <Event eid="e9">有必要将
+                    <Object oid="l9">中国</Object>和
+                    <Object oid="l9">韩国</Object>从
+                    <Means mid="m9">危险性传染病地区的名单</Means>中
+                    <Denoter did="d9">剔除</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">
+                    <Time tid="t10">今年3月初</Time>，
+                    <Participant sid="s10">泰国</Participant>依照
+                    <Means mid="m10">当地相关法律</Means>，将包括
+                    <Object lid="o10">中国</Object>和
+                    <Object lid="o10">韩国</Object>在内的
+                    <Object lid="o10">多个国家和地区</Object>
+                    <Denoter did="d10">列为</Denoter>了
+                    <Object oid="o10">危险性传染病地区</Object>，
+                </Event>
+                <Event eid="e11">随后
+                    <Denoter did="d11">发布</Denoter>了针对
+                    <Location lid="l11" type="destination">上述地区</Location>的
+                    <Object oid="o11">旅行禁令等相关措施</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eid="e6-e9"/>
+    <eRelation relType="Composite" fevent_eid="e7" sevent_eids="e8-e9"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eid="e9"/>
+    <eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+</Body>

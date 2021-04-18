@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>辽宁大连一孕妇感染新冠后平安诞下男婴</Title>
+    <ReportTime type="absTime">2020-12-27T00:00</ReportTime>中国新闻网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Participant oid="o1" type="agent">中新网</Participant>
+                    <Location lid="l1">大连</Location>
+                    <Time tid="t1">12月27日</Time>
+                    <Denoter did="d1" type="statement">电</Denoter> (记者 杨毅)
+                </Event>
+                <Event eid="e2">
+                    <Location lid="l2">大连市</Location>
+                    <Participant oid="o2" type="agent">卫生健康委员会副主任赵连</Participant>
+                    <Time tid="t2" type="relTime">27日</Time>在
+                    <Location lid="l2">当地政府举行的疫情防控新闻发布会</Location>上
+                    <Denoter did="d2" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e3">当地
+                    <Participant oid="o3" type="agent">一名孕妇</Participant>
+                    <Denoter did="d3" type="stateChange">确诊</Denoter>
+                    <Object sid="s3">新冠肺炎</Object>后
+                </Event>，
+                <Event eid="e4">针对
+                    <Participant sid="s4" type="recipient">该患者</Participant>的
+                    <Denoter did="d4" type="operation">救治</Denoter>
+                </Event>，
+                <Event eid="e5">
+                    <Location lid="l5">大连市</Location>
+                    <Denoter did="d5" type="action">成立</Denoter>了
+                    <Object sid="s5">专项工作组</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e6">
+                    <Time tid="t6">26日晚间</Time>，经
+                    <Participant oid="o6" type="agent">国家省市专家</Participant>
+                    <Denoter did="d6" type="operation">联合会诊</Denoter>
+                </Event>，
+                <Event eid="e7">行
+                    <Means mid="m7">剖腹产手术</Means>，该名
+                    <Participant oid="o7" type="agent">孕妇</Participant>平安
+                    <Denoter did="d7" type="action">诞</Denoter>下一
+                    <Participant sid="s7" type="recipient">男婴</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e8">
+                    <Object oid="o8">通报</Object>
+                    <Denoter did="d8" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e9">该名
+                    <Participant oid="o9" type="agent">孕妇</Participant>
+                    <Denoter did="d9" type="stateChange">系</Denoter>
+                    <Participant sid="s9" type="recipient">新冠确诊病例</Participant>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e10">针对孕妇的救治，
+                    <Location lid="l10">当地</Location>邀请
+                    <Participant oid="o10" type="agent">妇产专家</Participant>进行
+                    <Denoter did="d10" type="operation">联合会诊</Denoter>
+                </Event>，
+                <Event eid="e11">
+                    <Denoter did="d11" type="operation">制定</Denoter>了
+                    <Object sid="s11">围产期处理应急预案</Object>
+                </Event>，
+                <Event eid="e12">及时进行
+                    <Participant oid="o12" type="agent">围产期机动队</Participant>的
+                    <Denoter did="d12" type="operation">培训和演练</Denoter>
+                </Event>，
+                <Event eid="e13">并根据孕妇患者的病情，
+                    <Participant oid="o13" type="agent">专项工作组</Participant>随时
+                    <Denoter did="d13" type="stateChange">调整</Denoter>
+                    <Object sid="s13">方案</Object>
+                </Event>，
+                <Event eid="e14">同时
+                    <Denoter did="d14" type="action">安排</Denoter>
+                    <Object sid="s14">专护</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e15">
+                    <Time tid="t15" type="relTime">26日晚间</Time>，经
+                    <Participant oid="o15" type="agent">国家、省、市专家</Participant>
+                    <Denoter did="d15" type="operation">联合会诊</Denoter>
+                </Event>，
+                <Event eid="e16">并进入病区
+                    <Denoter did="d16" type="perception">查看</Denoter>患者
+                    <Object sid="s16">情况</Object>后
+                </Event>，
+                <Event eid="e17">判断其已
+                    <Denoter did="d17" type="stateChange">具备</Denoter>
+                    <Object sid="s17">终止妊娠的条件</Object>
+                </Event>，
+                <Event eid="e18">
+                    <Denoter did="d18" type="operation">行</Denoter>
+                    <Object oid="o18">剖腹产手术</Object>
+                </Event>，
+                <Event eid="e19">
+                    <Denoter did="d19" type="operation">产出</Denoter>
+                    <Participant sid="s19" type="recipient">一男婴</Participant>
+                </Event>，
+                <Event eid="e20">
+                    <Participant oid="o20" type="agent">患者</Participant>平安
+                    <Denoter did="d20" type="movement">返回</Denoter>
+                    <Location lid="l20" type="destination">病房</Location>
+                </Event>，
+                <Event eid="e21">并再次给予
+                    <Denoter did="d21" type="operation">治疗</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e22">经
+                    <Participant oid="o22" type="agent">新生儿专家</Participant>
+                    <Denoter did="d22" type="operation">评估</Denoter>，该名
+                    <Participant sid="s22,s23,s24" type="recipient">男婴</Participant>状态良好
+                </Event>，
+                <Event eid="e23">目前已由
+                    <Means mid="m23">专人专车</Means>，
+                    <Denoter did="d23">护送</Denoter>至
+                    <Location lid="l23" type="destination">大连市妇女儿童医疗中心</Location>
+                </Event>
+                <Event eid="e24">
+                    <Denoter did="d24" type="operation">进行</Denoter>进一步
+                    <Object oid="o24">隔离观察</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e25">此前，
+                    <Participant oid="o25" type="agent">一名3个月婴儿</Participant>
+                    <Denoter did="d25" type="stateChange">确诊</Denoter>
+                    <Object sid="s25">新冠肺炎</Object>
+                </Event>的
+                <Event eid="e26">消息备受
+                    <Participant oid="o26"type="agent" >外界</Participant>
+                    <Denoter did="d26" type="action">关注</Denoter>
+                </Event>，
+                <Event eid="e27">该名
+                    <Participant oid="o27" type="agent">婴儿</Participant>
+                    <Denoter did="d27" type="action">系</Denoter>确诊
+                    <Participant sid="s27" type="recipient">本土病例中年龄最小的患者</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e28">
+                    <Participant oid="o28" type="agent">赵连</Participant>
+                    <Denoter did="d28" type="statement">表示</Denoter>
+                </Event>，为
+                <Event eid="e29">全力
+                    <Denoter did="d29" type="operation">保障</Denoter>
+                    <Participant sid="s29" type="recipient">婴儿</Participant>的
+                    <Object sid="s29">生命安全</Object>
+                </Event>，
+                <Event eid="e30">
+                    <Participant oid="o30,o31,o32,o33,o34" type="agent">国家省市专家组</Participant>每日
+                    <Denoter did="d30" type="operation">联合会诊</Denoter>
+                </Event>，
+                <Event eid="e31">在救治过程中
+                    <Denoter did="d31" type="operation">密切看护</Denoter>
+                </Event>、
+                <Event eid="e32">密切
+                    <Denoter did="d32">观察</Denoter>
+                </Event>，
+                <Event eid="e33">
+                    <Denoter did="d33">注重</Denoter>
+                    <Participant sid="s32,s33">孩子</Participant>的
+                    <Object sid="s33">营养干预、照料和健康监测</Object>
+                </Event>，
+                <Event eid="e34">并
+                    <Denoter did="d34" type="operation">指导</Denoter>
+                    <Participant sid="s34" type="recipient">孩子家长</Participant>
+                    <Object sid="s34">科学喂养</Object>
+                </Event>，
+                <Event eid="e35">对其细心
+                    <Denoter did="d35" type="operation">指导</Denoter>
+                </Event>、
+                <Event eid="e36">耐心
+                    <Denoter did="d36" type="operation">呵护</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3-e7"/>
+    <eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eid="e9"/>
+    <eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+    <eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+    <eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e13"/>
+    <eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>
+    <eRelation relType="Follow" bevent_eid="e15" aevent_eid="e16"/>
+    <eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+    <eRelation relType="Follow" bevent_eid="e22" aevent_eid="e23"/>
+    <eRelation relType="Follow" bevent_eid="e23" aevent_eid="e24"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e28" thoughtcontent_eid="e29-e36"/>
+    <eRelation relType="Causal" cause_eid="e29" effect_eid="e30"/>
+    <eRelation relType="Follow" bevent_eid="e30" aevent_eid="e31"/>
+    <eRelation relType="Accompany" accompanya_eid="e31" accompanyb_eid="e32"/>
+    <eRelation relType="Accompany" accompanya_eid="e32" accompanyb_eid="e33"/>
+    <eRelation relType="Accompany" accompanya_eid="e33" accompanyb_eid="e34"/>
+    <eRelation relType="Accompany" accompanya_eid="e35" accompanyb_eid="e36"/>
+</Body>

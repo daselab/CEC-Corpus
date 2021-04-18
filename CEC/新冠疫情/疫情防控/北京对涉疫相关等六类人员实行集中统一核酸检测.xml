@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>北京对涉疫相关等六类人员实行集中统一核酸检测</Title>
+    <ReportTime type="absTime">2020-06-18T00:00</ReportTime>
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="absTime">2020年6月17日</Time>，在
+                    <Location lid="l1">北京市</Location>新型冠状病毒肺炎
+                    <Denoter did="d1" type="operation">疫情防控</Denoter>工作新闻发布会上
+                </Event>，
+                <Event eid="e2" type="Thoughtevent">
+                    <Location lid="l2">北京</Location>新冠肺炎疫情防控工作领导小组检疫检测工作组副组长、市委组织部副部长
+                    <Participant sid="s2" type="agent">张强</Participant>
+                    <Denoter did="d2" type="statement">介绍</Denoter>，
+                </Event>
+                <Event eid="e3">
+                    <Location lid="l301">北京市</Location>对
+                    <Location lid="l302">新发地市场</Location>等涉疫市场、涉疫社区相关人员等“
+                    <Participant oid="o3" type="recipient">六类人员</Participant>”按照
+                    <Means mid="m3">应检尽检原则</Means>实行集中统一
+                    <Denoter did="d3" type="operation">核酸检测</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph></Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e4" type="Thoughtevent">据
+                    <Denoter did="d4" type="statement">介绍</Denoter>
+                </Event>，
+                <Event eid="e5">为迅速
+                    <Denoter did="d5" type="operation">控制</Denoter>
+                    <Object oid="o5">传染源</Object>
+                </Event>，
+                <Event eid="e6">
+                    <Denoter did="d6" type="action">切断</Denoter>
+                    <Object oid="o6">传染链条</Object>
+                </Event>，
+                <Event eid="e7">
+                    <Location lid="l7">北京市</Location>按照
+                    <Means mid="m77">“市级统筹、属地负责，突出重点、分批实施，采检分离、安全有序”的原则，</Means>正在组织开展新型冠状病毒
+                    <Denoter did="d7" type="operation">核酸检测</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e8">对
+                    <Location lid="l8">新发地市场</Location>等
+                    <Denoter did="d8" type="stateChange">涉疫</Denoter>
+                    <Object oid="o801">市场</Object>、涉疫
+                    <Object oid="o802">社区</Object>
+                    <Participant sid="s8" type="agent">相关人员</Participant>
+                </Event>，
+                <Event eid="e9">
+                    <Location lid="l9">北京市中高风险街道乡镇</Location>
+                    <Denoter did="d9" type="movement">常住</Denoter>
+                    <Participant sid="s9" type="agent">居民</Participant>
+                </Event>，
+                <Event eid="e10">
+                    <Location lid="l10">北京市医疗卫生机构</Location>
+                    <Denoter did="d10" type="operation">从业</Denoter>
+                    <Participant sid="s10" type="agent">人员</Participant>
+                </Event>，
+                <Event eid="e11">
+                    <Location lid="l11">公共领域</Location>
+                    <Denoter did="d11" type="operation">服务</Denoter>人员
+                </Event>，
+                <Event eid="e12">已
+                    <Denoter did="d12" type="movement">返校</Denoter>
+                    <Participant sid="s12">学校学生</Participant>及
+                    <Participant sid="s12">教职员工</Participant>
+                </Event>，
+                <Event eid="e13">参与
+                    <Location lid="l13">重点区域社区</Location>
+                    <Denoter did="d13" type="operation">防控</Denoter>一线
+                    <Participant sid="s13" type="agent">工作人员</Participant>
+                </Event>
+                <Event eid="e14">
+                    <Participant oid="o14" type="recipient">六类人员</Participant>按照
+                    <Means mid="m14">应检尽检的原则</Means>，由
+                    <Participant sid="s14" type="agent">属地政府</Participant>在
+                    <Location lid="l14">本区域内</Location>统一组织开展
+                    <Denoter did="d14" type="operation">核酸检测</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e15">自
+                    <Time tid="t15" type="relTime">6月13日</Time>起，已经迅速对新发地市场等出现
+                    <Denoter did="d15" type="emergency">疫情</Denoter>
+                    <Location lid="l15">市场</Location>的人员
+                </Event>、周边小区居民、
+                <Event eid="e16">大数据
+                    <Denoter did="d16" type="operation">排查</Denoter>
+                    <Location lid="l16">涉疫市场</Location>
+                    <Participant oid="o16" type="recipient">人员</Participant>
+                </Event>、
+                <Event eid="e17" type="Thoughtevent">社区“敲门行动”中主动
+                    <Denoter did="d17" type="statement">报告</Denoter>有关
+                    <Object oid="o17">接触史</Object>的
+                    <Participant sid="s17" type="agent">人员</Participant>
+                </Event>以及
+                <Event eid="e18">全市各
+                    <Location lid="l18">农贸市场</Location>
+                    <Denoter did="d18" type="operation">工作</Denoter>
+                    <Participant sid="s18" type="agent">人员</Participant>
+                </Event>约
+                <Event eid="e19">
+                    <Participant oid="o19" type="recipient">35.6万人</Participant>进行
+                    <Denoter did="d19" type="operation">核酸检测</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e20">
+                    <Time tid="t20" type="relTime">6月17日</Time>完成对大数据
+                    <Denoter did="d20" type="operation">筛查</Denoter>的
+                    <Location lid="l20">35.5万涉疫市场</Location>
+                </Event>
+                <Event eid="e21">
+                    <Participant oid="o21" type="recipient">相关人员</Participant>的
+                    <Denoter did="d21" type="operation">检测工作</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e22">对
+                    <Object oid="o2201">重点行业</Object>、
+                    <Object oid="o2202">重点领域</Object>、
+                    <Participant oid="o22" type="recipient">重点地区人员</Participant>的
+                    <Denoter did="d22" type="operation">核酸检测</Denoter>工作也在同步进行
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e23">应检尽检
+                    <Participant sid="s23,s24,s25" type="agent">人员</Participant>应按照
+                    <Means mid="m23,m24,m25">所在社区(村)的通知要求</Means>，在
+                    <Location lid="l23,l24,l25">指定采样点</Location>进行
+                    <Denoter did="d23" type="action">登记</Denoter>
+                </Event>
+                <Event eid="e24">
+                    <Denoter did="d24" type="operation">采样</Denoter>，
+                </Event>
+                <Event eid="e25">接受
+                    <Denoter did="d25" type="operation">核酸检测</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>根据
+                <Means mid="m26">疫情需要</Means>，将适时
+                <Denoter did="d26" type="action">调整</Denoter>
+                <Participant oid="o26" type="recipient">人员</Participant>
+                <Object oid="o26">检测范围</Object>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e27">
+                    <Object sid="s27">检测结果</Object>
+                    <Denoter did="d27" type="stateChange">呈阴性</Denoter>的
+                </Event>，
+                <Event eid="e28" type="Thoughtevent">将由
+                    <Participant sid="s28" type="agent">社区</Participant>向
+                    <Participant oid="o28" type="recipient">检测对象</Participant>进行
+                    <Denoter did="d28" type="statement">反馈</Denoter>
+                </Event>，
+                <Event eid="e29">检测
+                    <Object sid="s29">结果</Object>
+                    <Denoter did="d29" type="stateChange">呈阳性</Denoter>的
+                </Event>，
+                <Event eid="e30">由
+                    <Participant sid="s30" type="agent">属地疾控部门</Participant>按照
+                    <Means mid="m30">流程</Means>开展
+                    <Denoter did="d30" type="movement">转运</Denoter>
+                </Event>
+                <Event eid="e31">
+                    <Denoter did="d31" type="operation">治疗</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e32">愿检尽检
+                    <Participant sid="s32" type="agent">人员</Participant>实行
+                    <Denoter did="d32" type="action">预约</Denoter>
+                </Event>
+                <Event eid="e33">
+                    <Denoter did="d33" type="action">登记</Denoter>
+                </Event>
+                <Event eid="e34">
+                    <Denoter did="d34" type="operation">检测</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e35">自愿检测
+                    <Participant sid="s35"type="agent">人员</Participant>需提前
+                    <Denoter did="d35"type="action">预约</Denoter>
+                </Event>
+                <Event eid="e36">
+                    <Denoter did="d36"type="movement">前往</Denoter>指定
+                    <Location lid="l36">检测机构</Location>
+                </Event>
+                <Event eid="e37">
+                    <Denoter did="d37" type="operation">检测</Denoter>
+                </Event>或
+                <Event eid="e38">向
+                    <Location lid="l38">社区</Location>
+                    <Denoter did="d38"type="action">登记预约</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e39" type="Thoughtevent">
+                    <Time tid="t39" type="relTime">近期</Time>
+                    <Location lid="l39">北京市</Location>已经
+                    <Denoter did="d39"type="statement">公布</Denoter>了
+                    <Object oid="o39">检测机构的名单</Location>
+                </Event>，
+                <Event eid="e40">
+                    <Participant sid="s40,s41,s42,s43,s44" type="agent">市民</Participant>应
+                    <Denoter did="d40" type="stateChange">避免</Denoter>
+                </Event>
+                <Event eid="e41">
+                    <Denoter did="d41" type="movement">自行前往</Denoter>
+                    <Location lid="l41">医院发热门诊</Location>
+                </Event>
+                <Event eid="e42">进行
+                    <Denoter did="d42" type="operation">核酸检测</Denoter>
+                </Event>，
+                <Event eid="e43">
+                    <Denoter did="d43" type="stateChange">减少</Denoter>
+                    <Object oid="o43">人员聚集</Object>
+                </Event>，
+                <Event eid="e44">
+                    <Denoter did="d44" type="stateChange">避免</Denoter>
+                    <Object oid="o44">交叉感染</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e45">如出现
+                    <Denoter did="d45" type="stateChange">发热</Denoter>
+                </Event>或
+                <Event eid="e46">
+                    <Denoter did="d46"type="stateChange">咳嗽</Denoter>
+                </Event>、
+                <Event eid="e47">
+                    <Denoter did="d47" type="stateChange">咽痛</Denoter>等呼吸道症状
+                </Event>，
+                <Event eid="e48">要
+                    <Time tid="t48" type="relTime">第一时间</Time>到
+                    <Location lid="l48">设置发热门诊的医院</Location>进行
+                    <Denoter did="d48" type="operation">筛查</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e7"/>
+    <eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>
+    <eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>
+    <eRelation relType="Follow" bevent_eid="e23" aevent_eid="e24"/>
+    <eRelation relType="Follow" bevent_eid="e24" aevent_eid="e25"/>
+    <eRelation relType="Follow" bevent_eid="e27" aevent_eid="e28"/>
+    <eRelation relType="Follow" bevent_eid="e28" aevent_eid="e30"/>
+    <eRelation relType="Follow" bevent_eid="e30" aevent_eid="e31"/>
+    <eRelation relType="Follow" bevent_eid="e31" aevent_eid="e32"/>
+    <eRelation relType="Follow" bevent_eid="e32" aevent_eid="e33"/>
+    <eRelation relType="Follow" bevent_eid="e33" aevent_eid="e34"/>
+    <eRelation relType="Follow" bevent_eid="e35" aevent_eid="e36"/>
+    <eRelation relType="Follow" bevent_eid="e36" aevent_eid="e37"/>
+    <eRelation relType="Follow" bevent_eid="e41" aevent_eid="e42"/>
+    <eRelation relType="Follow" bevent_eid="e45" aevent_eid="e48"/>
+    <eRelation relType="Follow" bevent_eid="e46" aevent_eid="e48"/>
+    <eRelation relType="Follow" bevent_eid="e47" aevent_eid="e48"/>
+</Body>

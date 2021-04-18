@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>武汉一社区办万家宴，社区负责人：目前一切正常</Title>
+    <ReportTime type="absTime">2020-01-21T00:00</ReportTime>新京报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">1月18日</Time>，
+                    <Location lid="l1">武汉市江岸区百步亭花园社区</Location>
+                    <Denoter did="d1" type="action">举行</Denoter>
+                    <Object sid="s1">万家宴</Object>，
+                </Event>
+                <Event eid="e2">
+                    <Participant oid="o2" type="agent">4万多个家庭</Participant>一起
+                    <Denoter did="d2" type="action">共度</Denoter>
+                    <Object sid="s2">农历小年</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e3">有质疑声
+                    <Denoter did="d3" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e4">在“新型冠状病毒感染的肺炎疫情”下，如此
+                    <Participant oid="o4" type="agent">大规模人群</Participant>
+                    <Denoter did="d4" type="action">不宜聚在一起</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e5">
+                    <Time tid="t5" type="relTime">今日（1月21日）</Time>
+                    <Participant oid="o5" type="agent">新京报记者</Participant>
+                    <Denoter did="d5" type="action">联系</Denoter>到
+                    <Participant sid="s5" type="recipient">百步亭花园社区服务中心</Participant>
+                </Event>，
+                <Event eid="e6">一
+                    <Participant oid="o6" type="agent">负责人</Participant>
+                    <Denoter did="d6" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e7">
+                    <Object oid="o7">万家宴</Object>
+                    <Denoter did="d7" type="action">是</Denoter>
+                    <Object sid="s7">社区传统</Object>
+                </Event>，
+                <Event eid="e8">目前一切正常</Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9">
+                    <Time tid="t9" type="relTime">今日上午</Time>，
+                    <Participant oid="o9" type="agent">百步亭花园社区服务中心一工作人员</Participant>向
+                    <Participant sid="s9" type="recipient">新京报记者</Participant>
+                    <Denoter did="d9">称</Denoter>
+                </Event>，
+                <Event eid="e10">万家宴系社区传统文化</Event>，
+                <Event eid="e11">每年都会
+                    <Denoter did="d11" type="operation">举办</Denoter>
+                </Event>，
+                <Event eid="e12">今年是第二十届</Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e13">对于武汉肺炎疫情下
+                    <Participant oid="o13" type="agent">大规模人员</Participant>
+                    <Denoter did="d13" type="action">聚集</Denoter>在一起是否不当
+                </Event>，
+                <Event eid="e14">该
+                    <Participant oid="o14" type="agent">工作人员</Participant>
+                    <Denoter did="d14" type="statement">回复</Denoter>称
+                </Event>，
+                <Event eid="e15">“
+                    <Participant oid="o15" type="agent">我们</Participant>都
+                    <Denoter did="d15" type="operation">做好相应措施</Denoter>”
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e16">
+                    <Participant oid="o16" type="agent">记者</Participant>
+                    <Denoter did="d16" type="action">追问</Denoter>
+                    <Object sid="s16">措施</Object>指什么
+                </Event>，
+                <Event eid="e17">该
+                    <Participant oid="o17" type="agent">工作人员</Participant>未予回应
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e18">
+                    <Time tid="t18">下午</Time>，
+                    <Participant oid="o18" type="agent">新京报记者</Participant>再次
+                    <Denoter did="d18" type="action">拨打</Denoter>
+                    <Object sid="s18">电话</Object>
+                </Event>，
+                <Event eid="e19">一
+                    <Participant oid="o19" type="agent">工作人员</Participant>将
+                    <Object sid="s19">电话</Object>
+                    <Denoter did="d19" type="action">转给</Denoter>
+                    <Participant oid="o19">领导</Participant>后
+                </Event>，
+                <Event eid="e20">该
+                    <Participant oid="o20">领导</Participant>
+                    <Denoter did="d20" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e21">目前情况一切正常，没有其他情况</Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e22">
+                    <Participant oid="o22" type="agent">新京报记者</Participant>
+                    <Denoter did="d22" type="action">联系到</Denoter>
+                    <Participant oid="o22" type="recipient">冠状病毒研究专家王月丹</Participant>
+                </Event>，
+                <Event eid="e23">
+                    <Participant oid="o23" type="agent">王月丹</Participant>
+                    <Denoter did="d23" type="statement">表示</Denoter>
+                </Event>
+                <Event eid="e24">
+                    <Participant oid="o24" type="agent">社区多人</Participant>
+                    <Denoter did="d24" type="action">参加</Denoter>的
+                    <Object sid="s24">就餐</Object>活动
+                </Event>，
+                <Event eid="e25">
+                    <Participant oid="o25" type="agent">人们</Participant>近距离
+                    <Denoter did="d25" type="action">接触</Denoter>较多，有一定传播风险
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e26">
+                    <Participant oid="o26" type="agent">该社区</Participant>下一步应该
+                    <Denoter did="d26" type="operation">调查是否有</Denoter>参加
+                    <Participant sid="s26" type="recipient">人群</Participant>
+                    <Object sid="s26">发热病人增加的现象</Object>
+                </Event>，
+                <Event eid="e27">是否有类似
+                    <Participant oid="o27" type="agent">冠状病毒感染的患者</Participant>
+                    <Denoter did="d27" type="stateChange">是否出现</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e28">
+                    <Participant oid="o28" type="agent">王月丹</Participant>
+                    <Denoter did="d28" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e29">作为
+                    <Participant oid="o29" type="agent">社区</Participant>，应该
+                    <Denoter did="d29" type="operation">印发</Denoter>一些
+                    <Object sid="s29">防控宣传资料</Object>
+                </Event>，
+                <Event eid="e30">
+                    <Means mid="m30">也可通过发放宣传手册或微信告知</Means>等方式，把
+                    <Object sid="s30">国家卫健委或武汉卫健委关于冠状病毒防控的建议</Object>及时
+                    <Denoter did="d30" type="operation">整理</Denoter>出来让居民了解相应内容。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e31">
+                    <Denoter did="d31" type="action">提醒</Denoter>
+                    <Participant sid="s31" type="recipient">居民</Participant>有症状
+                    <Object sid="s31">及时就医</Object>
+                </Event>，
+                <Event eid="e32">
+                    <Denoter did="d32">加强防寒保暖</Denoter>
+                </Event>，
+                <Event eid="e33">
+                    <Denoter did="d33" type="action">维持</Denoter>
+                    <Object sid="s33">自身免疫力</Object>
+                </Event>，
+                <Event eid="e34">尽量减少到人多拥挤的场所</Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e35">在家应该及时
+                    <Denoter did="d35" type="action">开窗通风</Denoter>
+                </Event>
+                <Event eid="e36">及通过
+                    <Means mid="m36">消毒、清洁</Means>的方式
+                    <Denoter did="d36" type="operation">防疫</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e37">
+                    <Participant oid="o37" type="agent">社区</Participant>也有必要
+                    <Denoter did="d37" type="operation">配备</Denoter>一些
+                    <Object sid="s37">防疫物品</Object>,如口罩和消毒剂等
+                </Event>，
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e38">此外，
+                    <Location lid="l38">社区医院</Location>里应有
+                    <Denoter did="d38" type="action">负责</Denoter>冠状病毒的
+                    <Participant oid="o38,o39" type="agent">医护人员</Participant>
+                </Event>，
+                <Event eid="e39">并
+                    <Denoter did="d39" type="action">公开</Denoter>
+                    <Object sid="s39">联系方式</Object>
+                </Event>，
+                <Event eid="e40">确保
+                    <Participant oid="o40" type="agent">个人</Participant>若
+                    <Denoter did="d40" type="perception">发现</Denoter>
+                    <Object sid="s40">类似冠状病毒感染症状</Object>
+                </Event>，
+                <Event eid="e41">能及时
+                    <Denoter did="d41" type="action">联系</Denoter>
+                    <Participant sid="s41" type="recipient">医生</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eid="e4"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eid="e7-e8"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eid="e10-e12"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e14" thoughtcontent_eid="e15"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eid="e21"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e23" thoughtcontent_eid="e24-e27"/>
+    <eRelation relType="Follow" bevent_eid="e26" aevent_eid="e27"/>
+    <eRelation relType="Composite" fevent_eid="e30" sevent_eids="e31-e36"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e28" thoughtcontent_eid="e29-e37"/>
+    <eRelation relType="Follow" bevent_eid="e40" aevent_eid="e41"/>
+    <eRelation relType="Composite" fevent_eid="e38" sevent_eids="e39-e41"/>
+    <eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+</Body>

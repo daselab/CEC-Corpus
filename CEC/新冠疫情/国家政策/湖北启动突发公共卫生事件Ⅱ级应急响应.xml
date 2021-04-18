@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>湖北启动突发公共卫生事件Ⅱ级应急响应</Title>
+    <ReportTime type="absTime">2020-01-22T00:00</ReportTime>央视网新闻
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1,t2" type="relTime">今天（22日）凌晨2点40分</Time>，
+                    <Participant sid="s1,s2" type="agent">湖北省政府</Participant>
+                    <Denoter did="d1" type="statement">发布</Denoter>
+                    <Object oid="o1">关于新型冠状病毒感染的肺炎通告</Object>，
+                </Event>
+                <Event eid="e2">
+                    <Denoter did="d2" type="operation">决定启动</Denoter>
+                    <Object oid="o2">突发公共卫生事件II级应急响应</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e3">
+                    <Object sid="s3">通告</Object>
+                    <Denoter did="d3" type="statement">称</Denoter>，
+                </Event>
+                <Event eid="e4">第一要严格
+                    <Denoter did="d4" type="operation">实行</Denoter>
+                    <Object oid="o4">属地管理制度</Object>，
+                </Event>
+                <Event eid="e5">
+                    <Participant sid="s5,s6" type="agent">各市州</Participant>
+                    <Denoter did="d5" type="operation">成立</Denoter>
+                    <Object oid="o5">领导机构</Object>，
+                </Event>
+                <Event eid="e6">
+                    <Denoter did="d6" type="perception">接受</Denoter>
+                    <Object oid="o6">统一领导</Object>、
+                    <Object oid="o6">统一指挥</Object>、
+                    <Object oid="o6">统筹协调</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e7">第二严格
+                    <Denoter did="d7" type="operation">实施</Denoter>
+                    <Object oid="o7">隔离措施</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e8">第三
+                    <Denoter did="d8" type="stateChange">加强</Denoter>
+                    <Object oid="o8">社会面防控</Object>，
+                </Event>
+                <Event eid="e9">省内所有
+                    <Participant sid="s9,s10,s11" type="agent">机场</Participant>、
+                    <Participant sid="s9,s10,s11" type="agent">车站</Participant>、
+                    <Participant sid="s9,s10,s11" type="agent">码头</Participant>等
+                    <Participant sid="s9,s10,s11" type="agent">交通枢纽均</Participant>
+                    <Denoter did="d9" type="action">设立</Denoter>
+                    <Object oid="o9">体温检测点</Object>，
+                </Event>
+                <Event eid="e10">对所有
+                    <Participant oid="o10" type="recipient">进站人员</Participant>实行
+                    <Denoter did="d10" type="action">体温检测</Denoter>，
+                </Event>
+                <Event eid="e11">并
+                    <Denoter did="d11" type="operation">做好</Denoter>
+                    <Object oid="o11">健康登记</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e12">
+                    <Participant sid="s12,s13,s14" type="agent">城乡组织</Participant>要对来自
+                    <Location lid="l12" type="origin">疫区</Location>的
+                    <Participant oid="o12" type="recipient">返乡人员</Participant>和
+                    <Participant oid="o12" type="recipient">外来人员</Participant>逐一进行
+                    <Denoter did="d12" type="action">健康登记</Denoter>，
+                </Event>并
+                <Event eid="e13">严格
+                    <Denoter did="d13" type="operation">控制</Denoter>
+                    <Object oid="o13">外出开会</Object>、
+                    <Object oid="o13">旅游</Object>、
+                    <Object oid="o13">考察</Object>等活动，
+                </Event>
+                <Event eid="e14">严格
+                    <Denoter did="d14" type="operation">限制</Denoter>举办
+                    <Object oid="o14">大型活动</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>第四
+                <Event eid="e15">
+                    <Denoter did="d15" type="stateChange">严格</Denoter>
+                    <Object oid="o15">疫情报告制度</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>第五
+                <Event eid="e16">
+                    <Denoter did="d16" type="stateChange">加强</Denoter>
+                    <Object oid="o16">医疗机构管理</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>第六
+                <Event eid="e17">
+                    <Denoter did="d17" type="operation">做好</Denoter>
+                    <Object oid="o17">物资保障工作</Object>，
+                </Event>
+                <Event eid="e18">对
+                    <Means mid="m18">趁机制售伪劣产品</Means>、
+                    <Means mid="m18">囤积居奇</Means>、
+                    <Means mid="m18">哄抬物价</Means>、
+                    <Means mid="m18">行骗牟利</Means>等
+                    <Denoter did="d18" type="perception">扰乱</Denoter>
+                    <Object oid="o18">市场秩序</Object>的
+                    <Object sid="s18">行为</Object>
+                </Event>
+                <Event eid="e19">
+                    <Object oid="o19">扰乱市场秩序的行为</Object>
+                    <Means mid="m19">依法</Means>从严从快
+                    <Denoter did="d19" type="operation">查处</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e20">第七
+                    <Denoter did="d20" type="operation">维护</Denoter>
+                    <Object oid="o20">社会稳定</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e21">
+                    <Object sid="s21">通告</Object>
+                    <Time tid="t21" type="timeInterval">自发布之日起</Time>
+                    <Denoter did="d21" type="operation">施行</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eid="e4-e20"/>
+    <eRelation relType="Composite" fevent_eid="e4" sevent_eids="e5-e6"/>
+    <eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+    <eRelation relType="Composite" fevent_eid="e8" sevent_eids="e9-e14"/>
+    <eRelation relType="Composite" fevent_eid="e17" sevent_eids="e19"/>
+    <eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+    <eRelation relType="Follow" bevent_eid="e1" aevent_eid="e21"/>
+</Body>

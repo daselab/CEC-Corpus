@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>美国男子隐瞒新冠飞机上死亡 乘客参与抢救后出现症状</Title>
+    <ReportTime type="absTime">2020-12-25T00:00</ReportTime>海外网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1" type="Thoughtevent">
+                    <Participant sid="s1" type="agent">海外网</Participant>
+                    <Time tid="t1" type="relTime">12月25日</Time>
+                    <Denoter did="d1" type="statement">电</Denoter>
+                </Event>
+                <Event eid="e2">在
+                    <Location lid="l2">飞机上</Location>一名
+                    <Participant sid="s2" type="agent">美国男子</Participant>突然
+                    <Denoter did="d2" type="stateChange">昏倒</Denoter>
+                </Event>，
+                <Event eid="e3">
+                    <Time tid="t3" type="relTime">不久后</Time>
+                    <Denoter did="d3" type="stateChange">死亡</Denoter>
+                </Event>，
+                <Event eid="e4" type="Thoughtevent">
+                    <Time tid="t4" type="relTime">当地时间22日</Time>发布的
+                    <Object sid="s4">验尸报告</Object>
+                    <Denoter did="d4" type="statement">显示</Denoter>
+                </Event>，
+                <Event eid="e5">该
+                    <Participant sid="s5" type="agent">男子</Participant>
+                    <Denoter did="d5" type="stateChange">死于</Denoter>
+                    <Object oid="o5">新冠肺炎</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6" type="Thoughtevent">据
+                    <Participant sid="s6" type="agent">美国广播公司</Participant>（ABC）
+                    <Denoter did="d6" type="statement">报道</Denoter>
+                </Event>，
+                <Event eid="e7" type="relTime">这名
+                    <Participant sid="s7,s8" type="agent">男子</Participant>于
+                    <Time tid="t7">14日</Time>
+                    <Denoter did="d7" type="action">乘坐</Denoter>
+                    <Object oid="o7">美国联合航空公司航班</Object>，
+                </Event>从
+                <Event eid="e8">
+                    <Location lid="l8" type="origin">佛罗里达奥兰多</Location>
+                    <Denoter did="d8" type="movement">飞往</Denoter>
+                    <Location lid="l8" type="destination">洛杉矶</Location>
+                </Event>，
+                <Event eid="e9">
+                    <Participant sid="s9" type="agent">男子</Participant>
+                    <Denoter did="d9" type="stateChange">昏倒</Denoter>后
+                </Event>，
+                <Event eid="e10">
+                    <Object sid="s10">飞机</Object>
+                    <Denoter did="d10" type="action">紧急降落</Denoter>
+                    <Location lid="l10">新奥尔良</Location>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e11">
+                    <Participant sid="s11" type="agent">医护人员</Participant>将
+                    <Participant oid="o11,o12" type="recipient">他</Participant>
+                    <Denoter did="d11" type="movement">送往</Denoter>
+                    <Location lid="l11">当地一家医院</Location>后
+                </Event>
+                <Event eid="e12" type="Thoughtevent">
+                    <Denoter did="d12" type="statement">宣布</Denoter>
+                    <Object oid="o12">其死亡</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e13">
+                    <Participant sid="s13" type="agent">验尸官</Participant>
+                    <Denoter did="d13" type="perception">认为</Denoter>
+                </Event>，
+                <Event eid="e14">
+                    <Object sid="s14">急性呼吸衰竭和新冠肺炎</Object>是
+                  	<Participant oid="o14" type="recipient">这名69岁男子</Participant>导致
+                    <Denoter did="d14" type="stateChange">死亡</Denoter>的原因
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e15" type="Thoughtevent">
+                    <Participant sid="s15" type="agent">目击者</Participant>
+                    <Denoter did="d15" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e16">该
+                    <Participant sid="s16" type="agent">乘客的妻子</Participant>
+                    <Denoter did="d16" type="action">告诉</Denoter>一名
+                    <Participant oid="o16" type="recipient">急救医务人员</Participant>
+                </Event>，
+                <Event eid="e17">
+                    <Participant sid="s17" type="agent">她的丈夫</Participant>
+                    <Time tid="t17" type="relTime">此前</Time>
+                    <Denoter did="d17" type="stateChange">出现</Denoter>了
+                    <Object oid="o17">新冠肺炎相关症状</Object>
+                </Event>，
+                <Event eid="e18">包括
+                    <Object sid="s18">嗅觉</Object>
+                    <Denoter did="d18" type="stateChange">丧失</Denoter>
+                </Event>
+                <Event eid="e19">和
+                    <Denoter did="d19" type="stateChange">呼吸困难</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e20">
+                    <Means mid="m20">按照美联航要求</Means>，
+                    <Participant sid="s20" type="agent">乘客</Participant>在
+                    <Denoter did="d20" type="action">登机</Denoter>前
+                </Event>，
+                <Event eid="e21">需
+                    <Denoter did="d21" type="action">提供</Denoter>
+                    <Object oid="o21">14天内新冠肺炎检测阴性结果的证明</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e22" type="Thoughtevent">
+                    <Participant sid="s22" type="agent">知情人士</Participant>
+                    <Denoter did="d22" type="statement">告诉</Denoter>
+                    <Participant oid="o22" type="recipient">ABC</Participant>
+                </Event>，
+                <Event eid="e23">
+                    <Participant sid="s23" type="agent">这名乘客</Participant>
+                    <Denoter did="d23" type="action">填写</Denoter>了
+                    <Object oid="o23">表格</Object>，
+                </Event>
+                <Event eid="e24">但
+                    <Denoter did="d24" type="statement">隐瞒</Denoter>了
+                    <Object oid="o24">新冠检测呈阳性的情况</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e25" type="Thoughtevent">
+                    <Participant sid="s25" type="agent">美联航</Participant>
+                    <Denoter did="d25" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e26">已将
+                    <Object oid="o26">所有乘客信息</Object>和
+                    <Object oid="o26">座位</Object>
+                    <Denoter did="d26" type="action">提交</Denoter>给
+                    <Participant sid="s26" type="recipient">美国疾控中心</Participant>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e27" type="Thoughtevent">该
+                    <Location lid="l27">航班上</Location>的
+                    <Participant sid="s27" type="agent">几名乘客</Participant>
+                    <Denoter did="d27" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e28">
+                    <Participant sid="s28" type="agent">他们</Participant>
+                    <Time tid="t28" type="relTime">现在</Time>已经
+                    <Denoter did="d28" type="stateChange">出现</Denoter>
+                  	<Object oid="o28">症状</Object>
+                </Event>，
+                <Event eid="e29" type="Polarity-negative">
+                    <Participant sid="s29" type="agent">疾控中心</Participant>
+                    <Denoter did="d29" type="action">暂未联系</Denoter>
+                    <Participant oid="o29" type="recipient">他们</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e30"type="Thoughtevent">据机上乘客
+                    <Participant sid="s30"type="agent">卡梅隆·罗伯茨</Participant>和
+                    <Participant sid="s30"type="agent">他的未婚妻</Participant>
+                    <Denoter did="d30"type="statement">描述</Denoter>，
+                </Event>
+                <Event eid="e31">
+                    <Time tid="t31" type="relTime">当时</Time>的
+                    <Object sid="s31">场景</Object>非常
+                    <Denoter did="d31" type="stateChange">混乱</Denoter>
+                </Event>，
+                <Event eid="e32">
+                    <Participant sid="s32" type="agent">其他乘客</Participant>都冲过去
+                    <Denoter did="d32" type="action">帮助</Denoter>
+                    <Participant oid="o32" type="recipient">这名男子</Participant>
+                </Event>，
+                <Event eid="e33">对
+                    <Participant oid="o33,o34" type="recipient">他</Participant>进行了
+                    <Denoter did="d33" type="action">胸外按压</Denoter>
+                </Event>
+                <Event eid="e34">和
+                    <Denoter did="d34" type="action">人工呼吸</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e35" type="Thoughtevent">
+                    <Participant sid="s35" type="agent">罗伯茨</Participant>
+                    <Denoter did="d35" type="statement">说</Denoter>
+                </Event>：“
+                <Event eid="e36">
+                    <Participant sid="s36" type="agent">他们</Participant>把
+                    <Participant oid="o36" type="recipient">他</Participant>
+                    <Denoter did="d36" type="action">放在</Denoter>
+                    <Location lid="l36">过道中央的地上</Location>
+                </Event>，
+                <Event eid="e37">
+                    <Participant sid="s37" type="agent">我们</Participant>
+                    <Denoter did="d37" type="movement">着陆</Denoter>的时候
+                </Event>，
+                <Event eid="e38">
+                    <Participant sid="s38" type="agent">他们</Participant>还在给
+                    <Participant oid="o38" type="recipient">他</Participant>
+                    <Denoter did="d38" type="action">做</Denoter>
+                  	<Object sid="s38">心肺复苏</Object>
+                </Event>。”
+            </Sentence>
+            <Sentence>
+                <Event eid="e39" type="Thoughtevent">
+                    <Participant sid="s39" type="agent">罗伯茨</Participant>
+                    <Denoter did="d39" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e40">正在
+                    <Denoter did="d40" type="operation">隔离</Denoter>
+                </Event>
+                <Event eid="e41">并已接受了
+                    <Denoter did="d41" type="operation">新冠肺炎检测</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e42" type="Thoughtevent">
+                    <Participant sid="s42" type="agent">罗伯茨</Participant>
+                    <Denoter did="d42" type="statement">说</Denoter>
+                </Event>：“很遗憾，
+                <Event eid="e43">
+                    <Participant sid="s43" type="agent">他们</Participant>
+                    <Denoter did="d43" type="stateChange">失去</Denoter>了
+                    <Participant oid="o43" type="recipient">一名家庭成员</Participant>
+                </Event>，
+                <Event eid="e44">但
+                    <Time tid="t44" type="relTime">与此同时</Time>
+                    <Participant sid="s44" type="agent">他们</Participant>
+                    <Denoter did="d44" type="movement">登上</Denoter>这架
+                    <Object oid="o">飞机</Object>也是不负责任的表现
+                </Event>。”
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e44"/>
+    <eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eid="e5"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e10"/>
+    <eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10"/>
+    <eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e13" thoughtcontent_eid="e14"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e15" thoughtcontent_eids="e16-e19"/>
+    <eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/>
+    <eRelation relType="Follow" bevent_eid="e21" aevent_eid="e20"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e22" thoughtcontent_eids="e23-e24"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e25" thoughtcontent_eid="e26"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e27" thoughtcontent_eids="e28-e29"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e30" thoughtcontent_eids="e31-e34"/>
+    <eRelation relType="Accompany" accompanya_eid="e33" accompanyb_eid="e34"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e35" thoughtcontent_eids="e36-e38"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e39" thoughtcontent_eids="e40-e41"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e42" thoughtcontent_eid="e43-e44"/>
+    <eRelation relType="Accompany" accompanya_eid="e43" accompanyb_eid="e44"/>
+</Body>

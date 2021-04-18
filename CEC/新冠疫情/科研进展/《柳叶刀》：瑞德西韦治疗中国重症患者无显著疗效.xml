@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>《柳叶刀》：瑞德西韦治疗中国重症患者无显著疗效</Title>
+    <ReportTime type="absTime">2020-04-30T00:00</ReportTime>21世纪经济报道
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">4月29日</Time>，
+                    <Participant oid="o1" type="agent">顶尖医学杂志《柳叶刀》</Participant>在线
+                    <Denoter did="d1" type="statement">正式发表</Denoter>了
+                    <Object sid="s1">瑞德西韦第一项临床试验的数据结果</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e2">这是一项在
+                    <Location lid="l2">中国湖北十家医院</Location>开展的，
+                    <Means mid="m2">针对重症新冠肺炎（COVID-19）患者的随机、双盲、安慰剂对照的多中心</Means>
+                    <Denoter did="d2" type="operation">试验</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e3">简言之，这项
+                    <Object oid="o3">临床试验结果</Object>
+                    <Denoter did="d3" type="statement">显示</Denoter>
+                </Event>，
+                <Event eid="e4">与安慰剂相比，
+                    <Object oid="o4">接受瑞德西韦给药治疗</Object>并
+                    <Denoter did="d4" type="stateChange">没有显著提高</Denoter>
+                    <Object sid="s4">新冠肺炎患者的临床改善时间</Object>、
+                    <Object sid="s4">死亡率</Object>或
+                    <Object sid="s4">病毒清除时间</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">换句话说，
+                    <Object oid="o5">瑞德西韦的疗效</Object>
+                    <Denoter did="d5" type="stateChange">不明显</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">同日，
+                    <Participant oid="o6" type="agent">吉利德和美国国立卫生研究院</Participant>则同时
+                    <Denoter did="d6" type="statement">发布公告</Denoter>称其临床试验显示瑞德西韦显示出积极的效果
+                </Event>，且已达到其主要终点。
+            </Sentence>
+            <Sentence>
+                <Event eid="e7">
+                    <Participant oid="o7,o8" type="agent">接受瑞德西韦治疗的晚期患者</Participant>
+                    <Denoter did="d7" type="stateChange">康复</Denoter>
+                </Event>
+                <Event eid="e8">
+                    <Denoter did="d8" type="action">速度快于</Denoter>
+                    <Participant sid="s8" type="recipient">接受安慰剂的患者。</Participant>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>由于新冠肺炎至今没有特效药物，疫苗仍在路上，从1月末2月初开始的这场关于瑞德西韦有没有效果的讨论几乎周周上热门。</Sentence>
+            <Sentence>回顾一下瑞德西韦“成名史”，结果还是要靠严格的临床试验数据说话。</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9">
+                    <Object sid="s9,s14">瑞德西韦（Remdesivir）</Object>是一种核苷酸类似物，一开始是
+                    <Participant oid="o9" type="agent">吉利德公司</Participant>针对埃博拉病毒
+                    <Denoter did="d9" type="operation">开发</Denoter>的
+                </Event>，
+                <Event eid="e10">但它对
+                    <Object oid="o10">埃博拉</Object>的
+                    <Object oid="o10">作用</Object>
+                    <Denoter did="d10" type="stateChange">不明显</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e11">由于在体外和体内动物模型中
+                    <Denoter did="d11" type="operation">证明</Denoter>
+                </Event>了
+                <Event eid="e12">对
+                    <Object sid="s12">SARS和MERS等病毒病原体</Object>均
+                    <Denoter did="d12" type="action">有活性</Denoter>
+                </Event>，
+                <Event eid="e13">
+                    <Participant oid="o13" type="agent">研究人员</Participant>
+                    <Denoter did="d13" type="statement">推测</Denoter>
+                </Event>
+                <Event eid="e14">它对于此次的
+                    <Object sid="s14">新冠肺炎</Object>也
+                    <Denoter did="d14" type="stateChange">有效</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e15">
+                    <Time tid="t15" type="absTime">2020年1月19日</Time>，
+                    <Participant oid="o15" type="agent">一名由武汉返美的35岁男子</Participant>
+                    <Location lid="l15">在华盛顿州</Location>
+                    <Denoter did="d15" type="stateChange">确诊</Denoter>为
+                    <Object sid="s15">新冠肺炎</Object>
+                </Event>，
+                <Event eid="e16">后
+                    <Participant oid="o16" type="agent">医生</Participant>采用
+                    <Means mid="m16">“同情用药”的方式</Means>对其
+                    <Denoter did="d16" type="operation">注射</Denoter>了
+                    <Object sid="s16">瑞德西韦</Object>
+                </Event>，
+                <Event eid="e17">
+                    <Object oid="o17">这名男子的临床状况</Object>得到
+                    <Denoter did="d17" type="stateChange">大幅改善</Denoter>
+                </Event>，
+                <Event eid="e18">瑞德西韦“一战成名”</Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>当时正是中国疫情焦灼的时期，
+                <Event eid="e19">
+                    <Participant oid="o19" type="agent">中国的研究人员</Participant>立即着手在
+                    <Location lid="l19">武汉</Location>开展瑞德西韦
+                    <Means mid="m19">针对新冠肺炎的临床</Means>
+                    <Denoter did="d19" type="operation">试验</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e20">
+                    <Time tid="t20" type="relTime">2月2日</Time>，
+                    <Participant oid="o20" type="agent">中日友好医院</Participant>
+                    <Denoter did="d20" type="statement">发布公告</Denoter>称
+                </Event>：“
+                <Event eid="e21">
+                    <Participant oid="o21" type="agent">中日友好医院</Participant>在
+                    <Location lid="l21">武汉疫区</Location>
+                    <Denoter did="d21" type="operation">牵头开展</Denoter>
+                </Event>
+                <Event eid="e22">
+                    <Object oid="o22">瑞德西韦</Object>（Remdesivir）
+                    <Denoter did="d22" type="operation">治疗</Denoter>
+                    <Object sid="s22">2019-nCoV新型冠状病毒</Object>
+                </Event>
+                <Event eid="e23">
+                    <Denoter did="d23" type="operation">临床研究</Denoter>
+                </Event>，为抗击疫情带来曙光。”
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e24">
+                    <Participant oid="o24">中日友好医院呼吸与危重症医学科主任曹彬团队</Participant>
+                    <Location lid="l24">在武汉</Location>
+                    <Denoter did="d24" type="operation">发起</Denoter>了
+                    <Object sid="s24">两项试验</Object>
+                </Event>，
+                <Event eid="e25">
+                    <Means mid="m25">根据ClinicalTrials.gov注册信息</Means>
+                    <Denoter did="d25" type="statement">显示</Denoter>，针对重症和轻中症的两项试验注册日期分别为
+                    <Time tid="t25" type="relTime">2月6日</Time>和
+                    <Time tid="t25" type="relTime">2月5日</Time>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e26">其时预期
+                    <Denoter did="d26" type="stateChange">结束</Denoter>时间为
+                    <Time tid="t26" >4月底</Time>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e27">随着
+                    <Object oid="o27">疫情</Object>
+                    <Location lid="l27">在全球</Location>的
+                    <Denoter did="d27" type="action">扩散</Denoter>
+                </Event>，
+                <Event eid="e28">
+                    <Object oid="o28">瑞德西韦</Object>相继
+                    <Location lid="l28">在美国和全球其他疫情严重的国家</Location>展开
+                    <Denoter did="d28" type="operation">临床试验</Denoter>
+                </Event>，
+                <Event eid="e29">其中既有
+                    <Participant oid="o29" type="agent">研究者</Participant>
+                    <Denoter did="d29" type="operation">发起</Denoter>
+                </Event>，
+                <Event eid="e30">也有
+                    <Participant oid="o30" type="agent">吉利德自己</Participant>
+                    <Denoter did="d30" type="operation">发起</Denoter>的
+                    <Object oid="o30">临床试验</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e31">
+                    <Location lid="l31">在全球</Location>翘首以盼
+                    <Object oid="o31">瑞德西韦</Object>“
+                    <Denoter did="d31" type="action">揭盲</Denoter>”的时候
+                </Event>，
+                <Event eid="e32">
+                    <Time tid="t32" type="relTime">4月10日</Time>，针对瑞德西韦在全球的进展，
+                    <Participant oid="o32" type="agent">吉利德科学董事长兼首席执行官Daniel O’Day</Participant>
+                    <Denoter did="d32" type="statement">发布</Denoter>了
+                    <Object oid="o32">一封公开信</Object>称
+                </Event>，
+                <Event eid="e33">目前
+                    <Object oid="o33">瑞德西韦有七项临床试验</Object>已经
+                    <Denoter did="d33" type="stateChange">启动</Denoter>
+                </Event>，
+                <Event eid="e34">预计在
+                    <Time tid="t34" type="relTime">4月底</Time>
+                    <Denoter did="d34" type="action">获得</Denoter>
+                    <Object sid="s34">瑞德西韦</Object>针对
+                    <Object sid="s34">重症患者研究的初步数据</Object>
+                </Event>，但在中国“因入组停滞，针对重症患者的研究已停止。”
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e35">同时
+                    <Participant oid="o35" type="agent">吉利德</Participant>
+                    <Means mid="m35">在《新英格兰医学杂志》上</Means>
+                    <Denoter did="d35" type="statement">发布</Denoter>
+                </Event>一项
+                <Event eid="e36">
+                    <Object oid="o36">瑞德西韦</Object>（remdesivir）针对重症新冠病毒肺炎患者采用
+                    <Denoter did="d36" type="operation">同情用药</Denoter>（compassionate use）的
+                    <Object oid="o36">治疗结果</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>在接受
+                <Event eid="e37">同情使用
+                    <Object oid="o37">瑞德西韦</Object>
+                    <Denoter did="d37" type="operation">治疗</Denoter>的
+                    <Participant sid="s37" type="recipient">严重Covid-19住院患者</Participant>
+                </Event>中，在总共53例患者中，有
+                <Event eid="e38">
+                    <Participant sid="s38" type="recipient">36例</Participant>（68%）观察到临床
+                    <Denoter did="d38" type="stateChange">改善</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>但
+                <Event eid="e39">
+                    <Means mid="m39">缺乏对照组试验</Means>，
+                    <Object oid="o39">数据</Object>
+                    <Denoter did="d39" type="action">存在</Denoter>
+                    <Object sid="s39">局限性</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e40">
+                    <Time tid="t40" type="relTime">4月15日</Time>，
+                    <Participant oid="o40" type="agent">曹彬团队</Participant>
+                    <Denoter did="d40" type="stateChange">更新</Denoter>了这
+                    <Object sid="s40">两项试验在全球最大的临床试验登记中心上的信息</Object>
+                </Event>，重症状态更新为“终止”，轻中症状态更新为“暂停”，理由
+                <Event eid="e41">均为
+                    <Object sid="s41">“COVID-19的流行</Object>在
+                    <Location lid="l41">中国</Location>已经得到很好的
+                    <Denoter did="d41" type="operation">控制</Denoter>
+                </Event>，目前没有符合条件的患者可以被纳入。
+            </Sentence>”
+        </Paragraph>
+        <Paragraph>
+            <Sentence>由于
+                <Event eid="e42">
+                    <Object sid="s42">瑞德西韦</Object>被
+                    <Denoter did="d42">寄予</Denoter>
+                    <Object sid="s42">厚望</Object>
+                </Event>，
+                <Event eid="e43">
+                    <Object oid="o43">吉利德市值</Object>在
+                    <Time tid="t43" type="relTime">2020年一季度</Time>
+                    <Denoter did="d43" type="action">上涨</Denoter>14.5%
+                </Event>，股价触及新高。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>戏剧性始于一周前的
+                <Event eid="e44">
+                    <Time tid="t44" type="relTime">4月23日</Time>，由于世卫组织的一次“误操作”让
+                    <Object sid="s44">中国临床试验结果</Object>
+                    <Denoter did="d44" type="statement">提前意外曝光</Denoter>
+                </Event>，
+                <Event eid="e45">
+                    <Denoter did="d45" type="statement">称</Denoter>
+                </Event>其
+                <Event eid="e46">
+                    <Object sid="s46">疗效</Object>令人
+                    <Denoter did="d46" type="perception">失望</Denoter>
+                </Event>，本来
+                <Event eid="e47">走势良好的当天
+                    <Object oid="o47">吉利德股价盘</Object>中突然
+                    <Denoter did="d47" type="stateChange">跳水</Denoter>
+                </Event>，一度下探超过8%，收跌4.34%。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e48">这项试验即为此次《
+                    <Participant oid="o48" type="agent">柳叶刀</Participant>》
+                    <Denoter did="d48" type="statement">发布</Denoter>的结果
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e49">当天
+                    <Participant oid="o49" type="agent">吉利德全球首席医疗官Merdad Parsey</Participant>代表公司
+                    <Denoter did="d49" type="statement">紧急发布声明</Denoter>称
+                </Event>，“
+                <Event eid="e50">
+                    <Means mid="m50">我们认为</Means>那篇
+                    <Object oid="o50">文章</Object>包含了对
+                    <Object sid="s50">研究</Object>的
+                    <Denoter did="d50" type="statement">不恰当描述</Denoter>
+                </Event>。由于入组率低，该研究被提前终止，因此，
+                <Event eid="e51">它的
+                    <Object oid="o51">数据</Object>
+                    <Denoter did="d51" type="action">不足以支撑</Denoter>
+                    <Object sid="s51">有统计意义的结论</Object>
+                </Event>。”
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e52">一周后，
+                    <Object oid="o52">《柳叶刀》</Object>
+                    <Denoter did="d52" type="statement">发布</Denoter>了
+                    <Participant sid="s52" type="recipient">曹彬团队</Participant>的
+                    <Object sid="s52">“不尽如人意”的试验结果</Object>
+                </Event>，而
+                <Event eid="e53">
+                    <Participant oid="o53" type="agent">美国国立卫生院和吉利德</Participant>
+                    <Denoter did="d53" type="statement">坚持称</Denoter>
+                    <Object sid="s53">瑞德西韦仍旧有效果</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>根据吉利德发布的时间表，
+                <Event eid="e54">后续还有多项
+                    <Object sid="s54">临床试验</Object>将
+                    <Denoter did="d54" type="statement">公布</Denoter>
+                    <Object sid="s54">结果</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eid="e4-e5"/>
+    <eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+    <eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e13" thoughtcontent_eid="e14"/>
+    <eRelation relType="Causal" cause_eid="e12" effect_eid="e13-e14"/>
+    <eRelation relType="Follow" bevent_eid="e15" aevent_eid="e16"/>
+    <eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eid="e18"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eid="e21-e22"/>
+    <eRelation relType="Composite" fevent_eid="e21" sevent_eids="e22-e23"/>
+    <eRelation relType="Accompany" accompanya_eid="e22" accompanyb_eid="e23"/>
+    <eRelation relType="Follow" bevent_eid="e27" aevent_eid="e28"/>
+    <eRelation relType="Composite" fevent_eid="e28" sevent_eids="e29-e30"/>
+    <eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e32" thoughtcontent_eid="e33-34"/>
+    <eRelation relType="Follow" bevent_eid="e33" aevent_eid="e34"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e35" thoughtcontent_eid="e36"/>
+    <eRelation relType="Follow" bevent_eid="e37" aevent_eid="e38"/>
+    <eRelation relType="Causal" cause_eid="e42" effect_eid="e43"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e45" thoughtcontent_eid="e46"/>
+    <eRelation relType="Causal" cause_eid="e46" effect_eid="e47"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e49" thoughtcontent_eid="e50-e51"/>
+    <eRelation relType="Accompany" accompanya_eid="e50" accompanyb_eid="e51"/>
+    <eRelation relType="Accompany" accompanya_eid="e52" accompanyb_eid="e53"/>
+</Body>

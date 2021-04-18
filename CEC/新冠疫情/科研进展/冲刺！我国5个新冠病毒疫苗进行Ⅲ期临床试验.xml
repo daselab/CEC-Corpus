@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>冲刺！我国5个新冠病毒疫苗进行Ⅲ期临床试验</Title>
+    <ReportTime type="absTime">2020-12-17T00:00</ReportTime>新华网
+    <Content>
+        <Paragraph>“
+            <Sentence>
+                <Event eid="e1">
+                    <Participant oid="o1" type="agent">我国</Participant>
+                    <Time tid="t1" type="relTime">目前</Time>已有
+                    <Object oid="o1">5个新冠病毒疫苗</Object>
+                    <Denoter did="d1"type="operation" >进行Ⅲ期临床试验</Denoter>
+                </Event>，
+                <Event eid="e2">
+                    <Object oid="o2">数量</Object>
+                    <Denoter did="d2" type="action">位于</Denoter>
+                    <Location lid="l2">全球前列</Location>
+                </Event>。”
+                <Event eid="e3">
+                    <Participant oid="o3">国务院联防联控机制科研攻关组疫苗研发专班工作组组长、国家卫健委医药卫生科技发展研究中心主任郑忠伟</Participant>日前
+                    <Means mid="m3">接受新华社记者专访时</Means>
+                    <Denoter did="d3" type="statement">说</Denoter>
+                </Event>，“
+                <Event eid="e4">
+                    <Object oid="o4">疫苗研发</Object>已经
+                    <Denoter did="d4" type="stateChange">进入</Denoter>
+                    <Object sid="s4">冲刺阶段</Object>
+                </Event>，
+                <Event eid="e5">
+                    <Participant oid="o5">我们</Participant>
+                    <Denoter did="d5" type="action">处于</Denoter>
+                    <Location lid="l5">全球第一方阵</Location>
+                </Event>，但不为第一而抢跑。”
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">
+                    <Participant oid="o6">郑忠伟</Participant>
+                    <Denoter did="d6" type="statement">说</Denoter>
+                </Event>，
+                <Event eid="e7">
+                    <Denoter did="d7" type="operation">评价</Denoter>一个
+                    <Object sid="s7">疫苗</Object>
+                    <Means mid="m7">需要多项综合指标</Means>
+                </Event>，其中安全性、有效性、可及性、可负担性是最重要的。“
+                <Event eid="e8">
+                    <Participant oid="o8" type="agent">我们</Participant>正做好
+                    <Object oid="o8">大规模生产</Object>
+                    <Denoter did="d8" type="operation">准备</Denoter>
+                </Event>。”
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9">
+                    <Denoter did="d9" type="perception">了解</Denoter>
+                </Event>，
+                <Event eid="e10">
+                    <Time tid="t10" type="timeInterval">疫情发生以来</Time>，
+                    <Participant oid="o10" type="agent">国务院联防联控机制科研攻关组疫苗研发专班和有关方面</Participant>
+                    <Means mid="m10">以战时状态</Means>
+                    <Denoter did="d10" type="operation">推进</Denoter>
+                    <Object sid="s10" >疫苗各方面工作</Object>
+                </Event>，
+                <Event eid="e11">
+                    <Participant oid="o11" type="agent">科研人员</Participant>
+                    <Means mid="m11">争分夺秒</Means>、
+                    <Denoter did="d11" type="action">奋力攻关</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e12">目前
+                    <Object oid="o12">5条技术路线共15个疫苗</Object>
+                    <Denoter did="d12" type="stateChange">进入</Denoter>
+                    <Object sid="s12">临床试验</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e13">
+                    <Participant oid="o13" type="agent">相关方面</Participant>正在继续
+                    <Means mid="m13">科学严谨</Means>
+                    <Denoter did="d13" type="operation">推进</Denoter>
+                    <Object sid="s13">疫苗Ⅲ期临床试验</Object>
+                </Event>，
+                <Event eid="e14">
+                    <Means mid="m14">严格按照法律法规和国际认可的技术标准</Means>做好
+                    <Denoter did="d14" type="operation">审评审批</Denoter>工作
+                </Event>，确保疫苗安全有效，经得起各方面检验，经得起历史检验。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e15">已经
+                    <Denoter did="d15" type="stateChange">进入</Denoter>
+                    <Object sid="s15">Ⅲ期临床试验</Object>的疫苗包括
+                    <Object oid="o15">国药集团中国生物的2个灭活疫苗</Object>、
+                  	<Object oid="o15">北京科兴中维公司的1个灭活疫苗</Object>、
+                  	<Object oid="o15">军事医学研究院和康希诺公司联合研发的腺病毒载体疫苗</Object>、
+                  	<Object oid="o15">中科院微生物所和智飞生物公司联合研发的重组蛋白疫苗</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e16">由于
+                    <Object sid="s16">新冠肺炎疫情</Object>
+                    <Location lid="l16">在我国</Location>得到有效
+                    <Denoter did="d16" type="action">控制</Denoter>
+                </Event>，
+                <Event eid="e17">
+                    <Location lid="l17">国内</Location>已
+                    <Denoter did="d17" type="stateChange">不具备</Denoter>
+                    <Object sid="s17">开展Ⅲ期临床试验的条件</Object>
+                </Event>，
+                <Event eid="e18">因此上述
+                    <Object oid="o18">Ⅲ期临床试验</Object>主要
+                    <Location lid="l18">在海外</Location>
+                    <Denoter did="d18">进行</Denoter>
+                </Event>，
+                <Event eid="e19">也
+                    <Denoter did="d19" type="action">面临</Denoter>着一些
+                    <Object sid="s19">困难和挑战</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>面对百年一遇的新冠肺炎疫情出现的新情况，遇到的新问题，需要更多的创新思维、更多的责任担当。</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e20">根据
+                    <Participant oid="o20" type="agent">国务院联防联控机制</Participant>此前
+                    <Denoter did="d20" type="statement">公布</Denoter>的消息
+                </Event>，
+                <Event eid="e21">
+                    <Participant oid="o21">我国</Participant>已于
+                    <Time tid="t21" type="relTime">6月</Time>
+                    <Denoter did="d21" type="stateChange">启动</Denoter>
+                    <Object sid="s21">新冠病毒疫苗的紧急使用</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eid="e4-e5"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eid="e7-e8"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eid="e10-e14"/>
+    <eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+    <eRelation relType="Follow" bevent_eid="e10-e11" aevent_eid="e12"/>
+    <eRelation relType="Causal" cause_eid="e16" effect_eid="e17-e19"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eid="e21"/>
+</Body>

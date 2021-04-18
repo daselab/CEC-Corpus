@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>湖北集中隔离治疗疑似和确诊患者</Title>
+    <ReportTime type="absTime">2020-02-06T00:00</ReportTime>湖北省人民政府网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">近日</Time>，
+                    <Location lid="l1">湖北省</Location>新型冠状病毒感染肺炎
+                    <Participant sid="s1" type="agent">疫情防控指挥部</Participant>先后两次
+                    <Denoter did="d1" type="operation">召开</Denoter>
+                    <Object oid="o1">会议</Object>
+                </Event>，
+                <Event eid="e2">进一步
+                    <Denoter did="d2" type="operation">细化</Denoter>各项
+                    <Object oid="o2">疫情防控措施</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e3" type="Thoughtevent">
+                    <Object sid="s3">会议</Object>
+                    <Denoter did="d3" type="statement">要求</Denoter>
+                </Event>，
+                <Event eid="e4">坚持
+                    <Object oid="o4">源头</Object>
+                    <Denoter did="d4" type="operation">防控</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e5">
+                    <Time tid="t5" type="relTime">第一时间</Time>
+                    <Denoter did="d5" type="operation">检测</Denoter>
+                </Event>、
+                <Event eid="e6">
+                    <Denoter did="d6" type="operation">分诊</Denoter>
+                    <Participant oid="o6" type="recipient">发热人员</Participant>
+                </Event>；
+                <Event eid="e7">对所有
+                    <Participant oid="o7" type="recipient">疑似患者</Participant>
+                    <Denoter did="d7" type="operation">集中隔离治疗</Denoter>
+                </Event>，
+                <Event eid="e8">所有
+                    <Participant oid="o8" type="recipient">确诊患者</Participant>到
+                    <Denoter did="d9" type="operation">集中诊治</Denoter>
+                </Event>，
+                <Event eid="e9">所有
+                    <Participant oid="o9" type="recipient">密切接触人员</Participant>
+                    <Denoter did="d9" type="operation">隔离观察</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e10">
+                    <Denoter did="d10" type="operation">压缩筛查</Denoter>
+                    <Object oid="o10">确诊流程</Object>。
+                </Event>
+                <Event eid="e11">尽可能
+                    <Denoter did="d11" type="operation">简化、缩短</Denoter>
+                    <Object oid="o11">筛查流程</Object>
+                </Event>，
+                <Event eid="e12">
+                    <Denoter did="d12" type="operation">避免</Denoter>
+                </Event>
+                <Event eid="e13">
+                    <Participant sid="s13" type="agent">疑似病例</Participant>多次
+                    <Denoter did="d13" type="movement">往返</Denoter>
+                    <Location lid="l13">医院</Location>
+                </Event>
+                <Event eid="e14">造成更多
+                    <Denoter did="d14" type="stateChange">交叉感染</Denoter>
+                </Event>；
+                <Event eid="e15">
+                    <Denoter did="d15" type="operation">简化</Denoter>
+                    <Object oid="o15">确诊分流程序</Object>
+                </Event>，
+                <Event eid="e16">
+                    <Denoter did="d16" type="operation">避免</Denoter>
+                </Event>
+                <Event eid="e17">
+                    <Participant sid="s17,s18" type="agent">轻症患者</Participant>、
+                    <Participant sid="s17,s18" type="agent">居家隔离观察人员</Participant>
+                    <Denoter did="d17" type="action">拖延</Denoter>成
+                </Event>
+                <Event eid="e18">
+                    <Denoter did="d18" type="stateChange">重症</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e19" type="Thoughtevent">
+                    <Object sid="s19">会议</Object>
+                    <Denoter did="d19" type="statement">强调</Denoter>
+                </Event>，
+                <Event eid="e20">要对所有
+                    <Participant oid="o20,o21,o22,o23" type="recipient">疑似病例</Participant>，先
+                    <Denoter did="d20" type="operation">隔离</Denoter>
+                </Event>
+                <Event eid="e21">再
+                    <Denoter did="d21" type="operation">检测</Denoter>
+                </Event>、
+                <Event eid="e22">再
+                    <Denoter did="d22" type="operation">诊疗</Denoter>
+                </Event>，
+                <Event eid="e23">
+                    <Denoter did="d23" type="operation">严防</Denoter>
+                    <Object oid="o23">交叉感染</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e24">
+                    <Location lid="l24">各地</Location>要加快
+                    <Denoter did="d24" type="operation">设置</Denoter>
+                    <Object oid="o24">定点医院</Object>
+                </Event>，
+                <Event eid="e25">
+                    <Denoter did="d25" type="operation">建立</Denoter>
+                    <Object oid="o25">隔离病区</Object>、
+                    <Object oid="o25">隔离病房</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e26">
+                    <Denoter did="d26" type="action">征用</Denoter>
+                    <Object oid="o26">酒店</Object>、
+                    <Object oid="o26">招待所</Object>、
+                    <Object oid="o26">闲置厂房</Object>等
+                </Event>，
+                <Event eid="e27">抓紧
+                    <Denoter did="d27" type="operation">建立</Denoter>
+                    <Object oid="o27">备用隔离场所</Object>
+                </Event>，
+                <Event eid="e28">并
+                    <Denoter did="d28" type="operation">配备</Denoter>必要的
+                    <Object oid="o28">生活、消毒、医疗设施</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e29">千方百计
+                    <Denoter did="d29" type="operation">提升</Denoter>
+                    <Object oid="o29">收治能力</Object>
+                </Event>，
+                <Event eid="e30">继续
+                    <Denoter did="d30" type="operation">统筹调配</Denoter>
+                    <Object oid="o30">医疗资源</Object>
+                </Event>，
+                <Event eid="e31">尽可能多地
+                    <Denoter did="d31" type="action">腾</Denoter>
+                    <Object oid="o31">空床位</Object>
+                </Event>；
+                <Event eid="e32">加快
+                    <Denoter did="d32" type="operation">新建</Denoter>
+                </Event>
+                <Event eid="e33">
+                    <Denoter did="d33" type="operation">改造</Denoter>
+                    <Object oid="o33,o32">医院</Object>进度
+                </Event>，
+                <Event eid="e34">加快
+                    <Object oid="o34">普通病房</Object>
+                    <Denoter did="d34" type="operation">改造</Denoter>用于患者治疗
+                </Event>；
+                <Event eid="e35">加快
+                    <Object oid="o35">床位</Object>
+                    <Denoter did="d35" type="operation">周转</Denoter>速度，
+                </Event>
+                <Event eid="e36">
+                    <Denoter did="d36" type="operation">收治</Denoter>
+                    <Participant oid="o36" type="recipient">更多病人</Participant>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e37">相关
+                    <Participant sid="s37" type="agent">领导干部</Participant>对
+                    <Object oid="o37">床位情况</Object>
+                    <Denoter did="d37" type="perception">不清</Denoter>者
+                </Event>、
+                <Event eid="e38">相关
+                    <Object sid="s38">医院</Object>
+                    <Denoter did="d38" type="action">拒收</Denoter>
+                </Event>
+                <Event eid="e39">造成
+                    <Denoter did="d39" type="stateChange">传染</Denoter>者
+                </Event>
+                <Event eid="e40">，要
+                    <Denoter did="d40" type="operation">倒查</Denoter>
+                    <Object oid="o40">责任</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e41">
+                    <Object sid="s41">会议</Object>
+                    <Denoter did="d41" type="statement">指出</Denoter>
+                </Event>，
+                <Event eid="e42">加强
+                    <Object oid="o42">物资</Object>
+                    <Denoter did="d42" type="operation">供应</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e43">
+                    <Means mid="m43">多管齐下、多措并举</Means>
+                    <Denoter did="d43" type="operation">筹集</Denoter>
+                    <Object oid="o43">医用物资</Object>
+                </Event>，
+                <Event eid="e44">重点保障
+                    <Object oid="o44">防护服</Object>、
+                    <Object oid="o44">口罩</Object>、
+                    <Object oid="o44">护目镜</Object>、
+                    <Object oid="o44">无创呼吸机</Object>、
+                    <Object oid="o44">负压救护车</Object>等物资设备
+                    <Denoter did="d44" type="operation">供应</Denoter>
+                </Event>，
+                <Event eid="e45">
+                    <Denoter did="d45" type="operation">保障</Denoter>
+                    <Participant oid="o45" type="recipient">医护人员</Participant>防护安全和救治
+                    <Object oid="o45">需求</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e46">
+                    <Denoter did="d46" type="operation">做实做细</Denoter>
+                    <Object oid="o46">基层基础工作</Object>，
+                </Event>
+                <Event eid="e47">
+                    <Object sid="s47,s48,49,s50,s51">各乡镇（街道）</Object>都要
+                    <Denoter did="d47" type="operation">建立</Denoter>村（社区）
+                    <Participant oid="o47" type="recipient">疫情搜索专班</Participant>
+                </Event>，
+                <Event eid="e48">地毯式
+                    <Denoter did="d48" type="operation">搜索</Denoter>
+                    <Participant oid="o48" type="recipient">疑似病例</Participant>
+                </Event>，
+                <Event eid="e49">严格
+                    <Denoter did="d49" type="operation">落实</Denoter>
+                    <Object oid="o49">医学观察制度</Object>
+                </Event>，
+                <Event eid="e50">
+                    <Denoter did="d50" type="operation">建档立卡</Denoter>
+                </Event>，
+                <Event eid="e51">
+                    <Denoter did="d51" type="operation">做好</Denoter>
+                    <Object oid="o51">记录</Object>
+                </Event>，
+                <Event eid="e52">
+                    <Denoter did="d52" type="perception">发现</Denoter>
+                    <Object oid="o52">异常</Object>
+                </Event>
+                <Event eid="e53">立即
+                    <Denoter did="d53" type="action">报告</Denoter>
+                </Event>；
+                <Event eid="e54">加强
+                    <Participant oid="o54" type="recipient">密切接触人员</Participant>
+                    <Denoter did="d54" type="operation">管理</Denoter>
+                </Event>，
+                <Event eid="e55">一旦
+                    <Denoter did="d55" type="perception">发现</Denoter>
+                    <Object oid="o55">疫情</Object>
+                </Event>，
+                <Event eid="e56">立即
+                    <Denoter did="d56" type="operation">搜索</Denoter>
+                    <Participant oid="o5601" type="recipient">疑似病人</Participant>和
+                    <Participant oid="o5602" type="recipient">密切接触者</Participant>
+                </Event>，
+                <Event eid="e57">对
+                    <Object oid="o57">被污染场所</Object>进行
+                    <Denoter did="d57" type="operation">消毒</Denoter>
+                </Event>，
+                <Event eid="e58">
+                    <Participant oid="o58" type="recipient">密切接触者</Participant>都要就近
+                    <Denoter did="d58" type="operation">集中隔离</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e59">
+                    <Denoter did="d59" type="operation">做好</Denoter>
+                    <Location lid="l5901">医院</Location>、
+                    <Location lid="l5902">小区</Location>、
+                    <Location lid="l5903">超市</Location>等重点场所专业
+                    <Object oid="o59">消杀工作</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-e18"/>
+    <eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+    <eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+    <eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+    <eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e9"/>
+    <eRelation relType="Composite" fevent_eid="e10" sevent_eids="e11"/>
+    <eRelation relType="Composite" fevent_eid="e10" sevent_eids="e15"/>
+    <eRelation relType="Causal" cause_eid="e13" effect_eid="e14"/>
+    <eRelation relType="Causal" cause_eid="e17" effect_eid="e18"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e19" thoughtcontent_eids="e20-e40"/>
+    <eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>
+    <eRelation relType="Follow" bevent_eid="e21" aevent_eid="e22"/>
+    <eRelation relType="Follow" bevent_eid="e22" aevent_eid="e23"/>
+    <eRelation relType="Follow" bevent_eid="e24" aevent_eid="e25"/>
+    <eRelation relType="Follow" bevent_eid="e26" aevent_eid="e27-e28"/>
+    <eRelation relType="Accompany" accompanya_eid="e27" accompanyb_eid="e28"/>
+    <eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+    <eRelation relType="Accompany" accompanya_eid="e32" accompanyb_eid="e33"/>
+    <eRelation relType="Accompany" accompanya_eid="e34" accompanyb_eid="e35"/>
+    <eRelation relType="Follow" bevent_eid="e35" aevent_eid="e36"/>
+    <eRelation relType="Causal" cause_eid="e37" effect_eid="e39"/>
+    <eRelation relType="Causal" cause_eid="e38" effect_eid="e39"/>
+    <eRelation relType="Composite" fevent_eid="e45" sevent_eids="e43-e44"/>
+    <eRelation relType="Composite" fevent_eid="e46" sevent_eids="e47-e58"/>
+    <eRelation relType="Accompany" accompanya_eid="e50" accompanyb_eid="e51"/>
+    <eRelation relType="Follow" bevent_eid="e47" aevent_eid="e48"/>
+    <eRelation relType="Follow" bevent_eid="e52" aevent_eid="e53"/>
+    <eRelation relType="Follow" bevent_eid="e52" aevent_eid="e54"/>
+    <eRelation relType="Follow" bevent_eid="e55" aevent_eid="e56-e58"/>
+    <eRelation relType="Follow" bevent_eid="e56" aevent_eid="e58"/>
+</Body>

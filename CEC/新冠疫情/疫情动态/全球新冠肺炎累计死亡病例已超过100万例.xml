@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>全球新冠肺炎累计死亡病例已超过100万例</Title>
+    <ReportTime type="absTime">2020-09-29T00:00</ReportTime>环球网
+    <Content>
+        <Paragraph>
+            <Sentence>据
+                <Event eid="e1">
+                    <Location lid="l1">约翰·霍普金斯大学</Location>
+                    <Object sid="s1" type="agent">最新数据</Object>
+                    <Denoter did="d1" type="statement">显示</Denoter>
+                </Event>，
+                <Event eid="e2">
+                    <Object sid="s2" type="agent">全球新冠肺炎累计死亡病例</Object>已
+                    <Denoter did="d2" type="stateChange">超过</Denoter>
+                    <Object oid="o2" type="recipient">100万例</Object>
+                </Event>，达1000555例
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e3">据
+                    <Location lid="l3">美国约翰·霍普金斯大学</Location>的
+                    <Object sid="s3" type="agent">实时数据</Object>
+                    <Denoter did="d3" type="statement">显示</Denoter>
+                </Event>，
+                <Event eid="e4">截至
+                    <Time tid="t4" type="relTime">北京时间9月29日9时</Time>，
+                    <Object sid="s4" type="agent">全球新冠肺炎死亡病例</Object>
+                    <Denoter did="d4" type="stateChange">超过</Denoter>
+                    <Object oid="o4" type="recipient">100万例</Object>
+                </Event>，其中美国死亡人数最多，超过20.5万例
+            </Sentence>。
+            <Sentence>
+                <Event eid="e5">
+                    <Object sid="s5" type="agent">全球新冠肺炎确诊病例</Object>累计
+                    <Denoter did="d5" type="stateChange">超过</Denoter>
+                    <Object oid="o5" type="recipient">3327.3万例</Object>
+                </Event>，确诊人数最多的也是美国，超过714.7万例
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>然而，当地时间9月28日，
+                <Event eid="e6">
+                    <Participant sid="s6" type="agent">世卫组织</Participant>
+                    <Denoter did="d6" type="operation">举行</Denoter>
+                    <Object oid="o6" type="recipient">新冠肺炎例行发布会</Object>
+                </Event>时，
+                <Event eid="e7">
+                    <Participant sid="s7" type="agent">世卫组织卫生紧急项目负责人迈克尔·瑞安</Participant>
+                    <Denoter did="d7" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e8">
+                    <Object sid="s8" type="agent">现有数据</Object>很可能
+                    <Denoter did="d8"type="stateChange" >低估</Denoter>了
+                    <Object oid="o8" type="recipient">实际感染新冠肺炎的病例数量和死亡病例数量</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e9">
+                    <Participant sid="s9" type="agent">迈克尔·瑞安</Participant>
+                    <Denoter did="d9" type="statement">强调</Denoter>
+                </Event>，如果
+                <Event eid="e10">在
+                    <Denoter did="d10" type="operation">追踪</Denoter>
+                    <Object oid="o10" type="recipient">呼吸道病毒方面</Object>投入更多
+                </Event>，包括增强实验室能力和临床能力，在
+                <Event eid="e11">
+                    <Denoter did="d11" type="operation">应对</Denoter>
+                    <Object oid="o11" type="recipient">疫情</Object>
+                </Event>时会做得更好
+            </Sentence>。
+        </Paragraph>
+    </Content>
+</Body>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eid="e4-e5"/>
+<eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eid="e7-e11"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eid="e8-e11"/>

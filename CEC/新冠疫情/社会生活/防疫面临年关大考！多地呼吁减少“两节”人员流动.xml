@@ -1,0 +1,570 @@
+<Sentence></Sentence>
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>防疫面临年关大考！多地呼吁减少“两节”人员流动</Title>
+    <ReportTime type="absTime">2020-12-26T00:00</ReportTime>中国新闻网
+    <Content>
+        <Paragraph>
+            <Sentence>近期，
+                <Event eid="e1">
+                    <Location lid="l1">国内多个省份</Location>接连
+                    <Denoter did="d1" type="stateChange">出现</Denoter>
+                    <Object sid="s1">本土确诊病例</Object>
+                </Event>，
+                <Event eid="e2">这为即将到来的
+                    <Object sid="s2">元旦和春节假期疫情防控工作</Object>
+                    <Denoter did="d2" type="action">敲响</Denoter>
+                    <Object sid="s2">警钟</Object>
+                </Event>！
+            </Sentence>
+            <Sentence>
+                <Event eid="e3">面对年关大考，
+                    <Location lid="l3">各地</Location>纷纷
+                    <Denoter did="d3"type="action" >强化防控部署</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e4">眼看
+                    <Object sid="s3">春运火车票</Object>即将
+                    <Denoter did="d4" type="operation">开售</Denoter>
+                </Event>，
+                <Event eid="e5">假期出行
+                    <Participant oid="o5" type="agent">我们</Participant>得
+                    <Denoter did="d5" type="perception">注意</Denoter>
+                    <Object sid="s5">什么</Object>？
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">
+                    <Time tid="t6" type="relTime">进入12月</Time>以来，
+                    <Location lid="l6">内蒙古、天津、四川、黑龙江、北京、辽宁等省份</Location>
+                    <Denoter did="d6" type="action">出现</Denoter>
+                    <Participant sid="s6" type="recipient">本土确诊病例</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>这其中，
+                <Event eid="e7">仅
+                    <Location lid="l7">在大连</Location>，
+                    <Time tid="t7" type="timeInterval">12月15日至24日</Time>，
+                    <Object sid="s7">本次聚集性疫情</Object>已
+                    <Denoter did="d7" type="action">累计报告</Denoter>
+                    <Participant sid="s7" type="recipient">19例确诊病例和20例无症状感染者</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e8">
+                    <Time tid="t8" type="relTime">22日凌晨</Time>，
+                    <Location lid="l8">大连市</Location>
+                    <Denoter did="d8" type="stateChange">启动</Denoter>全员
+                    <Object sid="s8">核酸检测筛查</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e9">同日，
+                    <Participant oid="o9" type="agent">国家卫健委</Participant>
+                    <Denoter did="d9" type="action">派出</Denoter>
+                    <Object oid="o9,o10">工作组</Object>
+                </Event>
+                <Event eid="e10">
+                    <Denoter did="d10" type="movement">赶赴</Denoter>
+                    <Location lid="l10" type="destination">大连</Location>
+                </Event>
+                <Event eid="e11">
+                    <Denoter did="d11" type="operation">指导协助</Denoter>
+                    <Object sid="s11">疫情调查</Object>
+                </Event>处置工作。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12">
+                    <Time tid="t12" type="relTime">元旦、春节临近</Time>，接连
+                    <Denoter did="d12" type="stateChange">出现</Denoter>的确诊病例
+                </Event>
+                <Event eid="e13">再次给所有人
+                    <Denoter did="d13" type="action">敲响</Denoter>
+                    <Object sid="s13">警钟</Object>！
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e14">
+                    <Participant oid="o14" type="agent">中国疾控中心流行病学首席专家吴尊友</Participant>此前
+                    <Denoter did="d14" type="statement">分析</Denoter>
+                </Event>，
+                <Event eid="e15">入冬以后，
+                    <Participant oid="o15" type="agent">境外绝大多数国家</Participant>出现了新冠肺炎疫情的大幅度
+                    <Denoter did="d15" type="action">上升</Denoter>
+                </Event>，
+                <Event eid="e16">
+                    <Object oid="o16">感染的人数和污染的物品</Object>在
+                    <Denoter did="d16">增加</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>在这样的全球背景下，
+                <Event eid="e17">中国
+                    <Denoter did="d17" type="stateChange">出现</Denoter>
+                    <Object sid="s17">多点零星散发病例</Object>
+                </Event>，
+                <Event eid="e18">
+                    <Denoter did="d18" type="action">属于</Denoter>常态化防控当中的一个
+                    <Object sid="s18">正常现象</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>对于近
+                <Event eid="e19">期国内
+                    <Denoter did="d19" type="perception">发现</Denoter>的
+                    <Participant oid="o19" type="agent">无症状感染者</Participant>数量居多
+                </Event>现象，
+                <Event eid="e20">
+                    <Participant oid="o20" type="agent">他</Participant>
+                    <Denoter did="d20" type="statement">解释</Denoter>称
+                </Event>，
+                <Event eid="e21">
+                    <Object sid="s21">该现象的出现</Object>
+                    <Denoter did="d21" type="stateChange">有</Denoter>
+                    <Object sid="s21">两个因素</Object>
+                </Event>，
+                <Event eid="e22">一是一定程度上是我们
+                    <Object oid="o22">发现病例的手段</Object>比以前
+                    <Denoter did="d22" type="stateChange">更多</Denoter>了，特别是核酸检测方面
+                </Event>，
+                <Event eid="e23">二是我们
+                    <Means mid="m23">赶在疫情传播开来之前</Means>就能
+                    <Denoter did="d23" type="perception">发现</Denoter>
+                    <Object sid="s23">早期的病例</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>“今冬明春要
+                <Event eid="e24">
+                    <Denoter did="d24" type="action">防止</Denoter>新冠肺炎
+                    <Object sid="s24">疫情反弹</Object>
+                </Event>，我们不能把宝全都押在疫苗上。”
+                <Event eid="e25">
+                    <Participant oid="o25" type="agent">吴尊友</Participant>
+                    <Denoter did="d25" type="statement">强调</Denoter>
+                </Event>，
+                <Event eid="e26">
+                    <Participant oid="o26" type="agent">个人</Participant>做好
+                    <Denoter did="d26" type="action">防护</Denoter>
+                </Event>依旧非常有必要，
+                <Event eid="e27">现阶段的
+                    <Object sid="s27">各项常态化防控措施</Object>仍然要
+                    <Denoter did="d27" type="operation">坚持</Denoter>
+                </Event>下去。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e28">
+                    <Object oid="o28">多地</Object>呼吁
+                    <Denoter did="d28" type="operation">减少</Denoter>
+                    <Object sid="s28">“两节”人员流动</Object>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>眼看元旦假期将至，距离农历春节也只有剩一个多月的时间。</Sentence>
+            <Sentence>面对即将到来的人口大流动，
+                <Event eid="e29">
+                    <Participant oid="o29,o30" type="agent">人们</Participant>最
+                    <Denoter did="d29" type="action">关心</Denoter>的
+                    <Object sid="s29">问题</Object>
+                </Event>就是：这个年关
+                <Event eid="e30">能不能顺利安全地
+                    <Denoter did="d30" type="action">回家团聚</Denoter>
+                </Event>？
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>为了
+                <Event eid="e31">将
+                    <Object sid="s31">疫情传播风险</Object>
+                    <Denoter did="d31" type="stateChange">降至最低</Denoter>
+                </Event>，
+                <Event eid="e32">
+                    <Participant oid="o32" type="agent">从国家到地方层面</Participant>已经展开
+                    <Denoter did="d32" type="operation">层层部署</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>此外，
+                <Event eid="e33">多地已
+                    <Denoter did="d33" type="statement">呼吁</Denoter>
+                    <Object sid="s33">民众“错峰”返乡或就地过节</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>就在近日，
+                <Event eid="e34">
+                    <Participant oid="o34" type="agent">中共中央办公厅、国务院办公厅</Participant>
+                    <Denoter did="d34" type="action">印发</Denoter>了《
+                    <Object sid="s34">关于做好2021年元旦春节期间有关工作的通知</Object>》
+                </Event>，
+                <Event eid="e35">其中
+                    <Denoter did="d35">提出</Denoter>
+                </Event>，
+                <Event eid="e36">
+                    <Denoter did="d36" type="operation">减少</Denoter>
+                    <Object sid="s36">“两节”期间人员流动和聚集</Object>
+                </Event>，
+                <Event eid="e37">
+                    <Denoter did="d37" type="operation">严防死守</Denoter>
+                </Event>
+                <Event eid="e38">，
+                    <Denoter did="d37" type="operation">确保</Denoter>
+                    <Object sid="s37">不出现规模性输入</Object>和
+                </Event>。
+                <Event eid="e39">
+                    <Denoter did="d39" type="operation">反弹</Denoter>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>对于最早开启返乡行程的主力群体——高校在校生，
+                <Event eid="e40">
+                    <Participant oid="o40" type="agent">教育部</Participant>也已提前
+                    <Denoter did="d40" type="operation">部署</Denoter>
+                </Event>，
+                <Event eid="e41">要求
+                    <Participant oid="o41" type="agent">高校</Participant>
+                    <Denoter did="d41" type="operation">坚持</Denoter>
+                    <Object sid="s41">“错峰”原则</Object>
+                </Event>，
+                <Event eid="e42">
+                    <Denoter did="d42" type="operation">安排</Denoter>
+                    <Participant sid="s42" type="recipient">学生</Participant>
+                    <Means mid="m42">分批次有序</Means>
+                    <Object sid="s42">放假离校</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>此前，
+                <Event eid="e43">已经有
+                    <Participant oid="o43" type="agent">部分高校</Participant>在
+                    <Time tid="t43" type="relTime">12月中下旬</Time>就
+                    <Denoter did="d43" type="stateChange">开启</Denoter>了
+                    <Object sid="s43">“寒假模式”</Object>
+                </Event>，
+                <Event eid="e44">让
+                    <Participant oid="o44" sid="s44">学生</Participant>
+                    <Means mid="m44">提前错峰</Means>
+                    <Denoter did="d44" type="movement">返乡</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>北京、上海等大城市的不同高校间，放假都明显拉开了“时间差”。</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e45">此外，包括
+                    <Location lid="l45">大连、北京等在内的多地</Location>，已经提出
+                    <Denoter did="d45" type="statement">提倡</Denoter>
+                    <Participant sid="s45" type="agent">市民</Participant>
+                    <Object sid="s45">就地过节</Object>
+                </Event>，以减少人员流动。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e46">
+                    <Location lid="l46">大连市</Location>
+                    <Participant oid="o46" type="agent">卫生健康委员会副主任赵连</Participant>日前
+                    <Denoter did="d46" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e47">
+                    <Denoter did="d47" type="perception">鉴于</Denoter>
+                    <Object sid="s47">当地疫情防控形势</Object>
+                </Event>，
+                <Event eid="e48">请
+                    <Participant oid="o48,d49" type="agent">广大市民</Participant>
+                    <Denoter did="d48" type="operation">按照</Denoter>
+                    <Location lid="l48">大连市</Location>
+                    <Object sid="s48">疫情防控指挥部要求</Object>
+                </Event>，
+                <Event eid="e49">非必要
+                    <Denoter did="d49" type="movement">不离开</Denoter>
+                    <Location lid="l49" type="origin">大连</Location>
+                </Event>，
+                <Event eid="e50">确需
+                    <Denoter did="d50"type="movement" >离开</Denoter>
+                    <Location lid="l50" type="origin">大连</Location>的
+                    <Participant oid="o50" type="agent">人员</Participant>
+                </Event>
+                <Event eid="e51">需
+                    <Denoter did="d51" type="action">持</Denoter>有
+                    <Object sid="s51">7日内核酸检测阴性证明</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>作为每年春节期间人口流出最多的城市之一，
+                <Event eid="e52">
+                    <Location lid="l52">北京</Location>也
+                    <Denoter did="d52" type="statement">提出</Denoter>
+                </Event>
+                <Event eid="e53">
+                    <Participant oid="o53" type="agent">在京机关干部和国有企事业单位工作人员</Participant>带头
+                    <Means mid="m53">在京</Means>
+                    <Denoter did="d53" type="action">过节</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e54">
+                    <Means mid="m54">鼓励</Means>
+                    <Participant oid="o54" type="agent">在京单位</Participant>
+                    <Denoter did="d54" type="operation">推行</Denoter>
+                    <Object sid="s54">弹性休假</Object>
+                </Event>，
+                <Event eid="e55">
+                    <Denoter did="d55" type="operation">引导</Denoter>
+                    <Participant sid="s55" type="agent">人员</Participant>
+                    <Object sid="s">错峰离返京</Object>
+                </Event>。
+                <Event eid="e56">倡导
+                    <Participant oid="o56" type="agent">市民群众</Participant>
+                    <Denoter did="d56" type="action">就地过节</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e57">
+                    <Time tid="t57" type="relTime">25日</Time>，
+                    <Means mid="m57">在北京的疫情新闻发布会上</Means>，
+                    <Location lid="l57">北京市</Location>
+                    <Participant oid="o57" type="agent">政府副秘书长陈蓓</Participant>
+                    <Denoter did="d57" type="statement">强调</Denoter>
+                </Event>，
+                <Event eid="e58">在
+                    <Denoter did="d58" type="stateChange">减少</Denoter>
+                    <Object sid="s58">人员流动</Object>方面
+                </Event>，
+                <Event eid="e59">
+                    <Denoter did="d59" type="statement">提倡</Denoter>
+                    <Participant sid="s59" type="agent">市民群众</Participant>
+                    <Object sid="s59">在京过年</Object>
+                </Event>，
+                <Event eid="e60">尽量
+                    <Denoter did="d60" type="operation">减少前往</Denoter>
+                    <Object sid="s60" >中高风险地区所在城市</Object>
+                </Event>出行活动。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>除了上述两地，
+                <Event eid="e61">
+                    <Location lid="l61">陕西省</Location>日前也
+                    <Denoter did="d61" type="statement">强调</Denoter>
+                </Event>，
+                <Event eid="e62">
+                    <Participant oid="o62" type="agent">全省各级党政机关、事业单位、国有企业工作人员</Participant>，在“两节”期间，应
+                    <Denoter did="d62" type="stateChange">减少</Denoter>
+                    <Object sid="s62">不必要的出行</Object>
+                </Event>，
+                <Event eid="e63">
+                    <Denoter did="d63" type="movement">避免前往</Denoter>
+                    <Location lid="l63">中、高风险地区</Location>
+                </Event>，
+                <Event eid="e64">
+                    <Denoter did="d64" type="operation">不得组织、参与</Denoter>
+                    <Object sid="s64">大规模聚会聚餐</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e65">
+                    <Location lid="l65">广东</Location>也
+                    <Denoter did="d65" type="statement">提出</Denoter>元旦、春节期间
+                </Event>，
+                <Event eid="e66">要
+                    <Means mid="m66">合理</Means>
+                    <Denoter did="d66" type="operation">安排</Denoter>
+                    <Object sid="s66">行程</Object>
+                </Event>
+                <Event eid="e67">
+                    <Denoter did="d67" type="stateChange">减少</Denoter>
+                    <Object sid="s67">不必要出行</Object>
+                </Event>，
+                <Event eid="e68">有条件的
+                    <Participant oid="o68" type="agent">旅客</Participant>尽可能
+                    <Denoter did="d68" type="movement">错峰出行</Denoter>
+                </Event>，
+                <Event eid="e69">
+                    <Denoter did="d69" type="action">避开</Denoter>
+                    <Object sid="s69">元旦、春节假期前后高峰期</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e70">
+                    <Participant oid="o70" type="agent">铁路、民航部门</Participant>
+                    <Denoter did="d70" type="action">严防死守，盯紧</Denoter>
+                    <Object sid="s70">人流物流</Object>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>面对即将到来的客流压力，
+                <Event eid="e71">
+                    <Denoter did="d71" type="operation">承担</Denoter>
+                    <Object sid="s71">春运旅客运送主要任务</Object>的
+                    <Participant oid="o71,o72" type="agent">铁路、民航等交通运输部门</Participant>
+                </Event>也
+                <Event eid="e72">
+                    <Denoter did="d72" type="operation">严阵以待</Denoter>
+                </Event>，对可能出现的疫情传播进行严防死守。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e73">
+                    <Participant oid="o73" type="agent">民航局</Participant>方面日前
+                    <Denoter did="d73" type="statement">表示</Denoter>
+                </Event>，当前，
+                <Event eid="e74">
+                    <Object oid="o74">境外的疫情输入压力</Object>不断
+                    <Denoter did="d74" type="stateChange">增加</Denoter>
+                </Event>，
+                <Event eid="e75">
+                    <Participant oid="o75" type="agent">民航局</Participant>近期根据疫情输入的形势，对
+                    <Object sid="s75" >国际客运航班的熔断措施</Object>
+                    <Denoter did="d75" type="stateChange">实施调整</Denoter>
+                </Event>，目前来看，每周国际客运航班大概在250余班，
+                <Event eid="e76">
+                    <Time tid="t76" type="relTime">从12月16日</Time>起，
+                    <Object oid="o76">航空公司同一航线航班入境核酸检测结果为阳性的旅客人数</Object>
+                    <Denoter did="d76" type="stateChange">达到</Denoter>
+                    <Object sid="s76">5个</Object>的
+                </Event>，
+                <Event eid="e77">
+                    <Denoter did="d77" type="operation">暂停</Denoter>
+                    <Object sid="s77">这个公司的航线运行</Object>2周
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e78">
+                    <Object oid="o78">数据</Object>
+                    <Denoter did="d78" type="statement">显示</Denoter>
+                </Event>，
+                <Event eid="e79">截止到
+                    <Time tid="t79" type="relTime">12月20日</Time>，
+                    <Participant oid="o79" type="agent">民航局</Participant>已经累计向
+                    <Object sid="s79">中外航空公司</Object>
+                    <Denoter did="d79" type="statement">发出</Denoter>
+                    <Object sid="s79">熔断指令140次</Object>
+                </Event>，
+                <Event eid="e80">有效
+                    <Denoter did="d80" type="stateChange">防止</Denoter>了
+                    <Object sid="s80" >疫情境外输入</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>另外，针对目前国际货运航班的情况，每周客运航班大约在6000班左右，
+                <Event eid="e81">
+                    <Participant oid="o81" type="agent">民航局</Participant>
+                    <Denoter did="d81" type="stateChange">增加</Denoter>了
+                    <Object sid="s81">货运航班风险防控等级和防控要求</Object>
+                </Event>，
+                <Event eid="e82">
+                    <Denoter did="d82" type="stateChange">增加</Denoter>了
+                    <Object sid="s82">冷链、货运、行李等航空物流关键环节预防</Object>
+                </Event>，消毒工作和货运人员、行李人员等关键人员的防护要求。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e83">
+                    <Participant oid="o83" type="agent">铁路部门</Participant>也已经明确
+                    <Denoter did="d83" type="statement">提出</Denoter>
+                </Event>，
+                <Event eid="e84">要
+                    <Means mid="m84">全面</Means>
+                    <Denoter did="d84" type="operation">贯彻</Denoter>
+                    <Object sid="s84">中央秋冬季常态化疫情防控决策部署</Object>
+                </Event>，
+                <Event eid="e85">在
+                    <Means mid="m85">运输组织中</Means>
+                    <Denoter did="d85" type="operation">统筹考虑</Denoter>
+                    <Object sid="s85">疫情防控工作需要</Object>
+                </Event>，
+                <Event eid="e86">
+                    <Denoter did="d86" type="operation">严格控制</Denoter>
+                    <Object sid="s86">列车超员率</Object>
+                </Event>，
+                <Event eid="e87">加强
+                    <Object sid="s87">进出站旅客体温</Object>
+                    <Denoter did="d87" type="operation">检测</Denoter>
+                </Event>，
+                <Event eid="e88">
+                    <Denoter did="d88" type="action">提醒</Denoter>
+                    <Participant sid="s88" oid="o89,o90" type="recipient">旅客</Participant>
+                </Event>
+                <Event eid="e89">全程
+                    <Denoter did="d89" type="action">佩戴</Denoter>
+                    <Object sid="s89">口罩</Object>
+                </Event>，
+                <Event eid="e90">
+                    <Denoter did="d90" type="action">保持</Denoter>
+                    <Object sid="s90">安全距离</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2"/>
+    <eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+    <eRelation relType="Causal" cause_eid="e6-e7" effect_eid="e8"/>
+    <eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+    <eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+    <eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e14" thoughtcontent_eid="e15-e18"/>
+    <eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e16"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eid="e21-e24"/>
+    <eRelation relType="Composite" fevent_eid="e21" sevent_eids="e22-e23"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e25" thoughtcontent_eid="e26-e27"/>
+    <eRelation relType="Accompany" accompanya_eid="e26" accompanyb_eid="e27"/>
+    <eRelation relType="Composite" fevent_eid="e31" sevent_eids="e32-e33"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e35" thoughtcontent_eid="e36-e39"/>
+    <eRelation relType="Follow" bevent_eid="e36" aevent_eid="e37"/>
+    <eRelation relType="Accompany" accompanya_eid="e41" accompanyb_eid="e42"/>
+    <eRelation relType="Accompany" accompanya_eid="e43" accompanyb_eid="e44"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e46" thoughtcontent_eid="e47-e51"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e47" thoughtcontent_eid="e48-e51"/>
+    <eRelation relType="Causal" cause_eid="e45" effect_eid="e49"/>
+    <eRelation relType="Causal" cause_eid="e45" effect_eid="e53"/>
+    <eRelation relType="Follow" bevent_eid="e45" aevent_eid="e55-e56"/>
+    <eRelation relType="Accompany" accompanya_eid="e50" accompanyb_eid="e51"/>
+    <eRelation relType="Composite" fevent_eid="e57" sevent_eids="e58-e60"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e52" thoughtcontent_eid="e53-e56"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e57" thoughtcontent_eid="e58-e60"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e61" thoughtcontent_eid="e62-e64"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e65" thoughtcontent_eid="e66-e67"/>
+    <eRelation relType="Composite" fevent_eid="e62" sevent_eids="e63-e64"/>
+    <eRelation relType="Accompany" accompanya_eid="e66" accompanyb_eid="e67"/>
+    <eRelation relType="Accompany" accompanya_eid="e67" accompanyb_eid="e68"/>
+    <eRelation relType="Accompany" accompanya_eid="e68" accompanyb_eid="e69"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e73" thoughtcontent_eid="e74-e75"/>
+    <eRelation relType="Follow" bevent_eid="e76" aevent_eid="e77"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e78" thoughtcontent_eid="e79"/>
+    <eRelation relType="Follow" bevent_eid="e79" aevent_eid="e80"/>
+    <eRelation relType="Accompany" accompanya_eid="e81" accompanyb_eid="e82"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e83" thoughtcontent_eid="e84-e90"/>
+    <eRelation relType="Accompany" accompanya_eid="e85" accompanyb_eid="e86"/>
+    <eRelation relType="Accompany" accompanya_eid="e86" accompanyb_eid="e87-90"/>
+</Body>

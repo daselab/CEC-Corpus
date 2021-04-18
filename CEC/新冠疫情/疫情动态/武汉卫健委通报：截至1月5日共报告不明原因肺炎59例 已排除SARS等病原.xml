@@ -1,0 +1,293 @@
+<Event eid="e"></Event>
+<Sentence></Sentence>
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>武汉卫健委通报：截至1月5日共报告不明原因肺炎59例 已排除SARS等病原</Title>
+    <ReportTime type="absTime">2020-01-05T00:00</ReportTime>人民网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1" type="thoughtevent">
+                    <Participant sid="s1"type="agent">人民网</Participant>
+                    <Location lid="l1">北京</Location>
+                    <Time tid="t1"type="relTime">1月5日</Time>
+                    <Denoter did="d1"type="statement">电</Denoter>
+                </Event>
+                <Event eid="e2">
+                    <Time tid="t2" type="relTime">1月5日</Time>，
+                    <Location lid="l2">武汉市</Location>
+                    <Participant sid="s2"type="agent">卫生健康委员会</Participant>在其网站
+                    <Denoter did="d2"type="statement">发布</Denoter>关于不明原因的病毒性肺炎
+                    <Object oid="o2">情况通报</Object>称，
+                </Event>
+                <Event eid="e3" type="thoughtevent">
+                    <Time tid="t3"type="absTime">截至2020年1月5日8时</Time>，
+                    <Location lid="l3">武汉市</Location>共
+                    <Denoter did="d3"type="statement">报告</Denoter>符合不明原因的病毒性肺炎
+                    <Participant oid="o3"type="recipient">诊断患者59例</Participant>
+                </Event>，其中
+                <Event eid="e4">
+                    <Denoter did="d4"type="stateChange">重症</Denoter>
+                    <Participant sid="s4"type="agent">患者7例</Participant>
+                </Event>，
+                <Event eid="e5">
+                    <Participant sid="s5"type="agent">其余患者</Participant>
+                    <Object sid="s5">生命体征</Object>总体
+                    <Denoter did="d5"type="stateChange">稳定</Denoter>
+                </Event>
+                <Event eid="e6">
+                    <Time tid="t6">目前</Time>
+                    <Participant oid="o6"type="recipient">所有患者</Participant>均在武汉市医疗机构接受
+                    <Denoter did="d6"type="operation">隔离治疗</Denoter>
+                </Event>，无
+                <Event eid="e7"type="Polarity-negative">
+                    <Denoter did="d7"type="stateChange">死亡</Denoter>
+                    <Participant sid="s7"type="agent">病例</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Event eid="e8" type="Thoughtevent ">
+                <Object sid="s8">通报</Object>还
+                <Denoter did="d8"type="statement">称</Denoter>
+            </Event>，经初步调查表明，
+            <Event eid="e9" type="Polarity-negative" >
+                <Denoter did="d9" type="perception">未发现</Denoter>明确的
+                <Object oid="o9">人传人证据</Object>
+            </Event>，
+            <Event eid="e10"type="Polarity-negative">未发现
+                <Participant sid="s10">医务人员</Participant>
+                <Denoter did="d10"type="perception">感染</Denoter>
+            </Event>。已
+            <Event eid="e11">
+                <Denoter did="d11"type="operation">排除</Denoter>流感、禽流感、腺病毒、传染性非典型肺炎（SARS）和中东呼吸综合征（MERS）等
+                <Object oid="o11">呼吸道病原</Object>。
+            </Event>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12">
+                    <Time tid="t12">2019年12月31日</Time>以来，
+                    <Participant sid="s12"type="agent">我委</Participant>在
+                    <Location lid="l12">全市</Location>
+                    <Denoter did="d12"type="operation">开展</Denoter>了不明原因的
+                  	<Object oid="o12">病毒性肺炎病例搜索</Object>和
+                    <Object oid="o12">回顾性调查工作</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e13">截至
+                    <Time tid="t13"type="absTime">2020年1月5日8时</Time>，我市共
+                    <Denoter did="d13"type="statement">报告</Denoter>符合不明原因的病毒性肺炎
+                    <Participant oid="o13">诊断患者59例</Participant>
+                </Event>，其中
+                <Event eid="e14">
+                    <Denoter did="d14"type="stateChange">重症</Denoter>
+                    <Participant sid="s14"type="agent">患者7例</Participant>
+                </Event>，
+                <Event eid="e15">
+                    <Participant sid="s15"type="agent">其余患者</Participant>
+                    <Object sid="s15">生命体征</Object>总体
+                    <Denoter did="d15"type="stateChange">稳定</Denoter>
+                </Event>，
+                <Event eid="e16">
+                    <Time tid="t16">目前</Time>所有
+                    <Participant sid="s16"type="recipient">患者</Participant>均在武汉市医疗机构
+                    接受
+                    <Denoter did="d16"type="operation">隔离治疗</Denoter>
+                </Event>，无
+                <Event eid="e17"type="Polarity-negative">
+                    <Denoter did="d17"type="stateChange">死亡</Denoter>
+                    <Participant sid="s17"type="agent">病例</Participant>
+                </Event>。
+            </Sentence>
+            <Sentence>在59例患者中，病例
+                <Event eid="e18">
+                    <Denoter did="d18"type="stateChange">最早发病</Denoter>时间为
+                    <Time tid="t18"type="absTime">2019年12月12日</Time>
+                </Event>，
+                <Event eid="e19">
+                    <Denoter did="d19"type="stateChange">最晚发病</Denoter>时间为
+                    <Time tid="t19"type="relTime">12月29日</Time>
+                </Event>；已经
+                <Event eid="e20">
+                    <Denoter did="d20"type="operation">追踪</Denoter>到163名
+                    <Participant oid="o20"type="recipient">密切接触者</Participant>
+                </Event>并
+                <Event eid="e21">
+                    <Denoter did="d21"type="operation">行医学观察</Denoter>
+                </Event>，
+                <Event eid="e22">
+                    <Participant oid="o22">密切接触者</Participant>的
+                    <Object sid="s22">追踪工作</Object>仍在
+                    <Denoter did="d22"type="operation">进行</Denoter>中
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e23">
+                    <Object sid="s23">流行病学调查</Object>
+                    <Denoter did="d23"type="statement">显示</Denoter>
+                </Event>，部分患者为武汉市华南海鲜城（华南海鲜批发市场）经营户。
+            </Sentence>
+            <Sentence>
+                <Event eid="e24" type="Thoughtevent ">
+                    <Time tid="t24"type="relTime">截至目前</Time>，初步
+                    <Object sid="s24">调查</Object>
+                    <Denoter did="d24"type="statement">表明</Denoter>
+                </Event>，
+                <Event eid="e25"type="Polarity-negative">
+                    <Denoter did="d25"type="perception">未发现</Denoter>明确的
+                    <Object oid="o25">人传人证据</Object>
+                </Event>，
+                <Event eid="e26"type="Polarity-negative">
+                  	<Denoter did="d26"type="perception">未发现</Denoter>
+                    <Participant oid="o26">医务人员感染</Participant>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e27">已
+                    <Denoter did="d27"type="operation">排除</Denoter>流感、禽流感、腺病毒、传染性非典型肺炎（SARS）和中东呼吸综合征（MERS）等
+                    <Object oid="o27">呼吸道病原</Object>
+                </Sentence>
+            </Event>。
+            <Sentence>
+                <Event eid="e28">
+                    <Object oid="o28">病原</Object>
+                    <Denoter did="d28"type="operation">鉴定</Denoter>
+                </Event>和
+                <Event eid="e29">
+                    <Object oid="o29">病因</Object>
+                    <Denoter did="d29"type="operation">溯源</Denoter>
+                </Event>工作仍在进一步进行中。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e30">
+                    <Time tid="t30"type="relTime">目前</Time>，武汉市在国家和湖北省的支持下，已经
+                    <Denoter did="d30"type="action">采取</Denoter>以下主要
+                    <Object oid="o30">防控措施</Object>
+                </Event>
+            </Sentence>：
+            <Sentence>
+                <Event eid="e31">一是全力
+                    <Denoter did="d31"type="operation">救治</Denoter>
+                    <Participant oid="o31"type="recipient">患者</Participant>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e32">二是对所有病例均开展
+                    <Denoter did="d32"type="operation">隔离治疗</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e33">三是继续在全市医疗机构开展
+                    <Object oid="o33">相关病例</Object>
+                    <Denoter did="d33"type="operation">搜索和回顾性调查</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e34">四是认真开展
+                    <Participant oid="o34"type="recipient">密切接触者</Participant>
+                    <Denoter did="d34"type="operation">追踪</Denoter>，
+                </Event>
+                <Event eid="e35">对已经追踪到的
+                    <Participant oid="o35"type="recipient">密切接触者</Participant>按规定落实
+                    <Denoter did="d35"type="operation">医学观察</Denoter>
+                </Event>，目前没有发现发热等异常症状。
+            </Sentence>
+            <Sentence>
+                <Event eid="e36">五是对华南海鲜城
+                    <Denoter did="d36"type="action">采取</Denoter>
+                    <Object oid="o36">休市措施</Object>
+                </Event>，
+                <Event eid="e37">并开展
+                    <Object oid="o37">环境卫生</Object>
+                    <Denoter did="d37"type="operation">处置</Denoter>和
+                </Event>。
+                <Event eid="e38">进一步的
+                    <Object oid="o38">卫生学</Object>
+                    <Denoter did="d38"type="operation">调查</Denoter>
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e39">六是积极开展
+                    <Object oid="o39">流行病学</Object>
+                    <Denoter did="d39"type="operation">调查</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e40">七是配合国家和省开展
+                    <Object oid="o40">病原</Object>
+                    <Denoter did="d40"type="action">鉴定</Denoter>（包括核酸检测和病毒分离培养）和
+                </Event>
+                <Event eid="e41">
+                    <Object oid="o41">病因</Object>
+                    <Denoter did="d41"type="action">溯源</Denoter>
+                </Event>
+              防控工作正有序进行。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e42"type="Thoughtevent">
+                    <Participant sid="s42"type="agent">专家</Participant>
+                    <Denoter did="d42"type="statement">提示</Denoter>
+                </Event>，
+                <Event eid="e43">
+                    <Time tid="t43"type="relTime">目前</Time>
+                    <Location lid="l43">我市</Location>正
+                    <Denoter did="d43"type="movement">处于</Denoter>冬春季
+                    <Object oid="o43">传染病高发季节</Object>
+                </Event>，
+                <Event eid="e44">
+                    <Participant sid="s44"type="agent">市民</Participant>要注意
+                    <Denoter did="d44"type="action">保持</Denoter>
+                    <Object oid="o44">室内空气流通</Object>
+                </Event>，
+                <Event eid="e45">
+                    <Denoter did="d45"type="action">避免</Denoter>到封闭、空气不流通的
+                    <Object oid="o45">公众场合</Object>和
+                    <Object oid="o45">人多集中地方</Object>
+                </Event>，
+                <Event eid="e46">必要时可
+                    <Denoter did="d46"type="action">佩戴</Denoter>
+                    <Object oid="o46">口罩</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>如有
+                <Event eid="e47">
+                    <Denoter did="d47"type="stateChange">发热</Denoter>
+                </Event>、
+                <Event eid="e48">
+                    <Object oid="o48">呼吸道</Object>
+                    <Denoter did="d48"type="stateChange">感染</Denoter>
+                </Event>症状，特别是
+                <Event eid="e49">持续
+                    <Denoter did="d49"type="stateChange">发热不退</Denoter>
+                </Event>，及时
+                <Event eid="e50">到
+                    <Location lid="50">医疗机构</Location>
+                    <Denoter did="50"type="operation">就诊</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e50"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3-e7"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eid="e9-e11"/>
+    <eRelation relType="Accompany" accompanya_eid="e20" accompanyb_eid="e21"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e24" thoughtcontent_eid="e25-e27"/>
+    <eRelation relType="Accompany" accompanya_eid="e28" accompanyb_eid="e29"/>
+    <eRelation relType="Composite" fevent_eid="e30" sevent_eids="e31-e41"/>
+    <eRelation relType="Accompany" accompanya_eid="e34" accompanyb_eid="e35"/>
+    <eRelation relType="Accompany" accompanya_eid="e36" accompanyb_eid="e37"/>
+    <eRelation relType="Accompany" accompanya_eid="e37" accompanyb_eid="e38"/>
+    <eRelation relType="Accompany" accompanya_eid="e40" accompanyb_eid="e41"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e42" thoughtcontent_eid="e43-e50"/>
+  	<eRelation relType="Follow" bevent_eid="e47" aevent_eid="e50"/>
+    <eRelation relType="Follow" bevent_eid="e48" aevent_eid="e50"/>
+    <eRelation relType="Follow" bevent_eid="e49" aevent_eid="e50"/>
+</Body>

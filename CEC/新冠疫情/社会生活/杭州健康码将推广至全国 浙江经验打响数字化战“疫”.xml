@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>杭州健康码将推广至全国 浙江经验打响数字化战“疫”</Title>
+    <ReportTime type="absTime">2020-02-16T00:00</ReportTime>人民日报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">2月10日</Time>起，
+                    <Location lid="l1">浙江</Location>各地已经
+                    <Means mid="m1">因地因时、分类有序</Means>
+                    <Denoter did="d1" type="operation">推进</Denoter>
+                </Event>
+                <Event eid="e2">
+                    <Object sid="s2">企业</Object>
+                    <Denoter did="d2" type="stateChange">复工复产</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e3">
+                    <Object sid="s3">大数据</Object>在
+                    <Location lid="l3">浙江</Location>防控疫情中
+                    <Denoter did="d3" type="stateChange">成为</Denoter>
+                    <Object oid="o3">基础设施</Object>
+                </Event>，
+                <Event eid="e4">
+                    <Object sid="s4">企业</Object>
+                    <Means mid="m4">在线</Means>
+                    <Denoter did="d4" type="action">申请</Denoter>
+                    <Object oid="o4">复工</Object>
+                </Event>，
+                <Event eid="e5">
+                    <Participant sid="s5" type="agent">市民</Participant>也
+                    <Means mid="m5">在线</Means>
+                    <Denoter did="d5" type="action">申请</Denoter>
+                    <Object oid="o5">健康码。</Object>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">“健康码”是
+                    <Location lid="l6">浙江省</Location>
+                    <Denoter did="d6" type="action">利用</Denoter>
+                    <Object oid="o6">大数据</Object>和
+                    <Object oid="o6">移动互联网</Object>
+                </Event>
+                <Event eid="e7">加强
+                    <Object oid="o7">疫情</Object>
+                    <Denoter did="d7" type="operation">防控</Denoter>、
+                </Event>
+                <Event eid="e8">方便
+                    <Participant sid="s801">群众</Participant>和
+                    <Participant sid="s802">“三返”人员</Participant>
+                    <Denoter did="d8" type="movement">便利出行</Denoter>
+                </Event>的一大创新举措
+            </Sentence>。
+            <Sentence>
+                <Event eid="e9">
+                    <Time tid="t9" type="relTime">2月11日</Time>，浙江省
+                    <Location lid="l9">杭州市</Location>率先
+                    <Denoter did="d9" type="action">推出</Denoter>
+                    <Object oid="o9">健康码模式</Object>
+                </Event>，
+                <Event eid="e10">实施
+                    <Participant oid="o10">市民</Participant>和
+                    <Participant oid="o10">拟进入杭州人员</Participant>的
+                    <Object oid="o10">“绿码、红码、黄码”</Object>三色动态
+                    <Denoter did="d10" type="operation">管理</Denoter>
+                </Event>，
+                <Event eid="e11">并与
+                    <Object oid="o11">钉钉企业复工申请平台</Object>
+                    <Denoter did="d11" type="stateChange">打通</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e12">
+                    <Participant sid="s12" type="agent">市民</Participant>在
+                    <Denoter did="d12" type="action">注册</Denoter>
+                    <Object oid="o12">健康码</Object>的时候
+                </Event>，
+                <Event eid="e13" polarity="negative">不需要
+                    <Denoter did="d13"type="action">聚集</Denoter>
+                </Event>，
+                <Event eid="e14" polarity="negative">也不用
+                    <Denoter did="d14" type="action">排队</Denoter>
+                </Event>，
+                <Event eid="e15">最重要的是
+                    <Means mid="m15">如实</Means>
+                    <Denoter did="d15" type="action">填写</Denoter>
+                </Event>，
+                <Event eid="e16">并
+                    <Denoter did="d16" type="action">申报</Denoter>个人的
+                    <Object oid="o16">健康信息</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e17">填写申报通过
+                    <Denoter did="d17" type="operation">审核</Denoter>
+                </Event>后，
+                <Event eid="e18">
+                    <Participant sid="s18" type="agent">每个人</Participant>都将
+                    <Denoter did="d18" type="stateChange">产生</Denoter>一个
+                    <Object oid="o18,o19,o22">颜色码</Object>
+                </Event>：
+                <Event eid="e19">
+                    <Denoter did="d19" type="stateChange">显示</Denoter>
+                    <Object oid="o19">绿码</Object>者
+                </Event>，
+                <Event eid="e20">
+                    <Location lid="l20">市内</Location>亮码
+                    <Denoter did="d20" type="stateChange">通行</Denoter>
+                </Event>，
+                <Event eid="e21">进出
+                    <Location lid="l21">杭州</Location>
+                    <Denoter did="d21" type="stateChange">扫码通行</Denoter>
+                </Event>；
+                <Event eid="e22">
+                    <Denoter did="d22" type="stateChange">显示</Denoter>
+                    <Object oid="o22">红码</Object>者，
+                </Event>
+                <Event eid="e23">要实施
+                    <Time tid="t23" type="timeInterval">14天</Time>的
+                    <Denoter did="d23" type="operation">集中或居家隔离</Denoter>
+                </Event>，
+                <Event eid="e24">在连续申报健康
+                    <Denoter did="d24" type="action">打卡</Denoter>
+                </Event>
+                <Event eid="e25">
+                    <Time tid="t25" type="timeInterval">14天</Time>
+                    <Denoter did="d25" type="stateChange">正常</Denoter>后
+                </Event>，
+                <Event eid="e26">将
+                    <Denoter did="d26" type="stateChange">转为</Denoter>
+                    <Object oid="o26">绿码</Object>；
+                </Event>
+                <Event eid="e27">
+                    <Denoter did="d27" type="stateChange">显示</Denoter>
+                    <Object oid="o27">黄码</Object>者
+                </Event>，
+                <Event eid="e28">要进行
+                    <Time tid="t28" type="timeInterval">7天以内</Time>的集中或居家
+                    <Denoter did="d28" type="operation">隔离</Denoter>
+                </Event>，
+                <Event eid="e29">在连续申报健康
+                    <Denoter did="d29" type="action">打卡</Denoter>
+                </Event>
+                <Event eid="e30">
+                    <Time tid="t30" type="relTime">不超过7天</Time>
+                    <Denoter did="d30" type="stateChange">正常</Denoter>后
+                </Event>，
+                <Event eid="e31">将
+                    <Denoter did="d31" type="stateChange">转为</Denoter>
+                    <Object oid="o31">绿码</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e32" type="thoughtevent" >同时
+                    <Denoter did="d32" type="statement">要求</Denoter>
+                    <Participant oid="o32,o33,o34" type="recipient">拟入杭人员</Participant>
+                </Event>，
+                <Event eid="e33">必须
+                    <Denoter did="d33" type="action">申领</Denoter>到“
+                    <Object oid="o33">绿码</Object>”后
+                </Event>
+                <Event eid="e34">才能
+                    <Denoter did="d34" type="movement">入杭</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e35">
+                    <Participant sid="s35" type="agent">大量返岗复工人员</Participant>在
+                    <Means mid="m35">支付宝</Means>内
+                    <Denoter did="d35" type="action">申领</Denoter>
+                    <Object oid="o35">健康码</Object>，
+                </Event>
+                <Event eid="e36">上线
+                    <Time tid="t36" type="relTime">首日</Time>
+                    <Object sid="s36">访问量</Object>即
+                    <Denoter did="d36" type="stateChange">达到</Denoter>
+                    <Object oid="o36">1000万</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e37">
+                    <Time tid="t37" type="absTime">2020年2月11日</Time>，在浙江省
+                    <Location lid="l37">杭州市</Location>率先
+                    <Denoter did="d37" type="operation">推出</Denoter>
+                    <Object oid="o37">健康码模式</Object>
+                </Event>（
+                <Event eid="e38">
+                    <Object sid="s38">支付宝</Object>
+                    <Denoter did="d38" type="operation">研发</Denoter>
+                </Event>），
+                <Event eid="e39">实施
+                    <Participant oid="o3901" type="agent">市民</Participant>和
+                    <Participant oid="o3902" type="agent">拟进入杭州人员</Participant>的“
+                    <Object oid="o39">绿码、红码、黄码</Object>”三色
+                    <Denoter did="d39" type="operation">动态管理</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e40">随后，
+                    <Object sid="s40">健康码</Object>在
+                    <Location lid="l40">浙江省</Location>
+                    <Denoter did="d40" type="stateChange">快速覆盖</Denoter>
+                </Event>，
+                <Event eid="e41">截止
+                    <Time tid="t41" type="absTime">2020年2月24日</Time>，浙江省累计
+                    <Denoter did="d41" type="operation">发放</Denoter>健康码超过
+                    <Object oid="o41">5000万张</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e42">继支付宝之后，
+                    <Object sid="s42">腾讯</Object>
+                    <Denoter did="d42" type="operation">推出</Denoter>“
+                    <Object oid="o42">防疫健康码</Object>”
+                </Event>、
+                <Event eid="e43">
+                    <Object sid="s43">国家政务服务平台</Object>
+                    <Denoter did="d43" type="operation">推出</Denoter>“
+                    <Object oid="o43">防疫健康信息码</Object>”。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e44">至
+                    <Time tid="t44" type="relTime">3月份</Time>，
+                    <Location lid="l44">全国大部分地区</Location>都
+                    <Denoter did="d44" type="action">采用</Denoter>了
+                    <Object oid="o44">健康码通行模式</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Composite" fevent_eid="e1" sevent_eids="e2"/>
+    <eRelation relType="Composite" fevent_eid="e3" sevent_eids="e4-e5"/>
+    <eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+    <eRelation relType="Composite" fevent_eid="e6" sevent_eids="e7-e8"/>
+    <eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+    <eRelation relType="Composite" fevent_eid="e9" sevent_eids="e10-e11"/>
+    <eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+    <eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eids="e13-e14"/>
+    <eRelation relType="Composite" fevent_eid="e12" sevent_eids="e15-e16"/>
+    <eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e16"/>
+    <eRelation relType="Follow" bevent_eid="e17" aevent_eid="e18"/>
+    <eRelation relType="Follow" bevent_eid="e19" aevent_eids="e20-e21"/>
+    <eRelation relType="Follow" bevent_eid="e22" aevent_eids="e23-e26"/>
+    <eRelation relType="Follow" bevent_eid="e25" aevent_eid="e26"/>
+    <eRelation relType="Follow" bevent_eid="e27" aevent_eids="e28-e31"/>
+    <eRelation relType="Follow" bevent_eid="e30" aevent_eid="e31"/>
+    <eRelation relType="Follow" bevent_eid="e33" aevent_eid="e34"/>
+    <eRelation relType="Accompany" accompanya_eid="e35" accompanyb_eid="e36"/>
+    <eRelation relType="Composite" fevent_eid="e37" sevent_eids="e38-e39"/>
+    <eRelation relType="Follow" bevent_eid="e37" aevent_eid="e40"/>
+    <eRelation relType="Follow" bevent_eid="e39" aevent_eid="e40"/>
+    <eRelation relType="Follow" bevent_eid="e38" aevent_eid="e42"/>
+    <eRelation relType="Follow" bevent_eid="e38" aevent_eid="e43"/>
+    <eRelation relType="Follow" bevent_eid="e38" aevent_eid="e44"/>
+  	<eRelation relType="Follow" bevent_eid="e42" aevent_eid="e44"/>
+  	<eRelation relType="Follow" bevent_eid="e43" aevent_eid="e44"/>
+</Body>

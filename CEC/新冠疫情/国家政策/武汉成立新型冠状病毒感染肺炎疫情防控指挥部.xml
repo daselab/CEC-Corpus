@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>武汉成立新型冠状病毒感染肺炎疫情防控指挥部</Title>
+    <ReportTime type="absTime">2020-01-21T00:00</ReportTime>新华网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Participant sid="s1" type="agent">新华社</Participant>
+                    <Location lid="l1">武汉</Location>
+                    <Time tid="t1" type="relTime">1月21日</Time>
+                    <Denoter did="d1" type="statement">电</Denoter>
+                </Event>（记者廖君 黎昌政）
+                <Event eid="e2">
+                    <Time tid="t2" type="relTime">20日</Time>，
+                    <Participant sid="s2" type="agent">武汉市</Participant>
+                    <Denoter did="d2" type="operation">成立</Denoter>新型冠状病毒感染的
+                    <Object oid="o2">肺炎疫情防控指挥部</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e3">
+                    <Participant sid="s3" type="agent">记者</Participant>从
+                    <Location lid="l3">指挥部工作会议</Location>上
+                    <Denoter did="d3" type="perception">获悉</Denoter>，
+                </Event>
+                <Event eid="e4">
+                    <Participant sid="s4" type="agent">武汉</Participant>将
+                    <Denoter did="d4" type="operation">采取</Denoter>
+                    <Object oid="o4">更严格的举措</Object>，
+                </Event>
+                <Event eid="e5">
+                    <Means mid="m5" type="method">内防扩散</Means>、
+                    <Means mid="m5" type="method">外防输出</Means>，
+                    <Denoter did="d5" type="operation">防止</Denoter>
+                    <Object oid="o5">疫情扩散蔓延</Object>，
+                </Event>
+                <Event eid="e6">尽量
+                    <Denoter did="d6" type="stateChange">减少</Denoter>或取消一切
+                    <Object oid="o6">不必要的大型公众集会</Object>，
+                </Event>
+                <Event eid="e7">严格
+                    <Denoter did="d7" type="operation">控制</Denoter>
+                    <Object oid="o7">医院感染</Object>，
+                </Event>
+                <Event eid="e8">对
+                    <Participant oid="o8,o9" type="recipient">重症患者</Participant>
+                    <Denoter did="d8" type="operation">“一人一方案”</Denoter>
+                </Event>
+                <Event eid="e9">
+                    <Denoter did="d9" type="operation">“一人一团队”</Denoter>，
+                </Event>
+                <Event eid="e10">最大限度
+                    <Denoter did="d10" type="operation">消除</Denoter>
+                    <Object oid="o10">社会恐慌</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>据了解，
+                <Event eid="e11">
+                    <Participant sid="s11" type="agent">指挥部</Participant>
+                    <Denoter did="d11" type="operation">统一领导</Denoter>、指挥
+                    <Location lid="l11">武汉全市</Location>
+                    <Object oid="o11">疫情防控工作</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e12">
+                    <Participant sid="s12" type="agent">武汉市市长周先旺</Participant>
+                    <Denoter did="d12" type="operation">任</Denoter>
+                    <Object oid="o12">指挥长</Object>，
+                </Event>
+                <Event eid="e13">
+                    <Participant sid="s13" type="agent">指挥部</Participant>
+                    <Denoter did="d13" type="operation">下设</Denoter>
+                    <Participant oid="o13" type="recipient">应急保障工作小组</Participant>、
+                    <Participant oid="o13" type="recipient">宣传工作小组</Participant>、
+                    <Participant oid="o13" type="recipient">交通工作小组</Participant>、
+                    <Participant oid="o13" type="recipient">市场工作小组</Participant>、
+                    <Participant oid="o13" type="recipient">医疗救治工作小组</Participant>、
+                    <Participant oid="o13" type="recipient">疫情防控工作小组</Participant>、
+                    <Participant oid="o13" type="recipient">社区工作小组</Participant>、
+                    <Participant oid="o13" type="recipient">综合工作小组</Participant>等8个工作小组。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e14">
+                    <Object sid="s14">会议</Object>
+                    <Denoter did="d14" type="statement">指出</Denoter>，
+                </Event>
+                <Event eid="e15">
+                    <Time tid="t15">当前</Time>，
+                    <Object oid="o15,o16">新型冠状病毒感染的肺炎</Object>已
+                    <Denoter did="d15" type="operation">纳入</Denoter>
+                    <Object sid="s15">乙类传染病</Object>、
+                </Event>
+                <Event eid="e16">
+                    <Denoter did="d16" type="operation">采取</Denoter>
+                    <Means mid="m16">甲类管理</Means>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e17">
+                    <Participant sid="s17" type="agent">全市</Participant>上下要切实把
+                    <Object oid="o17">思想</Object>
+                    <Object oid="o17">行动</Object>
+                    <Denoter did="d17" type="stateChange">统一</Denoter>到
+                    <Object sid="s17">党中央、国务院关于疫情防控的决策部署</Object>上来，
+                </Event>
+                <Event eid="e18">把人民群众
+                    <Object oid="o18">生命安全</Object>和
+                    <Object oid="o18">身体健康</Object>
+                    <Denoter did="d18" type="stateChange">放在第一位</Denoter>，
+                </Event>
+                <Event eid="e19">正确
+                    <Denoter did="d19" type="perception">认识</Denoter>
+                    <Object oid="o19">当前形势</Object>，
+                </Event>
+                <Event eid="e20">
+                    <Means mid="m20">坚定信心</Means>、
+                    <Means mid="m20">保持定力</Means>，切实
+                    <Denoter did="d20" type="stateChange">增强</Denoter>
+                    <Object oid="o20">责任感</Object>、
+                    <Object oid="o20">紧迫感</Object>，
+                </Event>
+                <Event eid="e21">把
+                    <Object oid="o21">疫情防控</Object>
+                    <Denoter did="d21" type="action">摆</Denoter>在
+                    <Object sid="s21">最重要的位置</Object>，
+                </Event>
+                <Event eid="e22">集
+                    <Means mid="m22">全市之力</Means>坚决
+                    <Denoter did="d22" type="operation">遏制</Denoter>
+                    <Object oid="o22">疫情蔓延势头</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e23">
+                    <Object sid="s23">指挥部工作会议</Object>
+                    <Denoter did="d23" type="statement">要求</Denoter>，
+                </Event>
+                <Event eid="e24">全力
+                    <Denoter did="d24" type="operation">做好</Denoter>患者
+                    <Object oid="o24">救治工作</Object>，
+                </Event>
+                <Event eid="e25">对
+                    <Participant oid="o25,o26" type="recipient">重症患者</Participant>
+                    <Denoter did="d25" type="operation">“一人一方案”</Denoter>
+                </Event>
+                <Event eid="e26">
+                    <Denoter did="d26" type="operation">“一人一团队”</Denoter>，
+                </Event>
+                <Event eid="e27">
+                    <Denoter did="d27"type="operation" >确保</Denoter>轻症患者尽快
+                    <Object oid="o27">治愈出院</Object>；
+                </Event>
+                <Event eid="e28">
+                    <Denoter did="d28" type="stateChange">强化</Denoter>
+                    <Object oid="o28">医务人员防护</Object>，
+                </Event>
+                <Event eid="e29">严格
+                    <Denoter did="d29" type="operation">控制</Denoter>
+                    <Object oid="o29">医院感染</Object>；
+                </Event>
+                <Event eid="e30">
+                    <Denoter did="d30" type="stateChange">加大</Denoter>
+                    <Location lid="l30">农（集）贸市场及各类经营场所</Location>
+                    <Object oid="o30">监管力度</Object>，
+                </Event>
+                <Event eid="e31">
+                    <Denoter did="d31,d34" type="operation">把好</Denoter>
+                </Event>
+                <Event eid="e32">相关
+                    <Object oid="o32">市场</Object>
+                    <Denoter did="d32" type="stateChange">关闭</Denoter>、
+                </Event>
+                <Event eid="e33">
+                    <Object oid="o33">野生动物</Object>
+                    <Denoter did="d33" type="operation">管控</Denoter>
+                </Event>
+                <Event oid="e34">和
+                    <Location lid="l34">机场</Location>、
+                    <Location lid="l34">车站</Location>、
+                    <Location lid="l34">码头</Location>等
+                    <Object oid="o34">体温筛检关口</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e35">同时，尽量
+                    <Denoter did="d35" type="stateChange">减少或取消</Denoter>一切不必要的
+                    <Object oid="o35">大型公众集会</Object>，
+                </Event>
+                <Event eid="e36">
+                    <Denoter did="d36" type="operation">协调</Denoter>
+                    <Object oid="o36">各方资源</Object>
+                </Event>
+                <Event eid="e37">
+                    <Denoter did="d37" type="stateChange">加强</Denoter>
+                    <Object oid="o37">物资储备和供应</Object>，
+                </Event>
+                <Event eid="e38">
+                    <Denoter did="d38" type="perception">确保</Denoter>
+                    <Object oid="o38">疫情“早发现、早报告、早隔离、早治疗”</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e39">要及时
+                    <Means mid="m39">公开透明</Means>向社会
+                    <Denoter did="d39" type="action">通报</Denoter>
+                    <Object oid="o39">疫情态势</Object>和
+                    <Object oid="o39">防控工作进展</Object>，
+                </Event>
+                <Event eid="e40">统一
+                    <Denoter did="d40" type="statement">发布</Denoter>
+                    <Object oid="o40">权威信息</Object>，
+                </Event>
+                <Event eid="e41">
+                    <Denoter did="d41" type="operation">普及</Denoter>
+                    <Object oid="o41">防控知识</Object>，
+                </Event>
+                <Event eid="e42">最大限度
+                    <Denoter did="d42" type="operation">消除</Denoter>
+                    <Object oid="o42">社会恐慌</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>据了解，
+                <Event eid="e43">
+                    <Participant sid="s43" type="agent">武汉</Participant>将
+                    <Denoter did="d43" type="operation">落实</Denoter>
+                    <Means mid="m43" type="method">领导包保</Means>、
+                    <Means mid="m43" type="method">分级负责</Means>的
+                    <Object oid="o43">工作机制</Object>，
+                </Event>
+                <Event eid="e44">严格
+                    <Denoter did="d44" type="operation">落实</Denoter>各区属地
+                    <Object oid="o44">管理责任</Object>，
+                </Event>
+                <Event eid="e45">
+                    <Denoter did="d45" type="operation">发动</Denoter>
+                    <Participant oid="o45" type="recipient">社区干部</Participant>、
+                    <Participant oid="o45" type="recipient">网格员</Participant>、
+                    <Participant oid="o45" type="recipient">社区医务人员</Participant>，
+                </Event>
+                <Event eid="e46">
+                    <Denoter did="d46" type="stateChange">加强</Denoter>
+                </Event>
+                <Event eid="e47">
+                    <Participant oid="o47" type="recipient">密切接触者</Participant>
+                    <Denoter did="d47" type="operation">管理</Denoter>，
+                </Event>
+                <Event eid="e48">每日
+                    <Denoter did="d48" type="operation">报告</Denoter>
+                    <Object oid="o48">健康监测状况</Object>；
+                </Event>
+                <Event eid="e49">
+                    <Denoter did="d49" type="stateChange">深化</Denoter>
+                    <Object oid="o49">爱国卫生运动</Object>，
+                </Event>
+                <Event eid="e50">
+                    <Denoter did="d50" type="stateChange">加大</Denoter>
+                    <Object oid="o50">健康教育宣传力度</Object>，
+                </Event>
+                <Event eid="e51">积极
+                    <Denoter did="d51" type="operation">开展</Denoter>
+                    <Object oid="o51">辖区环境卫生专项整治</Object>，
+                </Event>
+                <Event eid="e52">
+                    <Denoter did="d52" type="operation">引导</Denoter>市民
+                    <Means mid="m52">勤洗手</Means>、
+                    <Means mid="m52">戴口罩</Means>，养成
+                    <Object oid="o52">良好的公共卫生行为规范</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e53">
+                    <Denoter did="d53" type="operation">畅通</Denoter>
+                    <Object oid="o53">信息报送渠道</Object>，
+                </Event>
+                <Event eid="e54">
+                    <Denoter did="d54" type="stateChange">加强</Denoter>
+                    <Object oid="o54">督察督办</Object>，
+                </Event>
+                <Event eid="e55">对
+                    <Means mid="m55">思想不重视</Means>、
+                    <Means mid="m55">责任不落实</Means>、
+                    <Means mid="m55">工作不到位</Means>、
+                    <Denoter did="d55" type="stateChange">造成</Denoter>
+                    <Object oid="o55">不良影响</Object>的
+                </Event>
+                <Event eid="e56">将
+                    <Means mid="m56">依纪依规</Means>，严肃
+                    <Denoter did="d56" type="action">追问</Denoter>
+                    <Object oid="o56">责任</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eid="e4-e10"/>
+    <eRelation relType="Composite" fevent_eid="e4" sevent_eids="e5-e10"/>
+    <eRelation relType="Composite" fevent_eid="e11" sevent_eids="e12-e13"/>
+    <eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e16"/>
+    <eRelation relType="Composite" fevent_eid="e17" sevent_eids="e18-e22"/>
+    <eRelation relType="Accompany" accompanya_eid="e28" accompanyb_eid="e29"/>
+    <eRelation relType="Accompany" accompanya_eid="e32" accompanyb_eid="e33"/>
+    <eRelation relType="Accompany" accompanya_eid="e33" accompanyb_eid="e34"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e23" thoughtcontent_eid="e24-e34"/>
+    <eRelation relType="Accompany" accompanya_eid="e36" accompanyb_eid="e37"/>
+    <eRelation relType="Accompany" accompanya_eid="e37" accompanyb_eid="e38"/>
+    <eRelation relType="Composite" fevent_eid="e42" sevent_eids="e39-e41"/>
+    <eRelation relType="Composite" fevent_eid="e43" sevent_eids="e44-e48"/>
+    <eRelation relType="Follow" bevent_eid="e45" aevent_eid="e47"/>
+    <eRelation relType="Follow" bevent_eid="e47" aevent_eid="e48"/>
+    <eRelation relType="Causal" cause_eid="e55" effect_eid="e56"/>
+</Body>

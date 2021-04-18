@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>世卫组织：新冠疫情在非洲没有出现大规模暴发</Title>
+    <ReportTime type="absTime">2020-05-26T00:00</ReportTime>
+    <Content>
+        <Paragraph>
+            <Sentence>据最新消息，
+                <Event eid="e1">
+                    <Participant sid="s1" type="agent">世界卫生组织总干事谭德塞</Participant>于
+                    <Time tid="t1" type="absTime">2020年5月25日</Time>
+                    <Denoter did="d1" type="statement">表示</Denoter>
+                </Event>（当日为“非洲解放日”），
+                <Event eid="e2">
+                    <Location lid="l2">非洲</Location>
+                    <Time tid="t2" type="relTime">目前</Time>是全球受
+                    <Object sid="s2">新冠疫情</Object>
+                    <Denoter did="d2" type="operation">影响最小</Denoter>的地区
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e3">
+                    <Time tid="t3" type="relTime">到目前为止</Time>，
+                    <Location lid="l3">非洲</Location>没有
+                    <Denoter did="d3" type="operation">出现</Denoter>
+                </Event>
+                <Event eid="e4">
+                    <Object sid="s4" type="agent">疫情</Object>大规模
+                    <Denoter did="d4" type="operation">暴发</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">
+                    <Participant sid="s5" type="agent">谭德塞</Participant>在
+                    <Time tid="t5" type="relTime">5月25日当天</Time>举行的
+                    <Location lid="l5">视频新闻发布会上</Location>
+                    <Denoter did="d5" type="operation">赞扬</Denoter>
+                    <Object oid="o5" type="recipient">非洲大陆取得的成就和进步</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e6">
+                    <Participant sid="s6" type="agent">他</Participant>
+                    <Denoter did="d6" type="statement">说</Denoter>
+                </Event>，尽管
+                <Event eid="e7">
+                    <Object sid="s7" type="agent">非洲约一半国家</Object>
+                    <Denoter did="d7" type="operation">出现</Denoter>了
+                    <Object oid="o7" type="recipient">社区传播</Object>
+                </Event>，但从
+                <Event eid="e8">
+                    <Participant sid="s8" type="agent">世卫组织</Participant>
+                    <Denoter did="d8" type="operation">统计</Denoter>的
+                    <Object oid="o8" type="recipient">确诊及死亡病例数</Object>
+                </Event>来看，非洲目前是全球受新冠疫情影响最小的地区
+            </Sentence>。
+            <Sentence>
+                <Event eid="e9">当前
+                    <Object sid="s9" type="agent">非洲报告的新冠确诊病例</Object>仅
+                    <Denoter did="d9" type="perception">占</Denoter>
+                    <Object oid="o9" type="recipient">全球确诊病例的1.5%</Object>
+                </Event>，死亡病例不到全球的0.1%
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">
+                    <Participant sid="s10" type="agent">谭德塞</Participant>
+                    <Denoter did="d10" type="statement">表示</Denoter>
+                </Event>，非洲联盟发挥的领导力是
+                <Event eid="e11">
+                    <Object sid="s11" type="agent">各国</Object>迅速做好
+                    <Denoter did="d11" type="operation">准备</Denoter>
+                </Event>、
+                <Event eid="e12">
+                    <Denoter did="d12" type="operation">采取</Denoter>
+                    <Object oid="o12" type="recipient">全面控制措施</Object>
+                </Event>的关键
+            </Sentence>。
+            <Sentence>
+                <Event eid="e13">
+                    <Object sid="s13" type="agent">非洲各国</Object>在防治小儿麻痹症、麻疹、埃博拉、黄热病、流感等传染病方面
+                    <Denoter did="d13" type="operation">积累</Denoter>了
+                    <Object oid="o13" type="recipient">大量经验</Object>
+                </Event>，这些知识和经验对于
+                <Event eid="e14">迅速
+                    <Denoter did="d14" type="operation">应对</Denoter>
+                    <Object oid="o14" type="recipient">新冠疫情</Object>
+                </Event>
+                <Event eid="e15">
+                    <Denoter did="d15" type="operation">起到</Denoter>了
+                    <Object oid="o15" type="recipient">至关重要的作用</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e16">
+                    <Location lid="l16">塞内加尔</Location>和
+                    <Location lid="l16">南非</Location>都
+                    <Denoter did="d16" type="perception">属</Denoter>
+                    <Object oid="o16" type="recipient">世界上最早开展新冠病毒检测的国家</Object>
+                </Event>，
+                <Event eid="e17">
+                    <Object sid="s17" type="agent">它们</Object>与
+                    <Object oid="o17" type="recipient">非洲疾病预防控制中心以及世卫组织</Object>
+                    <Denoter did="d17" type="operation">合作</Denoter>
+                </Event>，
+                <Event eid="e18">
+                    <Denoter did="d18" type="operation">帮助</Denoter>
+                    <Object oid="o18" type="recipient">各国</Object>
+                </Event>
+                <Event eid="e19">
+                    <Denoter did="d19" type="operation">加强</Denoter>
+                    <Object oid="o19" type="recipient">检测能力</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>此外，来自
+                <Event eid="e20">
+                    <Participant sid="s20" type="agent">非洲各地的临床医生</Participant>、
+                    <Participant sid="s20" type="agent">科学家</Participant>、
+                    <Participant sid="s20" type="agent">研究人员</Participant>和
+                    <Participant sid="s20" type="agent">学者</Participant>共同为
+                    <Denoter did="d20" type="operation">促进</Denoter>
+                    <Object oid="o20" type="recipient">世界对新冠病毒的了解</Object>
+                </Event>
+                <Event eid="e21">
+                    <Denoter did="d21" type="operation">作出</Denoter>了
+                    <Object oid="o21" type="recipient">贡献</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>在
+                <Event eid="e22">
+                    <Participant sid="s22" type="agent">世卫组织</Participant>的
+                    <Denoter did="d22" type="operation">支持</Denoter>
+                </Event>下，
+                <Event eid="e23">
+                    <Location lid="l23">非洲</Location>
+                    <Object sid="s23" type="agent">许多国家</Object>在疫情防控方面
+                    <Denoter did="d23" type="operation">取得</Denoter>了
+                    <Object oid="o23" type="recipient">良好进展</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e24">
+                    <Time tid="t24" type="relTime">目前</Time>，
+                    <Object sid="s24" type="agent">非洲所有国家</Object>都
+                    <Denoter did="d24" type="operation">制定</Denoter>了
+                    <Object oid="o24" type="recipient">针对新冠疫情的防控和应对计划</Object>
+                </Event>，其中
+                <Event eid="e25">
+                    <Object sid="s25" type="agent">48个国家</Object>
+                    <Denoter did="d25" type="operation">制定</Denoter>了
+                    <Object oid="o25" type="recipient">社区参与计划</Object>
+                </Event>，
+                <Event eid="e26">
+                    <Object sid="s26" type="agent">51个国家</Object>已
+                    <Denoter did="d26" type="operation">具备</Denoter>
+                    <Object oid="o26" type="recipient">新冠病毒的实验室检测能力</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e27">截至
+                    <Time tid="t27" type="relTime">上周</Time>，
+                    <Participant sid="s27" type="agent">世卫组织</Participant>已向52个非洲国家
+                    <Denoter did="d27" type="movement">运送</Denoter>了
+                    <Object oid="o27" type="recipient">数百万套医疗防护及检测设备</Object>
+                </Event>，并
+                <Event eid="e28">将继续向
+                    <Location lid="l28" type="destination">非洲</Location>
+                    <Denoter did="d28" type="operation">提供</Denoter>
+                    <Object oid="o28" type="recipient">其他物资支持</Object>
+                </Event>以
+                <Event eid="e29">
+                    <Denoter did="d29" type="operation">拯救</Denoter>
+                    <Object oid="o29" type="recipient">更多生命</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph></Paragraph>
+        <Paragraph>
+            <Sentence>不过，由于欧洲、美洲等全球疫情形势总体还是比较严峻，对
+                <Event eid="e30">
+                    <Location lid="l30">非洲地区</Location>的
+                    <Denoter did="d30" type="operation">影响</Denoter>是持续而深远的
+                </Event>
+            </Sentence>。
+            <Sentence>未来非洲国家在疫情防控常态化形势下，各方面发展还是
+                <Event eid="e31">
+                    <Denoter did="d31" type="operation">面临</Denoter>
+                    <Object oid="o31" type="recipient">诸多挑战</Object>
+                </Event>，尚没有到可以松懈的时候
+            </Sentence>。
+        </Paragraph>
+    </Content>
+</Body>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e15"/>
+<eRelation relType="Causal" cause_eid="e13" effect_eid="e14-e15"/>
+<eRelation relType="Composite" fevent_eid="e17" sevent_eids="e18-e19"/>
+<eRelation relType="Accompany" accompanya_eid="e20" accompanyb_eid="e21"/>
+<eRelation relType="Accompany" accompanya_eid="e24" accompanyb_eid="e25-e26"/>
+<eRelation relType="Causal" cause_eid="e27" effect_eid="e29"/>
+<eRelation relType="Causal" cause_eid="e28" effect_eid="e29"/>

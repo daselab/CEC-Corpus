@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>韩国学生5月27日全面复课，韩国疫情出现反弹</Title>
+    <ReportTime type="absTime">2020-05-28T00:00</ReportTime>
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">5月27日</Time>是
+                    <Location lid="l1">韩国</Location>全面
+                    <Denoter did="d1"type="operation" >复课</Denoter>
+                </Event>的日子。
+            </Sentence>
+            <Sentence>
+                <Event eid="e2">据
+                    <Participant oid="o2" type="agent">韩国教育部</Participant>
+                    <Time tid="t2" type="relTime">5月27日</Time>
+                    <Denoter did="d2" type="statement">消息</Denoter>
+                </Event>，
+                <Event eid="e3">
+                    <Location lid="l3">韩国</Location>
+                    <Participant oid="o3" type="agent">全国高二、初三、小学一二年级和幼儿园共有237万名学生</Participant>
+                    <Time tid="t3" type="relTime">当天</Time>
+                    <Denoter did="d3" type="operation">线下复课</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e4">另外，
+                    <Participant oid="o4" type="agent">韩国高三年级学生</Participant>已于
+                    <Time tid="t4" type="relTime">5月20日</Time>
+                    <Denoter did="d4" type="stateChange">正式返校复课</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">随着复课，
+                    <Location lid="l5">韩国</Location>
+                    <Object oid="o5">新冠疫情</Object>出现
+                    <Denoter did="d5" type="stateChange">反弹</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e6">
+                    <Participant oid="o6" type="agent">韩国中央防疫对策本部</Participant>
+                    <Time tid="t6" type="relTime">5月28日</Time>
+                    <Denoter did="d6" type="statement">通报</Denoter>称
+                </Event>，
+                <Event eid="e7">
+                    <Time tid="t7" type="timeInterval">当地时间2020年5月27日0时至28日0时</Time>，
+                    <Location lid="l7">韩国</Location>
+                    <Denoter did="d7" type="stateChange">新增</Denoter>
+                    <Participant sid="s7" type="recipient">79例新冠肺炎确诊病例</Participant>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e8">
+                    <Denoter did="d8" type="stateChange">新增</Denoter>79例中，
+                    <Participant oid="o8" type="agent">72例</Participant>为
+                    <Participant sid="s8" type="recipient">本土病例</Participant>
+                </Event>；
+                <Event eid="e9">无新增死亡病例，累计
+                    <Denoter did="d9">死亡</Denoter>
+                    <Participant oid="o9" type="recipient">269例</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">据
+                    <Participant oid="o10">韩联社</Participant>
+                    <Denoter did="d10" type="statement">报道</Denoter>
+                </Event>，
+                <Event eid="e11">这是
+                    <Participant oid="o11">韩国防疫部门</Participant>
+                    <Time tid="t11" type="timeInterval">自4月5日</Time>
+                    <Denoter did="d11" type="operation">通报</Denoter>
+                    <Object sid="s11">新增确诊患者81例</Object>以来
+                </Event>，
+                <Event eid="e12">
+                    <Time tid="t12" type="timeInterval">时隔53天</Time>
+                    <Object oid="o12">新增确诊人数</Object>再次
+                    <Denoter did="d12" type="stateChange">突破</Denoter>
+                    <Object sid="s12">70例</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e13">
+                    <Object oid="o13">确诊病例数</Object>连续
+                    <Time tid="t13" type="timeInterval">两日</Time>
+                    <Denoter did="d13" type="stateChange">激增</Denoter>
+                </Event>，
+                <Event eid="e14">
+                    <Time tid="t14" type="relTime">前一日</Time>通报
+                    <Denoter did="d14" type="stateChange">新增</Denoter>病例数
+                    <Participant sid="s14" type="recipient">40例</Participant>，系49天来最高
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e15">
+                    <Time tid="t15" type="timeInterval">从5月20日到5月27日这几天内</Time>，其中有几名
+                    <Location lid="l15">韩国</Location>
+                    <Participant sid="s15" type="agent">学生</Participant>
+                    <Denoter did="d15" type="stateChange">确诊</Denoter>
+                    <Object sid="s15">新冠肺炎</Object>，其中
+                    <Participant sid="s15" type="recipient">仁川市2名高三学生</Participant>、
+                    <Participant sid="s15" type="recipient">大邱市2名高三学生</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e16">由于出现
+                    <Participant oid="o16" type="agent">高三学生</Participant>
+                    <Denoter did="d16" type="stateChange">感染</Denoter>
+                    <Object sid="s16">新冠</Object>
+                </Event>，
+                <Event eid="e17">因而
+                    <Participant oid="o17">大邱市教育厅</Participant>决定暂时
+                    <Denoter did="d17" type="action">停止</Denoter>
+                    <Object sid="s17" oid="o18">五星高中和附近的南山高中、西智高中、陵仁高中以及中央高中等5所学校的返校工作</Object>
+                </Event>，
+                <Event eid="e18">
+                    <Denoter did="d18">恢复</Denoter>
+                    <Object sid="s18">远程授课</Object>
+                </Event>；
+                <Event eid="e19">
+                    <Location lid="l19">仁川市弥邹忽区、延寿区、中区、东区、南东区</Location>的
+                    <Participant oid="o19" type="agent">66所高中</Participant>
+                    <Time tid="t19" type="timeInterval">本周</Time>将以
+                    <Denoter did="d19" type="operation">远程授课</Denoter>方式开展教学
+                </Event>，
+                <Event eid="e20">
+                    <Participant oid="o20" type="agent">其余5个区的学校</Participant>仍按计划
+                    <Denoter did="d20" type="operation">线下授课</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e21">
+                    <Participant oid="o21" type="agent">韩联社</Participant>
+                    <Denoter did="d21" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e22">
+                    <Object oid="o22">确诊病例数</Object>
+                    <Denoter did="d22" type="stateChange">激增</Denoter>
+                </Event>，
+                <Event eid="e23">令
+                    <Object oid="o23">全面复课</Object>
+                    <Denoter did="d23" type="action">面临</Denoter>
+                    <Object sid="s23">紧急局面</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3-e4"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eid="e7-e9"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eid="e11-e14"/>
+    <eRelation relType="Causal" cause_eid="e16" effect_eid="e17-e20"/>
+    <eRelation relType="Causal" cause_eid="e22" effect_eid="e23"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e21" thoughtcontent_eid="e22-e23"/>
+</Body>

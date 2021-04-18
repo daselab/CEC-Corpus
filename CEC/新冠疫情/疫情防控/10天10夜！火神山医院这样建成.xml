@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>10天10夜！火神山医院这样建成</Title>
+    <ReportTime type="absTime">2020-02-05T00:00</ReportTime>人民日报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">一边是
+                    <Time tid="t1" type="timeInterval">10天</Time>
+                    <Denoter did="d1" type="stateChange">建成</Denoter>的紧迫
+                </Event>，
+                <Event eid="e2">另一边是
+                    <Time tid="t2" type="timeInterval">春节期间</Time>
+                    <Object sid="s2">人力物资</Object>的
+                    <Denoter did="d2" type="stateChange">紧缺</Denoter>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e3">
+                    <Time tid="t3" type="relTime">春节前夕</Time>，新型冠状病毒感染的肺炎
+                    <Object sid="s3">疫情</Object>
+                    <Denoter did="d3" type="movement">蔓延</Denoter>
+                </Event>。
+                <Event eid="e4">
+                    <Denoter did="d4" type="stateChange">多</Denoter>
+                    <Object oid="o4">一张病床</Object>
+                </Event>，
+                <Event eid="e5">就
+                    <Denoter did="d5" type="stateChange">多</Denoter>一分治病救人的
+                    <Object oid="o5">希望</Object>
+                </Event>！
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">
+                    <Time tid="t6" type="relTime">1月23日</Time>，
+                    <Location lid="l6">武汉市</Location>紧急
+                    <Denoter did="d6" type="operation">召开</Denoter>
+                    <Object oid="o6">专题会议</Object>
+                </Event>，
+                <Event eid="e7">决定由中建集团在汉子企业
+                    <Object sid="s7">中建三局</Object>
+                    <Denoter did="d7" type="operation">牵头</Denoter>
+                </Event>，
+                <Event eid="e8">
+                    <Object sid="s8">武汉建工</Object>、
+                    <Object sid="s8">武汉市政</Object>、
+                    <Object sid="s8">汉阳市政</Object>等3家企业
+                    <Denoter did="d8" type="operation">参与</Denoter>
+                </Event>，
+                <Event eid="e9">参照
+                    <Means mid="m9">北京“小汤山”模式</Means>，在
+                    <Location lid="l9">武汉市蔡甸区</Location>火速
+                    <Denoter did="d9" type="operation">建设</Denoter>一所可容纳1000张床位的
+                    <Object oid="o9">医院</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>很快，知音湖畔寒风凛冽的
+                <Event eid="e10">
+                    <Object sid="s10">火神山</Object>
+                    <Denoter did="d10" type="stateChange">变成</Denoter>了热火朝天的
+                    <Object oid="o10">施工现场</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e11">这是一场与
+                    <Object oid="o11">生命</Object>
+                    <Denoter did="d11" type="movement">赛跑</Denoter>的建设
+                </Event>，
+                <Event eid="e12">
+                    <Time tid="t12" type="relTime">提前一分钟</Time>
+                    <Denoter did="d12" type="stateChange">交工</Denoter>
+                </Event>，
+                <Event eid="e13">就
+                    <Denoter did="d13" type="stateChange">多</Denoter>一分
+                    <Object sid="s13">胜算</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e14">
+                    <Time tid="t14" type="timeInterval">10天</Time>
+                    <Denoter did="d14" type="stateChange">建成</Denoter>一所
+                    <Object oid="o14">超大型医院</Object>，
+                </Event>难度可想而知。
+            </Sentence>
+            <Sentence>更何况，
+                <Event eid="e15">正值
+                    <Time tid="t15">春节期间</Time>，如何
+                    <Denoter did="d15" type="operation">调集</Denoter>大量
+                    <Participant oid="o15" type="recipient">工人</Participant>？
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e16">1月23日当晚，
+                    <Object sid="s16">中建三局</Object>就迅速
+                    <Denoter did="d16" type="action">召集</Denoter>了
+                </Event>
+                <Event eid="e17">正在
+                    <Denoter did="d17" type="operation">加班</Denoter>的5个建设项目中的
+                    <Participant sid="s17" type="agent">1400多名工人</Participant>，
+                </Event>
+                <Event eid="e18">同时
+                    <Denoter did="d18" type="operation">广发</Denoter>“
+                    <Object oid="o18">英雄帖</Object>”。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e19">
+                    <Location lid="l19">湖北</Location>含璋劳务公司总经理
+                    <Participant sid="s19" type="agent">付剑平</Participant>
+                    <Time tid="t19" type="relTime">1月24日</Time>一大早就带着一辆
+                    <Object sid="s19">大巴车</Object>
+                    <Denoter did="d19" type="movement">上路</Denoter>了
+                </Event>，
+                <Event eid="e20">沿着
+                    <Location lid="l20">宜昌</Location>、
+                    <Location lid="l20">荆门</Location>、
+                    <Location lid="l20">仙桃</Location>等地
+                    <Denoter did="d20" type="movement">接回</Denoter>
+                    <Participant oid="o20" type="recipient">工人</Participant>
+                </Event>，
+                <Event eid="e21">又动员周边
+                    <Participant sid="s21" type="agent">农村工人</Participant>
+                    <Denoter did="d21" type="movement">结伴而来</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>“
+                <Event eid="e22">
+                    <Denoter did="d22" type="operation">提供</Denoter>一切
+                    <Object oid="o22">资源</Object>
+                </Event>帮助
+                <Event eid="e23">
+                    <Participant sid="s23" type="agent">工友</Participant>
+                    <Denoter did="d23" type="operation">上岗</Denoter>
+                </Event>，哪怕要我们一个个去接，我也要把他们接来。”
+            </Sentence>
+            <Sentence>
+                <Event eid="e24" type="Thoughtevent">负责项目招采工作的
+                    <Participant sid="s24" type="agent">韩建英</Participant>
+                    <Denoter did="d24" type="statement">说</Denoter>
+                </Event>，
+                <Event eid="e25">
+                    <Participant sid="s25" type="agent">他们</Participant>
+                    <Denoter did="d25" type="action">拨通</Denoter>一个又一个
+                    <Participant oid="o25" type="recipient">工友和家属</Participant>的
+                    <Object oid="o25">电话</Object>
+                </Event>，对于工友的担心和顾虑，解释了一遍又一遍。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e26">一些意想不到的
+                    <Object sid="s26">困难</Object>也
+                    <Denoter did="d26" type="movement">接踵而至</Denoter>
+                </Event>。施工现场东西地面最高差近10米；
+                <Event eid="e27">现场既有
+                    <Object oid="o27">建筑物</Object>需要
+                    <Denoter did="d27" type="operation">拆除</Denoter>
+                </Event>，还
+                <Event eid="e28">有大量
+                    <Denoter did="d28" type="operation">清淤</Denoter>工作
+                </Event>和
+                <Event eid="e29">
+                    <Object oid="o29">鱼塘</Object>
+                    <Denoter did="d29" type="operation">回填</Denoter>
+                </Event>任务；整个项目临水而建，
+                <Event eid="e30">周边只有
+                    <Object sid="s30">一条主干道路</Object>
+                    <Denoter did="d30" type="movement">通往</Denoter>
+                    <Object oid="o30">工地</Object>
+                </Event>，
+                <Event eid="e31">
+                    <Object oid="o31">物资</Object>交通
+                    <Denoter did="d31" type="movement">进出</Denoter>
+                </Event>压力巨大；
+                <Event eid="e32">
+                    <Object oid="o32">燃气</Object>、
+                    <Object oid="o32">高压</Object>
+                    <Denoter did="d32" type="movement">迁改</Denoter>协调量也不小…
+                </Event>…
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e33" type="Thoughtevent">中建三局武汉市抗肺炎应急工程建设工作领导小组组长
+                    <Participant sid="s33" type="agent">陈卫国</Participant>
+                    <Denoter did="d33" type="statement">介绍</Denoter>
+                </Event>，
+                <Event eid="e34">凭借
+                    <Means mid="m34">建设数十座300米以上摩天大楼经验</Means>，
+                    <Participant sid="s34">项目指挥部</Participant>迅速
+                    <Denoter did="d34" type="stateChange">完成</Denoter>了
+                </Event>
+                <Event eid="e35">
+                    <Denoter did="d35" type="stateChange">增</Denoter>
+                    <Object oid="o35">人力</Object>
+                </Event>、
+                <Event eid="e36">
+                    <Denoter did="d36" type="stateChange">补</Denoter>
+                    <Object oid="o36">机械</Object>
+                </Event>的资源调配。
+            </Sentence>
+            <Sentence>
+                <Event eid="e37">
+                    <Time tid="t37" type="relTime">1月24日</Time>，
+                    <Object sid="s37">95台挖机</Object>、
+                    <Object sid="s37">160台自卸车</Object>，以及1
+                    <Participant sid="s37" type="agent">60名管理人员</Participant>、
+                    <Participant sid="s37" type="agent">240名工人</Participant>
+                    <Denoter did="d37" type="stateChange">集结完毕</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Time tid="t38" type="relTime">同日</Time>，汉阳市政
+                <Object sid="s38">200余台压路机</Object>、
+                <Object sid="s38">推土机</Object>也
+                <Denoter did="d38" type="stateChange">准备就绪</Denoter>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e39">随着
+                    <Object oid="o39">建设</Object>
+                    <Denoter did="d39" type="operation">推进</Denoter>
+                </Event>，
+                <Event eid="e40">
+                    <Object oid="o40">资源</Object>、
+                    <Object oid="o40">补给</Object>还得
+                    <Denoter did="d40" type="operation">加强</Denoter>
+                </Event>，
+                <Event eid="e41">而
+                    <Time tid="t41" type="relTime">春节期间</Time>
+                    <Object sid="s41">物资</Object>供应却很
+                    <Denoter did="d41" type="stateChange">紧张</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e42" type="Thoughtevent ">项目物资负责人熊伟
+                    <Denoter did="d42" type="statement">介绍</Denoter>
+                </Event>，现场物资需求量非常巨大，箱式板房需求量达1600间，混凝土需求达1.4万立方米。
+            </Sentence>
+            <Sentence>
+                <Event eid="e43">
+                    <Object sid="s43">火神山医院</Object>作为一所
+                    <Denoter did="d43" type="operation">治疗</Denoter>
+                    <Object oid="o43">传染病</Object>的应急医院
+                </Event>，
+                <Event eid="e44">还对
+                    <Object oid="o44">材料样式</Object>有着
+                    <Denoter did="d44" type="stateChange">特殊要求</Denoter>
+                </Event>，
+                <Event eid="e45">
+                    <Object oid="o45">临时备货型号</Object>难以
+                    <Denoter did="d45" type="operation">对应</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e46">比如火神山医院建筑总
+                    <Object oid="o46">平面图中病房</Object>的
+                    <Denoter did="d46" type="operation">组成</Denoter>模块是
+                    <Object sid="s46">6米长、3米宽的长方形</Object>
+                </Event>，
+                <Event eid="e47">然而市场上现有的集装箱尺寸长6.055米、宽2.99米，与设计尺寸
+                    <Denoter did="d47" type="stateChange">存在</Denoter>
+                    <Object oid="o47">细微差距</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>这些差距看似只是厘米级，但当
+                <Event eid="e48">
+                    <Object sid="s48">几百个集装箱</Object>
+                    <Denoter did="d48" type="operation">拼接</Denoter>起来后
+                </Event>，
+                <Event eid="e49">
+                    <Object sid="s49">误差</Object>将会
+                    <Denoter did="d49" type="stateChange">达到</Denoter>
+                    <Object oid="o49">几米</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e50">不过，在一座座超级工程中锤炼出的
+                    <Object oid="o50">集装箱“精准定位”</Object>
+                    <Denoter did="d50" type="operation">深化设计</Denoter>
+                </Event>
+                <Event eid="e51">及时
+                    <Denoter did="d51" type="operation">解决</Denoter>了
+                    <Object oid="o51">问题</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e52">中建三局的
+                    <Participant sid="s52" type="agent">建设者们</Participant>以
+                    <Object oid="o52">宽边对接缝隙</Object>按
+                    <Means mid="m52">最小的12毫米</Means>
+                    <Denoter did="d52" type="action">控制</Denoter>
+                </Event>，
+                <Event eid="e53">
+                    <Object oid="o53">长边对接缝隙</Object>适当
+                    <Denoter did="d53" type="action">扩大</Denoter>
+                </Event>来
+                <Event eid="e54">
+                    <Denoter did="d54" type="operation">消除</Denoter>
+                    <Object oid="o54">误差</Object>
+                </Event>，既达到建筑效果，又兼顾了现场实际。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e55">无数
+                    <Object sid="s55">企业</Object>的迅速
+                    <Denoter did="d55" type="operation">驰援</Denoter>犹如雪中送炭。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e56">
+                    <Time tid="t56" type="relTime">1月24日下午4点</Time>，
+                    <Object sid="s56">新兴铸管股份有限公司</Object>
+                    <Denoter did="d56" type="stateChange">接到</Denoter>火神山医院项目的
+                    <Object oid="o56">输水管道订单</Object>后，
+                </Event>
+                <Event eid="e57">
+                    <Time tid="t57" type="relTime">晚上11点</Time>就将
+                    <Object oid="o57">108种管件</Object>
+                    <Denoter did="d57" type="stateChange">配备齐全</Denoter>
+                </Event>、
+                <Event eid="e58">
+                    <Denoter did="d58" type="stateChange">装车待发</Denoter>
+                </Event>，
+                <Event eid="e59">
+                    <Time tid="t59"type="relTime">25日早晨7点</Time>就已经
+                    <Denoter did="d59" type="movement">送至</Denoter>
+                    <Location lid="l59">施工现场</Location>
+                </Event>
+            </Sentence>。
+            <Sentence>中建商砼源源不断地为火神山供应混凝土近8000立方米
+                <Event eid="e60" type="Polarity-negative">保证
+                    <Object sid="s60">泵车</Object>不
+                    <Denoter did="d60" type="stateChange">停摆</Denoter>
+                </Event>、
+                <Event eid="e61" type="Polarity-negative">
+                    <Object sid="s61">混凝土</Object>不
+                    <Denoter did="d61" type="stateChange">断档</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e62">
+                    <Object sid="s62">医院</Object>刚一
+                    <Denoter did="d62" type="stateChange">交付</Denoter>
+                </Event>，
+                <Event eid="e63">
+                    <Object sid="s63">小米集团</Object>就
+                    <Denoter did="d63" type="operation">捐赠</Denoter>了
+                    <Object oid="o63">1750台小米平板电脑</Object>、
+                    <Object oid="o63">空气净化器</Object>和
+                    <Object oid="o63">红外体温计</Object>等设备。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>亿万网友当“监工”，
+                <Event eid="e64">
+                    <Participant sid="s64" type="agent">数千名建设者</Participant>
+                    <Time tid="t64" type="relTime">24小时</Time>不间断
+                    <Denoter did="d64" type="operation">施工</Denoter>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e65">这个春节，不少
+                    <Participant sid="s65" type="agent">网友</Participant>通过
+                    <Means mid="m65">网络直播</Means>时刻
+                    <Denoter did="d65" type="operation">关注</Denoter>着火神山
+                    <Object oid="o65">施工现场</Object>
+                </Event>
+                <Event eid="e66">，并
+                    <Denoter did="d66" type="statement">自称</Denoter>
+                    <Object oid="o66">“监工”</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e67">“
+                    <Participant sid="s67" type="agent">监工</Participant>”最多的时候
+                    <Denoter did="d67" type="stateChange">突破</Denoter>
+                    <Participant oid="o67" type="recipient">5000万人</Participant>
+                </Event>，
+                <Event eid="e68">加上
+                    <Time tid="t68" type="relTime">后来</Time>
+                    <Denoter did="d68" type="action">加入</Denoter>的雷神山医院
+                    <Object oid="o68">施工直播</Object>
+                </Event>
+                <Event eid="e69">，最多时
+                    <Denoter did="d69" type="stateChange">在线</Denoter>人数近
+                    <Participant sid="s69" type="agent">1亿人</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e70">
+                    <Object sid="s70">直播镜头</Object>
+                    <Denoter did="d70" type="operation">见证</Denoter>了火神山这个5万多平方米的
+                    <Object oid="o70">施工现场</Object>
+                </Event>，施工工人从数百人到7500多人，大型机械设备、车辆从300台到上千台……
+                <Event eid="e71" type="Polarity-negative ">但
+                    <Object sid="s71">镜头</Object>很难
+                    <Denoter did="d71" type="operation">记录</Denoter>下
+                    <Participant oid="o71">每一名建设者</Participant>的
+                    <Object oid="o71">汗水</Object>和
+                    <Object oid="o71">大爱</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e72">中建三局项目资源保障组设计对接负责人
+                    <Participant sid="s72" type="agent">李松</Participant>
+                    <Time tid="t72" type="relTime">过年前</Time>本已
+                    <Denoter did="d72" type="movement">回到</Denoter>
+                    <Location lid="l72">贵州铜仁</Location>老家
+                </Event>，
+                <Event eid="e73"type="Thoughtevent">
+                    <Denoter did="d73" type="perception">得知</Denoter>
+                </Event>
+                <Event eid="e74">
+                    <Object oid="o74">火神山医院</Object>的
+                    <Denoter did="d74" type="operation">建设</Denoter>后
+                </Event>
+                <Event eid="e75">
+                    <Denoter did="d75" type="action">主动请缨</Denoter>
+                </Event>，
+                <Event eid="e76">
+                    <Denoter did="d76" type="movement">驱车</Denoter>
+                    <Time tid="t76" type="timeInterval">10多个小时</Time>
+                </Event>
+                <Event eid="e77">
+                    <Denoter did="d77" type="movement">抵达</Denoter>火神山医院
+                    <Location lid="l77">施工现场</Location>
+                </Event>，成为“最美逆行者”中的一员。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e78">
+                    <Location lid="l78">在工地</Location>连续
+                    <Denoter did="d78" type="operation">度过</Denoter>了
+                    <Time tid="t78" type="relTime">19个春节</Time>的中建三局员工
+                    <Participant sid="s78" type="agent">蒋桂喜</Participant>
+                </Event>
+                <Event eid="e79">今年好不容易在
+                    <Location lid="l79">武汉</Location>家中
+                    <Denoter did="d79" type="stateChange">过上团圆年</Denoter>
+                </Event>，
+                <Event eid="e80">结果
+                    <Time tid="t80" type="relTime">大年三十晚上</Time>
+                    <Participant sid="s80" type="agent">他</Participant>又
+                    <Denoter did="d80" type="movement">赶到</Denoter>了
+                    <Location lid="l80">施工现场</Location>
+                </Event>，
+                <Event eid="e81">负责
+                    <Participant oid="o81">type="recipient"项目人员</Participant>
+                    <Object oid="o81">体温</Object>
+                    <Denoter did="d81" type="operation">测量</Denoter>
+                </Event>、保安人员安排管理。
+            </Sentence>
+            <Sentence>“当兵时，
+                <Event eid="e82">
+                    <Participant sid="s82" type="agent">我</Participant>在
+                    <Location lid="l82">部队</Location>
+                    <Denoter did="d82" type="operation">站岗放哨</Denoter>
+                </Event>，
+                <Event eid="e83">如今
+                    <Denoter did="d83" type="stateChange">打响</Denoter>
+                    <Object oid="o83">疫情防控阻击战</Object>
+                </Event>，
+                <Event eid="e84">我哨兵
+                    <Participant sid="s84" type="agent">蒋桂喜</Participant>必
+                    <Denoter did="d84" type="movement">上前线</Denoter>！
+                </Event>”
+                <Event eid="e85" type="Thoughtevent">
+                    <Participant sid="s85" type="agent">他</Participant>自豪地
+                    <Denoter did="d85" type="statement">说</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e86">武汉建工工程管理部的
+                    <Participant sid="s86" type="agent">杨帆</Participant>，
+                    <Time tid="86t" type="relTime">除夕当晚</Time>就
+                    <Denoter did="d86" type="action">加入</Denoter>了“
+                    <Object oid="o86">武汉蔡甸火神山项目物资采购部</Object>”
+                </Event>，
+                <Event eid="e87">向
+                    <Participant oid="o87" type="recipient">社会各界</Participant>
+                    <Denoter did="d87" type="operation">求助</Denoter>协调项目部急需的
+                    <Object oid="o87">医疗物资</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e88">“
+                    <Object oid="o88">杨帆热线</Object>”被
+                    <Denoter did="d88" type="stateChange">打爆</Denoter>了
+                </Event>，
+                <Event eid="e89">
+                    <Participant sid="s89" type="agent">他</Participant>在
+                    <Time tid="t89" type="timeInterval">短短4天</Time>
+                    <Denoter did="d89" type="operation">接通处理</Denoter>了
+                    <Object oid="o89">1700多通电话</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e90">还有不少“
+                    <Participant sid="s90" type="agent">工地玫瑰</Participant>”
+                    <Denoter did="d90" type="action">换上</Denoter>
+                    <Object oid="o90">工装</Object>
+                </Event>，
+                <Event eid="e91">
+                    <Time tid="t91" type="relTime">第一时间</Time>
+                    <Denoter did="d91" type="movement">上“前线”</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e92">今年53岁的
+                    <Participant sid="s92" type="agent">王晓红</Participant>是中建三局总承包公司钢结构专家，她主动要求
+                    <Denoter did="d92" type="operation">坐镇</Denoter>
+                    <Location lid="l92">现场</Location>，
+                </Event>
+                <Event eid="e93">通盘
+                    <Denoter did="d93" type="operation">协调</Denoter>
+                    <Object oid="o93">图纸</Object>、
+                    <Object oid="o93">技术</Object>、
+                    <Object oid="o93">物资</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e94">负责
+                    <Denoter did="d94" type="operation">运输</Denoter>任务的
+                    <Participant sid="s94" type="agent">杨宁</Participant>
+                </Event>，娇小的身形却有无穷的能量，
+                <Event eid="e95">共
+                    <Denoter did="d95" type="operation">协调</Denoter>了
+                </Event>
+                <Event eid="e96">
+                    <Object oid="o96">826套集装箱物资</Object>
+                    <Denoter did="d96" type="movement">运达</Denoter>
+                    <Location lid="l96">工地</Location>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e97">负责
+                    <Object oid="o97">物资</Object>
+                    <Denoter did="d97" type="operation">清点</Denoter>转运的
+                    <Participant sid="s97" type="agent">汤丽华</Participant>
+                </Event>用早已沙哑的嗓音为物资转运“吼”出了一条条通道......
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e98">还有
+                    <Participant sid="s98" type="agent">无数家庭</Participant>全员
+                    <Denoter did="d98" type="operation">响应</Denoter>
+                </Event>、
+                <Event eid="e99">
+                    <Denoter did="d99" type="operation">投入</Denoter>
+                    <Object oid="o99">建设</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>“
+                <Event eid="e100">武汉中雨，
+                    <Participant sid="s100" type="agent">昊哥</Participant>马上就要
+                    <Denoter did="d100" type="movement">奔赴</Denoter>
+                    <Location lid="l100">施工一线</Location>了
+                </Event>，帮他准备行李的时候
+                <Event eid="e101" type="Thoughtevent">
+                    <Participant sid="s101" type="agent">他</Participant>
+                    <Denoter did="d101" type="statement">问</Denoter>
+                    <Participant oid="o101" type="recipient">我</Participant>
+                    <Object oid="o101">怕不怕</Object>
+                </Event>，
+                <Event eid="e102" type="Thoughtevent">
+                    <Participant sid="s102">我</Participant>
+                    <Denoter did="d102" type="statement">说</Denoter>
+                    <Object oid="o102">不怕，等你回来，加油</Object>！”
+                </Event>
+                <Event eid="e103" type="Thoughtevent">这是中建铁投路桥有限公司华中分公司团总支书记
+                    <Participant sid="s103" type="agent">胡洁</Participant>
+                    <Denoter did="d103" type="statement">发</Denoter>的一条
+                    <Object oid="o103">朋友圈</Object>
+                </Event>
+                <Event eid="e104">，
+                    <Object sid="s104">语气</Object>中
+                    <Denoter did="d104" type="stateChange">充满</Denoter>
+                    <Object oid="o104">骄傲</Object>
+                </Event>，
+                <Event eid="e105">她在中建三局工作的丈夫
+                    <Participant sid="s105">钟昊</Participant>
+                    <Time tid="t105" type="relTime">大年三十</Time>
+                    <Denoter did="d105" type="movement">奔赴</Denoter>
+                    <Location lid="l105">火神山医院</Location>建设一线。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e106">
+                    <Time tid="t106" type="relTime">3天后</Time>，
+                    <Object oid="o106">雷神山医院</Object>
+                    <Denoter did="d106" type="operation">建设</Denoter>集结号吹响，
+                </Event>
+                <Event eid="e107">
+                    <Participant sid="s107" type="agent">胡洁</Participant>又给自己
+                    <Denoter did="d107" type="action">收拾</Denoter>了
+                    <Object oid="o107">行囊</Object>
+                </Event>
+                <Event eid="e108">主动
+                    <Denoter did="d108" type="movement">前往</Denoter>
+                </Event>，
+                <Event eid="e109">
+                    <Denoter did="d109" type="operation">负责</Denoter>中建铁投援建队
+                    <Participant oid="o109">秘书组</Participant>、
+                    <Participant oid="o109">后勤组</Participant>的
+                    <Object oid="o109">工作</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e110">同在武汉，每天都
+                    <Denoter did="d110" type="operation">忙到</Denoter>
+                    <Time tid="t110">后半夜</Time>的
+                    <Participant sid="s110" type="agent">夫妻俩</Participant>
+                </Event>却难以见面，
+                <Event eid="e111">
+                    <Time tid="t11" type="relTime">每晚10点</Time>借着碰头会前的一点时间
+                    <Denoter did="d111" type="action">发</Denoter>条
+                    <Object oid="o111">微信</Object>
+                </Event>
+                <Event eid="e112">
+                    <Denoter did="d112" type="statement">互报</Denoter>
+                    <Object oid="o112">平安</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>“相比以往，我们觉得这次建设责任更重，
+                <Event eid="e113">尤其是有
+                    <Participant sid="s113" type="agent">亿万网友</Participant>
+                    <Denoter did="d113" type="operation">作为</Denoter>坚强
+                    <Object oid="o113">后盾</Object>
+                </Event>，我们感觉比以往冲劲更足，决心更坚定。
+            </Sentence>
+            <Sentence>”中建三局一公司党委书记、董事长
+                <Event eid="e114" type="Thoughtevent">
+                    <Participant sid="s114" type="agent">吴红涛</Participant>
+                    <Denoter did="d114" type="statement">说</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e115">采用
+                    <Means mid="m115">前沿装配式建筑技术</Means>，相比“小汤山”
+                    <Denoter did="d115" type="stateChange">更先进更安全</Denoter>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e116">
+                    <Time tid="t116" type="relTime">1月24日</Time>，除夕夜，
+                    <Object sid="s116">上百台挖机</Object>开始
+                    <Object oid="o116">土地</Object>
+                    <Denoter did="d116" type="operation">平整</Denoter>；
+                </Event>
+                <Event eid="e117">
+                    <Time tid="t117" type="relTime">25日</Time>，大年初一，
+                    <Denoter did="d117" type="stateChange">完成</Denoter>
+                    <Object oid="o117">大部分地面平整</Object>
+                </Event>
+                <Event eid="e118">及
+                    <Object oid="o118">碎石</Object>
+                    <Denoter did="d118" type="operation">铺设</Denoter>
+                </Event>、
+                <Event eid="e119">
+                    <Object oid="o119">细沙</Object>
+                    <Denoter did="d119" type="operation">回填</Denoter>
+                </Event>；
+                <Event eid="e120">
+                    <Time tid="t120" type="relTime">26日</Time>，
+                    <Object oid="o120">防渗层</Object>
+                    <Denoter did="d120" type="operation">施工</Denoter>全面展开
+                </Event>，
+                <Event eid="e121">开始
+                    <Object oid="o121">底板钢筋</Object>
+                    <Denoter did="d121" type="operation">绑扎</Denoter>
+                </Event>；
+                <Event eid="e122">
+                    <Time tid="t122" type="relTime">27日</Time>，大面开始
+                    <Object oid="o122">基础钢筋</Object>及
+                    <Object oid="o122">混凝土</Object>
+                    <Denoter did="d122" type="operation">施工</Denoter>
+                </Event>，
+                <Event eid="e123">首批
+                    <Object oid="o123">箱式集装箱板房吊装</Object>
+                    <Denoter did="d123" type="operation">搭建</Denoter>
+                </Event>；
+                <Event eid="e124">2
+                    <Time tid="t124" type="relTime">8日</Time>，1栋
+                    <Object sid="s124">双层病房区钢结构</Object>
+                    <Denoter did="d124" type="stateChange">初具规模</Denoter>
+                </Event>；
+                <Event eid="e125">
+                    <Time tid="t125" type="relTime">29日</Time>，
+                    <Object oid="o125">板房安装</Object>
+                    <Denoter did="d125" type="stateChange">完成20%</Denoter>
+                </Event>，
+                <Event eid="e126">
+                    <Object oid="o126">水电暖用</Object>、
+                    <Object oid="o126">机电设备</Object>
+                    <Denoter did="d126" type="operation">同步作业</Denoter>
+                </Event>；
+                <Event eid="e127" type="relTime">
+                    <Time tid="t127">30日</Time>，
+                    <Object sid="s127">集装箱板房</Object>
+                    <Denoter did="d127" type="movement">进场</Denoter>
+                </Event>、
+                <Event eid="e128">
+                    <Denoter did="d128" type="operation">改装</Denoter>
+                </Event>、
+                <Event eid="e129">
+                    <Denoter did="d129" type="operation">吊装</Denoter>快速推进
+                </Event>；
+                <Event eid="e130">
+                    <Time tid="t130" type="relTime">31日</Time>，
+                    <Object oid="o130">基础混凝土浇筑</Object>
+                    <Denoter did="d130" type="stateChange">全面完成</Denoter>；
+                </Event>
+                <Event eid="e131">
+                    <Time tid="t131" type="relTime">2月1日</Time>，全面展开
+                    <Object oid="o131">医疗配套设备</Object>
+                    <Denoter did="d131">安装</Denoter>……
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e132">
+                    <Time tid="t132" type="timeInterval">10天10夜</Time>，
+                    <Object sid="s132">火神山医院</Object>飞快地“
+                    <Denoter did="d132" type="stateChange">拔节生长</Denoter>”，
+                </Event>
+                <Event eid="e133">块头更大的
+                    <Object sid="s133">雷神山医院</Object>也将很快
+                    <Denoter did="d133" type="stateChange">交付</Denoter>
+                </Event>，建筑面积7.5万平方米，
+                <Event eid="e134">能够
+                    <Denoter did="d134" type="stateChange">提供</Denoter>超过
+                    <Object oid="o134">1500张病床</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e135">能够
+                    <Denoter did="d135" type="stateChange">完成</Denoter>这样的
+                    <Object oid="o135">建设奇迹</Object>，采用
+                    <Means mid="m135">行业最前沿的装配式建筑技术</Means>十分关键。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e136" type="Thoughtevent">据
+                    <Denoter did="d136" type="statement">介绍</Denoter>
+                </Event>，
+                <Event eid="e137">这
+                    <Object sid="s137">两座医院</Object>都采用
+                    <Means mid="m137">标准化、模块化设计</Means>，最大限度地采用
+                    <Means mid="m137">成熟的拼装式工业化成品</Means>，大幅
+                    <Denoter did="d137" type="stateChange">减少</Denoter>现场作业
+                    <Object oid="o137">工作量</Object>，
+                </Event>实现了效率最大化。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e138">按时
+                    <Denoter did="d138" type="stateChange">完成</Denoter>
+                    <Object oid="o138">建设任务</Object>
+                </Event>，
+                <Event eid="e139">还得益于
+                    <Denoter did="d139" type="operation">联动作战</Denoter>发挥了“1+1>2”的效果
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e140" type="Thoughtevent">火神山医院工程建设现场指挥长
+                    <Participant sid="s140" type="agent">邓伟华</Participant>
+                    <Denoter did="d140" type="statement">表示</Denoter>
+                </Event>
+                <Event eid="e141">：“我们要求
+                    <Participant sid="s141" type="agent">参建单位</Participant>高效
+                    <Denoter did="d141" type="operation">联动作战</Denoter>
+                </Event>，
+                <Event eid="e142">现场
+                    <Denoter did="d142" type="operation">成立</Denoter>了
+                    <Object oid="o142">武汉城建局</Object>、
+                    <Object oid="o142">中建三局</Object>、
+                    <Object oid="o142">分包单位</Object>三级指挥作战系统。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e143">”
+                    <Participant sid="s143" type="agent">各参建单位</Participant>
+                    <Denoter did="d143" type="operation">无缝对接</Denoter>
+                </Event>
+                <Event eid="e144">，
+                    <Participant sid="s144" type="agent">市政配套单位</Participant>全天候
+                    <Denoter did="d144" type="operation">服务</Denoter>，
+                </Event>
+                <Event eid="e145">
+                    <Object oid="o145">高压线</Object>、
+                    <Object oid="o145">燃气管道</Object>仅用时
+                    <Time tid="t145" type="relTime">一天</Time>就
+                    <Denoter did="d145" type="stateChange">改迁完成</Denoter>
+                </Event>，
+                <Event eid="e146">为
+                    <Object oid="o146">工期高效推进</Object>
+                    <Denoter did="d146" type="operation">提供保障</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>这样快速建成的医院好不好用？</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>“
+                <Event eid="e147">无论是
+                    <Object sid="s147">规模质量</Object>还是设计科学的
+                    <Object sid="s147">合理性</Object>，以及
+                    <Object sid="s147">设备的配备</Object>都
+                    <Denoter did="d147" type="stateChange">优于</Denoter>或高于‘
+                    <Object oid="o147">小汤山</Object>’
+                </Event>。
+            </Sentence>
+            <Sentence>”
+                <Event eid="e148" type="Thoughtevent">中建三局武汉火神山医院建设现场指挥部总工程师
+                    <Participant sid="s148" type="agent">余地华</Participant>
+                    <Denoter did="d148" type="statement">说</Denoter>
+                </Event>，
+                <Event eid="e149">
+                    <Object sid="s149">火神山医院</Object>
+                    <Denoter did="d149">采用</Denoter>
+                    <Means mid="m149">更加先进的技术和高于现有传染病医院的防护隔离标准。</Means>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e150">从空中
+                    <Denoter did="d150" type="action">俯瞰</Denoter>
+                    <Object oid="o150">火神山医院</Object>
+                </Event>，两栋住院楼整体呈中间医护两边病房的“鱼骨状”布局。
+            </Sentence>
+            <Sentence>以一号病房楼为例，“主鱼骨”是中间的长走道，功能为医护人员通道和办公区域。</Sentence>
+            <Sentence>
+                <Event eid="e151">
+                    <Object sid="s151">走道</Object>
+                    <Denoter did="d151" type="stateChange">连接</Denoter>“次鱼骨”的
+                    <Object oid="o151">9个病房区</Object>，
+                </Event>
+                <Event eid="e152">
+                    <Denoter did="d152" type="movement">站在</Denoter>
+                    <Location lid="l152">走道里</Location>
+                </Event>
+                <Event eid="e153">可
+                    <Denoter did="d153" type="movement">步行</Denoter>至
+                    <Location lid="l153">任何一间病房。</Location>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e154" type="Thoughtevent">项目设计总负责人
+                    <Participant sid="s154" type="agent">汤群</Participant>
+                    <Denoter did="d154" type="statement">介绍</Denoter>
+                </Event>，
+                <Event eid="e155">这种构型让
+                    <Object sid="s155">医院</Object>能够严格
+                    <Denoter did="d155" type="operation">划分</Denoter>
+                    <Object oid="o155">污染区</Object>和
+                    <Object oid="o155">洁净区</Object>
+                </Event>，
+                <Event eid="e156">
+                    <Denoter did="d156" type="operation">实现</Denoter>“
+                    <Object oid="o156">双分离”设计</Object>
+                </Event>：
+                <Event eid="e157">
+                    <Participant sid="s157" type="agent">医护人员</Participant>从
+                    <Location lid="l157">中轴的走道</Location>
+                    <Denoter did="d157" type="movement">进入</Denoter>
+                    <Location lid="l157">院区</Location>
+                </Event>
+                <Event eid="e158">进行
+                    <Denoter did="d158" type="operation">检查治疗和看护</Denoter>
+                </Event>，
+                <Event eid="e159">
+                    <Participant sid="s159" type="agent">患者</Participant>从
+                    <Location lid="l159">病房外周</Location>
+                    <Denoter did="d159" type="movement">进入</Denoter>
+                    <Location lid="l159">院区</Location>
+                </Event>，
+                <Event eid="e160">
+                    <Denoter did="d160" type="operation">实现</Denoter>“
+                    <Object oid="o160">医患隔离通道分离</Object>”
+                </Event>
+                <Event eid="e161">；
+                    <Object sid="s161">武汉职工疗养院</Object>将作为医护人员住宿区，
+                    <Denoter did="d161" type="operation">实现</Denoter>“
+                    <Object oid="o161">医疗区和生活区分离</Object>”，
+                </Event>
+                <Event eid="e162">既能
+                    <Denoter did="d162" type="operation">保障</Denoter>
+                    <Participant oid="o162"type="recipient">医护人员</Participant>
+                    <Object oid="o162">安全</Object>
+                </Event>，
+                <Event eid="e163">又能有效
+                    <Denoter did="d163" type="operation">开展</Denoter>
+                    <Object oid="o163">医疗救治工作。</Object>
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e24" thoughtcontent_eids="e25-e26"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e33" thoughtcontent_eids="e34-e36"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e73" thoughtcontent_eid="e74"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e85" thoughtcontent_eids="e82-e84"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e103" thoughtcontent_eids="e100-e102"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e114" thoughtcontent_eid="e113"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e136" thoughtcontent_eid="e137"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e140" thoughtcontent_eids="e141-e142"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e148" thoughtcontent_eid="e147"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e154" thoughtcontent_eids="e155-163"/>
+    <eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+    <eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+    <eRelation relType="Follow" bevent_eid="e19" aevent_eid="e20"/>
+    <eRelation relType="Follow" bevent_eid="e44" aevent_eid="e45"/>
+    <eRelation relType="Follow" bevent_eid="e48" aevent_eid="e49"/>
+    <eRelation relType="Follow" bevent_eid="e50" aevent_eid="e51"/>
+    <eRelation relType="Follow" bevent_eid="e53" aevent_eid="e54"/>
+    <eRelation relType="Follow" bevent_eid="e56" aevent_eid="e57"/>
+    <eRelation relType="Follow" bevent_eid="e57" aevent_eid="e58"/>
+    <eRelation relType="Follow" bevent_eid="e58" aevent_eid="e59"/>
+    <eRelation relType="Follow" bevent_eid="e62" aevent_eid="e63"/>
+    <eRelation relType="Follow" bevent_eid="e72" aevent_eid="e73"/>
+    <eRelation relType="Follow" bevent_eids="e73-e74" aevent_eid="e74"/>
+    <eRelation relType="Follow" bevent_eid="e76" aevent_eid="e77"/>
+    <eRelation relType="Follow" bevent_eid="e80" aevent_eid="e81"/>
+    <eRelation relType="Follow" bevent_eid="e83" aevent_eid="e84"/>
+    <eRelation relType="Follow" bevent_eid="e86" aevent_eid="e87"/>
+    <eRelation relType="Follow" bevent_eid="e90" aevent_eid="e91"/>
+    <eRelation relType="Follow" bevent_eid="e98" aevent_eid="e99"/>
+    <eRelation relType="Follow" bevent_eid="e101" aevent_eid="e102"/>
+    <eRelation relType="Follow" bevent_eid="e106" aevent_eid="e107"/>
+    <eRelation relType="Follow" bevent_eid="e107" aevent_eid="e108"/>
+    <eRelation relType="Follow" bevent_eid="e108" aevent_eid="e109"/>
+    <eRelation relType="Follow" bevent_eid="e110" aevent_eid="e111"/>
+    <eRelation relType="Follow" bevent_eid="e127" aevent_eid="e128"/>
+    <eRelation relType="Follow" bevent_eid="e128" aevent_eid="e129"/>
+    <eRelation relType="Follow" bevent_eid="e138" aevent_eid="e138"/>
+    <eRelation relType="Follow" bevent_eids="e143-e145" aevent_eid="e146"/>
+    <eRelation relType="Follow" bevent_eid="e152" aevent_eid="e153"/>
+    <eRelation relType="Follow" bevent_eid="e155" aevent_eid="e156"/>
+    <eRelation relType="Follow" bevent_eid="e157" aevent_eid="e158"/>
+    <eRelation relType="Follow" bevent_eid="e159" aevent_eid="e160"/>
+    <eRelation relType="Accompany" accompanya_eids="e16-e17" accompanyb_eid="e18"/>
+    <eRelation relType="Accompany" accompanya_eid="e20" accompanyb_eid="e21"/>
+    <eRelation relType="Accompany" accompanya_eid="e28" accompanyb_eid="e29"/>
+    <eRelation relType="Accompany" accompanya_eid="e37" accompanyb_eid="e38"/>
+    <eRelation relType="Accompany" accompanya_eid="e43" accompanyb_eid="e44"/>
+    <eRelation relType="Accompany" accompanya_eid="e52" accompanyb_eid="e53"/>
+    <eRelation relType="Accompany" accompanya_eid="e60" accompanyb_eid="e61"/>
+    <eRelation relType="Accompany" accompanya_eid="e65" accompanyb_eid="e66"/>
+    <eRelation relType="Accompany" accompanya_eid="e117" accompanyb_eid="e118"/>
+    <eRelation relType="Accompany" accompanya_eid="e118" accompanyb_eid="e119"/>
+    <eRelation relType="Accompany" accompanya_eid="e132" accompanyb_eid="e133"/>
+    <eRelation relType="Accompany" accompanya_eid="e143" accompanyb_eid="e144"/>
+    <eRelation relType="Accompany" accompanya_eid="e144" accompanyb_eid="e145"/>
+    <eRelation relType="Accompany" accompanya_eid="e162" accompanyb_eid="e163"/>
+    <eRelation relType="Composite" fevent_eid="e6" sevent_eids="e7-e9"/>
+    <eRelation relType="Composite" fevent_eid="e26" sevent_eids="e26-e32"/>
+    <eRelation relType="Composite" fevent_eid="e34" sevent_eids="e35-e36"/>
+</Body>

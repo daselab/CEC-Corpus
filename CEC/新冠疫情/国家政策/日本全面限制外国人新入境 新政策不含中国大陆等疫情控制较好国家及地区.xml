@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>日本全面限制外国人新入境 新政策不含中国大陆等疫情控制较好国家及地区</Title>
+    <ReportTime type="absTime">2020-12-27T00:00</ReportTime>央视新闻
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Location lid="l1">当地</Location>时间
+                    <Time tid="t1" type="relTime">27日</Time>，
+                    <Participant sid="s1,s2">总台记者</Participant>
+                    <Denoter did="d1" type="action">致电</Denoter>
+                    <Participant oid="o1" type="recipient">日本厚生劳动省</Participant>
+                </Event>
+                <Event eid="e2">
+                    <Denoter did="d2" type="perception">获悉</Denoter>，
+                </Event>
+                <Event eid="e3">
+                    <Participant sid="s3">日本政府</Participant>
+                    <Time tid="t3" type="relTime">26日</Time>
+                    <Denoter did="d3" type="statement">发布</Denoter>的
+                    <Object oid="o3">入境新政策</Object>
+                </Event>
+                <Event eid="e4">
+                    <Object sid="s4">入境新政策</Object>
+                    <Denoter did="d4" type="stateChange">不包含</Denoter>
+                    <Object oid="o4">中国大陆</Object>以及
+                    <Object oid="o4">韩国</Object>、
+                    <Object oid="o4">越南</Object>、
+                    <Object oid="o4">新加坡</Object>等
+                    <Object oid="o4">疫情控制较好的国家和地区</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">由于
+                    <Participant sid="s5">日本政府</Participant>
+                    <Time tid="t5" type="timeInterval">从10月起</Time>陆续与
+                    <Location lid="l5">越南</Location>、
+                    <Location lid="l5">泰国</Location>、
+                    <Location lid="l5">澳大利亚</Location>、
+                    <Location lid="l5">新西兰</Location>、
+                    <Location lid="l5">新加坡</Location>、
+                    <Location lid="l5">韩国</Location>和
+                    <Location lid="l5">中国</Location>
+                    <Location lid="l5">等国家和地区</Location>
+                    <Denoter did="d5" type="stateChange">恢复</Denoter>了
+                    <Object oid="o5">商务人员往来</Object>
+                </Event>，
+                <Event eid="e6">所以这次
+                    <Object sid="s6">政策变化</Object>并
+                    <Denoter did="d6" type="stateChange">不会影响</Denoter>与
+                    <Location lid="l6">这些国家和地区</Location>的
+                    <Object oid="o6">商务人员往来</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>除短期商务签证外，
+                <Event eid="e7">
+                    <Participant sid="s7" type="agent">中国大陆访日人员</Participant>还可以通过
+                    <Means mid="m7">学生签证</Means>
+                    <Denoter did="d7" type="movement">入境</Denoter>
+                    <Location lid="l7" type="destination">日本</Location>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e8">不过持
+                    <Means mid="m8">短期商务以外签证</Means>的
+                    <Denoter did="d8" type="movement">入境</Denoter>
+                    <Participant sid="s8" type="agent">人员</Participant>
+                </Event>
+                <Event eid="e9">需要
+                    <Time tid="t9" type="timeInterval">在抵达后</Time>
+                    <Denoter did="d9" type="operation">自主隔离</Denoter>
+                    <Object oid="o9">14天</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e10">
+                    <Time tid="t10" type="timeInterval">抵达日本后</Time>
+                    <Location lid="l10,l11">日本</Location>
+                    <Participant sid="s10,s11" type="agent">入境人员</Participant>
+                    <Denoter did="d10" type="action">不能乘</Denoter>
+                    <Object oid="o10">公共交通工具</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e11">
+                    <Time tid="t11" type="timeInterval">入境前</Time>
+                    <Denoter did="d11" type="action">无需提交</Denoter>
+                    <Object oid="o11">核酸检测证明</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eid="e4"/>
+    <eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+    <eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9-e10"/>
+</Body>

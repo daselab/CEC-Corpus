@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>武汉肺炎不能断定是SARS</Title>
+    <ReportTime type="absTime">2019-12-31T00:00</ReportTime>人民日报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1" type="Thoughtevent">来自
+                    <Location lid="l1">湖北省</Location>
+                    <Participant sid="s1" type="agent">相关部门</Participant>的
+                    <Object sid="s1">消息</Object>
+                    <Denoter did="d1" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e2">
+                    <Time tid="t2" type="relTime">12月以来</Time>，
+                    <Location lid="l2">武汉市</Location>持续
+                    <Denoter did="d2" type="operation">开展</Denoter>
+                </Event>，
+                <Event eid="e3">
+                    <Object oid="o3">流感及相关疾病</Object>
+                    <Denoter did="d3" type="operation">监测</Denoter>
+                </Event>
+                <Event eid="e4">
+                    <Denoter did="d4" type="perception">发现</Denoter>病毒性肺炎
+                    <Participant oid="o4" type="recipient">病例27例</Participant>
+                </Event>，
+                <Event eid="e5">均
+                    <Denoter did="d5" type="perception">诊断为</Denoter>
+                    <Object oid="o5">病毒性肺炎/肺部感染</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>27例病例中，
+                <Event eid="e6">
+                    <Participant sid="s6" type="agent">7例</Participant>
+                    <Denoter did="d6"type="stateChange">病情危重</Denoter>
+                </Event>，
+                <Event eid="e7">
+                    <Participant sid="s7"type="agent">其余病例</Participant>
+                    <Denoter did="d7" type="stateChange">病情可控</Denoter>
+                </Event>，
+                <Event eid="e8">有
+                    <Participant sid="s8" type="agent">2例</Participant>
+                    <Denoter did="d8" type="stateChange">病情好转</Denoter>
+                </Event>
+                <Event eid="e9">拟
+                    <Time tid="t9" type="relTime">近期</Time>
+                    <Denoter did="d9" type="movement">出院</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">
+                    <Object sid="s10">调查</Object>
+                    <Denoter did="d10" type="perception">发现</Denoter>
+                </Event>，此次肺炎病例大部分为华南海鲜城经营户。
+            </Sentence>
+            <Sentence>
+                <Event eid="e11">
+                    <Time tid="t11" type="relTime">目前</Time>,
+                    <Object oid="o11">相关病毒</Object>分型
+                    <Denoter did="d11" type="operation">检测</Denoter>
+                </Event>、
+                <Event eid="e12">
+                    <Denoter did="d12" type="operation">隔离治疗</Denoter>
+                </Event>、
+                <Event eid="e13">
+                    <Object oid="o13">舆情</Object>
+                    <Denoter did="d13" type="operation">管控</Denoter>
+                </Event>、
+                <Event eid="e14">
+                    <Denoter did="d14" type="operation">终末消毒</Denoter>
+                </Event>等工作正在进行。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e15" type="Thoughtevent">
+                    <Location lid="l15">武汉</Location>
+                    <Participant sid="s15" type="agent">多位医院人士</Participant>
+                    <Denoter did="d15" type="statement">称</Denoter>，
+                </Event>
+                <Event eid="e16" type="Polarity-negative">
+                    <Time tid="t16" type="relTime">目前</Time>
+                    <Object oid="o16">病因</Object>尚未
+                    <Denoter did="d16" type="stateChange">明确</Denoter>
+                </Event>，
+                <Event eid="e17" type="Polarity-negative">
+                    <Denoter did="d17" type="perception">不能断定</Denoter>是网上传言的
+                    <Object oid="o17">SARS病毒</Object>
+                </Event>，其他重症肺炎的可能性更大。
+            </Sentence>
+            <Sentence>而且即便是SARS病毒，
+                <Event eid="e18">
+                    <Time tid="t18" type="relTime">此前</Time>也
+                    <Denoter did="d18" type="stateChange">已有</Denoter>成熟的
+                    <Object oid="o18">防控救治体系</Object>
+                </Event>，
+                <Event eid="e19" type="Polarity-negative">
+                    <Participant sid="s19" type="agent">市民</Participant>也
+                    <Denoter did="d19" type="perception">不用恐慌</Denoter>
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e5"/>
+    <eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eids="e7-e9"/>
+    <eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+    <eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eids="e12-e14"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e15" thoughtcontent_eids="e16-e17"/>
+    <eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+</Body>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>新增超3.9万例 英国新冠确诊病例逼近219万例</Title>
+    <ReportTime type="absTime">2020-12-25T00:00</ReportTime>央视新闻
+    <Content>
+        <Paragraph>
+            <Sentence>据
+                <Event eid="e1">
+                    <Participant sid="s1" type="agent">英国卫生与社会保障部</Participant>
+                    <Denoter did="d1" type="operation">统计</Denoter>
+                </Event>，
+                <Event eid="e2">截至
+                    <Time tid="t2" type="relTime">当地时间12月24日</Time>，
+                    <Location lid="l2">英国</Location>在24小时内
+                    <Denoter did="d2" type="stateChange">新增</Denoter>
+                    <Object oid="o2" type="recipient">新冠肺炎确诊病例39036例</Object>
+                </Event>，
+                <Event eid="e3">
+                    <Denoter did="d3" type="operation">累计</Denoter>确诊达
+                    <Object oid="o3" type="recipient">2188587例</Object>
+                </Event>，
+                <Event eid="e4">
+                    <Denoter did="d4" type="stateChange">新增</Denoter>
+                    <Object oid="o4" type="recipient">死亡病例574例</Object>
+                </Event>，
+                <Event eid="e5">
+                    <Denoter did="d5" type="operation">累计</Denoter>
+                    <Object oid="o5" type="recipient">死亡69625例</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">
+                    <Participant sid="s6" type="agent">英国卫生大臣汉考克</Participant>
+                    <Time tid="t6" type="relTime">此前一天</Time>
+                    <Denoter did="d6" type="statement">宣布</Denoter>
+                </Event>，鉴于疫情形势，
+                <Event eid="e7">
+                    <Participant sid="s7" type="agent">英国政府</Participant>决定从26日起将
+                    <Location lid="l7">英格兰</Location>的
+                    <Location lid="l7">萨塞克斯郡</Location>、
+                    <Location lid="l7">牛津郡</Location>、
+                    <Location lid="l7">剑桥郡</Location>等地的
+                    <Object oid="o7" type="recipient">新冠肺炎疫情防控级别</Object>
+                    <Denoter did="d7" type="stateChange">调升</Denoter>至第四级
+                </Event>，同时继此前
+                <Event eid="e8">
+                    <Denoter did="d8" type="operation">发现</Denoter>
+                    <Object oid="o8" type="recipient">一种变异新冠病毒</Object>
+                </Event>后，
+                <Event eid="e9">
+                    <Location lid="l9">英国</Location>又
+                    <Denoter did="d9" type="operation">发现</Denoter>
+                    <Object oid="o9" type="recipient">另一种变异新冠病毒</Object>
+                </Event>，
+                <Event eid="e10">
+                    <Time tid="t10" type="relTime">目前</Time>
+                    <Participant sid="s10" type="agent">相关专家</Participant>正在进行深入
+                    <Denoter did="d10" type="operation">分析</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+</Body>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eid="e7-e10"/>
+<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e7"/>
+<eRelation relType="Follow" bevent_eid="e8-e9" aevent_eid="e10"/>

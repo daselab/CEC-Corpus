@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>食品、衣服、口罩……最近，一群武汉人狂捐物资！背后故事令人动容</Title>
+    <ReportTime type="absTime">2020-09-22T00:00</ReportTime>光明网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="timeInterval">武汉疫情期间</Time>，
+                    <Participant sid="s1" type="agent">千里之外的四川邛崃人民</Participant>
+                    <Denoter did="d1" type="operation">情牵</Denoter>
+                    <Object oid="o1" type="recipient">武汉</Object>
+                </Event>，
+                <Event eid="e2">向武汉人民
+                    <Denoter did="d2" type="operation">捐赠</Denoter>了
+                    <Object oid="o2" type="recipient">价值近千万元的蔬菜、水果、粮油、酒精等物资</Object>
+                </Event>，
+                <Event eid="e3">
+                    <Denoter did="d3" type="operation">帮</Denoter>
+                    <Participant oid="o3" type="recipient">他们</Participant>渡过难关
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e4">
+                    <Time tid="t4" type="relTime">9月21日一大早</Time>，
+                    <Location lid="l4" type="destination">洪山区光谷青年城负一楼一家教育培训机构办公室里</Location>
+                    <Participant sid="s4" type="agent">，中华志愿者路路通志愿者真心联盟服务中心（以下简称路路通联盟）的黄燕慧、束曾珍、王玉琴、国林泉等十多名志愿者</Participant>就
+                    <Denoter did="d4" type="movement">赶到</Denoter>了这里
+                </Event>，
+                <Event eid="e5">开始
+                    <Denoter did="d5" type="operation">整理打包</Denoter>
+                    <Object oid="o5" type="recipient">爱心物资</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">几乎
+                  <Object oid="o6" type="recipient">6000包糖果、饼干、零食、口罩、童装、消毒液</Object>
+                    <Denoter did="d6" type="operation">摆满</Denoter>了
+                    <Object oid="o6" type="recipient">数十平方米的办公室</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>一箱箱、一件件、一桶桶，
+                <Event eid="e7">
+                    <Participant sid="s7" type="agent">志愿者们</Participant>分工合作，齐心协力，将
+                    <Object oid="o7" type="recipient">爱心物资</Object>
+                    <Means mid="m7" type="method">分门别类的</Means>
+                    <Denoter did="d7" type="operation">打包装好</Denoter>，这个工作
+                    <Time tid="t7" type="relTime">一直持续到上午11时</Time>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e8">随后，
+                    <Participant sid="s8" type="agent">志愿者们</Participant>将
+                    <Object oid="o8" type="recipient">打包好的物资</Object>
+                    <Denoter did="d8" type="operation">装上</Denoter>货车
+                </Event>，
+                <Event eid="e9">
+                    <Denoter did="d9" type="operation">送</Denoter>往
+                    <Location lid="l9" type="destination">东西湖的一处大型物流中心</Location>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e10">
+                    <Time tid="t10" type="relTime">当日下午</Time>，
+                    <Object sid="s10" type="agent">这批爱心物资</Object>就踏上了
+                    <Denoter did="d10" type="action">前往</Denoter>
+                    <Location lid="l10" type="destination">四川邛崃</Location>的旅途
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e11">
+                    <Participant sid="s11" type="agent">这次募捐活动的发起者——路路通联盟主任路志强</Participant>
+                    <Denoter did="d11" type="statement">介绍</Denoter>
+                </Event>，
+                <Event eid="e12">
+                    <Time tid="t12" type="timeInterval">武汉疫情期间</Time>，
+                    <Participant sid="s12" type="agent">四川邛崃的真心公益志愿者团队</Participant>非常
+                    <Denoter did="d12" type="operation">关心和牵挂</Denoter>
+                    <Participant oid="o12" type="recipient">武汉人民</Participant>
+                </Event>，
+                <Event eid="e13">
+                    <Location lid="l13" type="destination">在当地</Location>
+                    <Denoter did="d13" type="operation">发起</Denoter>了
+                    <Object oid="o13" type="recipient">帮助武汉的募捐活动</Object>
+                </Event>，
+                <Event eid="e14">
+                    <Denoter did="d14" type="operation">得到</Denoter>了
+                    <Object oid="o14" type="recipient">当地爱心人士的大力支持</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e15">
+                    <Time tid="t15" type="timeInterval">在疫情期间</Time>，
+                    <Participant sid="s15" type="agent">真心公益团队</Participant>向武汉
+                    <Denoter did="d15" type="operation">捐赠</Denoter>了
+                    <Object oid="o15" type="recipient">300吨蔬菜、价值100万元的粮油、1万斤大米、5万元的现金和油卡</Object>，还有
+                    <Object oid="o15" type="recipient">医用酒精等大量物资，</Object>
+                </Event>总价值近千万元
+            </Sentence>。
+            <Sentence>
+                <Event eid="e16">这些
+                    <Object sid="s16" type="agent">物资</Object>
+                    <Denoter did="d16" type="action">送到</Denoter>
+                    <Location lid="l16" type="destination">武汉</Location>
+                </Event>后，
+                <Event eid="e17">
+                    <Means mid="m17" type="method">通过路路通志愿者联盟</Means>和，
+                    <Means mid="m17" type="method">相关政府职能部门</Means>
+                    <Denoter did="d17" type="operation">分发</Denoter>到
+                    <Participant oid="o17" type="recipient">武汉的一线医务人员</Participant>和
+                    <Participant oid="o17" type="recipient">养老院、社区等困难群体</Participant>手中
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+</Body>
+<eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2-3"/>
+<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e11" thoughtcontent_eid="e12-e17"/>
+<eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>

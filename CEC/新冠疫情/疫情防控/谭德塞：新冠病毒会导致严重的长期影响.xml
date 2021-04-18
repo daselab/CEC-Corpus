@@ -1,0 +1,112 @@
+<Object oid="o"></Object>
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>谭德塞：新冠病毒会导致严重的长期影响</Title>
+    <ReportTime type="absTime">2020-10-31T00:00</ReportTime>CCTV-4中文国际频道
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">当地时间10月30日</Time>，
+                    <Participant sid="s1" type="agent">世界卫生组织</Participant>
+                    <Denoter did="d1" type="operation">举行</Denoter>
+                    <Object oid="o1" type="recipient">新冠肺炎疫情例行发布会</Object>
+                </Event>，
+                <Event eid="e2">
+                    <Participant sid="s2" type="agent">世卫组织总干事谭德塞</Participant>
+                    <Denoter did="d2" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e3">
+                    <Object sid="s3" type="agent">新冠病毒</Object>会
+                    <Denoter did="d3" type="stateChange">导致</Denoter>
+                    <Object oid="o3" type="recipient">严重的长期影响</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e4">
+                    <Participant sid="s4" type="agent">谭德塞</Participant>
+                    <Denoter did="d4" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e5">真正令人担心的是
+                    <Object sid="s5" type="agent">新冠肺炎导致的多种症状</Object>随时间推移而
+                    <Denoter did="d5" type="operation">波动</Denoter>
+                </Event>，经常重叠，
+                <Event eid="e6">可以
+                    <Denoter did="d6" type="operation">影响</Denoter>
+                    <Object oid="o6" type="recipient">人体的任何系统</Object>
+                </Event>——从疲劳、咳嗽和呼吸急促，到炎症和包括心肺在内的主要器官损伤，甚至会
+                <Event eid="e7">
+                    <Denoter did="d7" type="operation">影响</Denoter>
+                    <Object oid="o7" type="recipient">神经系统和心理</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e8">
+                    <Participant sid="s8" type="agent">谭德塞</Participant>
+                    <Denoter did="d8" type="statement">指出</Denoter>
+                </Event>，虽然
+                <Event eid="e9">
+                    <Denoter did="d9" type="stateChange">出现</Denoter>
+                    <Object oid="o9" type="recipient">长期影响</Object>的人群数量尚不明确
+                </Event>，但
+                <Event eid="e10">
+                    <Participant sid="s10" type="agent">非住院患者和住院患者</Participant>均
+                    <Denoter did="d10" type="operation">上报</Denoter>了
+                    <Object oid="o10" type="recipient">后续症状和并发症</Object>
+                </Event>，男女老少都有，甚至
+                <Event eid="e11">
+                    <Participant sid="s11" type="agent">儿童</Participant>也
+                    <Denoter did="d11" type="stateChange">出现</Denoter>了
+                    <Object oid="o11" type="recipient">此类症状</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e12">
+                    <Participant sid="s12,s13,s14,s15" type="agent">世卫组织</Participant>将继续
+                    <Denoter did="d12" type="operation">开展</Denoter>
+                    <Object oid="o12" type="recipient">更多研究</Object>
+                </Event>，以
+                <Event eid="e13">
+                    <Denoter did="d13" type="operation">建立</Denoter>
+                    <Object oid="o13" type="recipient">最佳护理标准</Object>
+                </Event>，
+                <Event eid="e14">
+                    <Denoter did="d14" type="operation">加快</Denoter>
+                    <Object oid="o14" type="recipient">康复速度</Object>
+                </Event>并
+                <Event eid="e15">
+                    <Denoter did="d15" type="operation">预防</Denoter>
+                    <Object oid="o15" type="recipient">此类并发症</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e16">
+                    <Participant sid="s16" type="agent">各国政府</Participant>必须
+                    <Denoter did="d16" type="perception">认识到</Denoter>
+                    <Object oid="o16" type="recipient">新冠肺炎的长期影响</Object>
+                </Event>，并
+                <Event eid="e17">确保
+                    <Participant oid="o17" type="recipient">所有此类患者</Participant>都能
+                    <Denoter did="d17" type="operation">获得</Denoter>
+                    <Object oid="o17">医疗服务</Object>
+                </Event>，包括基础卫生保健和必要的专业护理和康复
+            </Sentence>。
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1-e2" thoughtcontent_eid="e3-e17"/>
+    <eRelation relType="Causal" cause_eid="e5" effect_eid="e6-e7"/>
+    <eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eid="e7"/>
+    <eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+    <eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e11"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eid="e9-e17"/>
+    <eRelation relType="Causal" cause_eid="e3" effect_eid="e12"/>
+    <eRelation relType="Composite" fevent_eid="e12" sevent_eids="e13-e15"/>
+    <eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>
+    <eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>
+    <eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e15"/>
+    <eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+</Body>

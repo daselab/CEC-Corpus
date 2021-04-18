@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>东京奥运会延期至2021年举行</Title>
+    <ReportTime type="absTime">2020-03-25T00:00</ReportTime>新华社
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">3月24日</Time>，
+                    <Participant oid="o1" type="agent">国际奥委会与东京奥组委</Participant>发布
+                    <Denoter did="d1" type="statement">联合声明表示</Denoter>
+                </Event>，
+                <Event eid="e2">
+                    <Denoter did="d2" type="statement">鉴于</Denoter>
+                    <Object sid="s2">当前疫情形势</Object>
+                </Event>，
+                <Event eid="e3">
+                    <Object oid="o3">东京第32届奥运会</Object>需要
+                    <Denoter did="d3" type="action">改期</Denoter>至
+                    <Time tid="t3" type="relTime">2020年后</Time>
+                </Event>，
+                <Event eid="e4">但
+                    <Time tid="t4" type="relTime">不迟于2021年夏天</Time>的日期
+                    <Denoter did="d4" type="operation">举行</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e5">由于
+                    <Object oid="o5">新的开幕时间</Object>
+                    <Denoter did="d5" type="stateChange">未定</Denoter>
+                </Event>，
+                <Event eid="e6">
+                    <Time tid="t6" type="relTime">25日</Time>起，在
+                    <Location lid="l6">东京各地</Location>设置的一些
+                    <Object sid="s6">倒计时钟</Object>将
+                    <Denoter did="d6" type="operation">被拆除或调整</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e7">
+                    <Time tid="t7" type="relTime">3月25日</Time>，
+                    <Location lid="l7">在日本东京中央区</Location>，一间写字楼内的原本
+                    <Denoter did="d7" type="statement">显示</Denoter>
+                    <Object sid="s7">东京奥运会倒计时</Object>的
+                    <Object oid="o7" sid="s8">电子屏</Object>
+                </Event>
+                <Event eid="e8">被
+                    <Denoter did="d8" type="action">贴上</Denoter>了“
+                    <Object sid="s8">正在调整</Object>”
+                </Event>，
+                <Event eid="e9">
+                    <Object sid="s9">下方奥运会的原定举办日期</Object>也被
+                    <Denoter did="d9" type="action">遮挡</Denoter>了起来
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Causal" cause_eid="e2" effect_eid="e3-e4"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e6"/>
+    <eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+    <eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+    <eRelation relType="Causal" cause_eid="e5" effect_eid="e8-e9"/>
+    <eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+</Body>

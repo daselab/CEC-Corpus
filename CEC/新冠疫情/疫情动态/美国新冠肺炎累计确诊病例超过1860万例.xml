@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>美国新冠肺炎累计确诊病例超过1860万例</Title>
+    <ReportTime type="absTime">2020-12-25T00:00</ReportTime>央视新闻
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1"type="Thoughtevent ">
+                    <Location lid="l1">美国</Location>
+                    <Participant sid="s1"type="agent">约翰斯·霍普金斯大学</Participant>
+                    <Denoter did="d1"type="statement">发布</Denoter>的
+                    <Object oid="o1,o2">新冠疫情最新统计数据</Object>
+                </Event>，
+                <Event eid="e2"type="Thoughtevent ">
+                    <Denoter did="d2"type="statement">显示</Denoter>
+                </Event>
+                <Event eid="e3">截至美东时间
+                    <Time tid="t3"type="absTime">12月24日16时23分</Time>，
+                    <Location lid="l3">美国</Location>新冠肺炎累计
+                    <Denoter did="d3"type="stateChange">确诊</Denoter>病例超过1860万例，为
+                    <Participant oid="o3"type="recipient">18602862例</Participant>
+                </Event>，
+                <Event eid="e4">
+                    <Denoter did="d4"type="stateChange">死亡</Denoter>病例为
+                    <Participant sid="s4">328481例</Participant>
+                </Event>。
+            </Sentence>
+            <Sentence>较前一日同一时间相比，
+                <Event eid="e5">在
+                    <Time tid="t5"type="timeInterval">过去24小时内</Time>，美国
+                    <Denoter did="d5"type="stateChange">新增确诊</Denoter>病例
+                    <Participant oid="o5"type="recipient">220871例</Participant>
+                </Event>，
+                <Event eid="e6">新增
+                    <Denoter did="d6"type="stateChange">死亡</Denoter>病例
+                    <Participant sid="s6"type="agent">3384例</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e4"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e4"/>
+    <eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>
+    <eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>
+</Body>

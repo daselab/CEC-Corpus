@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>巴西排水系统检测出大量新冠病毒 专家警告或传染全境</Title>
+    <ReportTime type="absTime">2020-05-16T00:00</ReportTime>央视网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">鉴于
+                    <Time tid="t1" type="relTime">目前</Time>在
+                    <Location lid="l1">巴西里约热内卢州尼泰罗伊市</Location>
+                    <Object sid="s1" type="agent">排水系统</Object>中
+                    <Denoter did="d1" type="operation">检测</Denoter>出
+                    <Object oid="o1" type="recipient">大量新冠肺炎病毒</Object>
+                </Event>，
+                <Event eid="e2">
+                    <Location lid="l2">巴西</Location>
+                    <Participant sid="s2" type="agent">水质专家</Participant>
+                    <Time tid="t2" type="relTime">15日</Time>
+                    <Denoter did="d2" type="statement">警告</Denoter>说
+                </Event>，如果这种
+                <Event eid="e3">
+                    <Object sid="s">现象</Object>继续
+                    <Denoter did="d">蔓延</Denoter>
+                </Event>，
+                <Event eid="e4">
+                    <Location lid="l4">里约州</Location>乃至
+                    <Location lid="l4">巴西全境</Location>的
+                    <Object sid="s4" type="agent">排水系统</Object>可能会
+                    <Denoter did="d4" type="operation">成为</Denoter>
+                    <Object oid="o4" type="recipient">新冠肺炎病毒传播的又一重要载体</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">目前
+                    <Location lid="l5">里约州</Location>
+                    <Object sid="s5" type="agent">供水和排水公司</Object>与
+                    <Object oid="o5" type="recipient">联邦卫生部、里约联邦大学以及克鲁兹基金会</Object>
+                    <Denoter did="d5" type="operation">合作</Denoter>
+                </Event>，
+                <Event eid="e6">由
+                    <Participant sid="s6" type="agent">卫生和环境工程人员</Participant>对
+                    <Location lid="l6">里约市</Location>内的
+                    <Object oid="o6" type="recipient">排水系统中的水质</Object>进行
+                    <Object oid="o6" type="recipient">新冠肺炎病毒</Object>
+                    <Denoter did="d6" type="operation">检测</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e7">
+                    <Object sid="s7" type="agent">检测报告</Object>将
+                    <Denoter did="d7" type="operation">作为</Denoter>
+                    <Object oid="o7" type="recipient">制定下一步防疫方针的参考文件</Object>
+                </Event>
+                <Event eid="e8">
+                    <Denoter did="d8" type="operation">提供</Denoter>给
+                    <Location lid="l8">巴西</Location>
+                    <Object oid="o8" type="recipient">卫生部</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9">
+                    <Location lid="l9">里约州</Location>
+                    <Object sid="s9" type="agent">供水与排水公司</Object>
+                    <Denoter did="d9" type="operation">承担</Denoter>着
+                </Event>
+                <Event eid="e10">为
+                    <Location lid="l10">里约州</Location>
+                    <Denoter did="d10" type="operation">提供</Denoter>
+                    <Object oid="o10" type="recipient">92%的排水服务</Object>
+                </Event>，而
+                <Event eid="e11">
+                    <Object sid="s11" type="agent">该公司</Object>此前
+                    <Denoter did="d11" type="stateChange">发现</Denoter>有
+                    <Object oid="o11" sid="s12" type="recipient">400多名员工</Object>
+                </Event>人，
+                <Event eid="e12">
+                    <Denoter did="d12" type="stateChange">出现</Denoter>
+                    <Object oid="o12" type="recipient">新冠肺炎症状</Object>
+                </Event>，
+                <Event eid="e13">
+                    <Participant sid="s13,s14" type="agent">他们多数</Participant>
+                    <Denoter did="d13" type="operation">就职于</Denoter>
+                </Event>
+                <Event eid="e14">
+                    <Denoter did="d14" type="operation">负责</Denoter>
+                    <Object oid="o14" type="recipient">污水排放</Object>的
+                    <Object sid="s14" type="agent">分公司</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e15">就
+                    <Location lid="l15">巴西全境</Location>而言，目前全国
+                    <Object oid="o15" type="recipient">污水</Object>
+                    <Denoter did="d15" type="operation">收集</Denoter>
+                </Event>，
+                <Event eid="e16">在
+                    <Denoter did="d16" type="operation">排放</Denoter>入
+                    <Location lid="l16" type="destination">河道</Location>前
+                </Event>
+                <Event eid="e17">只有
+                    <Object oid="o17" type="recipient">46%的体量</Object>经过
+                    <Means mid="m17">加氯</Means>的
+                    <Denoter did="d17" type="operation">无害化处理</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e18">这就更
+                    <Denoter did="d18" type="operation">加剧</Denoter>了
+                </Event>人们对
+                <Event eid="e19">
+                    <Denoter did="d19" type="agent">排水系统</Denoter>
+                    <Denoter did="d19" type="operation">成为</Denoter>
+                    <Object oid="o19" type="recipient">新冠肺炎重要传播渠道</Object>
+                </Event>的
+                <Event eid="e20">
+                    <Denoter did="d20" type="operation">担心</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+</Body>
+<eRelation relType="Causal" cause_eid="e1" effect_eid="e2-e4"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3-e4"/>
+<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7-e8"/>
+<eRelation relType="Causal" cause_eid="e15-e17" effect_eid="e18-e20"/>

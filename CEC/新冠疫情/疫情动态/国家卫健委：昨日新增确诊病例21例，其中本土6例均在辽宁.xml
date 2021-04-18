@@ -1,0 +1,127 @@
+<Denoter did="d"></Denoter>
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>国家卫健委：昨日新增确诊病例21例，其中本土6例均在辽宁</Title>
+    <ReportTime type="absTime">2020-12-28T00:00</ReportTime>澎湃新闻
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">12月27日0—24时</Time>，
+                    <Object sid="s1" type="agent">31个省（自治区、直辖市）和新疆生产建设兵团</Object>报告
+                    <Denoter did="d1" type="operation">新增</Denoter>
+                    <Object oid="o1" type="recipient">确诊病例21例</Object>
+                </Event>，其中
+                <Event eid="e2">
+                    <Location lid="l2" type="origin">境外</Location>
+                    <Denoter did="d2" type="operation">输入</Denoter>
+                    <Object oid="o2" type="recipient">病例15例</Object>
+                </Event>（内蒙古6例，浙江3例，上海2例，北京1例，天津1例，广东1例，四川1例），本土病例6例（均在辽宁）；无
+                <Event eid="e3">
+                    <Denoter did="d3" type="stateChange">新增</Denoter>
+                    <Object oid="o3" type="recipient">死亡病例</Object>
+                </Event>；
+                <Event eid="e4">
+                    <Denoter did="d4" type="stateChange">新增</Denoter>
+                    <Object oid="o4" type="recipient">疑似病例1例</Object>
+                </Event>，为境外输入病例（在上海）
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">
+                    <Time tid="t5" type="relTime">当日</Time>
+                    <Denoter did="d5" type="operation">新增</Denoter>
+                    <Object oid="o5" type="recipient">治愈出院病例16例</Object>
+                </Event>，
+                <Event eid="e6">
+                    <Denoter did="d6" type="operation">解除</Denoter>
+                    <Object oid="o6" type="recipient">医学观察</Object>的密切接触者728人
+                </Event>，
+                <Event eid="e7">
+                    <Object sid="s7" type="agent">重症病例</Object>较前一日
+                    <Denoter did="d7" type="operation">增加</Denoter>
+                    <Object oid="o7" type="recipient">1例</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e8">境外输入
+                    <Denoter did="d8" type="perception">现有</Denoter>
+                    <Object oid="o8" type="recipient">确诊病例270例</Object>
+                </Event>（其中重症病例3例），现有疑似病例1例。
+                <Event eid="e9">
+                    <Denoter did="d9" type="operation">累计</Denoter>
+                    <Object oid="o9" type="recipient">确诊病例4218例</Object>
+                </Event>，
+                <Event eid="e10">
+                    <Denoter did="d10" type="operation">累计</Denoter>
+                    <Object oid="o10" type="recipient">治愈出院病例3948例</Object>
+                </Event>，无死亡病例
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e11">截至
+                    <Time tid="t11" type="relTime">12月27日24时</Time>，据
+                    <Object sid="s11" type="agent">31个省（自治区、直辖市）和新疆生产建设兵团</Object>
+                    <Denoter did="d11" type="statement">报告</Denoter>
+                </Event>，现有确诊病例339例（其中重症病例5例），
+                <Event eid="e12">累计
+                    <Denoter did="d12" type="operation">治愈</Denoter>
+                    <Object oid="o12" type="recipient">出院病例82003例</Object>
+                </Event>，
+                <Event eid="e13">
+                    <Denoter did="d13" type="operation">累计</Denoter>
+                    <Object oid="o13" type="recipient">死亡病例4634例</Object>
+                </Event>，
+                <Event eid="e14">累计
+                    <Denoter did="d14" type="statement">报告</Denoter>
+                    <Object oid="o14" type="recipient">确诊病例86976例</Object>
+                </Event>，现有疑似病例1例
+            </Sentence>。
+            <Sentence>
+                <Event eid="e15">累计
+                    <Denoter did="d15" type="operation">追踪</Denoter>到
+                    <Object oid="o15" type="recipient">密切接触者901517人</Object>
+                </Event>，尚在
+                <Event eid="e16">
+                    <Denoter did="d16" type="operation">医学观察</Denoter>
+                </Event>的密切接触者11791人
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e17">
+                    <Object sid="s17" type="agent">31个省（自治区、直辖市）和新疆生产建设兵团</Object>
+                    <Denoter did="d17" type="statement">报告</Denoter>
+                </Event>
+                <Event eid="e18">
+                    <Denoter did="d18" type="stateChange">新增</Denoter>
+                    <Object oid="o18" type="recipient">无症状感染者20例</Object>
+                </Event>（境外输入16例）；当日转为确诊病例4例（境外输入3例）；当日无
+                <Event eid="e19">
+                    <Denoter did="d19" type="operation">解除</Denoter>
+                    <Object oid="o19" type="recipient">医学观察</Object>
+                </Event>无症状感染者；尚在医学观察无症状感染者267例（境外输入219例）
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e20">累计
+                    <Denoter did="d20" type="operation">收到</Denoter>
+                    <Location lid="l20">港澳台地区</Location>
+                </Event>
+                <Event eid="e21">
+                    <Denoter did="d21" type="statement">通报</Denoter>
+                    <Object oid="o21" type="recipient">确诊病例9441例</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>其中，香港特别行政区8610例（出院7474例，死亡137例），澳门特别行政区46例（出院46例），台湾地区785例（出院653例，死亡7例</Sentence>）。
+        </Paragraph>
+    </Content>
+    <eRelation relType="Composite" fevent_eid="e1" sevent_eids="e2-e10"/>
+    <eRelation relType="Composite" fevent_eid="e11" sevent_eids="e12-e16"/>
+    <eRelation relType="Composite" fevent_eid="e17" sevent_eids="e18-e21"/>
+</Body>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>世卫：新型冠状病毒感染的肺炎疫情构成国际关注的突发公共卫生事件</Title>
+    <ReportTime type="absTime">2021-01-19T00:00</ReportTime>央视网
+    <Content>
+        <Paragraph>
+            <Sentence>央视网消息（新闻联播）：
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">30日</Time>，
+                    <Participant sid="s1,s2" type="agent">世界卫生组织总干事谭德塞</Participant>在
+                    <Location lid="l1" type="destination">日内瓦</Location>
+                    <Denoter did="d1" type="operation">召开</Denoter>
+                    <Object oid="o1">新闻发布会</Object>
+                </Event>，
+                <Event eid="e2">
+                    <Denoter did="d2" type="statement">说明</Denoter>
+                </Event>
+                <Event eid="e3">
+                    <Object sid="s3">新型冠状病毒感染的肺炎疫情</Object>已
+                    <Denoter did="d3" type="operation">构成</Denoter>
+                    <Object oid="o3">国际关注的突发公共卫生事件</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e4">
+                    <Participant sid="s4,s5" type="agent">谭德塞</Participant>同时
+                    <Denoter did="d4" type="perception">积极评价</Denoter>
+                    <Location lid="l4" type="destination">中国</Location>的
+                    <Object oid="o4">疫情防控措施</Object>
+                </Event>，并
+                <Event eid="e5">
+                    <Denoter did="d5" type="statement">强调</Denoter>
+                </Event>
+                <Event eid="e6">
+                    <Participant sid="s6" type="agent">世卫组织</Participant>
+                    <Denoter did="d6" type="perception">不赞成</Denoter>甚至反对对
+                    <Location lid="l6" type="destination">中国</Location>采取
+                    <Object oid="o6">旅行或贸易禁令</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e7">
+                    <Participant sid="s7" type="agent">谭德塞</Participant>
+                    <Denoter did="d7" type="statement">说</Denoter>
+                </Event>，
+                <Event eid="e8">
+                    <Time tid="t8" type="relTime">目前</Time>
+                    <Object sid="s8" oid="o9">疫情</Object>还在
+                    <Denoter did="d8" type="stateChange">发展</Denoter>
+                </Event>，
+                <Event eid="e9">
+                做更多
+                    <Denoter did="d9" type="perception">需要</Denoter>
+                    <Object oid="o9" sid="s11">研究</Object>
+                </Event>，特别是
+                <Event eid="e10">
+                    <Participant sid="s10" type="agent">卫生系统脆弱的国家</Participant>要
+                    <Denoter did="d10" type="operation">加强</Denoter>
+                    <Object oid="o10">疫情应对</Object>
+                </Event>，这是发布疫情为突发公共卫生事件的主要原因。
+            </Sentence>
+            <Sentence>
+                <Event eid="e11">这
+                    <Denoter did="d11" type="perception">有助于</Denoter>
+                    <Location lid="l11" type="destination">其他国家</Location>采取
+                    <Object oid="o11">科学合理适度的防疫措施</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12">
+                    <Participant sid="s12,s13" type="agent">中国国家主席习近平</Participant>亲自
+                    <Denoter did="d12" type="operation">指挥</Denoter>
+                </Event>、
+                <Event eid="e13">亲自
+                    <Denoter did="d13" type="operation">部署</Denoter>
+                    <Object oid="o12,013">疫情防控</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e14">
+                    <Participant sid="s14,s15,s16,s17,s18,s19,s20" type="agent">中方</Participant>始终
+                    <Denoter did="d14" type="perception">坚持</Denoter>
+                    <Object oid="o14">公开透明原则</Object>，
+                </Event>
+                <Event eid="e15">
+                    <Denoter did="d15" type="operation">及时发布</Denoter>
+                    <Object oid="o15">信息</Object>，
+                </Event>
+                <Event eid="e16">
+                    <Denoter did="d16" type="operation">快速识别</Denoter>
+                    <Object oid="o16">病毒</Object>
+                </Event>
+                <Event eid="e17">并
+                    <Denoter did="d17" type="operation">分享</Denoter>
+                    <Object oid="o17">基因序列</Object>，
+                </Event>
+                <Event eid="e18">
+                采取果断
+                    <Means mid="m18" type="method">有力措施</Means>
+                    <Denoter did="d18" type="operation">控制</Denoter>
+                    <Object oid="o18">疫情传播</Object>
+                </Event>，
+                <Event eid="e19">体现的不仅是对
+                    <Location lid="l19" type="destination">本国</Location>
+                    <Object oid="o19">人民生命健康</Object>的
+                    <Denoter did="d19" type="operation">高度负责</Denoter>，
+                </Event>
+                <Event eid="e20">更是对
+                    <Location lid="l20" type="destination">全球</Location>
+                    <Object oid="o20">疾病防控</Object>的大力
+                    <Denoter did="d20" type="operation">支持</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>世卫：中国为各国防疫工作设立了新标杆</Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e21">
+                    <Participant sid="s21" type="agent">谭德塞</Participant>
+                    <Denoter did="d21" type="statement">强调</Denoter>
+                </Event>，
+                <Event eid="e22">
+                    <Participant sid="s22,s24" type="agent">中国</Participant>
+                    <Denoter did="d22" type="operation">采取</Denoter>的很多
+                    <Object oid="o22" sid="s23">防控措施</Object>
+                </Event>
+                <Event eid="e23">远远
+                    <Denoter did="d23" type="stateChange">超出</Denoter>应对突发事件的
+                    <Object oid="o23">相关要求</Object>，
+                </Event>
+                <Event eid="e24">为各国防疫工作
+                    <Denoter did="d24" type="action">设立</Denoter>了
+                    <Object oid="o24">新标杆</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e25">
+                    <Participant sid="s25" type="agent">谭德塞</Participant>
+                    <Denoter did="d25" type="statement">强调</Denoter>
+                </Event>，
+                <Event eid="e26">
+                    <Participant sid="s26" type="agent">世卫组织</Participant>
+                    <Denoter did="d26" type="perception">不赞成</Denoter>甚至反对对
+                    <Location lid="l26">中国</Location>采取
+                    <Object oid="o26">旅行或贸易禁令</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>外交部：中方有信心和能力打赢疫情防控阻击战</Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e27">
+                    <Participant sid="s27" type="agent">中国外交部发言人华春莹</Participant>
+                    <Time tid="t27" type="relTime">31日</Time>
+                    <Denoter did="d27" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e28">
+                    <Participant sid="s28,s29" type="agent">中国政府</Participant>一直
+                    <Denoter did="d28" type="perception">本着</Denoter>对人民健康
+                    <Object oid="o28">高度负责的态度</Object>，
+                </Event>
+                <Event eid="e29">
+                    <Denoter did="d29" type="operation">采取</Denoter>了最全面、最严格的
+                    <Object oid="o29">防控举措</Object>
+                </Event>，
+                <Event eid="e30">很多
+                    <Object sid="s30">举措</Object>远
+                    <Denoter did="d30" type="stateChange">超出</Denoter>
+                    <Object oid="o30">《国际卫生条例》要求</Object>，
+                </Event>
+                <Event eid="e31">
+                    <Participant sid="s31,s32" type="agent">中方</Participant>完全
+                    <Denoter did="d31" type="perception">有</Denoter>
+                    <Object oid="o31">信心</Object>和
+                    <Object oid="o31">能力</Object>
+                </Event>
+                <Event eid="e32">
+                    <Denoter did="d32" type="operation">打赢</Denoter>这场
+                    <Object oid="o32">疫情防控阻击战</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e33">
+                    <Participant sid="s33" type="agent">华春莹</Participant>
+                    <Denoter did="d33" type="statement">说</Denoter>，
+                </Event>
+                <Event eid="e34">
+                    <Participant sid="s34" type="agent">中国</Participant>同
+                    <Participant oid="o34" type="recipient">世卫组织</Participant>一直保持着密切沟通和良好
+                    <Denoter did="d34" type="operation">合作</Denoter>，
+                </Event>
+                <Event eid="e35">
+                    <Participant sid="s35,s36" type="agent">中方</Participant>
+                    <Denoter did="d35" type="perception">愿</Denoter>继续同世卫组织及各国一道，
+                </Event>
+                <Event eid="e36">共同
+                    <Denoter did="d36" type="operation">维护</Denoter>
+                    <Location lid="l36" type="destination">全球和地区</Location>
+                    <Object oid="o36">公共卫生安全</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eid="e6"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eid="e8-e20"/>
+    <eRelation relType="Follow" bevent_eid="e9" aevent_eid="e11"/>
+    <eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+    <eRelation relType="Composite" fevent_eid="e18" sevent_eids="e12-e17"/>
+    <eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19-e20"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e21" thoughtcontent_eid="e22-e24"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e25" thoughtcontent_eid="e26"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e27" thoughtcontent_eid="e28-36"/>
+    <eRelation relType="Accompany" accompanya_eid="e32" accompanyb_eid="e31"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e33" thoughtcontent_eid="e34-e36"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e35" thoughtcontent_eid="e36"/>
+</Body>

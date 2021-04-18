@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>湖北：所有村组社区小区居民点实行24小时最严格的封闭式管理</Title>
+    <ReportTime type="absTime">2020-02-16T00:00</ReportTime>人民日报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">16日</Time>，
+                    <Participant sid="s1" type="agent">湖北省人民政府</Participant>
+                    <Denoter did="d1" type="statement">发布</Denoter>关于进一步
+                    <Object oid="o1">强化新冠肺炎疫情防控的通告</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e2">
+                    <Time tid="t2" type="relTime">当前</Time>，湖北省
+                    <Object sid="s2">疫情防控</Object>已
+                    <Denoter did="d2" type="stateChange">进入</Denoter>最吃劲的
+                    <Object oid="o2">关键期</Object>
+                </Event>，
+                <Event eid="e3">
+                    <Object sid="s3">疫情形势</Object>仍然
+                    <Denoter did="d3" type="stateChange">严峻</Denoter>，
+                </Event>
+                <Event eid="e4">为有效
+                    <Denoter did="d4" type="operation">切断</Denoter>
+                    <Object oid="o4">传染源</Object>，
+                </Event>
+                <Event eid="e5">
+                    <Denoter did="d5" type="operation">阻断</Denoter>
+                    <Object oid="o5">传播途径</Object>，
+                </Event>
+                <Event eid="e6">
+                    <Denoter did="d6" type="operation">遏制</Denoter>
+                    <Object oid="o6">疫情扩散蔓延势头</Object>，
+                </Event>
+                <Event eid="e7">根据
+                    <Means mid="m7">《中华人民共和国突发事件应对法》</Means>
+                    <Means mid="m7">《中华人民共和国传染病防治法》</Means>
+                    <Means mid="m7">《中华人民共和国治安管理处罚法》</Means>
+                    <Means mid="m7">《突发公共卫生事件应急条例》</Means>和
+                    <Means mid="m7">《湖北省人民代表大会常务委员会关于为打赢新型冠状病毒肺炎疫情防控阻击战提供有力法治保障的决定》</Means>等
+                    <Means mid="m7">相关法律法规规定</Means>，现就进一步
+                    <Object sid="s7">强化疫情防控有关事项</Object>
+                    <Denoter did="d7" type="statement">通告</Denoter>如下。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>一、
+                <Event eid="e8">
+                    <Denoter did="d8" type="stateChange">强化</Denoter>
+                    <Object oid="o8">属地防控责任</Object>
+                </Event>。
+                <Event eid="e9">
+                    <Participant sid="s9" type="agent">各市（州、直管市、神农架林区）</Participant>、
+                    <Participant sid="s9" type="agent">县（市、区）</Participant>、
+                    <Participant sid="s9" type="agent">乡镇（街道）</Participant>要进一步
+                    <Denoter did="d9" type="operation">压紧压实</Denoter>
+                    <Object oid="o9">责任</Object>，
+                </Event>
+                <Event eid="e10">
+                    <Denoter did="d10" type="operation">统筹整合</Denoter>
+                    <Object oid="o10">力量</Object>，
+                </Event>
+                <Event eid="e11">
+                    <Denoter did="d11" type="stateChange">加强</Denoter>
+                    <Object oid="o11">社区（村）联防联控</Object>和
+                    <Object oid="o11">群防群控</Object>。
+                </Event>
+                <Event eid="e12">
+                    <Participant sid="s12" type="agent">社区（村）</Participant>要
+                    <Means mid="m12">结合实际</Means>，
+                    <Denoter did="d12">完善</Denoter>
+                    <Object oid="o12">上门排摸</Object>、
+                    <Object oid="o12">人员核实</Object>、
+                    <Object oid="o12">社区管理</Object>等
+                    <Object oid="o12">联动机制</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>二、
+                <Event eid="e13">
+                    <Denoter did="d13" type="stateChange">强化</Denoter>
+                    <Location lid="l13">城乡社区（村）</Location>
+                    <Object oid="o13">封闭管理</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e14">
+                    <Location lid="l14">城乡</Location>所有
+                    <Participant sid="s14" type="agent">村组</Participant>、
+                    <Participant sid="s14" type="agent">社区</Participant>、
+                    <Participant sid="s14" type="agent">小区</Participant>、
+                    <Participant sid="s14" type="agent">居民点</Participant>
+                    <Denoter did="d14" type="operation">实行</Denoter>
+                    <Means mid="m14" type="method">24小时封闭式</Means>最严格的
+                    <Object oid="o14">管理</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e15">
+                    <Denoter did="d15" type="operation">严管</Denoter>
+                    <Object oid="o15">外来车辆</Object>，
+                    <Means mid="m15">非必需不进出</Means>；
+                </Event>
+                <Event eid="e16">
+                    <Denoter did="d16" type="operation">严管</Denoter>
+                    <Participant oid="o16">外来人员</Participant>，
+                    <Means mid="m16">非必要不入内</Means>；
+                </Event>
+                <Event eid="e17">
+                    <Denoter did="d17" type="operation">严管</Denoter>
+                    <Object oid="o17">住户外出</Object>，
+                </Event>
+                <Event eid="e18">
+                    <Object oid="o18">药品</Object>和
+                    <Object oid="o18">必需生活物品</Object>等可采取
+                    <Denoter did="d18" type="action">集中采购配送</Denoter>等方式进行；
+                </Event>
+                <Event eid="e19">
+                    <Denoter did="d19" type="operation">严管</Denoter>
+                    <Object oid="o19">经营门店</Object>，
+                </Event>
+                <Event eid="e20">
+                    <Denoter did="d20" type="operation">规范</Denoter>
+                    <Object oid="o20">体温检测</Object>，
+                </Event>
+                <Event eid="e21">
+                    <Denoter did="d21" type="operation">控制</Denoter>
+                    <Object oid="o21">人流量</Object>；
+                </Event>
+                <Event eid="e22">依法采取
+                    <Means mid="m22" type="method">强制措施</Means>，
+                    <Denoter did="d22" type="operation">严管</Denoter>
+                    <Object oid="o22">不法行为</Object>，
+                </Event>
+                <Event eid="e23">对
+                    <Denoter did="d23" type="perception">不遵守</Denoter>
+                    <Object oid="o23">重大突发公共卫生事件I级响应有关规定</Object>的。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>三、
+                <Event eid="e24">
+                    <Denoter did="d24" type="stateChange">强化</Denoter>
+                    <Object oid="o24">车辆通行管控</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e25">全面
+                    <Denoter did="d25" type="stateChange">加强</Denoter>
+                    <Location lid="l25">各市（州、直管市、神农架林区）域内</Location>
+                    <Object oid="o25">交通管控</Object>，采取
+                    <Means mid="m25">临时交通管制措施</Means>，
+                    <Means mid="m25">减少机动车出行</Means>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e26">
+                    <Denoter did="d26" type="statement">除</Denoter>
+                    <Object oid="o26">抗疫车辆</Object>、
+                    <Object oid="o26">公务用车</Object>、
+                    <Object oid="o26">公共交通</Object>、
+                    <Object oid="o26">医护人员用车</Object>、
+                    <Object oid="o26">运输生活必需品车辆</Object>和
+                    <Object oid="o26">救护</Object>、
+                    <Object oid="o26">消防</Object>、
+                    <Object oid="o26">抢险</Object>、
+                    <Object oid="o26">环卫</Object>、
+                    <Object oid="o26">警车</Object>等
+                    <Object oid="o26">特种车辆</Object>外，
+                </Event>
+                <Event eid="e27">
+                    <Object oid="o27">其他车辆</Object>一律
+                    <Denoter did="d27" type="operation">禁止通行</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>四、
+                <Event eid="e28">
+                    <Denoter did="d28" type="stateChange">强化</Denoter>
+                    <Object oid="o28">重点区域管理</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e29">所有
+                    <Object oid="o29">非必需的公共场所</Object>
+                    <Denoter did="d29" type="operation">一律关闭</Denoter>，
+                </Event>
+                <Event eid="e30">一切
+                    <Object oid="o30">群众聚集性活动</Object>
+                    <Denoter did="d30" type="operation">一律停止</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e31">
+                    <Object sid="s31">超市</Object>、
+                    <Object sid="s31">药店</Object>等
+                    <Object sid="s31">必需开放场所</Object>，要
+                    <Denoter did="d31" type="operation">合理安排</Denoter>
+                    <Object oid="o31">营业时间</Object>，
+                </Event>
+                <Event eid="e32">严格
+                    <Denoter did="d32" type="operation">控制</Denoter>
+                    <Object oid="o32">人流量</Object>，
+                </Event>
+                <Event eid="e33">
+                    <Denoter did="d33" type="operation">做好</Denoter>
+                    <Object oid="o33">人员导流</Object>、
+                    <Object oid="o33">体温检测</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e34">
+                    <Denoter did="d34" type="operation">实行</Denoter>
+                    <Location lid="l34">零售药店</Location>
+                    <Object oid="o34">购药登记制度</Object>，
+                </Event>
+                <Event eid="e35">
+                    <Denoter did="d35" type="action">购买</Denoter>
+                    <Object oid="o35">感冒药</Object>、
+                    <Object oid="o35">发热咳嗽药</Object>、
+                    <Object oid="o35">退热药</Object>等
+                    <Object oid="o35">药品</Object>的
+                    <Participant sid="s35,s36" type="agent">人员</Participant>
+                </Event>，
+                <Event eid="e36">必须如实
+                    <Denoter did="d36" type="action">填写</Denoter>
+                    <Object oid="o36">姓名</Object>、
+                    <Object oid="o36">联系方式</Object>、
+                    <Object oid="o36">身份证号码</Object>、
+                    <Object oid="o36">住址</Object>、
+                    <Object oid="o36">体温</Object>等
+                    <Object oid="o36">信息</Object>，
+                </Event>
+                <Event eid="e37">
+                    <Object oid="o37">信息</Object>必须完整
+                    <Denoter did="d37" type="action">录入</Denoter>
+                    <Object sid="s37">电脑系统</Object>
+                </Event>才能购买，
+                <Event eid="e38">
+                    <Denoter did="d38" type="stateChange">强化</Denoter>
+                    <Object oid="o38">风险管控</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e39">对
+                    <Location lid="l39">出现确诊（含临床诊断）新冠肺炎病例的社区（村）</Location>、
+                    <Location lid="l39">小区</Location>、
+                    <Location lid="l39">居民点</Location>、
+                    <Location lid="l39">楼宇</Location>、
+                    <Location lid="l39">工作场所</Location>等
+                    <Location lid="l39">基层单元</Location>，坚决
+                    <Denoter did="d39" type="operation">实行</Denoter>
+                    <Object oid="o39">14天封闭式硬隔离</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>五、
+                <Event eid="e40">
+                    <Denoter did="d40" type="stateChange">强化</Denoter>
+                </Event>
+                <Event eid="e41">
+                    <Object oid="o41">居民健康</Object>
+                    <Denoter did="d41" type="operation">全面排查</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e42">对
+                    <Participant oid="o42" type="recipient">所有居民</Participant>开展
+                    <Means mid="m42">拉网式动态滚动</Means>
+                    <Denoter did="d42" type="operation">筛查</Denoter>，
+                </Event>做到
+                <Means mid="m42">“不漏一户、不落一人、不断一天”</Means>，确保
+                <Means mid="m42">全覆盖、无盲区</Means>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e43">
+                    <Denoter did="d43" type="stateChange">加强</Denoter>对“四类人员”的
+                    <Object oid="o43">流行病学调查</Object>，
+                </Event>
+                <Event eid="e44">
+                    <Participant sid="s44" type="agent">所涉单位</Participant>和
+                    <Participant sid="s44" type="agent">个人</Participant>必须依法无条件
+                    <Denoter did="d44" type="action">配合</Denoter>，
+                    <Means mid="m44">不得隐瞒病史、密切接触史</Means>，
+                    <Means mid="m44">不得逃避隔离医学观察</Means>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Participant oid="o45" type="recipient">拒不配合的</Participant>，由
+                <Participant sid="s45" type="agent">公安机关</Participant>
+                <Means mid="m45" type="method">依法</Means>采取
+                <Denoter did="d45" type="action">强制措施</Denoter>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e46">
+                    <Participant sid="s46,s47" type="agent">居民</Participant>
+                    <Denoter did="d46" type="stateChange">出现</Denoter>
+                    <Object oid="o46">发热</Object>、
+                    <Object oid="o46">咳嗽</Object>等症状，
+                </Event>
+                <Event eid="e47">必须
+                    <Time tid="t47" type="timeInterval">第一时间</Time>向
+                    <Participant oid="o47" type="recipient">社区（村）</Participant>
+                    <Denoter did="d47" type="action">报告</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e48">
+                    <Participant sid="s48" type="agent">社区（村）</Participant>对
+                    <Object oid="o48">发热病人报告的健康信息</Object>认真
+                    <Denoter did="d48" type="action">核查</Denoter>，
+                </Event>
+                <Event eid="e49">对
+                    <Participant oid="o49" type="recipient">确认的发热病人</Participant>就近
+                    <Denoter did="d49" type="movement">转送就诊</Denoter>至
+                    <Location lid="l49" type="destination">发热门诊</Location>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>六、
+                <Event eid="e50">
+                    <Denoter did="d50" type="stateChange">强化</Denoter>
+                    <Object oid="o50">重点人群管理和服务</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e51">所有疑似、确诊（含临床诊断）新冠肺炎病例的
+                    <Participant oid="o51" type="recipient">密切接触者</Participant>和
+                    <Participant oid="o51" type="recipient">不能明确排除新冠肺炎的发热病人</Participant>，必须
+                    <Denoter did="d51" type="movement">送</Denoter>
+                    <Location lid="l51" type="destination">集中隔离点</Location>
+                </Event>
+            </Sentence>
+            <Event eid="e52">
+                <Means mid="m52">单人单间</Means>
+                <Denoter did="d52" type="operation">留观</Denoter>，不得居家隔离留观。
+            </Event>
+            <Sentence>
+                <Event eid="e53">
+                    <Participant sid="s53" type="agent">乡镇（街道）</Participant>要
+                    <Denoter did="d53" type="operation">组建</Denoter>
+                    <Participant oid="o53" type="recipient">工作专班</Participant>，
+                </Event>
+                <Event eid="e54">
+                    <Denoter did="d54" type="operation">做好</Denoter>
+                    <Means mid="m54">医疗救治</Means>、
+                    <Means mid="m54">生活服务</Means>、
+                    <Means mid="m54">卫生管理</Means>、
+                    <Means mid="m54">心理疏导</Means>、
+                    <Means mid="m54">人文关怀</Means>等
+                    <Object oid="o54">被隔离人员的各项工作</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e55">要
+                    <Denoter did="d55" type="stateChange">加强</Denoter>
+                    <Object oid="o55">警力配备</Object>，
+                </Event>
+                <Event eid="e56">
+                    <Denoter did="d56" type="operation">维护</Denoter>
+                    <Object oid="o56">诊疗秩序</Object>，
+                </Event>
+                <Event eid="e57">
+                    <Denoter did="d57" type="operation">防止</Denoter>发生
+                    <Object oid="o57">次生事件</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e58">凡因
+                    <Location lid="l58,l59">隔离点</Location>
+                    <Object oid="o58">建设</Object>
+                    <Denoter did="d58" type="stateChange">不到位</Denoter>、
+                </Event>
+                <Event eid="e59">
+                    <Object oid="o59">床位筹集</Object>
+                    <Denoter did="d59" type="stateChange">不到位</Denoter>
+                </Event>，
+                <Event eid="e60">
+                    <Denoter did="d60" type="stateChange">导致</Denoter>
+                    <Object oid="o60">“四类人员”不能及时收治</Object>和
+                    <Object oid="o60">不能隔离</Object>的，
+                </Event>
+                <Event eid="e61">对因
+                    <Location lid="l61">隔离点</Location>
+                    <Participant sid="s61" type="recipient">医护人员</Participant>、
+                    <Object sid="s61">生活物资</Object>、
+                    <Object sid="s61">安全保护</Object>等
+                    <Object sid="s61">保障措施</Object>
+                    <Denoter did="d61" type="stateChange">不到位</Denoter>，
+                </Event>
+                <Event eid="e62">
+                    <Denoter did="d62" type="stateChange">引发</Denoter>
+                    <Object oid="o62">次生事件</Object>的，
+                </Event>
+                <Event eid="e63">一律严肃
+                    <Denoter did="d63" type="operation">处理</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e64">
+                    <Participant sid="s64,s65,s66" type="agent">社区（村）</Participant>要
+                    <Denoter did="d64" type="stateChange">加强</Denoter>
+                </Event>
+                <Event eid="e65">对
+                    <Participant oid="o65" type="recipient">老幼弱</Participant>、
+                    <Participant oid="o65" type="recipient">医护人员家属</Participant>等群体的
+                    <Denoter did="d65" type="perception">关爱</Denoter>，
+                </Event>
+                <Event eid="e66">
+                    <Denoter did="d66" type="operation">做好</Denoter>
+                    <Object oid="o66">服务保障</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>七、
+                <Event eid="e67">
+                    <Denoter did="d67" type="stateChange">强化</Denoter>
+                    <Object oid="o67">居民生活必需品保障</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e68">
+                    <Participant sid="s68,s69,s70,s71" type="agent">各地</Participant>要
+                    <Means mid="m68">因地制宜</Means>，灵活采取
+                    <Means mid="m68">多种方式</Means>，
+                    <Denoter did="d68" type="operation">保障</Denoter>
+                    <Time tid="t68" type="timeInterval">实行封闭管理后</Time>
+                    <Object oid="o68">群众生活必需物资供应</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e69">要
+                    <Denoter did="d69" type="operation">拓展</Denoter>
+                    <Object oid="o69">社区配送服务</Object>，
+                </Event>
+                <Event eid="e70">大力
+                    <Denoter did="d70" type="operation">发展</Denoter>
+                    <Object oid="o70">电子商务</Object>，
+                </Event>
+                <Event eid="e71">
+                    <Denoter did="d71" type="stateChange">加强</Denoter>
+                    <Object oid="o71">供销对接保障</Object>，
+                </Event>
+                <Event eid="e72">
+                    <Denoter did="d72" type="operation">开展</Denoter>
+                    <Object oid="o72">“电商+连锁配送”</Object>，
+                </Event>
+                <Event eid="e73">
+                    <Denoter did="d73" type="operation">推行</Denoter>
+                    <Object oid="o73">无接触式配送服务</Object>，
+                </Event>
+                <Event eid="e74">
+                    <Denoter did="d74" type="operation">推进</Denoter>
+                    <Location lid="l74">小区（村组）</Location>
+                    <Means mid="m74">网上</Means>
+                    <Object oid="o74">团购</Object>，
+                </Event>
+                <Event eid="e75">
+                    <Means mid="m75">凭证</Means>
+                    <Means mid="m75">错峰</Means>出门
+                    <Denoter did="d75" type="action">采买</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>八、
+                <Event eid="e76">
+                    <Denoter did="d76" type="stateChange">强化</Denoter>
+                    <Object oid="o76">医用防护物资保障</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e77">
+                    <Location lid="l77">全省重点医护物资生产企业</Location>的所有
+                    <Object oid="o77">产品</Object>由
+                    <Participant sid="s77,s78" type="agent">省人民政府</Participant>
+                    <Denoter did="d77" type="operation">统一调配</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e78">全力
+                    <Denoter did="d78" type="perception">支持</Denoter>
+                </Event>
+                <Event eid="e79">
+                    <Participant sid="s79" type="agent">重点医护物资生产企业</Participant>
+                    <Denoter did="d79" type="stateChange">扩大</Denoter>
+                    <Object oid="o79">产能</Object>，
+                </Event>支持
+                <Event eid="e80">有条件的
+                    <Participant sid="s80" type="agent">企业</Participant>
+                    <Denoter did="d80" type="operation">技改转产</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>九、
+                <Event eid="e81">
+                    <Denoter did="d81" type="stateChange">强化</Denoter>
+                    <Object oid="o81">环境卫生管理</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e82">
+                    <Denoter did="d82" type="operation">落实</Denoter>
+                    <Object oid="o82">环境消毒制度</Object>，
+                </Event>
+                <Event eid="e83">对
+                    <Location lid="l83">重点场所</Location>定期
+                    <Denoter did="d83" type="operation">进行</Denoter>
+                    <Object oid="o83">通风</Object>和
+                    <Object oid="o83">预防性消毒</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e84">所有
+                    <Location lid="l84">社区（村）</Location>、
+                    <Location lid="l84">医院</Location>、
+                    <Location lid="l84">隔离点</Location>的
+                    <Object oid="o84">生活垃圾</Object>和
+                    <Object oid="o84">医疗废弃物</Object>都必须
+                    <Means mid="m84" type="method">分类收集</Means>
+                    <Denoter did="d84" type="operation">处置</Denoter>，切实做到
+                    <Means mid="m84">日产日清</Means>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>十、
+                <Event eid="e85">
+                    <Denoter did="d85" type="stateChange">强化</Denoter>
+                    <Object oid="o85">单位主体责任</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e86">
+                    <Denoter did="d86" type="operation">实行</Denoter>
+                    <Object oid="o86">企业复工复产报备制</Object>，
+                </Event>
+                <Event eid="e87">未经
+                    <Participant sid="s87" type="agent">县（市、区）疫情防控指挥部</Participant>
+                    <Denoter did="d87" type="operation">批准</Denoter>不得
+                    <Object oid="o87">复工复产</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e88">
+                    <Participant sid="s88" type="agent">经批准复工复产的企业</Participant>要全面
+                    <Denoter did="d88" type="operation">落实</Denoter>
+                    <Object oid="o88">疫情防控措施</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e89">
+                    <Location lid="l89">机关事业单位办公场所</Location>、
+                    <Location lid="l89">园区</Location>、
+                    <Location lid="l89">楼宇</Location>、
+                    <Location lid="l89">复工复产企业</Location>等要
+                    <Denoter did="d89" type="stateChange">加强</Denoter>
+                    <Object oid="o89">体温监测</Object>
+                </Event>，
+                <Event eid="e90">认真
+                    <Denoter did="d90" type="operation">筛查</Denoter>
+                    <Participant oid="o90" type="recipient">发热人员</Participant>，
+                </Event>
+                <Event eid="e91">发现
+                    <Object oid="o91">异常</Object>及时
+                    <Denoter did="d91" type="action">报告</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>十一、
+                <Event eid="e92">强化
+                    <Denoter did="d92" type="operation">下沉</Denoter>
+                    <Location lid="l92">社区（村）</Location>党员干部的
+                    <Object oid="o92">工作责任</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e93">
+                    <Participant sid="s93,s94" type="agent">党政机关</Participant>、
+                    <Participant sid="s93,s94" type="agent">事业单位党员</Participant>必须就近
+                    <Denoter did="d93" type="movement">下沉</Denoter>到
+                    <Location lid="l93" type="destination">村组</Location>、
+                    <Location lid="l93" type="destination">社区</Location>
+                </Event>
+                <Event eid="e94">
+                    <Denoter did="d94" type="operation">参与</Denoter>
+                    <Object oid="o94">疫情防控工作</Object>，
+                </Event>
+                <Event eid="e95">
+                    <Denoter did="d95" type="perception">接受</Denoter>
+                    <Object oid="o95">乡镇（街道）的管理</Object>和
+                    <Object oid="o95">调度</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e96">对
+                    <Participant oid="o96" type="recipient">不主动报到的</Participant>、
+                    <Participant oid="o96" type="recipient">不服从调配的</Participant>，要坚决严肃
+                    <Denoter did="d96" type="operation">处理</Denoter>，
+                </Event>
+                <Event eid="e97">并
+                    <Denoter did="d97" type="action">追究</Denoter>所在单位主要
+                    <Object oid="o97">负责人责任</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e98">
+                    <Participant sid="s98,s99" type="agent">各单位</Participant>要
+                    <Denoter did="d98" type="operation">管好</Denoter>
+                    <Participant oid="o98" type="recipient">自己的人</Participant>、看好
+                    <Object oid="o98">自己的门</Object>，
+                </Event>
+                <Event eid="e99">对本单位党员干部下沉村组、社区情况
+                    <Denoter did="d99" type="operation">建立</Denoter>
+                    <Object oid="o99">清单</Object>，
+                </Event>
+                <Event eid="e100">并
+                    <Denoter did="d100" type="action">报</Denoter>
+                    <Participant oid="o100" type="recipient">各级疫情防控指挥部</Participant>
+                </Event>
+                <Event eid="e101">
+                    <Participant sid="s101" type="agent">各级疫情防控指挥部</Participant>
+                    <Denoter did="d101" type="operation">备案</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>十二、
+                <Event eid="e102">
+                    <Denoter did="d102" type="stateChange">强化</Denoter>
+                    <Object oid="o102">个人法定责任</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e103">
+                    <Participant sid="s103,s104,s105,s106" type="agent">全体居民</Participant>要自觉
+                    <Denoter did="d103" type="operation">遵守</Denoter>
+                    <Object oid="o103">疫情防控各项规定</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e104">严格
+                    <Denoter did="d104" type="operation">遵守</Denoter>在
+                    <Location lid="l104">公共场所</Location>
+                    <Object oid="o104">佩戴口罩的规定</Object>，
+                </Event>
+                <Event eid="e105">
+                    <Time tid="t105" type="timeInterval">非必要时</Time>
+                    <Denoter did="d105" type="movement">不外出</Denoter>，
+                </Event>
+                <Event eid="e106">
+                    <Denoter did="d106" type="action">不参加</Denoter>
+                    <Object oid="o106">聚会</Object>和
+                    <Object oid="o106">集体活动</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>对
+                <Event eid="e107">
+                    <Denoter did="d107" type="operation">违反</Denoter>
+                    <Object oid="o107">重大突发公共卫生事件I级响应管控措施</Object>、
+                </Event>
+                <Event eid="e108">
+                    <Denoter did="d108" type="operation">妨碍</Denoter>
+                    <Object oid="o108">疫情防控工作</Object>的，
+                </Event>
+                <Event eid="e109">由
+                    <Participant sid="s109" type="agent">公安机关</Participant>
+                    <Means mid="m109">依法</Means>
+                    <Denoter did="d109" type="operation">采取</Denoter>
+                    <Object oid="o109">强制措施</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>十三、
+                <Event eid="e110">
+                    <Denoter did="d110" type="stateChange">强化</Denoter>
+                    <Object oid="o110">示范带动</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e111">
+                    <Participant sid="s111,s112,s113" type="agent">全体党员干部</Participant>、
+                    <Participant sid="s111,s112,s113" type="agent">各级人大代表</Participant>、
+                    <Participant sid="s111,s112,s113" type="agent">政协委员</Participant>要
+                    <Denoter did="d111" type="perception">发挥</Denoter>
+                    <Object oid="o111">带头作用</Object>，
+                </Event>
+                <Event eid="e112">
+                    <Denoter did="d112" type="operation">带动</Denoter>
+                    <Participant oid="o112" type="recipient">家人亲属</Participant>、
+                    <Participant oid="o112" type="recipient">街坊邻居</Participant>
+                </Event>
+                <Event eid="e113">自觉
+                    <Denoter did="d113" type="operation">遵守</Denoter>
+                    <Object oid="os113">疫情防控各项规定</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e114">
+                    <Participant sid="s114,s115" type="agent">所有党员干部</Participant>、
+                    <Participant sid="s114,s115" type="agent">居民</Participant>必须
+                    <Denoter did="d114" type="operation">服从</Denoter>
+                    <Object oid="o114">统一领导</Object>和
+                    <Object oid="o114">调度</Object>
+                </Event>
+                <Event eid="e115">，积极
+                    <Denoter did="d115" type="operation">参与</Denoter>
+                    <Object oid="o115">防疫工作</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>十四、
+                <Event eid="e116">
+                    <Denoter did="d116" type="stateChange">强化</Denoter>
+                    <Object oid="o116">工作纪律</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e117">对
+                    <Time tid="t117" type="timeInterval">防控工作中</Time>
+                    <Participant oid="o117" type="recipient">不担当、不作为、慢作为的</Participant>，对
+                    <Participant oid="o117" type="recipient">贻误战机、阳奉阴违、消极应付的</Participant>，对
+                    <Participant oid="o117" type="recipient">因封闭管理不严、防控措施不力导致疫情蔓延的</Participant>，对
+                    <Participant oid="o117" type="recipient">不服从统一调度、影响疫情防控措施落实的</Participant>，一律从快从严
+                    <Denoter did="d117" type="operation">追责问责</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e118">
+                    <Denoter did="d118" type="operation">造成</Denoter>
+                    <Object oid="o118">严重后果</Object>的，
+                </Event>
+                <Event eid="e119">
+                    <Denoter did="d119" type="operation">实行</Denoter>
+                    <Object oid="o119" type="operation">问责</Object>
+                    <Means mid="m119">“上追一级”</Means>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>十五、
+                <Event eid="e120">
+                    <Denoter did="d120" type="stateChange">强化</Denoter>
+                    <Object oid="o120">投诉监督</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e121">
+                    <Participant sid="s121,s122,s123,s124" type="agent">各地</Participant>必须向社会
+                    <Denoter did="d121" type="statement">公布</Denoter>
+                    <Object oid="o121">本地疫情防控服务热线电话</Object>、
+                    <Object oid="o121">网上服务窗口</Object>，
+                </Event>
+                <Event eid="e122">
+                    <Denoter did="d122" type="operation">接受</Denoter>
+                    <Object oid="o122">群众咨询</Object>、
+                    <Object oid="o122">投诉</Object>、
+                    <Object oid="o122">举报</Object>、
+                    <Object oid="o122">求助</Object>，
+                </Event>
+                <Event eid="e123">及时
+                    <Denoter did="d123" type="action">回应</Denoter>
+                    <Object oid="o123">诉求</Object>，
+                </Event>
+                <Event eid="e124">
+                    <Denoter did="d124" type="operation">反馈</Denoter>
+                    <Object oid="o124">办理结果</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e125">
+                    <Denoter did="d125" type="statement">出台</Denoter>
+                    <Object oid="o125">举报奖励政策</Object>，
+                </Event>
+                <Event eid="e126">
+                    <Participant sid="s126" type="agent">群众</Participant>可通过
+                    <Means mid="m126">“12345”热线</Means>、
+                    <Means mid="m126">鄂汇办APP疫情防控专区</Means>等途径，
+                    <Object oid="o126">对发热病人报告不及时</Object>、
+                    <Object oid="o126">“四类人员”收治隔离落实不到位</Object>、
+                    <Object oid="o126">疫情防控措施落实打折扣</Object>等问题进行
+                    <Denoter did="d126" type="action">举报</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e127">希望
+                    <Participant sid="s127,s128,s129,s130,s131" type="agent">广大人民群众</Participant>继续
+                    <Denoter did="d127" type="perception">理解</Denoter>、
+                </Event>
+                <Event eid="e128">
+                    <Denoter did="d128" type="operation">配合</Denoter>
+                </Event>
+                <Event eid="e129">积极
+                    <Denoter did="d129" type="operation">参与</Denoter>
+                    <Object oid="o129">疫情防控</Object>，
+                </Event>
+                <Event eid="e130">
+                    <Denoter did="d130" type="perception">支持</Denoter>
+                    <Object oid="o130">一线人员工作</Object>，
+                </Event>守望相助、同舟共济、共克时艰，
+                <Event eid="e131">坚决
+                    <Denoter did="d131" type="operation">打赢</Denoter>
+                    <Object oid="o131">全省疫情防控人民战争</Object>、
+                    <Object oid="o131">总体战</Object>、
+                    <Object oid="o131">阻击战</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eid="e8-e126"/>
+    <eRelation relType="Composite" fevent_eid="e2" sevent_eids="e3-e6"/>
+    <eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+    <eRelation relType="Composite" fevent_eid="e8" sevent_eids="e9-e12"/>
+    <eRelation relType="Composite" fevent_eid="e13" sevent_eids="e14-e22"/>
+    <eRelation relType="Composite" fevent_eid="e16" sevent_eids="e17"/>
+    <eRelation relType="Composite" fevent_eid="e18" sevent_eids="e19-e20"/>
+    <eRelation relType="Composite" fevent_eid="e24" sevent_eids="e25-e27"/>
+    <eRelation relType="Accompany" accompanya_eid="e26" accompanyb_eid="e27"/>
+    <eRelation relType="Composite" fevent_eid="e28" sevent_eids="e29-e39"/>
+    <eRelation relType="Follow" bevent_eid="e31" aevent_eid="e32-e33"/>
+    <eRelation relType="Composite" fevent_eid="e34" sevent_eids="e35-e37"/>
+    <eRelation relType="Follow" bevent_eid="e36" aevent_eid="e37"/>
+    <eRelation relType="Composite" fevent_eid="e41" sevent_eids="e42-e49"/>
+    <eRelation relType="Follow" bevent_eid="e46" aevent_eid="e47"/>
+    <eRelation relType="Follow" bevent_eid="e48" aevent_eid="e49"/>
+    <eRelation relType="Composite" fevent_eid="e50" sevent_eids="e51-e54"/>
+    <eRelation relType="Follow" bevent_eid="e51" aevent_eid="e52"/>
+    <eRelation relType="Follow" bevent_eid="e53" aevent_eid="e54"/>
+    <eRelation relType="Accompany" accompanya_eid="e55" accompanyb_eid="e56"/>
+    <eRelation relType="Causal" cause_eid="e58-e59" effect_eid="e60"/>
+    <eRelation relType="Causal" cause_eid="e61" effect_eid="e62"/>
+    <eRelation relType="Follow" bevent_eid="e58-e62" aevent_eid="e63"/>
+    <eRelation relType="Accompany" accompanya_eid="e65" accompanyb_eid="e66"/>
+    <eRelation relType="Composite" fevent_eid="e67" sevent_eids="e75"/>
+    <eRelation relType="Composite" fevent_eid="e69" sevent_eids="e70-e75"/>
+    <eRelation relType="Composite" fevent_eid="e76" sevent_eids="e77-e80"/>
+    <eRelation relType="Follow" bevent_eid="e79" aevent_eid="e80"/>
+    <eRelation relType="Composite" fevent_eid="e81" sevent_eids="e82-e84"/>
+    <eRelation relType="Follow" bevent_eid="e82" aevent_eid="e83"/>
+    <eRelation relType="Follow" bevent_eid="e82" aevent_eid="e84"/>
+    <eRelation relType="Composite" fevent_eid="e85" sevent_eids="e86-e91"/>
+    <eRelation relType="Follow" bevent_eid="e90" aevent_eid="e91"/>
+    <eRelation relType="Composite" fevent_eid="e92" sevent_eids="e93-e101"/>
+    <eRelation relType="Follow" bevent_eid="e93" aevent_eid="e94-e95"/>
+    <eRelation relType="Composite" fevent_eid="e102" sevent_eids="e103-e109"/>
+    <eRelation relType="Composite" fevent_eid="e103" sevent_eids="e104-e106"/>
+    <eRelation relType="Causal" cause_eid="e107-e108" effect_eid="e109"/>
+    <eRelation relType="Composite" fevent_eid="e110" sevent_eids="e111-e115"/>
+    <eRelation relType="Composite" fevent_eid="e116" sevent_eids="e117-e119"/>
+    <eRelation relType="Causal" cause_eid="e118" effect_eid="e119"/>
+    <eRelation relType="Composite" fevent_eid="e120" sevent_eids="e121-e126"/>
+    <eRelation relType="Composite" fevent_eid="e131" sevent_eids="e127-e130"/>
+</Body>

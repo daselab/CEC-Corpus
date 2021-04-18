@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>新闻分析：印度疫情防控能力将面临考验</Title>
+    <ReportTime type="absTime">2020-03-16T00:00</ReportTime>新华社
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Participant sid="s1" type="agent">印度卫生部</Participant>
+                    <Time tid="t1" type="relTime">15日</Time>
+                    <Denoter did="d1" type="statement">发布</Denoter>
+                </Event>的
+                <Event eid="e2">
+                    <Object sid="s2" type="agent">最新数据</Object>
+                    <Denoter did="d2" type="statement">显示</Denoter>
+                </Event>，
+                <Event eid="e3">
+                    <Location lid="l3">印度</Location>
+                    <Object sid="s3" type="agent">新冠肺炎累计确诊病例</Object>
+                    <Time tid="t3" type="relTime">当天</Time>
+                    <Denoter did="d3" type="stateChange">破百</Denoter>
+                </Event>，
+                <Event eid="e4">
+                    <Denoter did="d4" type="operation">增</Denoter>至
+                    <Object oid="o4">107例</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e5">
+                    <Participant sid="s5" type="agent">印度专家</Participant>
+                    <Denoter did="d5" type="statement">认为</Denoter>
+                </Event>，
+                <Event eid="e6">
+                    <Location lid="l6">印度</Location>
+                    <Time tid="t6" type="relTime">目前</Time>仍
+                    <Denoter did="d6" type="stateChange">处于</Denoter>
+                    <Object oid="o6" type="recipient">疫情初期</Object>
+                </Event>，
+                <Event eid="e7">主要目标为
+                    <Denoter did="d7" type="operation">严防</Denoter>
+                    <Object oid="o7" type="recipient">疫情输入</Object>
+                </Event>，难度低于防控社区传播
+            </Sentence>。
+            <Sentence>
+                <Event eid="e8">未来一周到10天是关键期，
+                    <Object sid="s8" type="agent">印度疫情防控能力</Object>将
+                    <Denoter did="d8" type="operation">面临</Denoter>真正
+                    <Object oid="o8" type="recipient">考验</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9">
+                    <Participant sid="s9" type="agent">印度</Participant>对此次
+                    <Object oid="o9" type="recipient">疫情</Object>的
+                    <Denoter did="d9" type="operation">应对较早</Denoter>
+                </Event>，将严防输入性病例作为主要防控目标，
+                <Event eid="e10">
+                    <Denoter did="d10" type="operation">取得</Denoter>一定
+                    <Object oid="o10" type="recipient">成效</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e11">
+                    <Location lid="l11">印度</Location>自
+                    <Time tid="t11" type="relTime">1月下旬</Time>起就
+                    <Denoter did="d11" type="operation">加强</Denoter>了
+                    <Object oid="o11" type="recipient">入境旅客健康筛查力度</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e12">
+                    <Location lid="l12">印度</Location>
+                    <Participant sid="s12" type="agent">政府</Participant>
+                    <Denoter did="d12" type="statement">发布</Denoter>的
+                    <Object oid="o12" type="recipient">声明</Object>说
+                </Event>，
+                <Event eid="e13">截至
+                    <Time tid="t13" type="relTime">3月13日19时</Time>，
+                    <Participant sid="s13" type="agent">印度</Participant>累计
+                    <Denoter did="d13" type="operation">筛查</Denoter>
+                    <Participant oid="o13" type="recipient">30个机场超过110万名入境旅客</Participant>
+                    <Participant oid="o13" type="recipient">超过110万名入境旅客</Participant>
+                </Event>，陆路口岸和港口旅客筛查数量分别为14万和2.5万
+            </Sentence>。
+            <Sentence>其间
+                <Event eid="e14">超过
+                    <Participant sid="s14" type="agent">4万人</Participant>被
+                    <Denoter did="d14" type="operation">列为</Denoter>
+                    <Participant oid="o14" type="recipient">观察对象</Participant>
+                </Event>，
+                <Event eid="e15">
+                    <Participant sid="s15" type="agent">4000多人</Participant>
+                    <Denoter did="d15" type="operation">接受</Denoter>
+                    <Object oid="o15" type="recipient">病毒检测</Object>
+                </Event>，
+                <Event eid="e16">对防止疫情输入
+                    <Denoter did="d16" type="operation">产生</Denoter>一定
+                    <Object oid="o16" type="recipient">效果</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e17">
+                    <Location lid="l17">印度</Location>
+                    <Time tid="t17" type="relTime">2月</Time>还
+                    <Denoter did="d17">采取</Denoter>了
+                    <Object oid="o17">严格的旅行限制</Object>
+                </Event>，
+                <Event eid="e18">
+                    <Denoter did="d18" type="stateChange">禁止</Denoter>疫情暴发国家的人员
+                    <Object oid="o18" type="recipient">入境</Object>
+                </Event>；
+                <Event eid="e19">
+                    <Time tid="t19" type="relTime">3月11日</Time>再度
+                    <Denoter did="d19" type="stateChange">升级</Denoter>
+                </Event>，决定除外交等部分人员外，暂不允许
+                <Event eid="e20">
+                    <Participant sid="s20" type="agent">持普通有效签证者</Participant>
+                    <Denoter did="d20" type="operation">入境</Denoter>
+                </Event>至4月15日
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e21">
+                    <Location lid="l21">印度</Location>
+                    <Participant sid="s21" type="agent">公共卫生基金会流行病学教授吉里达尔·巴布</Participant>
+                    <Denoter did="d21" type="statement">告诉</Denoter>
+                    <Participant oid="o21" type="recipient">记者</Participant>
+                </Event>，
+                <Event eid="e22">
+                    <Location lid="l22">印度</Location>必须提早
+                    <Denoter did="d22" type="operation">谋划</Denoter>
+                </Event>，将可能发生的风险拒之门外
+            </Sentence>。
+            <Sentence>
+                <Event eid="e23">
+                    <Time tid="t23" type="relTime">目前</Time>来
+                    <Denoter did="d23" type="perception">看</Denoter>
+                    <Object oid="o23" type="recipient">效果</Object>不错
+                </Event>，未来一段时间将是关键期
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>尽管
+                <Event eid="e24">
+                    <Location lid="l24">印度</Location>努力
+                    <Denoter did="d24" type="operation">控制</Denoter>
+                    <Object oid="o24" type="recipient">疫情输入和传播</Object>
+                </Event>，但
+                <Event eid="e25">
+                    <Location lid="l25">美国</Location>
+                    <Location lid="l25">哈佛大学</Location>
+                    <Participant sid="s25" type="agent">教授阿希什·杰哈</Participant>
+                    <Time tid="t25" type="relTime">日前接受美国《时代》周刊采访时</Time>
+                    <Denoter did="d25" type="statement">认为</Denoter>
+                </Event>，
+                <Event eid="e26">
+                    <Location lid="l26">印度</Location>还有
+                    <Object sid="s26" type="agent">更多的病例</Object>
+                    <Denoter did="d26" type="operation">没有得到</Denoter>
+                    <Object oid="o26" type="recipient">确认</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>随着
+                <Event eid="e27">
+                    <Object sid="s27" type="agent">检测能力</Object>
+                    <Denoter did="d27" type="stateChange">提升</Denoter>
+                </Event>，
+                <Event eid="e28">
+                    <Time tid="t28" type="timeInterval">未来两三周内</Time>
+                    <Object sid="s28" type="agent">确诊病例</Object>或将大幅
+                    <Denoter did="d28" type="stateChange">上升</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e29">根据世界卫生组织的数据，
+                    <Location lid="l29">印度</Location>迄今
+                    <Denoter did="d29" type="operation">开展</Denoter>了
+                    <Object oid="o29" type="recipient">近5000次新冠病毒检测</Object>
+                </Event>，而
+                <Event eid="e30">同期
+                    <Object sid="s30" type="agent">被采取隔离观察的人数</Object>却
+                    <Denoter did="d30" type="operation">高达</Denoter>
+                    <Object oid="o30" type="recipient">4万多</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e31">
+                    <Object sid="s31" type="agent">检测能力</Object>
+                    <Denoter did="d31" type="stateChange">不足</Denoter>
+                </Event>，是
+                <Event eid="e32">
+                    <Location lid="l32">印度</Location>
+                    <Object sid="s32" type="agent">疫情防控</Object>
+                    <Denoter did="d32" type="operation">面临</Denoter>的
+                    <Object oid="o32" type="recipient">一大挑战</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e33">
+                    <Location lid="l33">印度</Location>
+                    <Object sid="s33" type="agent">“时报现在”电视台</Object>
+                    <Time tid="t33" type="relTime">日前</Time>
+                    <Denoter did="d33" type="statement">报道</Denoter>
+                </Event>，
+                <Event eid="e34">
+                    <Time tid="t34" type="relTime">当前</Time>
+                    <Location lid="l34">印度</Location>
+                    <Object sid="s34" type="agent">每天病毒检测能力上限</Object>仅
+                    <Denoter did="d34" type="perception">为</Denoter>
+                    <Object oid="o34" type="recipient">24人</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>也就是说，
+                <Event eid="e35">自
+                    <Time tid="t35" type="relTime">3月2日</Time>以来，
+                    <Location lid="l35">印度</Location>
+                    <Object sid="s35" type="agent">国内每日新增确诊病例</Object>最多只能
+                    <Denoter did="d35" type="operation">达到</Denoter>
+                    <Object oid="o35" type="recipient">24例</Object>
+                </Event>，超出这个范围将无法检测
+            </Sentence>。
+            <Sentence>也有
+                <Event eid="e36">
+                    <Object sid="s36" type="agent">媒体</Object>
+                    <Denoter did="d36" type="statement">报道</Denoter>称
+                </Event>，
+                <Event eid="e37">
+                    <Time tid="t37" type="relTime">截至3月7日</Time>，
+                    <Location lid="l37">印度</Location>国内
+                    <Denoter did="d37" type="operation">开放</Denoter>了
+                    <Object oid="o37" type="recipient">34个实验室</Object>
+                </Event>
+                <Event eid="e38">
+                    <Denoter did="d38" type="operation">用于</Denoter>
+                    <Object oid="o38" type="recipient">病毒检测</Object>
+                </Event>，但没有详细
+                <Event eid="e39">
+                    <Denoter did="d39" type="statement">说明</Denoter>
+                    <Object oid="o39" type="recipient">检测能力</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>就在
+                <Event eid="e40">
+                    <Participant sid="s40" type="agent">印度</Participant>
+                    <Denoter did="d40" type="statement">表示</Denoter>
+                </Event>
+                <Event eid="e41">
+                    <Location lid="l41">国内</Location>
+                    <Denoter did="d41" type="operation">保持</Denoter>
+                    <Object oid="o41" type="recipient">病例零增长</Object>
+                </Event>期间，
+                <Event eid="e42">
+                    <Location lid="l42">一些国家和地区</Location>却
+                    <Denoter did="d42" type="operation">发现</Denoter>了
+                    <Object oid="o42" type="recipient">来自印度的输入性病例</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>比如，
+                <Event eid="e43">
+                    <Participant sid="s43" type="agent">一名美国游客</Participant>
+                    <Time tid="t43" type="relTime">2日</Time>从
+                    <Location lid="l43" type="origin">印度</Location>
+                    <Denoter did="d43" type="movement">飞抵</Denoter>
+                    <Location lid="l43" type="destination">不丹</Location>后
+                </Event>，
+                <Event eid="e44">
+                    <Denoter did="d44" type="stateChange">成为</Denoter>
+                    <Object oid="o44" type="recipient">该国首名确诊患者</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e45">
+                    <Location lid="l45">中国香港特区</Location>
+                    <Participant sid="s45" type="agent">政府</Participant>
+                    <Time tid="t45" type="relTime">8日</Time>
+                    <Denoter did="d45" type="statement">发布</Denoter>
+                    <Object oid="o45" type="recipient">消息</Object>称
+                </Event>，
+                <Event eid="e46">
+                    <Location lid="l46">香港</Location>再次
+                    <Denoter did="d46" type="operation">确诊</Denoter>
+                    <Object oid="o46" type="recipient">2例印度输入性病例</Object>
+                </Event>，
+                <Event eid="e47">由
+                    <Object sid="s47" type="agent">印度输入的病例总数</Object>
+                    <Denoter did="d47" type="stateChange">升至</Denoter>
+                    <Object oid="o47" type="recipient">5例</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e48">这
+                    <Participant sid="s48" type="agent">5位患者</Participant>曾在
+                    <Time tid="t48" type="relTime">2月</Time>
+                    <Denoter did="d48" type="action">参加</Denoter>
+                    <Object oid="o48" type="recipient">旅行团</Object>
+                </Event>
+                <Event eid="e49">
+                    <Location lid="l49" type="destination">赴印</Location>
+                    <Denoter did="d49" type="operation">旅游</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e50">
+                    <Time tid="t50" type="relTime">在他们旅行期间</Time>，
+                    <Location lid="l50">印度</Location>
+                    <Object sid="s50" type="agent">政府对外公布的信息</Object>
+                    <Denoter did="d50" type="statement">显示</Denoter>新冠肺炎确诊病例始终保持在3例
+                </Event>，没有增长
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e51">有
+                    <Participant sid="s51" type="agent">专家</Participant>
+                    <Denoter did="d51" type="statement">指出</Denoter>
+                </Event>，
+                <Event eid="e52">
+                    <Location lid="l52">东南亚</Location>和
+                    <Location lid="l52">南亚</Location>
+                    <Object sid="s52" type="agent">一些国家确诊病例</Object>
+                    <Denoter did="d52" type="perception">看似不多</Denoter>
+                </Event>，一方面可能
+                <Event eid="e53">
+                    <Location lid="l53">当地</Location>
+                    <Object sid="s53" type="agent">气温</Object>
+                    <Denoter did="d53" type="stateChange">高</Denoter>
+                </Event>，更多的是无症状的隐性传播者；另一方面，可能与
+                <Event eid="e54">
+                    <Location lid="l54">当地</Location>
+                    <Object sid="s54" type="agent">检测能力</Object>
+                    <Denoter did="d54" type="stateChange">不足</Denoter>
+                </Event>有关
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e55">
+                    <Location lid="l55">印度国内</Location>
+                    <Object sid="s55" type="agent">确诊病例</Object>从
+                    <Time tid="t55" type="relTime">3月2日</Time>起开始
+                    <Denoter did="d55" type="stateChange">增加</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e56">
+                    <Participant sid="s56" type="agent">记者</Participant>
+                    <Means mid="m56" type="method">梳理</Means>
+                    <Denoter did="d56" type="operation">发现</Denoter>
+                </Event>，
+                <Event eid="e57">当前
+                    <Location lid="l57">印度</Location>报告的确诊病例仍以
+                    <Object sid="s57" type="agent">输入性病例</Object>
+                    <Denoter did="d57" type="stateChange">为主</Denoter>
+                </Event>，主要来源地为美国、欧洲和中东地区
+            </Sentence>。
+            <Sentence>
+                <Event eid="e58">
+                    <Object sid="s58" type="agent">病毒传播</Object>仅
+                    <Denoter did="d58" type="stateChange">限于</Denoter>
+                    <Object oid="o58" type="recipient">有疫区旅行史和密切接触者</Object>
+                </Event>，
+                <Event eid="e59">尚
+                    <Denoter did="d59" type="stateChange">处于</Denoter>
+                    <Object oid="o59" type="recipient">疫情发展初期</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e60">
+                    <Location lid="l60">印度</Location>
+                    <Participant sid="s60" type="agent">医学研究理事会的妮韦迪塔·古普塔</Participant>
+                    <Denoter did="d60" type="statement">说</Denoter>
+                </Event>，相较于
+                <Event eid="e61">
+                    <Denoter did="d61" type="operation">防治</Denoter>
+                    <Object oid="o61" type="recipient">疫情社区传播</Object>
+                </Event>，
+                <Event eid="e62">将
+                    <Object oid="o62" type="recipient">病毒</Object>
+                    <Denoter did="d62" type="operation">挡</Denoter>
+                    <Location lid="l62">在门外</Location>
+                </Event>更为简单
+            </Sentence>。
+            <Sentence>“
+                <Event eid="e63">
+                    <Time tid="t63" type="relTime">到目前为止</Time>
+                    <Location lid="l63,l65,l66">印度</Location>
+                    <Participant sid="s63" type="agent">政府</Participant>
+                    <Denoter did="d63" type="operation">做</Denoter>得不错
+                </Event>，但现在
+                <Event eid="e64">
+                    <Denoter did="d64" type="operation">讨论</Denoter>
+                    <Object oid="o64" type="recipient">确诊病例总数</Object>
+                </Event>为时尚早
+            </Sentence>。
+            <Sentence>
+                <Event eid="e65">
+                    <Denoter did="d65" type="stateChange">进入</Denoter>到
+                    <Object oid="o65" type="recipient">社区传播阶段</Object>
+                </Event>后
+                <Event eid="e66">
+                    <Location lid="l66">印度</Location>才开始
+                    <Denoter did="d66" type="operation">面临</Denoter>
+                    <Object oid="o66" type="recipient">严峻挑战</Object>
+                </Event>，未来一周到10天将是印度疫情防控的关键期”
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e67">
+                    <Participant sid="s67" type="agent">巴布</Participant>
+                    <Denoter did="d67" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e68">
+                    <Location lid="l68">印度</Location>
+                    <Denoter did="d68" type="operation">缺乏</Denoter>
+                    <Object oid="o68" type="recipient">医院床位、重症监护病房、呼吸机等基础设施和专业人员</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>如果
+                <eRelation relType="Thoughtcontent" thoughtevent_eid="e" thoughtcontent_eid="e"/>
+                <Event eid="e69">
+                    <Object sid="s69" type="agent">疫情</Object>
+                    <Location lid="l69">在国内</Location>
+                    <Denoter did="d69" type="stateChange">扩散</Denoter>
+                </Event>，那将是一场非常艰难的战斗
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e70">
+                    <Time tid="t70" type="relTime">目前</Time>，
+                    <Location lid="l70">印度</Location>
+                    <Participant sid="s70" type="agent">中央政府</Participant>
+                    <Denoter did="d70" type="operation">严控</Denoter>
+                    <Object oid="o70" type="recipient">疫情发布渠道</Object>
+                </Event>以
+                <Event eid="e71">
+                    <Denoter did="d71" type="operation">阻止</Denoter>
+                    <Object oid="o71" type="recipient">谣言传播</Object>
+                </Event>，并将
+                <Event eid="e72">
+                    <Object sid="s72" type="agent">口罩、洗手液等防护用品</Object>
+                    <Denoter did="d72" type="operation">纳入</Denoter>
+                    <Object oid="o72" type="recipient">《基本商品法》</Object>
+                </Event>，
+                <Event eid="e73">
+                    <Denoter did="d73" type="operation">保证</Denoter>
+                    <Object oid="o73" type="recipient">产能及销售渠道畅通</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e74">
+                    <Object sid="s74,s75,s76,s77,s78,s79,s80" type="agent">个别邦和地区</Object>
+                    <Denoter did="d74" type="statement">宣布</Denoter>
+                </Event>
+                <Event eid="e75">
+                    <Location lid="l75">当地</Location>
+                    <Denoter did="d75" type="stateChange">进入</Denoter>
+                    <Object oid="o75" type="recipient">紧急状态</Object>
+                </Event>，
+                <Event eid="e76">
+                    <Denoter did="d76" type="emergency">关闭</Denoter>
+                    <Object oid="o76" type="recipient">电影院、餐馆和酒吧在内的娱乐场所</Object>
+                </Event>，
+                <Event eid="e77">
+                    <Object sid="s77" type="agent">健身房</Object>
+                    <Denoter did="d77" type="emergency">停业</Denoter>
+                </Event>、
+                <Event eid="e78">
+                    <Object sid="s78" type="agent">学校</Object>
+                    <Denoter did="d78" type="emergency">停课</Denoter>
+                </Event>、
+                <Event eid="e79">
+                    <Object sid="s79" type="agent">法院</Object>
+                    <Denoter did="d79" type="emergency">停审</Denoter>
+                </Event>，
+                <Event eid="e80">
+                    <Object sid="s80" type="agent">国际比赛</Object>也宣布
+                    <Denoter did="d80" type="emergency">暂停</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e81">
+                    <Location lid="l81">印度</Location>
+                    <Means mid="m81" type="method">有一套全国统一的医疗系统疫情报告机制，分别从中央、邦和地区3级</Means>
+                    <Denoter did="d81" type="operation">监测</Denoter>
+                    <Object oid="o81" type="recipient">疫情信息</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e82">
+                    <Object sid="s82" type="agent">重大变化</Object>
+                    <Time tid="t82" type="relTime">当日</Time>
+                    <Denoter did="d82" type="statement">报告</Denoter>
+                </Event>，
+                <Event eid="e83">
+                    <Time tid="t83" type="relTime">每周</Time>
+                    <Denoter did="d83" type="operation">汇总</Denoter>
+                    <Object oid="o83"type="recipient" >报告</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>同时
+                <Event eid="e84">
+                    <Denoter did="d84" type="operation">配有</Denoter>
+                    <Object oid="o84" type="recipient">媒体的每日异常公共卫生事件信息收集与核实机制</Object>
+                </Event>，
+                <Event eid="e85">
+                    <Means mid="m85" type="method">利用媒体报道</Means>
+                    <Denoter did="d85" type="operation">搜集</Denoter>
+                    <Object oid="o85" type="recipient">信息</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>不过，
+                <Event eid="e86">
+                    <Object sid="s86" type="agent">该机制</Object>
+                    <Denoter did="d86" type="operation">执行</Denoter>
+                </Event>中也
+                <Event eid="e87">
+                    <Denoter did="d87" type="operation">面临</Denoter>
+                    <Object oid="o87" type="recipient">资金短缺、基层医疗人员专业性差等困难</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1-e2" thoughtcontent_eid="e3-e4"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eid="e6-e8"/>
+    <eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>
+    <eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+    <eRelation relType="Follow" bevent_eid="e11" aevent_eid="e13"/>
+    <eRelation relType="Composite" fevent_eid="e13" sevent_eids="e14-e15"/>
+    <eRelation relType="Accompany" accompanya_eid="e17" accompanyb_eid="e18"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eid="e13-e16"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e21" thoughtcontent_eid="e22-e23"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e25" thoughtcontent_eid="e26-28"/>
+    <eRelation relType="Accompany" accompanya_eid="e27" accompanyb_eid="e28"/>
+    <eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+    <eRelation relType="Causal" cause_eid="e31" effect_eid="e32"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e33" thoughtcontent_eid="e34-e35"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e36" thoughtcontent_eid="e37-e39"/>
+    <eRelation relType="Follow" bevent_eid="e37" aevent_eid="e38"/>
+    <eRelation relType="Accompany" accompanya_eid="e40-e41" accompanyb_eid="e42-e44"/>
+    <eRelation relType="Follow" bevent_eid="e46" aevent_eid="e47"/>
+    <eRelation relType="Follow" bevent_eid="e48" aevent_eid="e49"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e45" thoughtcontent_eid="e46-e49"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e51" thoughtcontent_eid="e52-e54"/>
+    <eRelation relType="Causal" cause_eid="e53-e54" effect_eid="e52"/>
+    <eRelation relType="Accompany" accompanya_eid="e57" accompanyb_eid="e58"/>
+    <eRelation relType="Causal" cause_eid="e57" effect_eid="e59"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e56" thoughtcontent_eid="e57-e59"/>
+    <eRelation relType="Accompany" accompanya_eid="e61" accompanyb_eid="e62"/>
+    <eRelation relType="Follow" bevent_eid="e65" aevent_eid="e66"/>
+    <eRelation relType="Accompany" accompanya_eid="e70" accompanyb_eid="e71"/>
+    <eRelation relType="Accompany" accompanya_eid="e72" accompanyb_eid="e73"/>
+    <eRelation relType="Composite" fevent_eid="e75" sevent_eids="e76-e80"/>
+    <eRelation relType="Composite" fevent_eid="e81" sevent_eids="e82-e83"/>
+    <eRelation relType="Accompany" accompanya_eid="e81" accompanyb_eid="e84"/>
+    <eRelation relType="Composite" fevent_eid="e84" sevent_eids="e85"/>
+</Body>

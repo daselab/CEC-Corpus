@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>世卫组织：血清学研究表明大多数人仍易感染新冠病毒</Title>
+    <ReportTime type="absTime">2020-12-08T00:00</ReportTime>新华网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Participant oid="o1" type="agent">世界卫生组织</Participant>
+                    <Time tid="t1" type="relTime">7日</Time>
+                    <Denoter did="d1" type="statement">表示</Denoter>
+                </Event>
+                <Event eid="e2">
+                    <Location lid="l2">世界各地</Location>针对
+                    <Object sid="s2">新冠病毒</Object>已经
+                    <Denoter did="d2" type="action">开展</Denoter>了
+                    <Object sid="s2">数百项血清学研究</Object>
+                </Event>
+            </Sentence>
+            <Sentence>虽然这些
+                <Event eid="e3">
+                    <Object oid="o3">研究</Object>仍存在一定局限性，但其
+                    <Object oid="o3">结果</Object>一致
+                    <Denoter did="d3" type="statement">表明</Denoter>
+                </Event>
+                <Event eid="e4">
+                    <Participant oid="s4" type="recipient">全球大多数人</Participant>仍然容易
+                    <Denoter did="d4" type="stateChange">感染</Denoter>
+                    <Object oid="o4">新冠病毒</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">
+                    <Participant oid="o5" type="agent">世卫组织总干事谭德塞</Participant>在当天的记者会上表示
+                </Event>，
+                <Event eid="e6">
+                    <Object oid="o6">血清学研究</Object>的重要性在于它通过在
+                    <Means mid="m6">个体血液</Means>中
+                    <Denoter did="d6" type="action">寻找</Denoter>
+                    <Object sid="s6">新冠病毒抗体</Object>
+                </Event>
+                <Event eid="e7">来
+                    <Denoter did="d7">评估</Denoter>
+                    <Participant sid="s7" type="recipient">不同人群</Participant>的
+                    <Object sid="s7">感染程度</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e8">
+                    <Location lid="l8">世界各地</Location>已针对
+                    <Object sid="s8">新冠病毒</Object>
+                    <Denoter did="d8" type="action">开展</Denoter>了
+                    <Object sid="s8,s9">数百项血清学研究</Object>
+                </Event>，
+                <Event eid="e9">
+                    <Object oid="o9">检测方法</Object>等
+                    <Denoter did="d9" type="stateChange">各不相同</Denoter>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">
+                    <Time tid="t10" type="relTime">目前</Time>
+                    <Participant oid="o10" type="agent">世卫组织</Participant>还在
+                    <Denoter did="d10" type="action">研究</Denoter>
+                </Event>
+                <Event eid="e11">
+                    <Participant sid="s11" type="recipient">不同人群</Participant>针对
+                    <Object oid="o11">新冠病毒的免疫反应</Object>有多强以及这种
+                    <Object oid="o11">免疫反应</Object>会
+                    <Denoter did="d11" type="action">持续</Denoter>多久
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12">
+                    <Participant oid="o12" type="agent">世卫组织</Participant>曾于
+                    <Time tid="t12" type="relTime">1月</Time>
+                    <Denoter did="d12" type="action">发起</Denoter>一项
+                    <Object sid="s12">研究</Object>
+                </Event>
+                <Event eid="e13">旨在将针对
+                    <Object sid="s13">新冠病毒</Object>的
+                    <Object sid="s13">血清学研究</Object>和
+                    <Object sid="s13">检测</Object>
+                    <Denoter did="d13" type="action">标准化</Denoter>
+                </Event>
+                <Event eid="e14">
+                    <Time tid="t14" type="timeInterval">迄今</Time>，已有
+                    <Participant oid="o14" type="agent">60多个国家</Participant>正使用
+                    <Means mid="m14">世卫组织方案</Means>
+                    <Denoter did="d14" type="action">开展</Denoter>一项或多项此类
+                    <Object sid="s14">研究</Object>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e15">
+                    <Participant oid="o15" >谭德塞</Participant>
+                    <Denoter did="d15" type="statement">说</Denoter>
+                </Event>，
+                <Event eid="e16">
+                    <Object oid="o16">血清学研究</Object>可以
+                    <Denoter did="d16" type="action">帮助了解</Denoter>
+                </Event>
+                <Event eid="e17">自然条件下感染
+                    <Object sid="s17">新冠病毒</Object>后获得的
+                    <Object oid="o17">免疫力</Object>能
+                    <Denoter did="d17" type="action">持续</Denoter>多长
+                    <Object oid="s17">时间</Object>
+                </Event>
+                <Event eid="e18">同时也有助于了解
+                    <Denoter did="d18" type="action">接种疫苗</Denoter>后获得的
+                    <Object oid="o18">免疫力</Object>能
+                </Event>
+                <Event eid="e19">
+                    <Denoter did="d19" type="stateChange">持续</Denoter>多长
+                    <Object oid="o19">时间</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e20">随着
+                    <Participant oid="o20" type="agent">各国</Participant>计划在
+                    <Time tid="t20" type="timeInterval">未来数周或数月</Time>内
+                    <Denoter did="d20" type="action">推出</Denoter>
+                    <Object sid="s20" >新冠疫苗</Object>
+                </Event>，
+                <Event eid="e21">
+                    <Participant oid="o21,o24" type="agent">他</Participant>
+                    <Denoter did="d21" type="statement">呼吁</Denoter>
+                </Event>
+                <Event eid="e22">
+                    <Participant oid="o22" type="agent">各国</Participant>根据
+                    <Participant oid="o22" type="agent">世卫组织免疫战略咨询专家组</Participant>
+                    <Denoter did="d22" type="action">发布</Denoter>的
+                    <Object oid="o22">框架和路线图</Object>
+                </Event>，
+                <Event eid="e23">优先为最需要的人
+                    <Denoter did="d23" type="operation">接种</Denoter>
+                    <Object sid="s23">新冠疫苗</Object>，包括感染风险较高的
+                    <Participant sid="s23" type="recipient">卫生工作者</Participant>以及罹
+                    <Participant sid="s23" type="recipient">患严重疾病的人</Participant>群等
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e24">
+                    <Participant oid="o21,o24" type="agent">他</Participant>同时
+                    <Denoter did="d24" type="statement">强调</Denoter>
+                </Event>，
+                <Event eid="e25">在推广新冠疫苗的最初阶段，由于
+                    <Location lid="l25">每个国家</Location>只有
+                    <Participant oid="s25" type="recipient">一小部分人</Participant>能
+                    <Denoter did="d25" type="action">接种</Denoter>
+                    <Object sid="s25">疫苗</Object>
+                </Event>，
+                <Event eid="e26">因此
+                    <Participant oid="o26" type="agent">各国政府</Participant>、
+                    <Participant oid="o26" type="agent">社区</Participant>和
+                    <Participant oid="o26" type="agent">个人</Participant>应
+                    <Denoter did="d26" type="action">继续使用</Denoter>已经过验证有效的
+                    <Object oid="o26">新冠应对工具</Object>
+                </Event>，这一点至关重要。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e4"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eid="e5-e7"/>
+    <eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+    <eRelation relType="Composite" fevent_eid="e10" sevent_eids="e11"/>
+    <eRelation relType="Follow" bevent_eid="e12" aevent_eid="e14"/>
+    <eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e15" thoughtcontent_eid="e16-e19"/>
+    <eRelation relType="Accompany" accompanya_eid="e16" accompanyb_eid="e17-e19"/>
+    <eRelation relType="Composite" fevent_eid="e21" sevent_eids="e22-e23"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e24" thoughtcontent_eid="e25-e26"/>
+    <eRelation relType="Causal" cause_eid="e25" effect_eid="e26"/>
+</Body>

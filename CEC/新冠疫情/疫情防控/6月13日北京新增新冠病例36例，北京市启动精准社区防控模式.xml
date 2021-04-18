@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>6月13日北京新增新冠病例36例，北京市启动精准社区防控模式</Title>
+    <ReportTime type="absTime">2020-06-14T00:00</ReportTime>
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="timeInterval">2020年6月13日0-24时</Time>
+                    <Location lid="l1,l2,l3,l4">北京</Location>
+                    <Denoter did="d1" type="stateChange">新增</Denoter>
+                    <Participant oid="o1" type="recipient">新冠病例36例</Participant>
+                </Event>，加上
+                <Event eid="e2">
+                    <Time tid="t2" type="relTime">6月11日</Time>
+                    <Denoter did="d2" type="stateChange">新增</Denoter>
+                    <Participant oid="o2" type="recipient">1例</Participant>
+                </Event>、
+                <Event eid="e3">
+                    <Time tid="t3" type="relTime">6月12日</Time>
+                    <Denoter did="d3" type="stateChange">新增</Denoter>
+                    <Participant oid="o3" type="recipient">6例</Participant>
+                </Event>，
+                <Event eid="e4">
+                    <Time tid="t4" type="relTime">目前</Time>共有
+                    <Denoter did="d4" type="stateChange">住院</Denoter>
+                    <Participant sid="s4" type="agent">患者43例</Participant>
+                </Event>，
+                <Event eid="e5" type="Polarity-negative">后续不
+                    <Denoter did="d5" type="operation">排除</Denoter>
+                </Event>
+                <Event eid="e6">会有
+                    <Participant sid="s6" type="agent">新的确诊患者</Participant>陆续
+                    <Denoter did="d6" type="stateChange">出现</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e7">随着新冠肺炎患者
+                    <Participant sid="s7" type="agent">确诊病例</Participant>的
+                    <Denoter did="d7" type="stateChange">增多</Denoter>
+                </Event>，
+                <Event eid="e8">
+                    <Location lid="l8">北京</Location>宣布
+                    <Denoter did="d8" type="movement">进入</Denoter>
+                    <Object oid="o8">非常时期</Object>
+                </Event>，
+                <Event eid="e9">
+                    <Object sid="s9">下一步如何防控</Object>，
+                    <Denoter did="d9" type="operation">引人关注</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">在
+                    <Time tid="t10" type="relTime">6月14日</Time>的
+                    <Location lid="l10">北京</Location>新冠肺炎
+                    <Denoter did="d10" type="operation">疫情防控</Denoter>工作
+                    <Object oid="o10">新闻发布会</Object>上，
+                </Event>
+                <Event eid="e11" type="Thoughtevent">
+                    <Location lid="l11">北京</Location>市委宣传部副部长、市政府新闻办主任、市政府新闻发言人
+                    <Participant sid="s11" type="agent">徐和建</Participant>
+                    <Denoter did="d11" type="statement">宣布</Denoter>：
+                </Event>
+                <Event eid="e12">
+                    <Location lid="l12">北京</Location>已
+                    <Denoter did="d12" type="movement">进入</Denoter>
+                    <Object oid="o12">非常时期</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e13" type="Thoughtevent">
+                    <Participant sid="s13" type="agent">徐和建</Participant>
+                    <Denoter did="d13" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e14">
+                    <Location lid="l14">北京市</Location>
+                    <Time tid="t14" type="relTime">近日</Time>连续
+                    <Denoter did="d14" type="emergency">暴发</Denoter>
+                  	<Participant oid="o14" type="recipient">确诊病例</Participant>和
+                    <Participant oid="o14" type="recipient">核酸检测阳性病例</Participant>
+                </Event>，
+                <Event eid="e15">且都与
+                    <Location lid="l15">新发地批发市场</Location>
+                    <Denoter did="d15" type="stateChange">关联</Denoter>
+                </Event>，
+                <Event eid="e16">我们要时刻
+                    <Denoter did="d16" type="stateChange">绷紧</Denoter>
+                    <Object oid="o16">疫情防控这根弦</Object>，
+                </Event>
+                <Event eid="e17">按照
+                    <Means mid="m17">统一部署</Means>，坚决
+                    <Denoter did="d17" type="operation">果断处置</Denoter>
+                </Event>，
+                <Event eid="e18">坚决
+                    <Denoter did="d18" type="operation">阻断</Denoter>疫情
+                    <Object oid="o18">传播渠道</Object>
+                </Event>，
+                <Event eid="e19">坚决
+                    <Denoter did="d19">遏制</Denoter>
+                </Event>
+                <Event eid="e20">
+                    <Object sid="s19,s20">疫情</Object>
+                    <Denoter did="d20" type="movement">扩散蔓延</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e21">基于
+                    <Means mid="m21">新冠疫情新常态下分区分级差异化防控的防控策略</Means>，
+                    <Location lid="l21">北京市</Location>
+                    <Denoter did="d21" type="operation">启动</Denoter>
+                    <Object oid="o21">精准社区防控模式</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e22">
+                    <Time tid="t22" type="relTime">昨天</Time>，涉及
+                    <Location lid="l2201">丰台</Location>、
+                    <Location lid="l2202">房山</Location>、
+                    <Location lid="l2203">西城</Location>“三区四地”的
+                    <Object sid="s22">疫情风险等级</Object>
+                    <Denoter did="d22" type="stateChange">升级</Denoter>为
+                    <Object oid="o22">中风险</Object>
+                </Event>，其中包括西城区月坛街道，丰台区西罗园街道、花乡地区，房山区长阳镇。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e23">“这次
+                    <Denoter did="d23" type="operation">启动</Denoter>的是
+                    <Object oid="o23">精准社区防控模式</Object>
+                </Event>，而不是全市停摆。
+                <Event eid="e24">
+                    <Location lid="l24">涉疫小区</Location>升级
+                    <Denoter did="d24" type="operation">采取</Denoter>
+                    <Means mid="m24">武汉管控</Means>
+                    <Object oid="o24">措施</Object>
+                </Event>，
+                <Event eid="e25">
+                    <Denoter did="d25" type="stateChange">扩大</Denoter>
+                    <Object oid="o25">检测范围</Object>
+                </Event>，
+                <Event eid="e26">
+                    <Denoter did="d26" type="stateChange">出现</Denoter>
+                    <Object oid="o26">核酸阳性</Object>
+                </Event>
+                <Event eid="e27">即
+                    <Denoter did="d27" type="action">封</Denoter>
+                </Event>。”
+                <Event eid="e28" type="Thoughtevent">一位参与北京社区防控的
+                    <Participant sid="s28" type="agent">专家</Participant>
+                    <Denoter did="d28" type="statement">表示</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>这种
+                <Event eid="e29">
+                    <Object oid="o29">精准防控模式</Object>已经在
+                    <Location lid="l29">一些小区</Location>
+                    <Denoter did="d29" type="operation">启动</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e30">截至
+                    <Time tid="t30" type="relTime">6月14日15时</Time>，新发地市场所处地区-
+                    <Location lid="l30">北京市丰台区花乡地</Location>区
+                    <Denoter did="d30" type="stateChange">升级</Denoter>为
+                    <Object oid="o30">高风险地区</Object>
+                </Event>；
+                <Event eid="e31">
+                    <Location lid="l3101">大兴区林校路街道</Location>、
+                    <Location lid="l3102">高米店街道</Location>、
+                    <Location lid="l3103">西红门地区</Location>，
+                    <Location lid="l3104">西城区金融街街道</Location>
+                    <Denoter did="d31" type="stateChange">升级</Denoter>为
+                    <Object oid="o31">中风险地区</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>截至6月14日15时，丰台区花乡地区是全国唯一疫情高风险地区；
+                <Event eid="e32">
+                    <Location lid="l32">北京市</Location>已有
+                    <Object sid="s3201">四个区</Object>
+                    <Object sid="s3202">10个街乡</Object>
+                    <Denoter did="d32" type="stateChange">位列</Denoter>
+                    <Object oid="o32">中风险地区</Object>
+                </Event>，分别是：西城区月坛街道、金融街街道，丰台区西罗园街道、新村街道、太平桥街道、卢沟桥街道，房山区长阳镇，大兴区林校路街道、高米店街道、西红门地区。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8-e9"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e11" thoughtcontent_eid="e12"/>
+    <eRelation relType="Composite" fevent_eid="e16" sevent_eids="e17-e20"/>
+    <eRelation relType="Composite" fevent_eid="e24" sevent_eids="e25-e27"/>
+    <eRelation relType="Follow" bevent_eid="e26" aevent_eid="e27"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e28" thoughtcontent_eid="e23-e27"/>
+</Body>

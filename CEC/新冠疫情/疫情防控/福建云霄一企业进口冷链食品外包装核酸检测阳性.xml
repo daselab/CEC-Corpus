@@ -1,0 +1,210 @@
+<Sentence></Sentence>
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>福建云霄一企业进口冷链食品外包装核酸检测阳性</Title>
+    <ReportTime type="absTime">2020-12-26T00:00</ReportTime>中新网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Object sid="s1" type="agent">中新网</Object>
+                    <Location lid="l1">漳州</Location>
+                    <Time tid="t1" type="relTime">12月26日</Time>
+                    <Denoter did="d1" type="statement">电</Denoter>
+                </Event>
+            </Sentence>
+            <Sentence>据福建省漳州市卫健委网站消息，
+                <Event eid="e2">
+                    <Time tid="t2" type="relTime">12月24日</Time>，
+                    <Location lid="l2">漳州市</Location>
+                    <Location lid="l2">云霄县</Location>在
+                    <Denoter did="d2" type="operation">开展</Denoter>
+                    <Object oid="o2" type="recipient">进口冷链食品主动排查监测工作</Object>中
+                </Event>，
+                <Event eid="e3">
+                    <Denoter did="d3" type="stateChange">发现</Denoter>
+                </Event>
+                <Event eid="e4">辖区
+                    <Object sid="s4,s5" type="agent">一家生产企业冻库</Object>
+                    <Denoter did="d4" type="operation">贮存</Denoter>
+                </Event>的
+                <Event eid="e5">
+                    <Object oid="s5" type="agent">25吨冻飞鱼卵(来自印尼)的外包装</Object>
+                    <Object oid="o5" type="recipient">新冠肺炎病毒核酸</Object>
+                    <Denoter did="d5" type="operation">检测阳性</Denoter>
+                </Event>(
+                <Event eid="e6">
+                    <Time tid="t6" type="relTime">12月25日凌晨</Time>，经
+                    <Location lid="l6">漳州市</Location>
+                    <Object sid="s6" type="agent">疾控中心</Object>
+                    <Denoter did="d6" type="operation">复核</Denoter>为
+                    <Object oid="o6" type="recipient">阳性</Object>
+                </Event>)
+            </Sentence>。
+            <Sentence>
+                <Event eid="e7">
+                    <Time tid="t7" type="relTime">目前</Time>
+                    <Object oid="o7" type="recipient">涉事冷链食品</Object>均已
+                    <Denoter did="d7" type="operation">封存</Denoter>
+                </Event>，未
+                <Event eid="e8">
+                    <Denoter did="d8">流向</Denoter>
+                    <Object oid="o8">市场</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9">
+                    <Location lid="l9">漳州市</Location>
+                    <Participant sid="s9" type="agent">委、市政府</Participant>对此高度
+                    <Denoter did="d9" type="operation">重视</Denoter>
+                </Event>，
+                <Event eid="e10">
+                    <Participant sid="s10" type="agent">市、县疫情防控工作指挥部</Participant>立即
+                    <Denoter did="d10" type="stateChange">启动</Denoter>
+                    <Object oid="o10" type="recipient">应急预案</Object>
+                </Event>，
+                <Event eid="e11">迅速
+                    <Denoter did="d11" type="operation">采取</Denoter>
+                    <Object oid="o11" type="recipient">应急处置措施</Object>
+                </Event>：
+                <Event eid="e12">即刻
+                    <Denoter did="d12" type="operation">封存</Denoter>
+                    <Object oid="o12" type="recipient">相关冷链食品</Object>(共25吨)
+                </Event>；
+                <Event eid="e13">
+                    <Denoter did="d13" type="operation">开展</Denoter>
+                    <Object oid="o13" type="recipient">流行病学调查</Object>
+                </Event>，
+                <Event eid="e14">
+                    <Denoter did="d14" type="operation">确认</Denoter>
+                    <Participant oid="o14" type="recipient">直接暴露者8人、直接暴露者的密切接触者32人、一般接触者85人
+                    </Object>
+                </Event>；
+                <Event eid="e15">已开展
+                    <Denoter did="d15" type="operation">核酸检测</Denoter>
+                    <Participant oid="o15" type="recipient">96人</Participant>
+                </Event>，结果均阴性，
+                <Event eid="e16">其余正在
+                    <Denoter did="d16" type="operation">采样检测</Denoter>中
+                </Event>；
+                <Event eid="e17">对直接暴露者8人及直接暴露者的密切接触者32人
+                    <Denoter did="d17" type="operation">实施</Denoter>
+                    <Object oid="o17" type="recipient">集中医学观察</Object>
+                </Event>，
+                <Event eid="e18">对85名一般接触者
+                    <Denoter did="d18" type="operation">实施</Denoter>
+                    <Object oid="o18" type="recipient">居家医学观察</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e19">
+                    <Time tid="t19" type="relTime">目前</Time>，已对
+                    <Object oid="o19" type="recipient">涉事企业厂区及周边环境</Object>进行
+                    <Denoter did="d19" type="operation">全面消毒</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e20">
+                    <Location lid="l20">漳州市</Location>
+                    <Participant sid="s20" type="agent">卫健委</Participant>
+                    <Denoter did="d20" type="operation">提醒</Denoter>
+                    <Participant oid="o20" type="recipient">广大市民</Participant>
+                </Event>
+                <Event eid="e21">
+                    <Denoter did="d21" type="operation">提高</Denoter>
+                    <Object oid="o21" type="recipient">个人防护意识</Object>
+                </Event>，
+                <Event eid="e22">科学
+                    <Denoter did="d22" type="action">佩戴</Denoter>
+                    <Object oid="o22" type="recipient">口罩</Object>
+                </Event>，
+                <Event eid="e23">勤
+                    <Denoter did="d23" type="action">洗手</Denoter>
+                </Event>、
+                <Event eid="e24">常
+                    <Denoter did="d24" type="operation">通风</Denoter>
+                </Event>，
+                <Event eid="e25">
+                    <Denoter did="d25" type="operation">保持</Denoter>
+                    <Object oid="o25" type="recipient">一米社交距离</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e26">
+                    <Participant sid="s26" type="agent">进口冷链食品从业人员</Participant>在
+                    <Denoter did="d26" type="action">接触</Denoter>
+                    <Object oid="o26" type="recipient">进口冷链食品</Object>时
+                </Event>应
+                <Event eid="e27">
+                    <Denoter did="d27" type="action">佩戴</Denoter>
+                    <Object oid="o27" type="recipient">口罩</Object>
+                </Event>、
+                <Event eid="e28">
+                    <Denoter did="d28">穿戴</Denoter>
+                    <Object oid="o28">工作衣帽</Object>
+                </Event>，
+                <Event eid="e29">
+                    <Denoter did="d29" type="action">使用</Denoter>
+                    <Object oid="o29" type="recipient">一次性手套</Object>
+                </Event>，
+                <Event eid="e30">及时
+                    <Denoter did="d30" type="action">洗手</Denoter>
+                </Event>，
+                <Event eid="e31">避免
+                    <Means mid="m31" type="method">用手</Means>
+                    <Denoter did="d31" type="action">触摸</Denoter>
+                    <Object oid="o31" type="recipient">口鼻眼等处</Object>
+                </Event>；
+                <Event eid="e32">
+                    <Participant sid="s32" type="agent">市民</Participant>
+                    <Denoter did="d32" type="action">购买</Denoter>
+                </Event>和
+                <Event eid="e33">
+                    <Denoter did="d33" type="action">食用</Denoter>
+                    <Object oid="o33,o34" type="recipient">进口冷链食品</Object>
+                </Event>，
+                <Event eid="e34">可
+                    <Means mid="m34" type="method">用75%酒精</Means>
+                    <Denoter did="d34" type="operation">消毒</Denoter>
+                    <Object oid="o34" type="recipient">外包装表面</Object>
+                </Event>，
+                <Event eid="e35">做好
+                    <Object oid="o35" type="destination">餐具和台面</Object>的
+                    <Denoter did="d35" type="operation">清洁</Denoter>
+                </Event>，
+                <Event eid="e36">
+                    <Object oid="o36" type="recipient">食物</Object>
+                    <Denoter did="d36" type="action">煮熟煮透</Denoter>
+                </Event>，确保食品安全
+            </Sentence>。
+            <Sentence>
+                <Event eid="e37">
+                    <Location lid="l37">漳州市</Location>将进一步
+                    <Denoter did="d37" type="operation">加强</Denoter>
+                    <Object oid="o37" type="recipient">进口冷链食品全流程监管</Object>
+                </Event>，
+                <Event eid="e38">切实
+                    <Denoter did="d38" type="operation">防范</Denoter>
+                    <Object oid="o38" type="recipient">进口冷链食品疫情传播风险</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e38"/>
+    <eRelation relType="Follow" bevent_eid="e2" aevent_eid="e5"/>
+    <eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>
+    <eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+    <eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10"/>
+    <eRelation relType="Composite" fevent_eid="e10" sevent_eids="e11-e13"/>
+    <eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+    <eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+    <eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17-e18"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eid="e21-e25"/>
+    <eRelation relType="Composite" fevent_eid="e20" sevent_eids="e21-e36"/>
+    <eRelation relType="Composite" fevent_eid="e26" sevent_eids="e27-e36"/>
+    <eRelation relType="Accompany" accompanya_eid="e37" accompanyb_eid="e38"/>
+</Body>

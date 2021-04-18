@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>武汉市火神山医院和雷神山医院正式休舱闭院</Title>
+    <ReportTime type="absTime">2020-04-15T00:00</ReportTime>中国新闻网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1" type="Thoughtevent">
+                    <Time tid="t1" type="relTime">4月15日</Time>
+                    <Denoter did="d1" type="statement">电</Denoter>
+                </Event> 据武汉市城乡建设局微信公众号消息，
+                <Event eid="e2">
+                    <Location lid="l2">武汉市</Location>
+                    <Object sid="s2">火神山医院</Object>和
+                    <Object sid="s2">雷神山医院</Object>正式
+                    <Denoter did="d2" type="action">休舱闭院</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e3">为
+                    <Denoter did="d3" type="operation">贯彻落实</Denoter>
+                    <Participant oid="o3" type="recipient">习近平总书记</Participant>
+                    <Object oid="o3">讲话</Object>
+                </Event>，
+                <Event eid="e4">坚持把
+                    <Participant oid="o4" type="recipient">人民群众</Participant>
+                    <Object oid="o4">生命安全</Object>和
+                    <Object oid="o4">身体健康</Object>
+                    <Denoter did="d4" type="action">放在第一位</Denoter>
+                </Event>，
+                <Event eid="e5">
+                  	<Denoter did="d5" type="action">按照</Denoter>
+                    <Means mid="m5">“集中患者、集中专家、集中资源、集中救治”的疫情防控工作要求</Means>
+                </Event>，
+                <Event eid="e6">
+                    <Denoter did="d6" type="operation">缓解</Denoter>
+                    <Object oid="o6">医疗资源不足问题</Object>
+                </Event>，
+                <Event eid="e7">
+                    <Location lid="l7">武汉市</Location>新冠肺炎
+                    <Participant sid="s7" type="agent">防控指挥部</Participant>分别于
+                    <Time tid="t71">1月23日</Time>、
+                    <Time tid="t72">1月25日</Time>
+                    <Denoter did="d7" type="statement">决定</Denoter>，
+                </Event>
+                <Event eid="e8">参照
+                    <Means mid="m8">2003年抗击“非典”期间北京小汤山医院模式</Means>，紧急
+                    <Denoter did="d8" type="operation">建设</Denoter>
+                    <Object oid="o8">火神山医院</Object>和
+                    <Object oid="o8">雷神山医院</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9">在全体
+                    <Denoter did="d9" type="operation">参与医院筹备建设</Denoter>的
+                    <Participant sid="s9" type="agent">工作人员</Participant>奋力拼搏下
+                </Event>，
+                <Event eid="e10">
+                    <Object sid="s10">火神山医院</Object>
+                    <Time tid="t10" type="timeInterval">10天内</Time>
+                    <Denoter did="d10" type="stateChange">完成</Denoter>
+                    <Object oid="o10">基本建设</Object>
+                </Event>，
+                <Event eid="e11">
+                    <Time tid="t11" type="relTime">2月2日</Time>正式
+                    <Denoter did="d11" type="movement">移交</Denoter>部队
+                </Event>，
+                <Event eid="e12">
+                    <Time tid="t12" type="relTime">2月4日</Time>
+                    <Denoter did="d12" type="operation">收治</Denoter>首批
+                    <Participant oid="o12" type="recipient">45名新冠肺炎患者</Participant>
+                </Event>，
+                <Event eid="e13">
+                    <Time tid="t13" type="relTime">2月12日</Time>在院
+                    <Participant sid="s13" type="agent">病人数</Participant>
+                    <Denoter did="d" type="stateChange">过千</Denoter>
+                </Event>，
+                <Event eid="e14">
+                    <Time tid="t14" type="relTime">4月14日</Time>，医院
+                    <Participant sid="s14" type="agent">最后14名新冠患者</Participant>已全部
+                    <Denoter did="d14" type="movement">出院</Denoter>
+                </Event>。
+            </Sentence>。
+            <Sentence>
+                <Event eid="e15" type="Thoughtevent">经
+                    <Object sid="s15">研究</Object>
+                    <Denoter did="d15" type="statement">决定</Denoter>
+                </Event>，
+                <Event eid="e16">
+                    <Object sid="s16">火神山医院</Object>于
+                    <Time tid="t16" type="relTime">4月15日</Time>正式
+                    <Denoter did="d16" type="action">闭院</Denoter>
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e17">
+                    <Object sid="s17">医院</Object>稳定
+                    <Denoter did="d17" type="operation">运行</Denoter>
+                    <Time tid="t17" type="timeInterval">73个日夜</Time>
+                </Event>，
+                <Event eid="e18">累计
+                    <Denoter did="d18"type="operation">收治</Denoter>
+                    <Participant oid="o18"type="recipient">病人3059人</Participant>
+                </Event>，
+                <Event eid="e19">
+                    <Denoter did="d19" type="stateChange">治愈</Denoter>出院
+                    <Participant oid="o19">2961人</Participant>
+                </Event>，收治和治愈数量均为武汉全市第一。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e20">
+                    <Object sid="s20">雷神山医院</Object>
+                    <Time tid="t20" type="relTime">2月8日</Time>开始
+                    <Denoter did="d20" type="operation">收治</Denoter>
+                    <Participant oid="o20" type="recipient">病人</Participant>
+                </Event>，
+                <Event eid="e21">
+                    <Time tid="t21" type="relTime">2月20日</Time>整体
+                    <Denoter did="d21" type="movement">交付</Denoter>
+                </Event>，
+                <Event eid="e22">
+                    <Object sid="s22">32个病区</Object>全部
+                    <Denoter did="d22" type="stateChange">开放</Denoter>
+                </Event>，
+                <Event eid="e">
+                    <Time tid="t23">3月16日</Time>首批
+                    <Participant sid="s23" type="agent">5支医疗队250名医护人员</Participant>正式
+                    <Denoter did="d23" type="movement">休整撤离</Denoter>
+                </Event>，
+                <Event eid="e24">
+                    <Time tid="t24" type="relTime">4月14日</Time>
+                    <Location lid="l24">武汉</Location>
+                    <Object sid="s24">雷神山医院</Object>
+                    <Participant oid="o24" type="recipient">患者</Participant>
+                    <Denoter did="d24" type="stateChange">清零</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e25">
+                    <Object sid="s25">医院</Object>
+                    <Denoter did="d25" type="operation">运转</Denoter>
+                    <Time tid="t25" type="timeInterval">2个多月来</Time>
+                </Event>，
+                <Event eid="e26">累计
+                    <Denoter did="d26" type="operation">收治</Denoter>
+                    <Participant oid="o26" type="recipient">患者2011人</Participant>
+                </Event>，其中
+                <Event eid="e27">
+                    <Denoter did="d27" type="stateChange">重症和危重症</Denoter>
+                    <Participant sid="s27" type="agent">千余人</Participant>
+                </Event>，
+                <Event eid="e28">
+                    <Denoter did="d28" type="movement">康复出院</Denoter>
+                    <Participant sid="s28" type="agent">1900余人</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e28"/>
+    <eRelation relType="Composite" fevent_eid="e7" sevent_eid="e8"/>
+    <eRelation relType="Follow" bevent_eid="e9" aevent_eids="e10-e14"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e15" thoughtcontent_eid="e16"/>
+    <eRelation relType="Accompany" accompanya_eid="e17" accompanyb_eids="e18-e19"/>
+    <eRelation relType="Accompany" accompanya_eid="e25" accompanyb_eids="e26-e28"/>
+</Body>
+

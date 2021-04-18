@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>沈阳重点管控区域内5所中小学封校 学生不得返校</Title>
+    <ReportTime type="absTime">2020-01-03T00:00</ReportTime>中国新闻网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Location lid="l1">沈阳市</Location>
+                    <Object oid="o1">新型冠状病毒肺炎疫情防控工作第16场新闻发布会</Object>
+                    <Time tid="t1" type="relTime">3日</Time>
+                    <Denoter did="d1" type="statement">召开</Denoter>
+                </Event>，
+                <Event eid="e2">
+                    <Participant oid="o2" type="agent">沈阳市教育局副局长崔巍</Participant>在现场
+                    <Denoter did="d2" type="statement">通报</Denoter>
+                </Event>，
+                <Event eid="e3">
+                    <Location lid="l3">沈阳</Location>对
+                    <Object sid="s3" oid="o5">重点管控区域内的5所中小学</Object>立即实行
+                    <Denoter did="d3" type="operation">封校管理</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e4">
+                    <Participant oid="o4" type="agent">所有学生</Participant>
+                    <Denoter did="d4" type="action">不得返校</Denoter>
+                </Event>，
+                <Event eid="e5">
+                    <Participant oid="o5" type="agent">教职员工</Participant>
+                    <Denoter did="d5" type="operation">严格执行</Denoter>“非必要岗位工作人员不到校”的
+                    <Object sid="s5">要求</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e6">
+                    <Denoter did="d6">实行</Denoter>
+                    <Means mid="m6">线上</Means>
+                    <Object sid="s6">教学</Object>
+                </Event>，
+                <Event eid="e7">
+                    <Object sid="s7">期末考试</Object>可在
+                    <Means mid="m7">线上</Means>
+                    <Denoter did="d7" type="operation">进行</Denoter>
+                </Event>，也可延期安排。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>另外，
+                <Event eid="e8">
+                    <Denoter did="d8" type="perception">鉴于</Denoter>
+                    <Object sid="o8">学生人数多</Object>、
+                    <Object oid="o8">涉及面广</Object>、
+                    <Object oid="o8">容易聚集</Object>、
+                    <Object oid="o8">风险隐患大</Object>等因素
+                </Event>
+                <Event eid="e9">
+                    <Location lid="l9">沈阳市皇姑区、铁西区、于洪区</Location>的189所中小学，
+                    <Time tid="t9" type="timeInterval">元旦假期后</Time>，
+                    <Object sid="s9">这些学校的学生</Object>也
+                    <Denoter did="d9" type="operation">不再安排返校</Denoter>
+                </Event>，
+                <Event eid="e10">
+                    <Denoter did="d10" type="operation">实行</Denoter>
+                    <Means mid="m10">线上</Means>
+                    <Object sid="s10">教学</Object>
+                </Event>，
+                <Event eid="e11">
+                    <Denoter did="d11" type="operation">进行</Denoter>
+                    <Means mid="m11">线上</Means>
+                    <Object sid="s11">期末考试</Object>或延期安排期末考试
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12">
+                    <Participant oid="o12" type="agent">该市其他地区的中小学</Participant>，
+                    <Time tid="t12" type="timeInterval">元旦假期后</Time>，要按照
+                    <Means mid="m12">“非必要不到校、能线上不线下”的原则</Means>，做好寒假前各项
+                    <Denoter did="d12" type="operation">教育教学</Denoter>工作
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>目前，
+                <Event eid="e13">
+                    <Participant oid="o13" type="agent">沈阳全市幼儿园</Participant>
+                    <Time tid="t13" type="timeInterval">暂时</Time>
+                    <Denoter did="d13" type="operation">停园</Denoter>
+                </Event>，
+                <Event eid="e14">
+                    <Participant oid="o14" type="recipient">校外培训机构</Participant>
+                    <Denoter did="d14" type="stateChange">暂停</Denoter>
+                    <Object sid="s14">一切线下教育教学活动</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3-e7"/>
+    <eRelation relType="Causal" cause_eid="e8" effect_eid="e9-e11"/>
+    <eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>
+</Body>

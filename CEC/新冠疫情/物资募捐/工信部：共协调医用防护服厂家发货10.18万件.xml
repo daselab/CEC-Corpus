@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>工信部：共协调医用防护服厂家发货10.18万件</Title>
+    <ReportTime type="absTime">2020-01-31T00:00</ReportTime>每日经济新闻
+    <Content>
+        <Paragraph>
+          	<Sentence>
+                <Event eid="e1">
+                    <Participant sid="s" type="agent">工信部</Participant>消息
+                    <Denoter did="d" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e2">
+                    <Time tid="t2" type="relTime">截至30日24时</Time>，共
+                    <Denoter did="d2" type="operation">协调</Denoter>
+                    <Participant oid="o2" type="recipient">能进入重症监护病室的医用防护服厂家</Participant>
+                </Event>
+                <Event eid="e3">
+                    <Denoter did="d3" type="operation">发货</Denoter>
+                    <Object oid="o3" type="recipient">10.18万件</Object>
+                </Event>，已
+                <Event eid="e4">
+                    <Denoter did="d4" type="operation">运抵</Denoter>
+                    <Location lid="l4" type="destination">湖北</Location>
+                    <Object oid="o" type="recipient">8.63万件</Object>
+                </Event>；
+                <Event eid="e5">
+                    <Denoter did="d5" type="operation">协调</Denoter>
+                    <Participant oid="o5" type="recipient">医用护目镜厂家</Participant>
+                </Event>
+                <Event eid="e6">
+                    <Denoter did="d6" type="operation">发货</Denoter>
+                    <Object oid="o6" type="recipient">12万件</Object>
+                </Event>，已
+                <Event eid="e7">
+                    <Denoter did="d7" type="operation">运抵</Denoter>
+                    <Location lid="l7" type="destination">湖北</Location>
+                    <Object oid="o7" type="recipient">8.99万件</Object>
+                </Event>；
+                <Event eid="e8">
+                    <Denoter did="d8" type="operation">协调</Denoter>
+                    <Participant oid="o8" type="recipient">全自动红外测温仪厂家</Participant>
+                </Event>
+                <Event eid="e9">
+                    <Denoter did="d9" type="operation">发货</Denoter>
+                    <Object oid="o9" type="recipient">57台</Object>
+                </Event>，已
+                <Event eid="e10">
+                    <Denoter did="d10" type="operation">运抵</Denoter>
+                    <Location lid="l10" type="destination">湖北</Location>
+                    <Object oid="o10" type="recipient">52台</Object>
+                </Event>；
+                <Event eid="e11">
+                    <Denoter did="d11" type="operation">协调</Denoter>
+                    <Object oid="o11" type="recipient">免洗手消毒液5.63吨</Object>
+                </Event>，已
+                <Event eid="e12">
+                    <Denoter did="d12" type="operation">运抵</Denoter>
+                    <Location lid="l12" type="destination">湖北</Location>
+                    <Object oid="o12" type="recipient">5吨</Object>
+                </Event>；
+                <Event eid="e13">
+                    <Denoter did="d13" type="operation">协调</Denoter>
+                    <Object oid="o13" type="recipient">84消毒液3.2万箱</Object>
+                </Event>已全部
+                <Event eid="e14">
+                    <Denoter did="d14" type="operation">运抵</Denoter>
+                    <Location lid="l14" type="destination">湖北</Location>
+                </Event>。
+          	</Sentence>
+        </Paragraph>
+    </Content>
+</Body>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e14"/>
+<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3-e4"/>
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6-e7"/>
+<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9-e10"/>
+<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>

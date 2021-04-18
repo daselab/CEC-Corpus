@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>韩国首次确认检出变异新冠病毒</Title>
+    <ReportTime type="absTime">2020-12-28T00:00</ReportTime>央视新闻
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1" type="Thoughtevent">
+                    <Time tid="t1" type="relTime">当地时间28日</Time>，
+                    <Location lid="l1">韩国</Location>
+                    <Participant sid="s1" type="agent">卫生部门</Participant>
+                    <Denoter did="d1" type="statement">表示</Denoter>
+                </Event>
+                <Event eid="e2">
+                    <Time tid="t2" type="relTime">本月22日</Time>自英国入境的
+                    <Participant oid="o2" type="recipient">一家三口</Participant>经
+                    <Denoter did="d2" type="operation">检测</Denoter>
+                </Event>
+                <Event eid="e3">
+                    <Denoter did="d3" type="stateChange">确认感染</Denoter>的是日前在
+                    <Location lid="l3" type="origin">英国</Location>等地流行的一种
+                    <Object oid="o3">变异新冠病毒</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>此外，
+                <Event eid="e4">
+                    <Time tid="t41" type="relTime">上月8日</Time>及
+                    <Time tid="t42" type="relTime">本月13日</Time>另有
+                    <Participant sid="s4" type="agent">一家四口</Participant>自英国入境韩国后确诊
+                    <Denoter did="d4" type="stateChange">感染</Denoter>
+                    <Object oid="o4">新冠病毒</Object>
+                </Event>，
+                <Event eid="e5">但
+                    <Object oid="o5">是否属变异新冠病毒</Object>仍在进行进一步
+                    <Denoter did="d5" type="operation">分析</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e6">为
+                    <Denoter did="d6" type="operation">防止</Denoter>
+                </Event>
+                <Event eid="e7">
+                    <Object sid="s7">变异新冠病毒</Object>自
+                    <Location lid="l7" type="destination">境外</Location>
+                    <Denoter did="d7" type="movement">输入</Denoter>
+                    <Location lid="l7" type="destination">韩国</Location>
+                </Event>，
+                <Event eid="e8" type="Thoughtevent">
+                    <Location lid="l8">韩国</Location>
+                    <Participant sid="s8" type="agent">政府</Participant>于
+                    <Time tid="t8" type="relTime">23日</Time>宣布
+                </Event>，
+                <Event eid="e9">
+                    <Denoter did="d9" type="action">叫停</Denoter>自
+                    <Object oid="o9">韩国至韩国间航线</Object>
+                </Event>
+                <Event eid="e10">对其他自
+                    <Location lid="l10,l11" type="origin">英国</Location>出发
+                    <Participant oid="o10,o11" type="recipient">中转入境者</Participant>也将
+                    <Denoter did="d10" type="operation">强化</Denoter>
+                    <Object oid="o10">入境隔离</Object>及
+                </Event>
+                <Event eid="e11">
+                    <Denoter did="d11" type="operation">强化</Denoter>
+                    <Object oid="o11">检测要求</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e12">
+                    <Location lid="l12">韩国</Location>
+                    <Object sid="s12">新冠疫情</Object>正处在自出现以来最
+                    <Denoter did="d12" type="stateChange">严重扩散</Denoter>阶段，
+                </Event>
+                <Event eid="e13">
+                    <Time tid="t13" type="timeInterval">最近一个月内</Time>单日新增确诊
+                    <Participant sid="s13" type="agent">人数</Participant>
+                    <Denoter did="d13" type="stateChange">持续刷新</Denoter>
+                    <Object oid="o13">最高记录</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e14">截至
+                    <Time tid="t14" type="relTime">当地时间28日0时</Time>，
+                    <Location lid="l14">韩国</Location>
+                    <Time tid="t14" type="timeInterval">过去24小时</Time>
+                    <Denoter did="d14" type="stateChange">新增确诊</Denoter>
+                    <Participant oid="o14" type="recipient">808人</Participant>
+                </Event>，
+                <Event eid="e15">
+                    <Denoter did="d15" type="stateChange">累计确诊</Denoter>人数达到
+                    <Participant oid="o15" type="recipient">57680人</Participant>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e16" type="Thoughtevent">
+                    <Location lid="l16">韩国</Location>
+                    <Participant sid="s16" type="agent">政府</Participant>
+                    <Time tid="t16" type="relTime">27日</Time>
+                    <Denoter did="d16" type="statement">宣布</Denoter>
+                </Event>
+                <Event eid="e17">将
+                    <Time tid="t17" type="relTime">目前</Time>在首都圈地区执行的
+                    <Object sid="s17">2.5级防疫标准</Object>以及非首都圈地区执行的
+                    <Object sid="s17">2级防疫标准</Object>
+                    <Denoter did="d17" type="stateChange">延长至</Denoter>
+                    <Time tid="t17" type="absTime">2021年1月3日</Time>
+                </Event>，
+                <Event eid="e18">以此进一步
+                    <Denoter did="d18" type="stateChange">减少</Denoter>
+                    <Object oid="o18">病毒的扩散</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e3"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9-e11"/>
+    <eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e16" thoughtcontent_eids="e17-e18"/>
+    <eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e13"/>
+    <eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e14"/>
+    <eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e15"/>
+    <eRelation relType="Causal" cause_eid="e13" effect_eid="e17"/>
+</Body>

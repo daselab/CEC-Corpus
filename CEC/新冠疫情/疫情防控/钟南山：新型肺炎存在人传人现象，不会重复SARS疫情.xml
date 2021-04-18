@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>钟南山：新型肺炎存在人传人现象，不会重复SARS疫情</Title>
+    <ReportTime type="absTime">2020-01-21T00:00</ReportTime>人民日报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">近期</Time>，
+                    <Location lid="l1">湖北省武汉市等多个地区</Location>
+                    <Denoter did="d1" type="stateChange">发生</Denoter>
+                    <Object oid="o1">新型冠状病毒感染的肺炎疫情</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e2">
+                    <Participant sid="s2" type="agent">国家卫健委</Participant>
+                    <Denoter did="d2" type="statement">消息</Denoter>，
+                </Event>
+                <Event eid="e3">
+                    <Time tid="t3" type="relTime">截至1月20日18时</Time>，
+                    <Location lid="l3">境内</Location>
+                    <Denoter did="d3" type="statement">累计报告</Denoter>
+                    <Participant oid="o3">新型冠状病毒感染的肺炎病例224例</Participant>，
+                </Event>
+                <Event eid="e4">其中
+                    <Denoter did="d4" type="stateChange">确诊</Denoter>
+                    <Participant oid="o4">病例217例</Participant>
+                </Event>
+                <Event eid="e5">（
+                    <Location lid="l5">武汉市</Location>
+                    <Participant oid="o5" type="recipient">198例</Participant>，
+                </Event>
+                <Event eid="e6">
+                    <Location lid="l6">北京市</Location>
+                    <Participant oid="o6" type="recipient">5例</Participant>，
+                </Event>
+                <Event eid="e7">
+                    <Location lid="l7">广东省</Location>
+                    <Participant oid="o7" type="recipient">14例</Participant>）；
+                </Event>
+                <Event eid="e8">
+                    <Denoter did="d8">疑似</Denoter>
+                    <Participant oid="o8" type="recipient">病例7例</Participant>
+                </Event>
+                <Event eid="e9">（
+                    <Location lid="l9">四川省</Location>
+                    <Participant oid="o9" type="recipient">2例</Participant>，
+                </Event>
+                <Event eid="e10">
+                    <Location lid="l10">云南省</Location>
+                    <Participant oid="o10" type="recipient">1例</Participant>，
+                </Event>
+                <Event eid="e11">
+                    <Location lid="l11">上海市</Location>
+                    <Participant oid="o11" type="recipient">2例</Participant>，
+                </Event>
+                <Event eid="e12">
+                    <Location lid="l12">广西壮族自治区</Location>
+                    <Participant oid="o12" type="recipient">1例</Participant>，
+                </Event>
+                <Event eid="e13">
+                    <Location lid="l13">山东省</Location>
+                    <Participant oid="o13" type="recipient">1例</Participant>）。
+                </Event>
+                <Event eid="e14">
+                    <Participant sid="s14" type="agent">日本</Participant>
+                    <Denoter did="d14" type="statement">通报</Denoter>
+                    <Participant oid="o14" type="recipient">确诊病例1例</Participant>，
+                </Event>
+                <Event eid="e15">
+                    <Participant sid="s15" type="agent">泰国</Participant>
+                    <Denoter did="d15" type="statement">通报</Denoter>
+                    <Participant oid="o15" type="recipient">确诊病例2例</Participant>，
+                </Event>
+                <Event eid="e16">
+                    <Participant sid="s16" type="agent">韩国</Participant>
+                    <Denoter did="d16" type="statement">通报</Denoter>
+                    <Participant oid="o16" type="recipient">确诊病例1例</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e17">
+                    <Participant sid="s17" type="agent">国家卫健委高级别专家组组长、中国工程院院士、国家呼吸系统疾病临床研究专家钟南山</Participant>
+                    <Denoter did="d17" type="statement">表示</Denoter>
+                </Event>：
+                <Event eid="e18">根据
+                    <Means mid="m18">目前的资料</Means>，
+                    <Object sid="s18">新型冠状病毒肺炎</Object>是
+                    <Denoter did="d18" type="perception">肯定</Denoter>的
+                </Event>
+                <Event eid="e19">
+                    <Participant sid="s19"  type="agent">人</Participant>
+                    <Denoter did="d19" type="emergency">传</Denoter>
+                    <Participant oid="o19" type="recipient">人</Participant>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e20">在
+                    <Location lid="l20" type="origin">广东</Location>有
+                    <Participant sid="s20,s21" type="agent">两个病例</Participant>，
+                    <Denoter did="d20" type="movement">没去过</Denoter>
+                    <Location lid="l20" type="destination">武汉</Location>，
+                </Event>
+                <Event eid="e21">但
+                    <Time tid="t21" type="timeInterval">家人去了武汉后</Time>
+                    <Denoter did="d21" type="emergency">染上</Denoter>了
+                    <Object oid="o21">新型冠状病毒肺炎</Object>，
+                </Event>
+                <Event eid="e22">现在可以说，肯定的，
+                    <Denoter did="d22" type="stateChange">有</Denoter>
+                    <Object oid="o22">人传人现象</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e23">曾光：只要
+                    <Means mid="m23">对的措施</Means>，完全可以
+                    <Denoter did="d23" type="stateChange">逆转</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e24">
+                    <Participant sid="s24" type="agent">中国疾病预防控制中心流行病学首席科学家曾光</Participant>
+                    <Denoter did="d24" type="statement">指出</Denoter>，
+                </Event>
+                <Event eid="e25">
+                    <Object sid="s25">新型冠状病毒感染的肺炎疫情</Object>
+                    <Time tid="t25" type="relTime">现在</Time>还
+                    <Denoter did="d25" type="stateChange">处于</Denoter>
+                    <Time tid="t25" type="timeInterval">早期</Time>，
+                </Event>
+                <Event eid="e26">对
+                    <Location lid="l26">武汉市</Location>来讲，
+                    <Object sid="s26">传播</Object>
+                    <Denoter did="d26" type="stateChange">进入</Denoter>了一种
+                    <Object oid="o26">社区传播的早期</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e27">
+                    <Participant sid="s27,s28">100多例病例</Participant>
+                    <Denoter did="d27">相对</Denoter>
+                    <Location lid="l27">武汉</Location>
+                    <Participant oid="o27">一千多万人</Participant>口来讲
+                </Event>
+                <Event eid="e28">
+                    <Denoter did="d28" type="statement">是</Denoter>
+                    <Object oid="o28">少数</Object>，
+                </Event>
+                <Event eid="e29">只要
+                    <Means mid="m29">对的公共卫生措施</Means>，完全可以
+                    <Denoter did="d29" type="stateChange">逆转</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e30">高福：
+                    <Participant sid="s30">我们</Participant>在
+                    <Denoter did="d30" type="action">打</Denoter>一场与病毒变异的
+                    <Object oid="o30">防控“战争”</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e31">
+                    <Participant sid="s31" type="agent">中国科学院院士、中国疾控中心主任高福</Participant>
+                    <Denoter did="d31" type="statement">指出</Denoter>，
+                </Event>
+                <Event eid="e32">
+                    <Object sid="s32,s33,s34">新型冠状病毒</Object>也在
+                    <Denoter did="d32" type="action">变化</Denoter>，
+                </Event>
+                <Event eid="e33">在
+                    <Denoter did="d33" type="action">适应</Denoter>
+                    <Object oid="o33">环境</Object>、
+                </Event>
+                <Event eid="e34">
+                    <Denoter did="d34" type="action">适应</Denoter>
+                    <Participant oid="o34">人类</Participant>，
+                </Event>
+                <Event eid="e35">所以现在这场
+                    <Object sid="s35">“战争”</Object>
+                    <Denoter did="d35,d36" type="statement">是</Denoter>
+                    <Object oid="o35">防控</Object>
+                </Event>
+                <Event eid="e36">和
+                    <Object oid="o36">病毒变异</Object>的“战争”。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e37">钟南山：防治的
+                    <Object sid="s37">关键</Object>
+                    <Denoter did="d37" type="statement">是</Denoter>
+                </Event>
+                <Event eid="e38">
+                    <Denoter did="d38">防止</Denoter>出现
+                    <Participant oid="o38">超级传播者</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e39">
+                    <Participant sid="s39" type="agent">国家卫健委高级别专家组组长、中国工程院院士、国家呼吸系统疾病临床研究专家钟南山</Participant>
+                    <Denoter did="d39" type="statement">表示</Denoter>，
+                </Event>
+                <Event eid="e40">
+                    <Location lid="l40">武汉</Location>
+                    <Denoter did="d40" type="stateChange">减少</Denoter>
+                    <Object oid="o40">输出</Object>
+                </Event>
+                <Event eid="e41">
+                    <Denoter did="d41" type="statement">是</Denoter>一个非常
+                    <Object oid="o41">重要方面</Object>，
+                </Event>
+                <Event eid="e42">
+                    <Location lid="l42">武汉</Location>会
+                    <Denoter did="d42" type="statement">有</Denoter>很严格的
+                    <Object oid="o42">筛查检测措施</Object>，特别是
+                    <Means mid="m42">体温检测</Means>，
+                </Event>
+                <Event eid="e43">
+                    <Participant oid="o43" type="agent">体温高的</Participant>
+                    <Denoter did="d43" type="statement">建议</Denoter>
+                </Event>
+                <Event eid="e44">
+                    <Denoter did="d44" type="movement">不离开</Denoter>
+                    <Location lid="l44" type="origin">武汉</Location>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e45">
+                    <Denoter did="d45" type="operation">预防</Denoter>
+                </Event>
+                <Event eid="e46">和
+                    <Denoter did="d46" type="operation">控制</Denoter>最有效的方法是
+                    <Means mid="m45,m46" type="method">早发现早治疗</Means>，
+                </Event>
+                <Event eid="e47">
+                    <Participant oid="o45,o46o47" type="recipient">确诊病例</Participant>的
+                    <Denoter did="d47" type="operation">隔离治疗</Denoter>非常重要，
+                </Event>
+                <Event eid="e48">
+                    <Object sid="s48">新冠病毒</Object>
+                    <Denoter did="d48" type="statement">没有</Denoter>
+                    <Object oid="o48">特效药</Object>，
+                </Event>
+                <Event eid="e49">但是现在正在进行一些
+                    <Object oid="o49">动物</Object>
+                    <Denoter did="d49" type="operation">试验观察</Denoter>，
+                </Event>
+                <Event eid="e50">
+                    <Object oid="o50">科学研究</Object>要
+                    <Denoter did="d50" type="operation">跟上</Denoter>。
+                </Event>
+                <Event eid="e51">
+                    <Time tid="t51" type="timeInterval">春节期间</Time>，估计
+                    <Object sid="s51">得病的人数</Object>还会有
+                    <Denoter did="d51" type="stateChange">增加</Denoter>，
+                </Event>
+                <Event eid="e52">要
+                    <Denoter did="d52" type="operation">防止</Denoter>
+                    <Object oid="o52">传播</Object>，
+                </Event>
+                <Event eid="e53">
+                    <Denoter did="d53" type="operation">防止</Denoter>出现
+                    <Object oid="o53">超级传播者</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>钟南山：
+                <Event eid="e54">当前防控最
+                    <Object sid="s54">有效办法</Object>就
+                    <Denoter did="d54" type="statement">是</Denoter>
+                    <Means mid="m54" type="method">早发现</Means>、
+                    <Means mid="m54" type="method">早诊断</Means>、
+                    <Means mid="m54" type="method">早治疗</Means>、
+                    <Means mid="m54" type="method">早隔离</Means>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e55">
+                    <Participant sid="s55" type="agent">钟南山院士</Participant>
+                    <Denoter did="d55" type="statement">指出</Denoter>，
+                </Event>
+                <Event eid="e56">
+                    <Means mid="m56" type="method">早发现、早诊断</Means>，还有
+                    <Means mid="m56" type="method">治疗和隔离</Means>，这是最有效的、最原始的
+                    <Denoter did="d56" type="operation">防控</Denoter>办法。
+                </Event>
+                <Event eid="e57">对已经
+                    <Participant oid="o57" type="recipient">确诊的病人</Participant>进行有效
+                    <Denoter did="d57" type="operation">隔离</Denoter>、
+                </Event>
+                <Event eid="e58">
+                    <Denoter did="d58" type="stateChange">减少</Denoter>
+                    <Object oid="o58">接触</Object>是极为重要的，
+                </Event>从公共卫生的角度来说是最重要的。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>李兰娟：
+                <Event eid="e59">
+                    <Denoter did="d59" type="stateChange">出现</Denoter>
+                    <Object oid="o59">发烧</Object>、
+                    <Object oid="o59">咳嗽症状</Object>
+                </Event>
+                <Event eid="e60">尽快到
+                    <Location lid="l60">发热门诊</Location>接受
+                    <Denoter did="d60" type="action">检测</Denoter>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e61">
+                    <Participant sid="s61" type="agent">中国工程院院士、感染病学家李兰娟</Participant>
+                    <Denoter did="d61" type="statement">建议</Denoter>，
+                </Event>
+                <Event eid="e62">
+                    <Location lid="l62">武汉地区</Location>
+                    <Denoter did="d62" type="stateChange">出现</Denoter>
+                    <Participant oid="o62" type="recipient">患者</Participant>
+                </Event>
+                <Event eid="e63">
+                    <Denoter did="d63" type="emergency">发烧</Denoter>
+                </Event>
+                <Event eid="e64">、
+                    <Denoter did="d64" type="emergency">咳嗽</Denoter>
+                    症状的
+                    <Participant sid="s63,s64" type="recipient">患者</Participant>，
+                </Event>
+                <Event eid="e65">要及时到
+                    <Location lid="l65">医院门诊</Location>
+                    <Denoter did="d65" type="action">检测</Denoter>是否感染了
+                    <Object oid="o65">新型冠状病毒</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e66" >
+                    <Location lid="l66" type="origin">其他地区</Location>的
+                    <Participant sid="s66">人</Participant>如果
+                    <Denoter did="d66" type="movement">没有去过</Denoter>
+                    <Location lid="l66" type="destination">武汉</Location>，
+                </Event>
+                <Event eid="e67">
+                    <Denoter did="d67" type="action">没有接触</Denoter>
+                    <Object oid="o67">传染源</Object>，
+                </Event>
+                <Event eid="e68">一般来讲
+                    <Object sid="s68">感染的可能性</Object>比
+                    <Denoter did="d68" type="stateChange">较小</Denoter>，
+                </Event>
+                <Event eid="e69">但是只要有
+                    <Denoter did="d69" type="emergency">发烧</Denoter>，
+                </Event>
+                <Event eid="e70">只要有
+                    <Denoter did="d70" type="emergency">病毒感染</Denoter>
+                </Event>，
+                <Event eid="e71">还是要到
+                    <Location lid="l71">医院</Location>
+                    <Denoter did="d71" type="action">检测</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>钟南山：
+                <Event eid="e72">
+                    <Participant sid="s72" type="agent">全民</Participant>
+                    <Denoter did="d72" type="stateChange">提高</Denoter>
+                    <Object oid="o72">警惕</Object>，
+                </Event>
+                <Event eid="e73">
+                    <Denoter did="d73" type="stateChange">不会重复</Denoter>
+                    <Time tid="t73" type="relTime">17年前</Time>的
+                    <Object oid="o73">SARS疫情</Object>
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e74">
+                    <Participant sid="s74" type="agent">钟南山院士</Participant>
+                    <Denoter did="d74" type="statement">指出</Denoter>
+                </Event>，
+                <Event eid="e75">现在要
+                    <Denoter did="d75" type="stateChange">提高</Denoter>
+                    <Object oid="o75">警惕</Object>，
+                </Event>
+                <Event eid="e76">
+                    <Participant sid="s76" type="agent">全民</Participant>、
+                    <Participant sid="s76" type="agent">领导</Participant>、
+                    <Participant sid="s76" type="agent">政府</Participant>、
+                    <Participant sid="s76" type="agent">医务人员</Participant>，包括
+                    <Participant sid="s76" type="agent">媒体</Participant>，
+                    <Participant sid="s76" type="agent">属地的领导</Participant>要
+                    <Denoter did="d76" type="operation">负起</Denoter>
+                    <Object oid="o76">责任</Object>，
+                </Event>
+                <Event eid="e77">
+                    <Participant sid="s77" type="agent">我们</Participant>
+                    <Denoter did="d77" type="perception">有信心</Denoter>
+                </Event>
+                <Event eid="e78">能够
+                    <Denoter did="d78" type="operation">控制</Denoter>
+                    <Object oid="o78">新型冠状病毒</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e79">
+                    <Participant sid="s79" type="agent">钟南山</Participant>
+                    <Denoter did="d79" type="statement">表示</Denoter>，
+                </Event>
+                <Event eid="e80">这次用两周
+                    <Denoter did="d80" type="operation">定位</Denoter>了
+                    <Object oid="o80">新型冠状病毒</Object>，
+                </Event>
+                <Event eid="e81">再加上我们
+                    <Denoter did="d81" type="statement">有</Denoter>很好的
+                    <Object oid="o81">监控</Object>以及
+                    <Object oid="o81">隔离制度</Object>，
+                </Event>
+                <Event eid="e82">相信
+                    <Object sid="s82">疫情</Object>像17年前SARS
+                    <Denoter did="d82" type="operation">不会造成</Denoter>的
+                    <Object oid="o82">社会影响</Object>以及
+                    <Object oid="o82">经济损害</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>钟南山院士：你适不适合春运出行，自己都有发烧还去？在武汉就更是了。
+            <Event eid="e83">假如说真的
+                <Participant sid="s83,s85">有发烧的人</Participant>，还要
+                <Denoter did="d83" type="operation">回家</Denoter>的话，
+            </Event>
+            <Event eid="e84">
+                <Time tid="t84" type="timeInterval">监测到了以后</Time>应该
+                <Means mid="m84">依法依规</Means>
+                <Denoter did="d84" type="statement">要求</Denoter>
+                <Participant oid="o84" type="recipient">有发烧的人</Participant>
+            </Event>
+            <Event eid="e85">
+                <Denoter did="d85" type="action">不要出去</Denoter>，这是要
+                <Means mid="m84">提高级别</Means>，
+            </Event>
+                不是劝他不要出去。
+        </Paragraph>
+        <Paragraph>
+            <Event eid="e86">首先
+                <Participant sid="s86" type="agent">我们</Participant>自己出去
+                <Denoter did="d86" type="statement">要有</Denoter>一个
+                <Object oid="o86">适合出行的状况</Object>，
+            </Event>
+            <Event eid="e87">你说
+                <Participant sid="s87" type="agent">有点发烧、有点不舒服的人</Participant>，那还
+                <Denoter did="d87" type="action">不合适出去</Denoter>。
+            </Event>
+        </Paragraph>
+        <Paragraph>比如说
+            <Event eid="e88">
+                <Denoter did="d88" type="perception">注意</Denoter>
+                <Object oid="o88">洗手</Object>、
+            </Event>
+            <Event eid="e89">
+                <Denoter did="d89" type="perception">保持</Denoter>
+                <Object oid="o89">睡眠</Object>
+            </Event>等等，我想没有什么特殊的。当然
+            <Event eid="e90">
+                <Object sid="s90">春运</Object>
+                <Denoter did="d90" type="statement">有</Denoter>这么
+                <Object oid="o90">一个过程</Object>，
+            </Event>
+            <Event eid="e91">
+                <Object sid="s91">火车</Object>非常
+                <Denoter did="d91" type="stateChange">挤</Denoter>，
+            </Event>
+            <Event eid="e92">现在已经
+                <Denoter did="d92" type="emergency">生病</Denoter>了，
+            </Event>
+            <Event eid="e93">而且
+                <Participant sid="s92,s93">很多人</Participant>已经
+                <Denoter did="d93" type="movement">出去</Denoter>了，
+            </Event>
+            <Event eid="e94">
+                <Time tid="t94" type="relTime">目前</Time>
+                <Denoter did="d94" type="perception">不见得</Denoter>有
+                <Object oid="o94">特殊的办法</Object>。
+            </Event>
+            <Event eid="e95">现在
+                <Participant sid="s95,s96" type="agent">各个点</Participant>都在
+                <Denoter did="d95" type="stateChange">加强</Denoter>
+            </Event>
+            <Event eid="e96">
+                <Object oid="o96">发热</Object>的
+                <Denoter did="d96" type="operation">监测</Denoter>。
+            </Event>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3-e16"/>
+    <eRelation relType="Composite" fevent_eid="e3" sevent_eids="e4-e13"/>
+    <eRelation relType="Composite" fevent_eid="e4" sevent_eids="e5-e7"/>
+    <eRelation relType="Composite" fevent_eid="e8" sevent_eids="e9-e13"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eid="e18-e22"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e18" thoughtcontent_eid="e19"/>
+    <eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e24" thoughtcontent_eid="e25-e29"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e31" thoughtcontent_eid="e32-e36"/>
+    <eRelation relType="Causal" cause_eid="e32-e34" effect_eid="e35-e36"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e37" thoughtcontent_eid="e38"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e39" thoughtcontent_eid="e40-e53"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e43" thoughtcontent_eid="e44"/>
+    <eRelation relType="Causal" cause_eid="e48" effect_eid="e49-e50"/>
+    <eRelation relType="Causal" cause_eid="e51" effect_eid="e52-e53"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e55" thoughtcontent_eid="e56-e58"/>
+    <eRelation relType="Composite" fevent_eid="e56" sevent_eids="e57-e58"/>
+    <eRelation relType="Follow" bevent_eid="e59" aevent_eid="e60"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e61" thoughtcontent_eid="e62-e71"/>
+    <eRelation relType="Composite" fevent_eid="e62" sevent_eids="e63-e64"/>
+    <eRelation relType="Follow" bevent_eid="e62-e64" aevent_eid="e65"/>
+    <eRelation relType="Causal" cause_eid="e66-e67" effect_eid="e68"/>
+    <eRelation relType="Causal" cause_eid="e69-e70" effect_eid="e71"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e74" thoughtcontent_eid="e75-e78"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e79" thoughtcontent_eid="e80-e96"/>
+    <eRelation relType="Composite" fevent_eid="e82" sevent_eids="e81-e82"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e84" thoughtcontent_eid="e85"/>
+    <eRelation relType="Causal" cause_eid="e92-e93" effect_eid="e94"/>
+</Body>

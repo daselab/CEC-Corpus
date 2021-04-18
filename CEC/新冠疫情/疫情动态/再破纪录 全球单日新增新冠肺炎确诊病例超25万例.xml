@@ -1,0 +1,161 @@
+<Location lid="l"></Location>
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>再破纪录 全球单日新增新冠肺炎确诊病例超25万例</Title>
+    <ReportTime type="absTime">2020-07-19T00:00</ReportTime>新京报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Object sid="s1" type="agent">世界卫生组织</Object>
+                    <Time tid="t1" type="relTime">7月18日</Time>
+                    <Object sid="s1" type="agent">疫情报告</Object>
+                    <Denoter did="d1" type="statement">显示</Denoter>
+                </Event>，过去24小时内，
+                <Event eid="e2">
+                    <Location lid="l2">全球</Location>
+                    <Denoter did="d2" type="stateChange">新增</Denoter>
+                    <Object oid="o2" type="recipient">新冠肺炎确诊病例259848例</Object>
+                </Event>，再次
+                <Event eid="e3">
+                    <Denoter did="d3" type="stateChange">打破</Denoter>
+                    <Object oid="o3" type="recipient">此前纪录</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>这是
+                <Event eid="e4">
+                    <Object sid="s4" type="agent">疫情</Object>
+                    <Denoter did="d4" type="emergency">暴发</Denoter>
+                </Event>以来的单日最大增幅，也是
+                <Event eid="e5">
+                    <Object sid="s5" type="agent">全球单日新增确诊病例</Object>
+                    <Time tid="t5" type="timeInterval">首次</Time>
+                    <Denoter did="d5" type="stateChange">超过</Denoter>
+                    <Object oid="o5" type="recipient">25万例</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>此前的
+                <Event eid="e6">
+                    <Object sid="s6" type="agent">全球单日新增确诊病例纪录</Object>
+                    <Denoter did="d6" type="perception">为</Denoter>
+                    <Time tid="t6" type="relTime">7月17日</Time>的
+                    <Object oid="o6" type="recipient">23.7万例</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>据
+                <Event eid="e7">
+                    <Participant sid="s7" type="agent">世卫组织</Participant>
+                    <Denoter did="d7" type="statement">报告</Denoter>
+                </Event>，
+                <Event eid="e8">
+                    <Denoter did="d8" type="stateChange">新增</Denoter>
+                    <Object oid="o8,o9" type="recipient">确诊病例</Object>
+                </Event>中，
+                <Event eid="e9">大部分
+                    <Denoter did="d9" type="movement">来自</Denoter>
+                    <Location lid="l9" type="origin">美国</Location>、
+                    <Location lid="l9" type="origin">巴西</Location>、
+                    <Location lid="l9" type="origin">印度</Location>和
+                    <Location lid="l9" type="origin">南非</Location>
+                </Event>，这四个国家分别新增确诊病例7.1万例、4.5万例、3.4万例、1.3万例
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">
+                    <Location lid="l10">美国</Location>仍然是全球疫情最严重的国家，
+                    <Object sid="s10" type="agent">累计确诊病例</Object>
+                    <Denoter did="d10" type="stateChange">超过</Denoter>
+                    <Object oid="o10" type="recipient">370万例</Object>
+                </Event>，
+                <Event eid="e11">
+                    <Object sid="s11" type="agent">累计死亡病例</Object>
+                    <Denoter did="d11" type="stateChange">超过</Denoter>
+                    <Object oid="o11" type="recipient">14万例</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e12">
+                    <Location lid="l12">巴西</Location>
+                    <Time tid="t12" type="relTime">上周四</Time>
+                    <Object sid="s12" type="agent">累计确诊病例</Object>
+                    <Denoter did="d12" type="stateChange">超过</Denoter>
+                    <Object oid="o12" type="recipient">200万例</Object>
+                </Event>，累计确诊病例全球第二
+            </Sentence>。
+            <Sentence>
+                <Event eid="e13">
+                    <Location lid="l13">印度</Location>
+                    <Time tid="t13" type="relTime">上周五</Time>
+                    <Object sid="s13" type="agent">累计确诊病例</Object>
+                    <Denoter did="d13" type="stateChange">超过</Denoter>
+                    <Object oid="o13" type="recipient">100万例</Object>
+                </Event>，目前位列全球第三
+            </Sentence>。
+            <Sentence>
+                <Event eid="e14">
+                    <Location lid="l14,l15">南非</Location>
+                    <Object sid="s14" type="agent">疫情</Object>近来也
+                    <Denoter did="d14" type="operation">快速发酵</Denoter>
+                </Event>，
+                <Event eid="e15">
+                    <Object sid="s15" type="agent">累计确诊病例</Object>
+                    <Denoter did="d15" type="stateChange">超过</Denoter>
+                    <Object oid="o15" type="recipient">35万例</Object>
+                </Event>，位列全球第五
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e16">
+                    <Time tid="t16" type="relTime">7月18日</Time>，
+                    <Location lid="l16">全球</Location>
+                    <Denoter did="d16" type="stateChange">新增</Denoter>
+                    <Object oid="o16" type="recipient">死亡病例7360例</Object>
+                </Event>，是自5月10日以来的单日最大增幅
+            </Sentence>。
+            <Sentence>
+                <Event eid="e17">截至目前，
+                    <Time tid="t17" type="relTime">7月</Time>的
+                    <Object sid="s17" type="agent">单日平均死亡病例</Object>
+                    <Denoter did="d17" type="perception">为</Denoter>
+                    <Object oid="o17" type="recipient">4800例</Object>
+                </Event>，
+                <Event eid="e18">
+                    <Denoter did="d18" type="stateChange">略高于</Denoter>
+                    <Time tid="t18" type="relTime">6月</Time>的
+                    <Object oid="o18" type="recipient">单日平均死亡病例4600例</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>据
+                <Event eid="e19">
+                    <Participant sid="s19" type="agent">世卫组织</Participant>
+                    <Denoter did="d19" type="operation">统计</Denoter>
+                </Event>，
+                <Event eid="e20">截至
+                    <Time tid="t20" type="relTime">欧洲中部时间7月18日17时</Time>，
+                    <Object sid="s20" type="agent">全球累计确诊病例</Object>
+                    <Denoter did="d20" type="stateChange">超过</Denoter>
+                    <Object oid="o20" type="recipient">1387万例</Object>
+                </Event>，
+                <Event eid="e21">
+                    <Object sid="s21" type="agent">累计死亡病例</Object>
+                    <Denoter did="d21" type="stateChange">直逼</Denoter>
+                    <Object oid="o21" type="recipient">60万例</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+</Body>
+<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
+<eRelation relType="Composite" fevent_eid="e10" sevent_eids="e11"/>
+<eRelation relType="Composite" fevent_eid="e16" sevent_eids="e17-e18"/>
+<eRelation relType="Composite" fevent_eid="e19" sevent_eids="e20-e21"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e18"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e19" thoughtcontent_eid="e20-e21"/>

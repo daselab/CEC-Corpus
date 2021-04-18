@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>民航局发出第一份“熔断指令”</Title>
+    <ReportTime type="absTime">2020-06-14T00:00</ReportTime>人民日报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Participant oid="o">中国民航局</Participant>
+                    <Means mid="m1">网站</Means>
+                    <Denoter did="d1" type="statement">发布</Denoter>
+                    <Object sid="s1">消息</Object>
+                </Event>：
+                <Event eid="e2">鉴于
+                    <Time tid="t2" type="relTime">6月11日</Time>
+                    <Location lid="l2">南航CZ392孟加拉达卡至广州航班</Location>
+                    <Denoter did="d2" type="perception">发现</Denoter>
+                    <Participant sid="s2">17位旅客</Participant>
+                    <Denoter did="d2">新冠病毒核酸阳性</Denoter>
+                </Event>，
+                <Event eid="e3">根据
+                    <Time tid="t3">6月4日</Time>
+                    <Denoter did="d3" type="statement">发布</Denoter>的
+                    <Object sid="s3">《民航局关于调整国际客运航班的通知》有关规定</Object>
+                </Event>，
+                <Event eid="e4">已
+                    <Denoter did="d4" type="action">触发</Denoter>
+                    <Object sid="s4">航班熔断条件</Object>
+                </Event>，
+                <Event eid="e5">
+                    <Participant oid="o5" type="agent">民航局</Participant>决定对
+                    <Object sid="s5,s6" type="recipient">该航班</Object>
+                    <Denoter did="d5" type="action">采取</Denoter>
+                    <Object sid="s5">熔断措施</Object>
+                </Event>
+                <Event eid="e6">自
+                    <Time tid="t6" type="timeInterval">6月22日起</Time>，
+                    <Denoter did="d6" type="Statechange">暂停</Denoter>
+                    <Object sid="s5,s6">该航班</Object>
+                    <Object sid="s6">该航线</Object>
+                    <Denoter did="d6" type="action">运行</Denoter>
+                    <Time tid="t6" type="timeInterval">4周</Time>。
+                </Event>
+            </Sentence>
+            <Sentence>这是
+                <Event eid="e7">
+                    <Object sid="s7">《民航局关于调整国际客运航班的通知》</Object>
+                    <Denoter did="d7" type="operation">执行</Denoter>
+                    <Time tid="t7" type="timeInterval">10天来</Time>
+                </Event>，
+                <Event eid="e8">
+                    <Denoter did="d8">开出</Denoter>的第一份
+                    <Object sid="s8">“熔断指令”</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e6"/>
+    <eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+    <eRelation relType="Causal" cause_eid="e2" effect_eid="e4-e6"/>
+</Body>

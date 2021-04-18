@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>北京新增2例本地确诊病例 官方：抓紧溯源 加强防控</Title>
+    <ReportTime type="absTime">2020-12-26T00:00</ReportTime>中国新闻网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Location lid="l1">北京</Location>近日连续
+                    <Denoter did="d1" type="stateChange">出现</Denoter>
+                    <Object oid="o1" type="recipient">多点零星散发病例</Object>
+                </Event>，
+                <Event eid="e2">
+                    <Time tid="t2" type="relTime">12月25日</Time>再
+                    <Denoter did="d2" type="stateChange">新增</Denoter>
+                    <Object oid="o2" type="recipient">2例本地确诊病例</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e3">
+                    <Location lid="l3">北京</Location>
+                    <Participant sid="s3" type="agent">官方</Participant>
+                    <Denoter did="d3" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e4">
+                    <Object sid="s4" type="agent">疫情传播风险</Object>
+                    <Denoter did="d4" type="stateChange">加大</Denoter>
+                </Event>，要
+                <Event eid="e5">
+                    <Denoter did="d5" type="operation">抓紧</Denoter>
+                    <Object oid="o5" type="recipient">流调溯源</Object>
+                </Event>，
+                <Event eid="e6">尽快
+                    <Denoter did="d6" type="operation">锁定</Denoter>
+                    <Object oid="o6" type="recipient">源头</Object>
+                </Event>，
+                <Event eid="e7">及时
+                    <Denoter did="d7" type="operation">切断</Denoter>
+                    <Object oid="o7" type="recipient">传染链条</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>要
+                <Event eid="e8">
+                    <Denoter did="d8" type="operation">坚持</Denoter>
+                    <Object oid="o8" type="recipient">常态化精准防控</Object>
+                </Event>和
+                <Event eid="e9">
+                    <Object oid="o9" type="recipient">局部应急处置</Object>
+                    <Denoter did="d9" type="operation">有机结合</Denoter>
+                </Event>，防松劲、补漏洞、强管理
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">
+                    <Location lid="l10">北京市</Location>
+                    <Participant sid="s10" type="agent">卫生健康委员会</Participant>
+                    <Time tid="t10" type="relTime">26日</Time>
+                    <Denoter did="d10" type="statement">通报</Denoter>
+                </Event>，
+                <Event eid="e11">
+                    <Time tid="t11" type="relTime">12月25日0时至24时</Time>，
+                    <Location lid="l11">北京</Location>
+                    <Denoter did="d11" type="stateChange">新增</Denoter>
+                    <Object oid="o11" type="recipient">2例本地确诊病例</Object>
+                </Event>，无疑似病例和无症状感染者；无
+                <Event eid="e12">
+                    <Denoter did="d12" type="stateChange">新增</Denoter>
+                    <Object oid="o12" type="recipient">境外输入确诊病例、疑似病例和无症状感染者</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e13">
+                    <Denoter did="d13" type="stateChange">新增</Denoter>
+                    <Object oid="o13" type="recipient">确诊病例</Object>
+                </Event>1是31岁河北籍女性，
+                <Event eid="e14">现
+                    <Denoter did="d14" type="operation">住</Denoter>
+                    <Location lid="l14">北京市</Location>
+                    <Location lid="l14">顺义区</Location>
+                </Event>，为顶全便利店顺义区货运店员工
+            </Sentence>。
+            <Sentence>因
+                <Event eid="e15">
+                    <Object sid="s15" type="agent">该店</Object>
+                    <Denoter did="d15" type="operation">销售</Denoter>
+                    <Object oid="o15" type="recipient">冷鲜食品</Object>
+                </Event>，
+                <Event eid="e16">
+                    <Means mid="m16" type="method">按照北京市防疫要求</Means>，
+                    <Time tid="t16" type="relTime">12月24日</Time>由
+                    <Object sid="s16" type="agent">公司</Object>
+                    <Denoter did="d16" type="operation">安排</Denoter>
+                </Event>
+                <Event eid="e17">
+                    <Denoter did="d17" type="operation">进行</Denoter>
+                    <Object oid="o17" type="recipient">核酸检测</Object>
+                </Event>，
+                <Event eid="e18">
+                    <Time tid="t18" type="relTime">12月25日</Time>
+                    <Denoter did="d18" type="operation">反馈</Denoter>
+                    <Object oid="o18" type="recipient">结果</Object>为阳性
+                </Event>，
+                <Event eid="e19">即
+                    <Denoter did="d19" type="movement">转</Denoter>至
+                    <Location lid="l19">北京</Location>
+                    <Location lid="l19" type="destination">地坛医院</Location>
+                </Event>，
+                <Event eid="e20">当日
+                    <Denoter did="d20" type="operation">诊断为</Denoter>
+                    <Object oid="o20" type="recipient">确诊病例</Object>
+                </Event>，临床分型为轻型
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e21">
+                    <Participant sid="s21" type="agent">确诊病例2</Participant>
+                    <Denoter did="d21" type="perception">是</Denoter>
+                    <Participant oid="o21" type="recipient">29岁辽宁籍女性</Participant>
+                </Event>，
+                <Event eid="e22">现
+                    <Denoter did="d22" type="operation">住</Denoter>
+                    <Location lid="l22">北京市</Location>
+                    <Location lid="l22">顺义区</Location>
+                </Event>，为慧与(中国)有限公司员工
+            </Sentence>。
+            <Sentence>因
+                <Event eid="e23">
+                    <Denoter did="d23" type="operation">出现</Denoter>
+                    <Object oid="o23" type="recipient">发热、咳嗽等症状</Object>
+                </Event>，
+                <Event eid="e24">前往
+                    <Location lid="l24" type="destination">顺义区医院</Location>
+                    <Object oid="o24" type="recipient">发热门诊</Object>
+                    <Denoter did="d24" type="operation">就诊</Denoter>
+                </Event>，
+                <Event eid="e25">
+                    <Time tid="t25" type="relTime">12月24日</Time>
+                    <Denoter did="d25" type="operation">进行</Denoter>
+                    <Object oid="o25" type="recipient">核酸检测</Object>
+                </Event>，结果为阳性，
+                <Event eid="e26">
+                    <Time tid="t26" type="relTime">12月25日</Time>
+                    <Denoter did="d26"type="movement" >转</Denoter>至
+                    <Location lid="l26" type="destination">北京地坛医院</Location>
+                </Event>，
+                <Event eid="e27">
+                    <Time tid="t27" type="relTime">当日</Time>
+                    <Denoter did="d27" type="operation">诊断为</Denoter>
+                    <Object oid="o27" type="recipient">确诊病例</Object>
+                </Event>，临床分型为普通型
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e28">
+                    <Time tid="t28" type="relTime">目前</Time>，
+                    <Participant sid="s28" type="agent">相关部门</Participant>已
+                    <Means mid="m28" type="method">对上述确诊病例</Means>
+                    <Denoter did="d28" type="operation">开展</Denoter>
+                    <Object oid="o28" type="recipient">流行病学调查</Object>
+                </Event>，
+                <Event eid="e29">
+                    <Means mid="m29" type="method">按要求</Means>
+                    <Denoter did="d29" type="operation">落实</Denoter>
+                    <Object oid="o29" type="recipient">管控措施</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e30">最新召开的
+                    <Location lid="l30">北京</Location>
+                    <Object sid="s30" type="agent">新冠肺炎疫情防控工作会议</Object>
+                    <Denoter did="d30" type="statement">指出</Denoter>
+                </Event>，
+                <Event eid="e31">
+                    <Location lid="l31">北京</Location>近日
+                    <Denoter did="d31" type="stateChange">出现</Denoter>
+                    <Object oid="o31" type="recipient">多点零星散发病例</Object>
+                </Event>，
+                <Event eid="e32">
+                    <Object sid="s32" type="agent">疫情传播风险</Object>
+                    <Denoter did="d32" type="stateChange">加大</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e33">
+                    <Participant sid="s33,s34,35,s36" type="agent">各区、各部门、各单位</Participant>要
+                    <Denoter did="d33" type="stateChange">坚持</Denoter>
+                    <Object oid="o33" type="recipient">常态化精准防控</Object>
+                </Event>和
+                <Event eid="e34">
+                    <Object oid="o34" type="recipient">局部应急处置</Object>
+                    <Denoter did="d34" type="operation">有机结合</Denoter>
+                </Event>，
+                <Event eid="e35">
+                    <Denoter did="d35" type="operation">克服</Denoter>
+                    <Object oid="o35" type="recipient">侥幸麻痹心理</Object>
+                </Event>，防松劲、补漏洞、强管理，毫不放松
+                <Event eid="e36">
+                    <Denoter did="d36" type="operation">抓好</Denoter>
+                    <Object oid="o36" type="recipient">“外防输入、内防反弹”工作</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e37">
+                    <Object sid="s37" type="agent">会议</Object>
+                    <Denoter did="d37" type="statement">强调</Denoter>
+                </Event>，要
+                <Event eid="e38">
+                    <Denoter did="d38" type="operation">抓紧</Denoter>
+                    <Object oid="o38" type="recipient">流调溯源</Object>，跑在病毒前头
+                </Event>。
+                <Event eid="e39">
+                    <Denoter did="d39" type="operation">加强</Denoter>
+                </Event>
+                <Event eid="e40">
+                    <Object oid="o40" type="recipient">病例病毒的全基因组</Object>
+                    <Denoter did="d40" type="operation">测序</Denoter>和比对
+                </Event>，
+                <Event eid="e41">尽快
+                    <Denoter did="d41" type="operation">锁定</Denoter>
+                    <Object oid="o41" type="recipient">源头</Object>
+                </Event>，
+                <Event eid="e42">及时
+                    <Denoter did="d42" type="action">切断</Denoter>
+                    <Object oid="o42" type="recipient">传染链条</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e43">
+                    <Object sid="s43" type="agent">流调</Object>要
+                    <Denoter did="d43" type="operation">做到</Denoter>
+                    <Object oid="o43" type="recipient">快速精准</Object>
+                </Event>，
+                <Event eid="e44">确保
+                    <Participant oid="o44" type="recipient">密切接触者</Participant>
+                    <Denoter did="d44" type="operation">不漏</Denoter>
+                    <Object oid="o44">一人</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e45">
+                    <Denoter did="d45">做好</Denoter>
+                </Event>
+                <Event eid="e46">
+                    <Object oid="o46" type="recipient">重点地区和重点人群</Object>
+                    <Denoter did="d46" type="operation">核酸检测</Denoter>工作
+                </Event>，
+                <Event eid="e47">
+                    <Denoter did="d47" type="operation">做到</Denoter>
+                    <Object oid="o47" type="recipient">应检尽检</Object>
+                </Event>，
+                <Event eid="e48">
+                    <Object sid="s48" type="agent">环境检测</Object>同步
+                    <Denoter did="d48" type="action">跟上</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e49">
+                    <Denoter did="d49"type="operation" >加强</Denoter>
+                    <Object oid="o49" type="recipient">发热门诊管理</Object>
+                </Event>，严格对有
+                <Event eid="e50">
+                    <Object oid="o50" type="recipient">发热、咳嗽等症状</Object>的
+                    <Denoter did="d50" type="operation">诊断</Denoter>
+                </Event>及留观标准
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e51">
+                    <Object sid="s51" type="agent">会议</Object>
+                    <Denoter did="d51" type="statement">指出</Denoter>
+                </Event>，要
+                <Event eid="e52">
+                    <Denoter did="d52" type="operation">加强</Denoter>
+                    <Object oid="o52" type="recipient">社会面防控</Object>
+                </Event>，
+                <Event eid="e53">
+                    <Denoter did="d53" type="operation">确保</Denoter>
+                </Event>
+                <Event eid="e54">
+                    <Object sid="s54" type="agent">防疫措施</Object>不折不扣
+                    <Denoter did="d54" type="operation">落到实处</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>要
+                <Event eid="e55">
+                    <Denoter did="d55">引导</Denoter>
+                    <Object sid="s55,s56,s57,s58,s59,s60,s61,s62">市民</Object>
+                </Event>坚持
+                <Event eid="e56">
+                    <Denoter did="d56" type="action">戴</Denoter>
+                    <Object oid="o56" type="recipient">口罩</Object>
+                </Event>、
+                <Event eid="e57">勤
+                    <Denoter did="d57" type="action">洗手</Denoter>
+                </Event>、
+                <Event eid="e58">常
+                    <Denoter did="d58" type="action">通风</Denoter>
+                </Event>、
+                <Event eid="e59">不
+                    <Denoter did="d59" type="action">扎堆</Denoter>
+                </Event>、
+                <Event eid="e60">不
+                    <Denoter did="d60" type="action">聚集</Denoter>
+                </Event>、
+                <Event eid="e61">
+                    <Denoter did="d61" type="operation">保持</Denoter>
+                    <Object oid="o61" type="recipient">社交距离</Object>
+                </Event>等良好习惯，
+                <Event eid="e62">
+                    <Denoter did="d62" type="operation">提高</Denoter>
+                    <Object oid="o62" type="recipient">自我防护意识</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+    <eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2"/>
+    <eRelation relType="Causal" cause_eid="e4" effect_eid="e5-e7"/>
+    <eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eid="e4-e9"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eid="e11-e29"/>
+    <eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+    <eRelation relType="Causal" cause_eid="e23" effect_eid="e24"/>
+    <eRelation relType="Follow" bevent_eid="e25" aevent_eid="e26"/>
+    <eRelation relType="Accompany" accompanya_eid="e28" accompanyb_eid="e29"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e30" thoughtcontent_eid="e31-e62"/>
+    <eRelation relType="Causal" cause_eid="e31" effect_eid="e32"/>
+    <eRelation relType="Composite" fevent_eid="e33" sevent_eids="e34-e36"/>
+    <eRelation relType="Composite" fevent_eid="e45" sevent_eids="e46-e50"/>
+    <eRelation relType="Composite" fevent_eid="e38" sevent_eids="e40-e42"/>
+    <eRelation relType="Composite" fevent_eid="e49" sevent_eids="e50"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e51" thoughtcontent_eid="e52-e62"/>
+    <eRelation relType="Follow" bevent_eid="e52" aevent_eid="e54"/>
+    <eRelation relType="Composite" fevent_eid="e55" sevent_eids="e56-e62"/>
+</Body>

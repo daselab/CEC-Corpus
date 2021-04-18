@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>快讯！武汉市部分医疗机构出现不明原因肺炎病人，国家卫健委专家组已抵达武汉</Title>
+    <ReportTime type="absTime">2019-12-31T00:00</ReportTime>央视新闻
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Time tid="t1" type="relTime">12月30日</Time>，
+                    <Location lid="l1">武汉市</Location>
+                    <Participant sid="s1" type="agent">卫生健康委员会医政医管处</Participant>
+                    <Denoter did="d1" type="statement">发布</Denoter>
+                    <Object oid="o1">《关于做好不明原因肺炎救治工作的紧急通知》</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e2">
+                    <Object sid="s2">通知</Object>
+                    <Denoter did="d2" type="statement">称</Denoter>，
+                </Event>
+                <Event eid="e3">
+                    <Location lid="l3">武汉市部分医疗机构</Location>陆续
+                    <Denoter did="d3" type="stateChange">出现</Denoter>
+                    <Participant sid="s3" type="agent">不明原因肺炎病人</Participant>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e4">
+                    <Object sid="s4">通知</Object>
+                    <Denoter did="d4" type="statement">要求</Denoter>
+                    <Participant oid="o4" type="recipient">医疗机构</Participant>
+                </Event>
+                <Event eid="e5">
+                    <Participant sid="s5" type="agent">医疗机构</Participant>要
+                    <Denoter did="d5" type="operation">及时追踪</Denoter>
+                </Event>
+                <Event eid="e6">
+                    <Denoter did="d6" type="operation">统计</Denoter>
+                    <Object oid="o6">救治情况</Object>，
+                </Event>
+                <Event eid="e7">并按要求
+                    <Denoter did="d7" type="operation">及时上报</Denoter>
+                    <Object oid="o7">救治情况</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e8">据
+                    <Participant sid="s8" type="agent">湖北省卫健委</Participant>及
+                    <Participant sid="s8" type="agent">武汉市委宣传部</Participant>
+                    <Denoter did="d8" type="statement">消息</Denoter>
+                </Event>
+                <Event eid="e9">
+                    <Participant sid="s9">国家卫健委专家组</Participant>
+                    <Time tid="t9" type="relTime">31日上午</Time>已
+                    <Denoter did="d9" type="movement">抵达</Denoter>
+                    <Location lid="l9" type="destination">武汉</Location>，
+                </Event>
+                <Event eid="e10">正
+                    <Denoter did="d10" type="operation">展开</Denoter>
+                    <Object oid="o10">相关检测核实工作</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eid="e3-e7"/>
+    <eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4-e7"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eid="e9-e10"/>
+    <eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10"/>
+</Body>

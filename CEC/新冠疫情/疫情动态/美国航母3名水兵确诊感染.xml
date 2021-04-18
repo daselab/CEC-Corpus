@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>美国航母3名水兵确诊感染</Title>
+    <ReportTime type="absTime">2020-03-25T00:00</ReportTime>环球网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1" type="Thoughtevent">
+                    <Location lid="l1">美国</Location>
+                    <Participant sid="s1" type="agent">海军</Participant>方面
+                    <Denoter did="d1" type="statement">证实</Denoter>
+                </Event>，
+                <Event eid="e2">
+                    <Location lid="l2">美国</Location>最新部署到印度-太平洋地区的
+                    <Object sid="s2">罗斯福号航母</Object>上出现
+                    <Participant oid="o2" type="recipient">3例</Participant>新冠肺炎
+                    <Denoter did="d2" type="stateChange">确诊</Denoter>病例。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e3" type="Thoughtevent">据
+                    <Location lid="l3">美国</Location>
+                    <Participant sid="s3" type="agent">海军研究协会网站</Participant>(USNI)
+                    <Time tid="t3" type="relTime">3月24日</Time>
+                    <Denoter did="d3" type="statement">报道</Denoter>
+                </Event>，
+                <Event eid="e4">部署在印度-太平洋地区的美国海军
+                    <Location lid="l4">西奥多·罗斯福号航空母舰上</Location>已经有
+                    <Participant sid="s4" type="agent">三名水兵</Participant>的
+                    <Object sid="s4">新冠病毒检测</Object>
+                    <Denoter did="d4" type="stateChange">呈阳性</Denoter>
+                </Event>，
+                <Event eid="e5">
+                    <Participant oid="o5" type="recipient">他们</Participant>将被
+                    <Denoter did="d5" type="movement">转移</Denoter>到美国国防部在
+                    <Location lid="l5">太平洋地区的医院</Location>
+                </Event>
+                <Event eid="e6">进行
+                    <Denoter did="d6" type="operation">治疗</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e7">这是
+                    <Location lid="l7">美军航母</Location>
+                    <Object sid="s7">新冠肺炎</Object>
+                    <Denoter did="d7" type="stateChange">首次出现确诊</Denoter>病例
+                </Event>，
+                <Event eid="e8">也是
+                    <Participant sid="s8" type="agent">美军</Participant>首次在执行部署任务的
+                    <Location lid="l8">军舰上</Location>
+                    <Denoter did="d8" type="perception">发现</Denoter>
+                    <Participant oid="o8" type="recipient">病毒检测阳性的病例</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9" type="Thoughtevent">
+                    <Location lid="l9">美国</Location>海军代理部长
+                    <Participant sid="s9" type="agent">托马斯·莫德利</Participant>
+                    <Denoter did="d9" type="statement">表示</Denoter>，
+                </Event>
+                <Event eid="e10">在
+                    <Denoter did="d10" type="stateChange">确诊</Denoter>后
+                </Event>，
+                <Event eid="e11">这
+                    <Participant sid="s11,s10,s12" type="agent">3名水兵</Participant>将
+                    <Denoter did="d11" type="movement">尽快离开</Denoter>
+                    <Location lid="l11">罗斯福号航母</Location>
+                </Event>，
+                <Event eid="e12">
+                    <Time tid="t12" type="relTime">最近</Time>与他们有过
+                    <Denoter did="d12" type="action">接触</Denoter>的
+                    <Participant sid="s12,s13" type="agent">船员</Participant>
+                </Event>
+                <Event eid="e13">也都将被
+                    <Denoter did="d13" type="operation">隔离</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e14" type="Thoughtevent">
+                    <Participant sid="s14" type="agent">莫德利</Participant>
+                    <Denoter did="d14" type="statement">说</Denoter>
+                </Event>：“
+                <Event eid="e15" type="Thoughtevent">这个
+                    <Object sid="s15">事例</Object>
+                    <Denoter did="d15" type="statement">说明</Denoter>
+                </Event>，
+                <Event eid="e16">即使在出现
+                    <Denoter did="d16" type="emergency">新冠肺炎</Denoter>的情况下
+                </Event>，
+                <Event eid="e17">我们仍有能力让我们的
+                    <Object sid="s17">舰船</Object>
+                    <Location lid="l17">在海上</Location>
+                    <Denoter did="d17" type="operation">执行</Denoter>
+                    <Object oid="o17">任务</Object>。
+                </Event>”
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>虽然航空母舰是美国海军最大的水面舰船，但
+                <Event eid="e18">
+                    <Location lid="l18">船上</Location>却
+                    <Denoter did="d18" type="stateChange">挤满</Denoter>了多达
+                    <Participant sid="s18" type="agent">5000名船员</Participant>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e19">
+                    <Location lid="l19">美国</Location>
+                    <Participant sid="s19" type="agent">海军</Participant>仍在
+                    <Denoter did="d19" type="operation">调查</Denoter>
+                </Event>
+                <Event eid="e20">
+                    <Location lid="l20">罗斯福号航母</Location>上的
+                    <Object sid="s20">疫情</Object>是如何
+                    <Denoter did="d20" type="movement">蔓延</Denoter>的。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e21" type="Thoughtevent">
+                    <Location lid="l21">美国</Location>海军作战部长海军
+                    <Participant sid="s21" type="agent">麦克·吉尔迪</Participant>上将
+                    <Denoter did="d21" type="statement">说</Denoter>
+                </Event>，
+                <Event eid="e22" type="Polarity-negative">
+                    <Time tid="t22" type="relTime">目前</Time>还不
+                    <Denoter did="d22" type="perception">清楚</Denoter>
+                </Event>
+                <Event eid="e23">
+                    <Object sid="s23">病毒</Object>
+                    <Denoter did="d23" type="movement">来自</Denoter>
+                    <Location lid="l23">哪里</Location>
+                </Event>，
+                <Event eid="e24">这艘
+                    <Object sid="s24">航母</Object>
+                    <Time tid="t24" type="relTime">15天前</Time>
+                    <Denoter did="d24" type="movement">停靠</Denoter>了
+                    <Location lid="l24">越南岘港</Location>
+                </Event>，
+                <Event eid="e25" type="Polarity-negative">但并未
+                    <Denoter did="d25" type="movement">靠泊</Denoter>
+                    <Location lid="l25">码头</Location>
+                </Event>，
+                <Event eid="e26">只是用
+                    <Means mid="m26">直升机</Means>
+                    <Denoter did="d26" type="movement">运送</Denoter>
+                    <Participant oid="o26" type="recipient">人员</Participant>和
+                    <Object oid="o26">物资</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Sentence>
+                    <Event eid="e27" type="Thoughtevent">
+                        <Participant sid="s27" type="agent">麦克·吉尔迪</Participant>
+                        <Denoter did="d27" type="statement">说</Denoter>
+                    </Event>：“
+                    <Event eid="e28">
+                        <Object sid="s28">罗斯福号航母</Object>最后一次
+                        <Denoter did="d28" type="movement">抵达</Denoter>
+                        <Location lid="l28">港口</Location>是在
+                        <Time tid="t28" type="relTime">15天前</Time>
+                    </Event>，
+                    <Event eid="e29" type="Thoughtevent">但
+                        <Participant sid="s29" type="agent">我</Participant>
+                        <Denoter did="d29" type="perception">认为</Denoter>
+                    </Event>
+                    <Event eid="e30">很难将
+                        <Object oid="o30">感染事件</Object>与
+                        <Object oid="o30">港口访问</Object>
+                        <Denoter did="d30" type="action">联系</Denoter>起来。
+                    </Event>
+                </Sentence>
+            </Sentence>
+            <Sentence>
+                <Event eid="e31">当
+                    <Participant sid="s31" type="agent">我们</Participant>
+                    <Denoter did="d31" type="movement">返回</Denoter>
+                    <Location lid="l31">海上</Location>的时候
+                </Event>，
+                <Event eid="e32">
+                    <Participant sid="s32" type="agent">我们</Participant>
+                    <Denoter did="d32" type="action">采取</Denoter>了很好的
+                    <Object oid="o32">预防措施</Object>
+                </Event>，
+                <Event eid="e33">
+                    <Denoter did="d33" type="operation">加强</Denoter>了对
+                    <Participant oid="o33" type="recipient">船员</Participant>的
+                    <Object oid="o33">医疗检查</Object>。
+                </Event>
+            </Sentence>”
+            <Sentence>
+                <Event eid="e34" type="Thoughtevent">
+                    <Participant sid="s34" type="agent">他</Participant>还
+                    <Denoter did="d34" type="statement">说</Denoter>
+                </Event>：“
+                <Event eid="e35">
+                    <Participant sid="s35" type="agent">我们</Participant>正迅速
+                    <Denoter did="d35" type="action">采取</Denoter>
+                    <Object oid="o35">行动</Object>
+                </Event>，
+                <Event eid="e36">
+                    <Denoter did="d36" type="operation">隔离</Denoter>这些
+                    <Participant oid="o36" type="recipient">确诊病例</Participant>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e37">在
+                    <Denoter did="d37" type="stateChange">感染</Denoter>之后
+                </Event>，
+                <Event eid="e38">这些
+                    <Participant sid="s38,s39" type="agent">船员</Participant>出现了
+                    <Object sid="s38">体温</Object>
+                    <Denoter did="d38" type="stateChange">升高</Denoter>
+                </Event>、
+                <Event eid="e39">
+                    <Object sid="s39">身体</Object>出现
+                    <Denoter did="d39" type="stateChange">疼痛</Denoter>等症状
+                </Event>，但
+                <Event eid="e40" type="Polarity-negative">
+                    <Participant sid="s40" type="agent">我们</Participant>并不
+                    <Denoter did="d40" type="perception">认为</Denoter>
+                </Event>
+                <Event eid="e41">
+                    <Participant sid="s41" type="agent">他们</Participant>需要
+                    <Denoter did="d41" type="movement">住院</Denoter>
+                </Event>
+                <Event eid="e42">
+                    <Denoter did="d42" type="operation">治疗</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>但他们的检测结果的确是阳性
+                <Event eid="e43">，所以
+                    <Participant sid="s43" type="agent">我们</Participant>正在迅速将
+                    <Participant oid="o43" type="recipient">他们</Participant>从
+                    <Denoter did="d43" type="movement">转移</Denoter>到
+                    <Location lid="l43">航母之外</Location>
+                </Event>，
+                <Event eid="e44">并逐步
+                    <Denoter did="d44" type="operation">筛查</Denoter>
+                </Event>
+                <Event eid="e45">
+                    <Time tid="t45" type="timeInterval">最近几天</Time>和
+                    <Time tid="t45" type="timeInterval">几周</Time>与他们有过
+                    <Denoter did="d45" type="stateChange">接触</Denoter>的
+                    <Participant sid="s45" type="agent">人</Participant>，
+                </Event>
+                <Event eid="e46">尽快对
+                    <Participant oid="o46" type="recipient">他们</Participant>进行
+                    <Denoter did="d46" type="operation">隔离</Denoter>
+                </Event>。”
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e47">
+                    <Time tid="t47" type="relTime">2月27日</Time>，
+                    <Location lid="l47">美国</Location>印度-太平洋
+                    <Participant sid="s47" type="agent">司令部</Participant>
+                    <Denoter did="d47" type="operation">制定</Denoter>了一项
+                    <Object oid="o47">措施</Object>
+                </Event>，
+                <Event eid="e48">要求其下辖的
+                    <Object sid="s48">军舰</Object>要在海上
+                    <Denoter did="d48" type="movement">航行</Denoter>足够
+                    <Time tid="t48" type="relTime">14天</Time>
+                </Event>
+                <Event eid="e49">才能
+                    <Denoter did="d49" type="movement">靠港</Denoter>
+                </Event>，
+                <Event eid="e50">以
+                    <Denoter did="d50" type="operation">应对</Denoter>
+                    <Object oid="o50">新冠病毒的传播</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>大约就在那个时候，
+                <Event eid="e51" type="Thoughtevent">印度-太平洋司令部司令
+                    <Participant sid="s51" type="agent">菲尔·戴维森</Participant>
+                    <Denoter did="d51" type="perception">同意</Denoter>
+                </Event>
+                <Event eid="e52">
+                    <Object sid="s52">罗斯福号航母</Object>按
+                    <Means mid="m52">计划</Means>对
+                    <Location lid="l52">越南岘港</Location>进行
+                    <Denoter did="d52" type="action">访问</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e53" type="Thoughtevent">
+                    <Denoter did="d53" type="perception">考虑</Denoter>到
+                </Event>
+                <Event eid="e54" type="Thoughtevent">
+                    <Location lid="l54">越南</Location>
+                    <Time tid="t54" type="relTime">每年</Time>只
+                    <Denoter did="d54" type="perception">允许</Denoter>
+                </Event>
+                <Event eid="e55">一个国家的
+                    <Object sid="s55">一艘军舰</Object>
+                    <Denoter did="d55" type="action">访问</Denoter>其
+                    <Location lid="l55">港口</Location>
+                </Event>，
+                <Event eid="e56">所以
+                    <Object sid="s56">罗斯福号航母</Object>的此次
+                    <Denoter did="d56" type="action">访问</Denoter>
+                </Event>意义重大。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e57" type="Thoughtevent">海军作战部长海军上将
+                    <Participant sid="s57" type="agent">麦克·吉尔迪</Participant>补充
+                    <Denoter did="d57" type="statement">说</Denoter>
+                </Event>：
+                <Event eid="e58">“
+                    <Denoter did="d58" type="action">访问</Denoter>
+                    <Location lid="l58">越南</Location>的时候
+                </Event>，
+                <Event eid="e59">
+                    <Time tid="t59" type="relTime">当时</Time>
+                    <Location lid="l59">该国</Location>只有
+                    <Participant oid="o59" type="recipient">16例</Participant>
+                    <Denoter did="d59" type="stateChange">确诊</Denoter>病例，
+                </Event>而且都是在越南北部地区，
+                <Event eid="e60">
+                    <Participant oid="o60" type="recipient">患者</Participant>都已经在河内进行
+                    <Denoter did="d60" type="operation">隔离</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e61" type="Thoughtevent">因此印度-太平洋司令部司令
+                    <Participant sid="s61" type="agent">菲尔·戴维森</Participant>
+                    <Denoter did="d61" type="perception">同意</Denoter>
+                </Event>
+                <Event eid="e62">
+                    <Object sid="s62">罗斯福号航母</Object>按
+                    <Means mid="m62">计划</Means>
+                    <Denoter did="d62" type="action">访问</Denoter>
+                    <Location lid="l62">越南岘港</Location>
+                </Event>是一个明智的决定。
+            </Sentence>
+            <Sentence>
+                <Event eid="e63">在结束
+                    <Denoter did="d63" type="action">访问</Denoter>后
+                </Event>，
+                <Event eid="e64">
+                    <Object sid="s64">罗斯福号航母</Object>进行了
+                    <Time tid="t64" type="timeInterval">14天</Time>的海上
+                    <Denoter did="d64" type="operation">隔离</Denoter>
+                </Event>，今天刚好是隔离的第15天。
+            </Sentence>”
+            <Sentence>
+                <Event eid="e65" type="Thoughtevent">
+                    <Participant sid="s65" type="agent">他</Participant>
+                    <Denoter did="d65" type="statement">告诉</Denoter>
+                    <Participant oid="o65" type="recipient">USNI</Participant>
+                </Event>，
+                <Event eid="e66">
+                    <Location lid="l66">美国</Location>
+                    <Participant sid="s66" type="agent">海军</Participant>正在认真
+                    <Denoter did="d66" type="operation">研究</Denoter>
+                </Event>
+                <Event eid="e67">罗斯福号上的
+                    <Participant sid="s67">船员</Participant>是如何
+                    <Denoter did="d67" type="stateChange">染上</Denoter>这种
+                    <Object oid="o67">疾病</Object>的
+                </Event>，
+                <Event eid="e68">以便
+                    <Participant sid="s68" type="agent">海军</Participant>能够为目前部署在全球的100多艘
+                    <Object oid="o68">其他舰船</Object>
+                    <Denoter did="d68" type="operation">提供</Denoter>应对
+                    <Object oid="o68">措施</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>据悉，
+                <Event eid="e69">
+                    <Object sid="s69">罗斯福号航母</Object>于
+                    <Time tid="t69" type="relTime">3月5日</Time>到访
+                    <Location lid="l69">越南</Location>进行
+                    <Denoter did="d69" type="operation">访问</Denoter>
+                </Event>，
+                <Event eid="e70">随后频繁在
+                    <Location lid="l70">中国南海海域</Location>
+                    <Denoter did="d70" type="operation">活动</Denoter>
+                </Event>，
+                <Event eid="e71">带头在
+                    <Location lid="l71">南海</Location>
+                    <Denoter did="d71" type="operation">“秀肌肉”</Denoter>
+                </Event>，
+                <Event eid="e72">
+                    <Time tid="t72" type="relTime">3月15日</Time>与美利坚号两栖攻击舰等
+                    <Object sid="s72">舰船</Object>开展
+                    <Denoter did="d72" type="operation">联合演练</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e73">
+                    <Time tid="t73" type="relTime">3月18日</Time>，
+                    <Object sid="s73">罗斯福号</Object>
+                    <Denoter did="d73" type="movement">驶入</Denoter>
+                    <Location lid="l73">菲律宾海</Location>
+                </Event>，
+                <Event eid="e74">与美国空军的
+                    <Object sid="s74">B-52H轰炸机</Object>和
+                    <Object sid="s74">F-15C战斗机</Object>开展
+                    <Denoter did="d74" type="operation">联合训练</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e75">为
+                    <Denoter did="d75" type="operation">应对</Denoter>
+                    <Location lid="l75">舰上</Location>可能出现的
+                    <Object oid="o75">疫情</Object>
+                </Event>，
+                <Event eid="e76">
+                    <Location lid="l76">美国</Location>海军前沿部署的
+                    <Participant sid="s76" type="agent">医学防护部队</Participant>和
+                    <Participant sid="s76" type="agent">海军医疗研究中心的成员</Participant>
+                    <Time tid="76" type="relTime">数日前</Time>也
+                    <Denoter did="d76" type="movement">登上</Denoter>了
+                    <Location lid="l76">该航母</Location>
+                </Event>，
+                <Event eid="e77">
+                    <Denoter did="d77" type="action">携带</Denoter>多种
+                    <Object oid="o77">专业检测装备</Object>
+                </Event>
+                <Event eid="e78">
+                    <Denoter did="d78" type="movement">登舰</Denoter>
+                </Event>，
+                <Event eid="e79">这些设备包括
+                    <Object sid="s79">FilmArray测试仪</Object>、
+                    <Object sid="s79">ABI一站式RT-PCR检测机</Object>，都可以用于
+                    <Object oid="o79">新型冠状病毒</Object>的
+                    <Denoter did="d79" type="operation">快速检测</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e80" type="Thoughtevent">当时美国海军
+                    <Participant sid="s80" type="agent">第七舰队</Participant>
+                    <Denoter did="d80" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e81">
+                    <Participant sid="s81" type="agent">医护团队</Participant>
+                    <Denoter did="d81" type="movement">登舰</Denoter>
+                </Event>以确保
+                <Event eid="e82">
+                    <Participant sid="s82" type="agent">第七舰队</Participant>
+                    <Denoter did="d82" type="operation">保持</Denoter>
+                    <Object oid="o82">战备能力</Object>
+                </Event>的同时，
+                <Event eid="e83">还随时准备好
+                    <Denoter did="d83" type="operation">应对</Denoter>
+                    <Object oid="o83">可能爆发的疫情</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e84">
+                    <Participant oid="o84" type="recipient">医护团队</Participant>的成员由各种专业的
+                    <Participant sid="s84" type="agent">海军医学人员</Participant>
+                    <Denoter did="d84" type="action">组成</Denoter>
+                </Event>，包括微生物学家、医学实验室技术人员、医学防护官员、医学预防技术人员。
+            </Sentence>
+            <Sentence>而没想到
+                <Event eid="e85">这支防疫“
+                    <Participant sid="s85" type="agent">特种部队</Participant>”才刚
+                    <Denoter did="d85" type="movement">上舰</Denoter>
+                </Event>，就派上了用场。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e86" type="Thoughtevent">
+                    <Participant sid="s86" type="agent">麦克·吉尔迪</Participant>
+                    <Denoter did="d86" type="statement">说</Denoter>：
+                </Event>“在每一个案例中，只要我们在
+                <Event eid="87">
+                    <Location lid="l87">任何一艘船</Location>或是
+                    <Location lid="l87">任何一个单位</Location>发现
+                    <Object sid="s87">检测结果</Object>
+                    <Denoter did="d87" type="stateChange">出现阳性</Denoter>，
+                </Event>
+                <Event eid="e88">就会
+                    <Denoter did="d88" type="operation">尝试找出</Denoter>最佳的
+                    <Object oid="o88">应对方法</Object>
+                </Event>，哪些是应该做的，哪些是不应该做的
+                <Event eid="e89">，然后可以在整个舰队范围内
+                    <Denoter did="d89" type="operation">推广</Denoter>这些
+                    <Object oid="o89">措施</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e90" type="Polarity-negative">不过
+                    <Time tid="t90" type="relTime">目前</Time>还没有
+                    <Denoter did="d90" type="operation">找到</Denoter>
+                    <Object oid="o90">最好的方法</Object>
+                </Event>，只能说我们还在努力。”
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e91">
+                    <Participant sid="s91" type="agent">吉尔迪</Participant>还
+                    <Denoter did="d91" type="statement">说</Denoter>
+                </Event>：“
+                <Event eid="e92">
+                    <Participant sid="s92" type="agent">海军</Participant>对部署在弹道导弹核潜艇上的
+                    <Participant oid="o92" type="recipient">艇员们</Participant>格外
+                    <Denoter did="d92" type="action">关心</Denoter>
+                </Event>，
+                <Event eid="e93">这些
+                    <Object sid="s93">核潜艇</Object>在
+                    <Location lid="l93">全球</Location>
+                    <Denoter did="d93" type="operation">执行</Denoter>
+                    <Object oid="o93">核威慑任务</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e94">核潜艇
+                    <Participant sid="s94" type="agent">艇员</Participant>在
+                    <Denoter did="d94" type="movement">出海</Denoter>前
+                </Event>
+                <Event eid="e95">都接受了更为严格的
+                    <Denoter did="d95" type="operation">医疗检查</Denoter>
+                </Event>，包括14天的受限活动期，
+                <Event eid="e96">以
+                    <Denoter did="d96" type="action">确保</Denoter>
+                </Event>
+                <Event eid="e97" type="Polarity-negative">没有出现
+                    <Denoter did="d97" type="stateChange">感染</Denoter>症状。
+                </Event>
+            </Sentence>
+            <Sentence>”
+                <Event eid="e98" type="Thoughtevent">他明确
+                    <Denoter did="d98" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e99" type="Polarity-negative">
+                    <Location lid="l99">美国</Location>海军的
+                    <Participant oid="o99" type="recipient">潜艇部队</Participant>目前还没有出现新冠肺炎
+                    <Denoter did="d99" type="stateChange">确诊</Denoter>病例。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-e6"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eids="e10-e13"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e14" thoughtcontent_eids="e15-e17"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e15" thoughtcontent_eids="e16-e17"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e21" thoughtcontent_eids="e22-e26"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e22" thoughtcontent_eid="e23"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e27" thoughtcontent_eids="e28-e30"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e29" thoughtcontent_eid="e30"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e34" thoughtcontent_eids="e35-e36"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e40" thoughtcontent_eids="e41-e42"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e51" thoughtcontent_eid="e52"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e53" thoughtcontent_eids="e54-e56"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e57" thoughtcontent_eids="e58-e60"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e61" thoughtcontent_eid="e62"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e65" thoughtcontent_eids="e66-e68"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e80" thoughtcontent_eids="e81-e83"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e86" thoughtcontent_eids="e87-e89"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e91" thoughtcontent_eids="e92-e93"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e98" thoughtcontent_eid="e99"/>
+    <eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+    <eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+    <eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+    <eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+    <eRelation relType="Follow" bevent_eid="e24" aevent_eid="e26"/>
+    <eRelation relType="Follow" bevent_eid="e37" aevent_eids="e38-e39"/>
+    <eRelation relType="Follow" bevent_eid="e41" aevent_eid="e42"/>
+    <eRelation relType="Follow" bevent_eid="e43" aevent_eid="e44"/>
+    <eRelation relType="Follow" bevent_eid="e44" aevent_eid="e46"/>
+    <eRelation relType="Follow" bevent_eid="e48" aevent_eid="e49"/>
+    <eRelation relType="Follow" bevent_eid="e59" aevent_eid="e60"/>
+    <eRelation relType="Follow" bevent_eid="e63" aevent_eid="e64"/>
+    <eRelation relType="Follow" bevent_eid="e69" aevent_eids="e70-e72"/>
+    <eRelation relType="Follow" bevent_eid="e73" aevent_eid="e74"/>
+    <eRelation relType="Accompany" accompanya_eid="e76" accompanyb_eid="e77"/>
+    <eRelation relType="Follow" bevent_eid="e77" aevent_eid="e78"/>
+    <eRelation relType="Follow" bevent_eid="e87" aevent_eid="e88"/>
+    <eRelation relType="Follow" bevent_eid="e88" aevent_eid="e89"/>
+    <eRelation relType="Follow" bevent_eid="e95" aevent_eid="e94"/>
+    <eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+    <eRelation relType="Accompany" accompanya_eid="e31" accompanyb_eid="e32-e33"/>
+    <eRelation relType="Accompany" accompanya_eid="e35" accompanyb_eid="e36"/>
+    <eRelation relType="Accompany" accompanya_eid="e38" accompanyb_eid="e39"/>
+    <eRelation relType="Accompany" accompanya_eid="e58" accompanyb_eid="e59"/>
+    <eRelation relType="Composite" fevent_eid="e47" sevent_eids="e48-e50"/>
+    <eRelation relType="Composite" fevent_eid="e77" sevent_eids="e79"/>
+    <eRelation relType="Causal" cause_eid="e54-e55" effect_eid="e56"/>
+    <eRelation relType="Causal" cause_eid="e83" effect_eid="e81"/>
+</Body>

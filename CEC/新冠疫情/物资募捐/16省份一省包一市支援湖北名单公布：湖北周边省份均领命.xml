@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>16省份一省包一市支援湖北名单公布：湖北周边省份均领命</Title>
+    <ReportTime type="absTime">2020-02-08T00:00</ReportTime>澎湃新闻
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Denoter did="d1" type="operation">支援</Denoter>
+                    <Participant oid="o1" type="recipient">湖北</Participant>，
+                </Event>
+                <Event eid="e2">
+                    <Participant sid="s2,s3" type="agent">全国16个省份</Participant>各自
+                    <Denoter did="d2" type="action">领到</Denoter>
+                    <Object oid="o2">任务</Object>：
+                </Event>
+                <Event eid="e3">将以
+                    <Means mid="m3" type="method">“一省包一市”</Means>的方式
+                    <Denoter did="d3" type="operation">对口支援</Denoter>
+                    <Participant oid="o3" type="recipient">除武汉之外的湖北16城</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e4">根据
+                    <Participant sid="s4" type="agent">华商报</Participant>、
+                    <Participant sid="s4" type="agent">河南广播电视台新闻中心</Participant>等多方
+                    <Denoter did="d4" type="statement">消息</Denoter>，
+                </Event>
+                <Event eid="e5">此次
+                    <Object sid="s5">“一省包一市”具体名单</Object>
+                    <Denoter did="d5" type="statement">为</Denoter>：
+                </Event>
+                <Event eid="e6">
+                    <Participant sid="s6" type="agent">江苏</Participant>
+                    <Denoter did="d6" type="operation">对口支援</Denoter>
+                    <Participant oid="o6" type="recipient">孝感</Participant>、
+                </Event>
+                <Event eid="e7">
+                    <Participant sid="s7" type="agent">山东</Participant>
+                    <Denoter did="d7" type="operation">对口支援</Denoter>-
+                    <Participant oid="o7" type="recipient">黄冈</Participant>、
+                </Event>
+                <Event eid="e8">
+                    <Participant sid="s8" type="agent">河南</Participant>
+                    <Denoter did="d8" type="operation">对口支援</Denoter>-
+                    <Participant oid="o8" type="recipient">随州</Participant>、
+                </Event>
+                <Event eid="e9">
+                    <Participant sid="s9" type="agent">湖南</Participant>
+                    <Denoter did="d9" type="operation">对口支援</Denoter>-
+                    <Participant oid="o9" type="recipient">荆州</Participant>、
+                </Event>
+                <Event eid="e10">
+                    <Participant sid="s10" type="agent">河北</Participant>
+                    <Denoter did="d10" type="operation">对口支援</Denoter>-
+                    <Participant oid="o10" type="recipient">襄阳</Participant>、
+                </Event>
+                <Event eid="e11">
+                    <Participant sid="s11" type="agent">安徽</Participant>
+                    <Denoter did="d11" type="operation">对口支援</Denoter>-
+                    <Participant oid="o11" type="recipient">黄石</Participant>、
+                </Event>
+                <Event eid="e12">
+                    <Participant sid="s12" type="agent">重庆</Participant>
+                    <Denoter did="d12" type="operation">对口支援</Denoter>-
+                    <Participant oid="o12" type="recipient">宜昌</Participant>、
+                </Event>
+                <Event eid="e13">
+                    <Participant sid="s13" type="agent">浙江</Participant>
+                    <Denoter did="d13" type="operation">对口支援</Denoter>-
+                    <Participant oid="o13" type="recipient">荆门</Participant>、
+                </Event>
+                <Event eid="e14">
+                    <Participant sid="s14" type="agent">广东</Participant>
+                    <Denoter did="d14" type="operation">对口支援</Denoter>-
+                    <Participant oid="o14" type="recipient">鄂州</Participant>、
+                </Event>
+                <Event eid="e15">
+                    <Participant sid="s15" type="agent">江西</Participant>
+                    <Denoter did="d15" type="operation">对口支援</Denoter>-
+                    <Participant oid="o15" type="recipient">咸宁</Participant>、
+                </Event>
+                <Event eid="e16">
+                    <Participant sid="s16" type="agent">陕西</Participant>
+                    <Denoter did="d16" type="operation">对口支援</Denoter>-
+                    <Participant oid="o16" type="recipient">十堰</Participant>、
+                </Event>
+                <Event eid="e17">
+                    <Participant sid="s17" type="agent">四川</Participant>
+                    <Denoter did="d17" type="operation">对口支援</Denoter>-
+                    <Participant oid="o17" type="recipient">仙桃</Participant>、
+                </Event>
+                <Event eid="e18">
+                    <Participant sid="s18" type="agent">上海</Participant>
+                    <Denoter did="d18" type="operation">对口支援</Denoter>-
+                    <Participant oid="o18" type="recipient">天门</Participant>、
+                </Event>
+                <Event eid="e19">
+                    <Participant sid="s19" type="agent">贵州</Participant>
+                    <Denoter did="d19" type="operation">对口支援</Denoter>-
+                    <Participant oid="o19" type="recipient">恩施</Participant>、
+                </Event>
+                <Event eid="e20">
+                    <Participant sid="s20" type="agent">天津</Participant>
+                    <Denoter did="d20" type="operation">对口支援</Denoter>-
+                    <Participant oid="o20" type="recipient">神农架</Participant>、
+                </Event>
+                <Event eid="e21">
+                    <Participant sid="s21" type="agent">北京</Participant>
+                    <Denoter did="d21" type="operation">对口支援</Denoter>-
+                    <Participant oid="o21" type="recipient">潜江</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e22">
+                    <Participant sid="s22" type="agent">澎湃新闻</Participant>
+                    <Denoter did="d22" type="perception">注意到</Denoter>，
+                </Event>
+                <Event eid="e23">
+                    <Location lid="l23">与湖北交界</Location>的
+                    <Participant sid="s23" type="agent">河南</Participant>、
+                    <Participant sid="s23" type="agent">湖南</Participant>、
+                    <Participant sid="s23" type="agent">安徽</Participant>、
+                    <Participant sid="s23" type="agent">重庆</Participant>、
+                    <Participant sid="s23" type="agent">江西</Participant>、
+                    <Participant sid="s23" type="agent">陕西</Participant>等省份悉数
+                    <Denoter did="d23" type="action">参与</Denoter>
+                    <Object oid="o23">支援</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e24">此前，据
+                    <Participant sid="s24" type="agent">国家卫生健康委医政医管局监察专员郭燕红</Participant>
+                    <Time tid="t24" type="relTime">2月7日</Time>
+                    <Denoter did="d24" type="statement">介绍</Denoter>，
+                </Event>
+                <Event eid="e25">现在
+                    <Denoter did="d25" type="operation">建立</Denoter>了16个省支援武汉以外地市的一一
+                    <Object oid="o25">对口支援关系</Object>，
+                </Event>
+                <Event eid="e26">以
+                    <Means mid="m26" type="method">“一省包一市”</Means>的方式，全力
+                    <Denoter did="d26" type="operation">支持</Denoter>
+                    <Participant oid="o26" type="recipient">湖北省</Participant>
+                </Event>
+                <Event eid="e27">
+                    <Denoter did="d27" type="stateChange">加强</Denoter>病人的
+                    <Object oid="o27">救治工作</Object>，
+                </Event>
+                <Event eid="e28">
+                    <Denoter did="d28" type="action">维护</Denoter>好
+                    <Object oid="o28">人民群众的生命安全</Object>和
+                    <Object oid="o28">身体健康</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e29">
+                    <Participant sid="s29" type="agent">人民网</Participant>
+                    <Time tid="t29" type="relTime">2月8日</Time>刊发
+                    <Means mid="m29">评论文章</Means>
+                    <Denoter did="d29" type="statement">指出</Denoter>，
+                </Event>
+                <Event eid="e30">从
+                    <Participant sid="s30" type="agent">解放军战士</Participant>
+                    <Time tid="t30" type="relTime">除夕夜</Time>星夜
+                    <Denoter did="d30" type="movement">驰援</Denoter>，
+                </Event>
+                <Event eid="e31">到
+                    <Participant sid="s31" type="agent">各地医疗救助队</Participant>陆续
+                    <Denoter did="d31" type="movement">抵达</Denoter>，
+                </Event>
+                <Event eid="e32">
+                    <Time tid="t32" type="timeInterval">疫情防控阻击战打响以来</Time>，
+                    <Participant oid="o32" type="recipient">武汉市</Participant>是
+                    <Participant sid="s32" type="agent">全国</Participant>
+                    <Means mid="m32" type="method">上下全力</Means>
+                    <Denoter did="d32" type="operation">支援</Denoter>的目标。
+                </Event>
+            </Sentence>
+            <Sentence>然而，
+                <Event eid="e33">与中心城市“十万火急”的救助相比，湖北省的
+                    <Participant sid="s33" type="agent">中小城市和广大农村</Participant>地区
+                    <Denoter did="d33" type="perception">受到</Denoter>的
+                    <Object oid="o33">关注和支持相对不足</Object>，
+                </Event>
+                <Event eid="e34">
+                    <Object sid="s34">医疗资源的库存</Object>
+                    <Denoter did="d34" type="stateChange">紧张</Denoter>，
+                </Event>
+                <Event eid="e35">
+                    <Object sid="s35">患者的确诊和救治</Object>
+                    <Denoter did="d35" type="stateChange">存在</Denoter>一定
+                    <Object oid="o35">难度</Object>，
+                </Event>
+                <Event eid="e36">甚至有
+                    <Participant sid="s36" type="agent">县政府</Participant>在官网上
+                    <Denoter did="d36" type="action">打出</Denoter>了
+                    <Object oid="o36">“SOS”的紧急求助公告</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e37">
+                    <Object sid="s37">文章</Object>
+                    <Denoter did="d37" type="statement">称</Denoter>，
+                </Event>
+                <Event eid="e38">以
+                    <Means mid="m38" type="method">“一省包一市”</Means>的方式，全力
+                    <Denoter did="d38" type="operation">支持</Denoter>
+                    <Participant oid="o38"  type="recipient">湖北省</Participant>
+                </Event>
+                <Event eid="e39">
+                    <Denoter did="d39" type="stateChange">加强</Denoter>对患者的
+                    <Object oid="o39">救治工作</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>这对
+                <Event eid="e40">
+                    <Participant oid="o40" type="recipient">湖北省</Participant>不同地区疫情严峻、复杂、多发的态势来说，无疑是一支
+                    <Denoter did="d40" type="perception">强心剂</Denoter>，令人振奋。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e41">
+                    <Time tid="t41" type="timeInterval">截至2020年2月7日24时</Time>，
+                    <Participant sid="s41" type="agent">湖北省</Participant>
+                    <Denoter did="d41,d42,d43,d44,d45,d46,d47,d48,d49,d50,d51,d52,d53,d54,d55,d56,d57,d58" type="statement">累计报告</Denoter>新型冠状病毒感染的
+                    <Participant oid="o41" type="recipient">肺炎病例24953例</Participant>，
+                </Event>
+                <Event eid="e42">其中：
+                    <Location lid="l42">武汉市</Location>
+                    <Participant oid="o42" type="recipient">13603例</Participant>、
+                </Event>
+                <Event eid="e43">
+                    <Location lid="l43">孝感市</Location>
+                    <Participant oid="o43" type="recipient">2313例</Participant>、
+                </Event>
+                <Event eid="e44">
+                    <Location lid="l44">黄冈市</Location>
+                    <Participant oid="o44" type="recipient">2041例</Participant>、
+                </Event>
+                <Event eid="e45">
+                    <Location lid="l45">随州市</Location>
+                    <Participant oid="o45" type="recipient">953例</Participant>、
+                </Event>
+                <Event eid="e46">
+                    <Location lid="l46">荆州市</Location>
+                    <Participant oid="o46" type="recipient">941例</Participant>、
+                </Event>
+                <Event eid="e47">
+                    <Location lid="l47">襄阳市</Location>
+                    <Participant oid="o47" type="recipient">907例</Participant>、
+                </Event>
+                <Event eid="e48">
+                    <Location lid="l48">黄石市</Location>
+                    <Participant oid="o48" type="recipient">703例</Participant>、
+                </Event>
+                <Event eid="e49">
+                    <Location lid="l49">宜昌市</Location>
+                    <Participant oid="o49" type="recipient">633例</Participant>、
+                </Event>
+                <Event eid="e50">
+                    <Location lid="l50">荆门市</Location>
+                    <Participant oid="o50" type="recipient">588例</Participant>、
+                </Event>
+                <Event eid="e51">
+                    <Location lid="l51">鄂州市</Location>
+                    <Participant oid="o51" type="recipient">569例</Participant>、
+                </Event>
+                <Event eid="e52">
+                    <Location lid="l52">咸宁市</Location>
+                    <Participant oid="o52" type="recipient">476例</Participant>、
+                </Event>
+                <Event eid="e53">
+                    <Location lid="l53">十堰市</Location>
+                    <Participant oid="o53" type="recipient">438例</Participant>、
+                </Event>
+                <Event eid="e54">
+                    <Location lid="l54">仙桃市</Location>
+                    <Participant oid="o54" type="recipient">359例</Participant>、
+                </Event>
+                <Event eid="e55">
+                    <Location lid="l55">天门市</Location>
+                    <Participant oid="o55" type="recipient">179例</Participant>、
+                </Event>
+                <Event eid="e56">
+                    <Location lid="l56">恩施州</Location>
+                    <Participant oid="o56" type="recipient">160例</Participant>、
+                </Event>
+                <Event eid="e57">
+                    <Location lid="l57">潜江市</Location>
+                    <Participant oid="o57" type="recipient">80例</Participant>、
+                </Event>
+                <Event eid="e58">
+                    <Location lid="l58">神农架林区</Location>
+                    <Participant oid="o58" type="recipient">10例</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Composite" fevent_eid="e1" sevent_eids="e2-e3"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eid="e5-e21"/>
+    <eRelation relType="Composite" fevent_eid="e5" sevent_eids="e6-e21"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e22" thoughtcontent_eid="e23"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e24" thoughtcontent_eid="e25-e28"/>
+    <eRelation relType="Accompany" accompanya_eid="e25" accompanyb_eid="e26"/>
+    <eRelation relType="Accompany" accompanya_eid="e27" accompanyb_eid="e28"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e29" thoughtcontent_eid="e30-e32"/>
+    <eRelation relType="Composite" fevent_eid="e32" sevent_eids="e30-e31"/>
+    <eRelation relType="Composite" fevent_eid="e33" sevent_eids="e34-e36"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e37" thoughtcontent_eid="e38-e40"/>
+    <eRelation relType="Causal" cause_eid="e38" effect_eid="e39"/>
+    <eRelation relType="Accompany" accompanya_eid="e38" accompanyb_eid="e40"/>
+    <eRelation relType="Composite" fevent_eid="e41" sevent_eids="e42-e58"/>
+</Body>

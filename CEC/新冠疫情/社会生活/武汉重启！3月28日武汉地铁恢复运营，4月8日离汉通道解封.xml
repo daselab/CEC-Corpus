@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>武汉重启！3月28日武汉地铁恢复运营，4月8日离汉通道解封</Title>
+    <ReportTime type="absTime">2020-03-29T00:00</ReportTime>
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">据
+                    <Participant oid="o1" type="agent">央视</Participant>
+                    <Denoter did="d1" type="statement">报道</Denoter>
+                </Event>，
+                <Event eid="e2">随着
+                    <Location lid="l2">湖北武汉</Location>及国内
+                    <Object sid="s2">新冠疫情</Object>基本得到
+                    <Denoter did="d2" type="operation">控制</Denoter>
+                </Event>，
+                <Event eid="e3">封闭长达两个多月的
+                    <Location lid="l3">武汉</Location>，终于要
+                    <Denoter did="d3" type="operation">解封</Denoter>了
+                </Event>！
+            </Sentence>
+            <Sentence>
+                <Event eid="e4">
+                    <Time tid="t4" type="relTime">2020年3月25日</Time>起，
+                    <Location lid="l4">武汉</Location>已经
+                    <Denoter did="d4" type="operation">恢复</Denoter>部分
+                    <Object sid="s4">公交线路运营</Object>
+                </Event>；
+                <Event eid="e5">
+                    <Time tid="t" type="relTime">3月28日</Time>起，
+                    <Object oid="o5">武汉地铁</Object>
+                    <Denoter did="d5" type="stateChange">恢复运营</Denoter>
+                </Event>；
+                <Event eid="e6">
+                    <Time tid="t6">4月8日</Time>起，
+                    <Location lid="l6">武汉</Location>市将
+                    <Denoter did="d6" type="operation">解除</Denoter>离
+                    <Object sid="s6">汉离鄂通道管控措施</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e7">
+                    <Location lid="l7,l8">武汉</Location>这座英雄的城市将重新按下
+                    <Denoter did="d7" type="stateChange">启动</Denoter>键
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e8">
+                    <Object sid="s8">生活、工作秩序</Object>将
+                    <Means mid="m8">有序</Means>
+                    <Denoter did="d8" type="stateChange">恢复</Denoter>
+                </Event>，凤凰涅槃，浴火重生！
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9">
+                    <Time tid="t" type="absTime">2020年3月28日5时25分</Time>，
+                    <Location lid="l9">武汉</Location>
+                    <Participant oid="o9">地铁2号线首列列车B68</Participant>自常青车辆段缓缓
+                    <Denoter did="d9" type="action">驶出</Denoter>
+                </Event>，
+                <Event eid="e10">这是自
+                    <Time tid="t10" type="relTime">1月23日</Time>
+                    <Participant oid="o10,o12">武汉地铁</Participant>
+                    <Denoter did="d10" type="stateChange">暂停运营</Denoter>后
+                </Event>，
+                <Event eid="e11">发出的首班面向市民运营的地铁，也
+                    <Denoter did="d11" type="statement">标志</Denoter>着武汉地铁
+                </Event>
+                <Event eid="e12">正式
+                    <Denoter did="d12" type="stateChange">恢复运营</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e13">
+                    <Time tid="t13" type="relTime">3月28日</Time>，
+                    <Participant oid="o13" type="agent">武汉地铁头号车2号线首列列车B68</Participant>
+                    <Denoter did="d13">发车</Denoter>
+                </Event>，
+                <Event eid="e14">这意味着
+                    <Denoter did="d14" type="operation">停运</Denoter>
+                    <Time tid="t14" type="timeInterval">2个多月</Time>的
+                    <Object oid="o14,o15">武汉地铁</Object>
+                </Event>
+                <Event eid="e15">正式
+                    <Denoter did="d15" type="stateChange">恢复运营</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e16">从
+                    <Time tid="t16" type="relTime">3月28日</Time>起，
+                    <Location lid="l16">武汉市</Location>
+                    <Denoter did="d16" type="stateChange">恢复</Denoter>
+                    <Object sid="s16">轨道交通1号线、2号线、3号线、4号线、6号线、7号线运行</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e17">
+                    <Time tid="t17" type="relTime">2019年</Time>
+                    <Participant oid="o17">武汉地铁</Participant>网日均
+                    <Object oid="o17">客运量</Object>
+                    <Denoter did="d17" type="stateChange">超过300万乘次</Denoter>
+                </Event>，是中国城市中人流量比较大的，排名全国第六，仅次于北京、广州、上海、香港、深圳等五大一线城市。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e18">
+                    <Object oid="o18">疫情</Object>
+                    <Denoter did="d18" type="stateChange">缓解</Denoter>后
+                </Event>，
+                <Event eid="e19">
+                    <Location lid="l19">武汉地铁车厢</Location>
+                    <Denoter did="d19" type="stateChange">新增</Denoter>了
+                    <Participant sid="s19" oid="o20" type="agent">安全员</Participant>
+                </Event>，
+                <Event eid="e20">
+                    <Denoter did="d20">提醒</Denoter>
+                    <Participant sid="s20" type="recipient">乘客</Participant>
+                    <Object sid="s20">扫码、戴口罩、保持安全距离</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e21">
+                    <Object oid="o21">地铁电视</Object>全时段
+                    <Denoter did="d21" type="action">播放</Denoter>
+                    <Object sid="s21">防疫科普内容</Object>
+                </Event>，
+                <Event eid="e22">
+                    <Denoter did="d22" type="action">提醒</Denoter>
+                    <Participant sid="s22" oid="o23,o24,o25">市民</Participant>
+                </Event>
+                <Event eid="e23">
+                    <Denoter did="d23" type="action">勤洗手</Denoter>
+                </Event>、
+                <Event eid="e24">
+                    <Denoter did="d24" type="action">戴口罩</Denoter>
+                </Event>、
+                <Event eid="e25">
+                    <Denoter did="d25" type="action">多消毒</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e26">目前
+                    <Denoter did="d26" type="stateChange">恢复运营</Denoter>的
+                    <Location lid="l26">184座地铁车站</Location>
+                </Event>，
+                <Event eid="e27">已
+                    <Denoter did="d27" type="operation">安装</Denoter>
+                    <Object sid="s27">200台红外智能测温设备</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e28">
+                    <Object oid="o28">红外线智能测温系统</Object>
+                    <Denoter did="d28" type="operation">安装</Denoter>在车站的
+                    <Location lid="l28">安检点处</Location>
+                </Event>，
+                <Event eid="e29">
+                    <Means mid="m29">通过热成像仪远距离、非接触式地采集人体表面温度</Means>，可实现快速准确地
+                    <Object sid="s29">人群温度</Object>
+                    <Denoter did="d29" type="operation">测量</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e30">
+                    <Participant oid="o30,o31,o32" type="recipient">乘客</Participant>在
+                    <Denoter did="d30" type="action">接受</Denoter>
+                    <Object sid="s30">安检</Object>前
+                </Event>，
+                <Event eid="e31">必须先
+                    <Denoter did="d31" type="action">通过</Denoter>
+                    <Object sid="s31">体温检测</Object>
+                </Event>，
+                <Event eid="e32">确认无异常后方可
+                    <Denoter did="d32" type="action">进站乘车</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e33">如
+                    <Denoter did="d33" type="perception">发现</Denoter>
+                    <Participant sid="s33" type="recipient">体温异常者</Participant>
+                </Event>，
+                <Event eid="e34">将立即
+                    <Denoter did="d34" type="operation">引导</Denoter>
+                    <Participant sid="s34,s35,s36" type="recipient">乘客</Participant>至
+                    <Location lid="l35">复测区</Location>
+                </Event>，
+                <Event eid="e35">按规范要求临时
+                    <Denoter did="d35">隔离</Denoter>后
+                </Event>，
+                <Event eid="e36">再次
+                    <Denoter did="d36">测量</Denoter>
+                    <Object sid="s36">温度</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>提示：
+                <Event eid="e37">
+                    <Location lid="l37">武汉</Location>
+                    <Participant oid="o37" type="agent">市民</Participant>
+                    <Means mid="m37">出行之前需通过支付宝</Means>
+                    <Denoter did="d37" type="action">搜索</Denoter>
+                    <Object sid="s337">湖北省健康码</Object>
+                </Event>，并
+                <Event eid="e38">
+                    <Denoter did="d38" type="operation">获取</Denoter>
+                    <Object sid="s38">健康码“绿码”</Object>方可乘车
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e3"/>
+    <eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
+    <eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4-e6"/>
+    <eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+    <eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e12"/>
+    <eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e15"/>
+    <eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+    <eRelation relType="Follow" bevent_eid="e18" aevent_eid="e21"/>
+    <eRelation relType="Follow" bevent_eid="e19" aevent_eid="e20"/>
+    <eRelation relType="Composite" fevent_eid="e21" sevent_eids="e22-e25"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e21" thoughtcontent_eid="e22-e25"/>
+    <eRelation relType="Accompany" accompanya_eid="e21" accompanyb_eid="e22"/>
+    <eRelation relType="Accompany" accompanya_eid="e22" accompanyb_eid="e23"/>
+    <eRelation relType="Accompany" accompanya_eid="e24" accompanyb_eid="e25"/>
+    <eRelation relType="Follow" bevent_eid="e28" aevent_eid="e29"/>
+    <eRelation relType="Follow" bevent_eid="e31" aevent_eid="e32"/>
+    <eRelation relType="Follow" bevent_eid="e32" aevent_eid="e30"/>
+    <eRelation relType="Follow" bevent_eid="e33" aevent_eid="e34"/>
+    <eRelation relType="Follow" bevent_eid="e34" aevent_eid="e35"/>
+    <eRelation relType="Follow" bevent_eid="e37" aevent_eid="e38"/>
+</Body>

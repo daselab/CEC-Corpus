@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>钟南山：新冠病毒出现环境传人</Title>
+    <ReportTime type="absTime">2020-12-24T00:00</ReportTime>网易新闻
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1"type="Thoughtevent">
+                    <Time tid="t1" type="relTime">12月19日</Time>，共和国勋章获得者、中国工程院院士
+                    <Participant sid="s1" type="agent">钟南山</Participant>
+                    <Denoter did="d1" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e2">
+                    <Object sid="s2">新冠病毒</Object>的
+                    <Denoter did="d2" type="movement">环境传播</Denoter>
+                </Event>
+                <Event eid="e3">是
+                    <Denoter did="d3" type="stateChange">新出现</Denoter>的
+                    <Object oid="o3">课题</Object>，
+                </Event>
+                <Event eid="e4">需要
+                    <Participant sid="s4,s5" type="agent">科学家</Participant>
+                    <Denoter did="d4" type="operation">寻找</Denoter>
+                    <Object oid="o4">规律</Object>
+                </Event>
+                <Event eid="e5">并
+                    <Denoter did="d5" type="operation">研究</Denoter>
+                    <Object oid="o5">预防措施</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">
+                    <Time tid="t6" type="relTime">自7月起</Time>，
+                    <Location lid="l6">全国各地</Location>本土
+                    <Denoter did="d6" type="emergency">散发疫情</Denoter>“烽火四起”
+                </Event>，形势复杂。
+            </Sentence>
+            <Sentence>
+                <Event eid="e7" type="Thoughtevent">
+                    <Time tid="t7" type="relTime">11月25日</Time>，在
+                    <Location lid="l7">北京</Location>召开的国务院联防联控
+                    <Participant sid="s7" type="agent">新闻发布会</Participant>
+                    <Denoter did="d7" type="statement">透露</Denoter>
+                </Event>，
+                <Event eid="e8">
+                    <Time tid="t8" type="timeInterval">近30天</Time>，
+                    <Location lid="l8">全国</Location>累计新增本土
+                    <Denoter did="d8" type="stateChange">确诊</Denoter>
+                    <Participant oid="o8" type="recipient">病例98例</Participant>，
+                </Event>是此前30天的7.5倍。
+            </Sentence>
+            <Sentence>
+                <Event eid="e9">
+                    <Time tid="t9" type="relTime">今日</Time>，
+                    <Location lid="l91">四川成都</Location>，
+                    <Location lid="l92">黑龙江省绥芬河市</Location>、
+                    <Location lid="l93">东宁市</Location>，
+                    <Location lid="l94">辽宁大连</Location>又报告出现
+                    <Denoter did="d9" type="emergency">本土疫情</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10" type="Thoughtevent">
+                    <Participant sid="s10" type="agent">钟南山</Participant>
+                    <Denoter did="d10" type="statement">指出</Denoter>
+                </Event>，
+                <Event eid="e11">国内
+                    <Object sid="s11">疫情防控</Object>
+                    <Denoter did="d11" type="stateChange">面临</Denoter>
+                    <Object oid="o11">两大风险</Object>，
+                </Event>
+                <Event eid="e12">一是
+                    <Denoter did="d12" type="movement">境外输入</Denoter>
+                </Event>，
+                <Event eid="e13">二是
+                    <Object sid="s13">新冠病毒</Object>通过
+                    <Means mid="m13">环境</Means>进行
+                    <Denoter did="d13" type="movement">传播</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>“冷链外包装的病毒会不会使人感染？病毒浓度达到多高会出现感染？病毒能够存活多少天？
+                <Event eid="e14">这些新问题都需要
+                    <Participant sid="s14,s15">我们</Participant>
+                    <Denoter did="d14" type="operation">找出</Denoter>
+                    <Object oid="o14">规律</Object>，
+                </Event>
+                <Event eid="e15">
+                    <Denoter did="d15" type="operation">研究</Denoter>
+                    <Object oid="o15">预防措施</Object>。
+                </Event>”
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e16">
+                  	<Time type="timeInterval" tid="t16">冬春季</Time>是
+                    <Denoter did="d16" type="emergency">流感多发</Denoter>季节，
+                </Event>
+                <Event eid="e17">这对
+                    <Participant oid="o17" type="recipient">医生</Participant>准确鉴别和诊断
+                    <Denoter did="d17" type="action">提出</Denoter>了
+                    <Object oid="o17">更高要求</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e18" type="Thoughtevent">
+                    <Participant sid="s18" type="agent">钟南山</Participant>
+                    <Denoter did="d18" type="statement">说</Denoter>
+                </Event>，“
+                <Event eid="e19">
+                    <Participant sid="s19,s20" type="agent">流感病人</Participant>出现
+                    <Denoter did="d19" type="stateChange">发烧流涕</Denoter>
+                </Event>、
+                <Event eid="e20">
+                    <Denoter did="d20" type="stateChange">全身疲劳</Denoter>
+                </Event>、
+                <Event eid="e21">
+                    <Denoter did="d21" type="stateChange">肌肉酸痛</Denoter>
+                </Event>等症状，这与新冠肺炎的症状是一样的，到底是流感还是新冠肺炎？一旦诊断错了就不得了。
+            </Sentence>
+            <Sentence>
+                <Event eid="e22">这给
+                    <Participant oid="o22" type="recipient">我们</Participant>
+                    <Denoter did="d22" type="action">提出</Denoter>了
+                    <Object oid="o22">更高的要求</Object>
+                </Event>。”
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e5"/>
+    <eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eid="e8"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11-e13"/>
+    <eRelation relType="Composite" fevent_eid="e11" sevent_eids="e12-e13"/>
+    <eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e18" thoughtcontent_eids="e19-e21"/>
+</Body>

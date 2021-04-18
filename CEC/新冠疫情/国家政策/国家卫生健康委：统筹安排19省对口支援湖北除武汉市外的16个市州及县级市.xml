@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>国家卫生健康委：统筹安排19省对口支援湖北除武汉市外的16个市州及县级市</Title>
+    <ReportTime type="absTime">2020-02-11T00:00</ReportTime>新华网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Participant sid="s1" type="agent">记者</Participant>
+                    <Time tid="t1" type="relTime">10日</Time>从
+                    <Location lid="l1" type="destination">国家卫生健康委员会</Location>
+                    <Denoter did="d1" type="perception">获悉</Denoter>，
+                </Event>为
+                <Event eid="e2">坚决
+                    <Denoter did="d2" type="operation">落实</Denoter>党中央、国务院
+                    <Object oid="o2">决策</Object>
+                    <Object oid="o2">部署</Object>，
+                </Event>
+                <Event eid="e3">全力
+                    <Denoter did="d3" type="operation">支援</Denoter>
+                    <Location lid="l3" type="destination">湖北省</Location>
+                </Event>
+                <Event eid="e4">
+                    <Denoter did="d4,d6" type="operation">开展</Denoter>
+                </Event>
+                <Event eid="e5">
+                    <Object oid="o5">新冠肺炎</Object>
+                    <Denoter did="d5" type="operation">防治</Denoter>
+                </Event>
+                <Event eid="e6">
+                    <Object oid="o6">工作</Object>，
+                </Event>
+                <Event eid="e7">坚决
+                    <Denoter did="d7" type="operation">打赢</Denoter>疫情防控
+                    <Object oid="o7">阻击战</Object>，
+                </Event>
+                <Event eid="e8">
+                    <Participant sid="s8" type="agent">国家卫生健康委</Participant>
+                    <Denoter did="d8" type="operation">举</Denoter>
+                    <Means mid="m8">全国之力</Means>，
+                </Event>
+                <Event eid="e9">
+                    <Denoter did="d9" type="operation">集</Denoter>
+                    <Means mid="m9">优质资源</Means>，
+                </Event>
+                <Event eid="e10">
+                    <Denoter did="d10,d14" type="operation">建立</Denoter>
+                </Event>
+                <Event eid="e11">省际
+                    <Denoter did="d11,d13" type="operation">对口支援</Denoter>
+                    <Location lid="l11" type="destination">湖北省除武汉以外地市</Location>
+                </Event>
+                <Event eid="e12">
+                    <Object oid="o12">新冠肺炎</Object>医疗
+                    <Denoter did="d12" type="operation">救治</Denoter>
+                </Event>
+                <Event eid="e13">
+                    <Object oid="o13">工作</Object>
+                </Event>
+                <Event eid="e14">
+                    <Object oid="o14">机制</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph></Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e15">
+                    <Participant sid="s15,s16,s18" type="agent">国家卫生健康委</Participant>充分
+                    <Denoter did="d15" type="perception">考虑</Denoter>
+                    <Object oid="o15">疫情现状</Object>、
+                    <Object oid="o15">人力资源储备</Object>及受援地市
+                    <Object oid="o15">医疗资源缺口</Object>等情况，
+                </Event>在原有外省医疗队支援的基础上，
+                <Event eid="e16">按照
+                    <Means mid="m16">原有关系不变、应补尽补的原则</Means>，
+                    <Denoter did="d16" type="operation">统筹安排</Denoter>
+                </Event>
+                <Event eid="e17">
+                    <Participant sid="s17" type="agent">19个省份</Participant>
+                    <Denoter did="d17" type="operation">对口支援</Denoter>湖北省除武汉市外的
+                    <Participant oid="o17" type="recipient">16个市州及县级市</Participant>，
+                </Event>
+                <Event eid="e18">
+                    <Denoter did="d18" type="perception">确定</Denoter>以下对口
+                    <Object oid="o18">支援关系</Object>：
+                </Event>
+                <Event eid="e19">
+                    <Participant sid="s19" type="agent">重庆市</Participant>、
+                    <Participant sid="s19" type="agent">黑龙江省</Participant>
+                    <Denoter did="d19" type="operation">支援</Denoter>
+                    <Participant oid="o19" type="recipient">孝感市</Participant>，
+                </Event>
+                <Event eid="e20">
+                    <Participant sid="s20" type="agent">山东省</Participant>、
+                    <Participant sid="s20" type="agent">湖南省</Participant>
+                    <Denoter did="d20" type="operation">支援</Denoter>
+                    <Participant oid="o20" type="recipient">黄冈市</Participant>，
+                </Event>
+                <Event eid="e21">
+                    <Participant sid="s21" type="agent">江西省</Participant>
+                    <Denoter did="d21" type="operation">支援</Denoter>
+                    <Participant oid="o21" type="recipient">随州市</Participant>，
+                </Event>
+                <Event eid="e22">
+                    <Participant sid="s22" type="agent">广东省</Participant>、
+                    <Participant sid="s22" type="agent">海南省</Participant>
+                    <Denoter did="d22" type="operation">支援</Denoter>
+                    <Participant oid="o22" type="recipient">荆州市</Participant>，
+                </Event>
+                <Event eid="e23">
+                    <Participant sid="s23" type="agent">辽宁省</Participant>、
+                    <Participant sid="s23" type="agent">宁夏回族自治区</Participant>
+                    <Denoter did="d23" type="operation">支援</Denoter>
+                    <Participant oid="o23" type="recipient">襄阳市</Participant>，
+                </Event>
+                <Event eid="e24">
+                    <Participant sid="s24" type="agent">江苏省</Participant>
+                    <Denoter did="d24" type="operation">支援</Denoter>
+                    <Participant oid="o24" type="recipient">黄石市</Participant>，
+                </Event>
+                <Event eid="e25">
+                    <Participant sid="s25" type="agent">福建省</Participant>
+                    <Denoter did="d25" type="operation">支援</Denoter>
+                    <Participant oid="o25" type="recipient">宜昌市</Participant>，
+                </Event>
+                <Event eid="e26">
+                    <Participant sid="s26" type="agent">内蒙古自治区</Participant>、
+                    <Participant sid="s26" type="agent">浙江省</Participant>
+                    <Denoter did="d26" type="operation">支援</Denoter>
+                    <Participant oid="o26" type="recipient">荆门市</Participant>，
+                </Event>
+                <Event eid="e27">
+                    <Participant sid="s27" type="agent">山西省</Participant>
+                    <Denoter did="d27" type="operation">支援</Denoter>
+                    <Participant oid="o27" type="recipient">仙桃</Participant>、
+                    <Participant oid="o27" type="recipient">天门</Participant>、
+                    <Participant oid="o27" type="recipient">潜江</Participant>3个县级市，
+                </Event>
+                <Event eid="e28">
+                    <Participant sid="s28" type="agent">贵州省</Participant>
+                    <Denoter did="d28" type="operation">支援</Denoter>
+                    <Participant oid="o28" type="recipient">鄂州市</Participant>，
+                </Event>
+                <Event eid="e29">
+                    <Participant sid="s29" type="agent">云南省</Participant>
+                    <Denoter did="d29" type="operation">支援</Denoter>
+                    <Participant oid="o29" type="recipient">咸宁市</Participant>，
+                </Event>
+                <Event eid="e30">
+                    <Participant sid="s30" type="agent">广西壮族自治区</Participant>
+                    <Denoter did="d30" type="operation">支援</Denoter>
+                    <Participant oid="o30" type="recipient">十堰市</Participant>，
+                </Event>
+                <Event eid="e31">
+                    <Participant sid="s31" type="agent">天津市</Participant>
+                    <Denoter did="d31" type="operation">支援</Denoter>
+                    <Participant oid="o31" type="recipient">恩施土家族苗族自治州</Participant>，
+                </Event>
+                <Event eid="e32">
+                    <Participant sid="s32" type="agent">河北省</Participant>
+                    <Denoter did="d32" type="operation">支援</Denoter>
+                    <Participant oid="o32" type="recipient">神农架林区</Participant>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph></Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e33">
+                    <Participant sid="s33" type="agent">国家卫生健康委</Participant>
+                    <Denoter did="d33" type="action">要求</Denoter>各
+                    <Participant oid="o33" type="recipient">支援省份</Participant>
+                </Event>
+                <Event eid="e34">
+                    <Participant sid="s34,s35,s36,s37,s38,s39,s40,s41,s42,s43" type="agent">支援省份</Participant>切实
+                    <Denoter did="d34" type="stateChange">提高</Denoter>
+                    <Object oid="o34">政治站位</Object>，
+                </Event>
+                <Event eid="e35">和
+                    <Participant sid="s35" type="recipient">受援地市</Participant>共同
+                    <Denoter did="d35" type="operation">协商</Denoter>，
+                </Event>
+                <Event eid="e36">
+                    <Denoter did="d36" type="stateChange">确定</Denoter>
+                    <Object oid="o36">支援安排</Object>，
+                </Event>
+                <Event eid="e37">以
+                    <Denoter did="d37" type="operation">解决</Denoter>
+                    <Location lid="l37" type="destination">当地</Location>
+                    <Object oid="o37">医疗卫生资源缺口</Object>为基础，
+                </Event>
+                <Event eid="e38">
+                    <Denoter did="d38" type="operation">组建</Denoter>由医护、管理、疾控专业人员组成的
+                    <Object oid="o38">支援队伍</Object>，
+                </Event>
+                <Event eid="e39">
+                    <Means mid="m39">实地支持</Means>与
+                    <Means mid="m39">远程医疗服务</Means>相结合，多措并举
+                    <Denoter did="d39" type="operation">开展</Denoter>对口
+                    <Object oid="o39">支援工作</Object>，
+                </Event>
+                <Event eid="e40">同时，要
+                    <Denoter did="d40" type="operation">兼顾</Denoter>
+                    <Location lid="l40" type="destination">本地区</Location>
+                    <Object oid="o40">疫情防控需求</Object>，
+                </Event>
+                <Event eid="e41">共同
+                    <Denoter did="d41" type="operation">做好</Denoter>
+                    <Object oid="o41">医疗救治工作</Object>，
+                </Event>
+                <Event eid="e42">努力
+                    <Denoter did="d42" type="stateChange">提高</Denoter>
+                    <Object oid="o42">收治率</Object>、
+                    <Object oid="o42">治愈率</Object>，
+                </Event>
+                <Event eid="e43">
+                    <Denoter did="d43" type="stateChange">降低</Denoter>
+                    <Object oid="o43">感染率</Object>、
+                    <Object oid="o43">病死率</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Composite" fevent_eid="e2-e7" sevent_eids="e8-e14"/>
+    <eRelation relType="Causal" cause_eid="e15" effect_eid="e16-e17"/>
+    <eRelation relType="Composite" fevent_eid="e17" sevent_eids="e19-e32"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e33" thoughtcontent_eid="e34-e43"/>
+    <eRelation relType="Composite" fevent_eid="e37" sevent_eids="e38-e39"/>
+</Body>

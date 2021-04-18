@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>快讯！邮轮“钻石公主”号上约100人称身体不适</Title>
+    <ReportTime type="absTime">2020-02-09T00:00</ReportTime>环球时报
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Participant sid="s1" type="agent">日本共同社</Participant>
+                    <Time tid="t1" type="relTime">9日</Time>援引日本厚生劳动省消息
+                    <Denoter did="d1" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e2">
+                    <Location lid="l2">邮轮“钻石公主”号</Location>上约有
+                    <Participant sid="s2" type="agent">100名乘客船员</Participant>称有发烧等
+                    <Denoter did="d2" type="emergency">身体不适</Denoter>
+                </Event>，将
+                <Event eid="e3">把
+                    <Object sid="s3" type="agent">他们</Object>
+                    <Denoter did="d3" type="stateChange">作为</Denoter>
+                    <Object oid="o3" type="recipient">新的新冠病毒检查对象</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>此外，
+                <Event eid="e4">另有
+                    <Object oid="o4" type="recipient">数十人</Object>将
+                    <Denoter did="d4" type="operation">接受检查</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">截至
+                    <Time tid="t5" type="relTime">2月8日上午</Time>，停靠在
+                    <Location lid="l5" type="destination">日本横滨</Location>的“钻石公主”号邮轮的
+                    <Participant sid="s5" type="agent">乘客和船员中64人</Participant>被
+                    <Denoter did="d5" type="operation">确诊</Denoter>为
+                    <Object oid="o5" type="recipient">新型冠状病毒感染的肺炎</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e6">该
+                    <Object sid="s6,s7,s8,s9,s10" type="agent">游轮</Object>于
+                    <Time tid="t6" type="relTime">1月20日</Time>从
+                    <Location lid="l6" type="origin">横滨</Location>
+                    <Denoter did="d6" type="movement">出发</Denoter>
+                </Event>，
+                <Event eid="e7">
+                    <Time tid="t7" type="relTime">25日</Time>
+                    <Denoter did="d7" type="movement">抵达</Denoter>
+                    <Location lid="l7" type="destination">中国香港</Location>
+                </Event>
+            </Sentence>。
+            <Sentence>之后
+                <Event eid="e8">
+                    <Denoter did="d8" type="movement">前往</Denoter>
+                    <Location lid="l8" type="destination">越南</Location>等地
+                </Event>，
+                <Event eid="e9">
+                    <Time tid="t9" type="relTime">2月1日</Time>
+                    <Denoter did="d9" type="stateChange">停靠</Denoter>在
+                    <Location lid="l9" type="destination">那霸</Location>
+                </Event>，最后
+                <Event eid="e10">
+                    <Denoter did="d10" type="movement">抵达</Denoter>
+                    <Location lid="l10" type="destination">横滨</Location>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e11">
+                    <Participant sid="s11,s12,s13" type="agent">一名香港乘客</Participant>于
+                    <Location lid="l11" type="origin">横滨</Location>
+                    <Denoter did="d11" type="action">登船</Denoter>
+                </Event>，
+                <Event eid="e12">从
+                    <Location lid="l12" type="destination">香港</Location>
+                    <Denoter did="d12" type="action">下船</Denoter>
+                </Event>后被
+                <Event eid="e13">
+                    <Denoter did="d13" type="operation">确诊</Denoter>
+                    <Object oid="o13" type="recipient">感染</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e14">
+                    <Time tid="t14" type="relTime">2月3日晚</Time>
+                    <Object sid="s14,s15" type="agent">游轮</Object>
+                    <Denoter did="d14" type="movement">到达</Denoter>
+                    <Location lid="l14" type="destination">横滨</Location>
+                </Event>后
+                <Event eid="e15">开始了
+                    <Means mid="m15" type="method">大规模</Means>
+                    <Denoter did="d15" type="operation">检疫</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+</Body>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e4"/>
+<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10"/>
+<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+<eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+<eRelation relType="Follow" bevent_eid="e14" aevent_eid="e15"/>

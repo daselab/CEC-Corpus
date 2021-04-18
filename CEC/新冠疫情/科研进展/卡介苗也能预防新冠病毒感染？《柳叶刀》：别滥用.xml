@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>卡介苗也能预防新冠病毒感染？《柳叶刀》：别滥用</Title>
+    <ReportTime type="absTime">2021-01-19T00:00</ReportTime>新华网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Object oid="o1">新冠疫情</Object>还在
+                    <Denoter did="d1" type="action">蔓延</Denoter>
+                </Event>，
+                <Event eid="e2">
+                    <Participant oid="o2" type="agent">多国</Participant>都在
+                    <Denoter did="d2" type="operation">研发</Denoter>针对
+                    <Object sid="s2">新冠病毒的特效疫苗</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e3">与此同时，
+                    <Participant oid="o3" type="agent">专家</Participant>也
+                    <Denoter did="d3" type="perception">注意</Denoter>到一些
+                    <Object sid="s3" oid="o3">“老”疫苗</Object>
+                </Event>
+                <Event eid="e4">也可能
+                    <Denoter did="d4" type="operation">发挥</Denoter>
+                    <Object sid="s4">预防作用</Object>
+                </Event>，
+                <Event eid="e5">原本用于
+                    <Denoter did="d5" type="operation">预防</Denoter>
+                    <Object sid="s5">结核病</Object>的
+                    <Object oid="o5">卡介苗</Object>
+                </Event>就是其中一个。
+            </Sentence>
+            <Sentence>
+                <Event eid="e6">
+                    <Object oid="o6">多项调查和研究</Object>
+                    <Denoter did="d6" type="statement">认为</Denoter>
+                </Event>，
+                <Event eid="e7">
+                    <Object oid="o6">卡介苗</Object>很可能
+                    <Denoter did="d6" type="operation">发挥</Denoter>了
+                    <Object oid="o6">减缓新冠病毒传播的作用</Object>
+                </Event>，
+                <Event eid="e8">近日发表在
+                    <Object oid="o8">美国《国家科学院学报》上的新成果</Object>进一步
+                    <Denoter did="d8" type="action">支持</Denoter>了这项
+                    <Object sid="s8">结论</Object>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e9">
+                    <Time tid="t9">1921年</Time>
+                    <Denoter did="d9" type="stateChange">问世</Denoter>的
+                    <Object oid="o9">卡介苗</Object>
+                </Event>
+                <Event eid="e10">是已
+                    <Denoter did="d10" type="action">上市</Denoter>的唯一一种
+                    <Object oid="o10">抗结核病疫苗</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e11">
+                    <Location lid="l11">在大部分结核病高发国家</Location>，
+                    <Participant sid="s11" type="recipient">新生儿</Participant>出生不久就要
+                    <Denoter did="d11" type="operation">接种</Denoter>
+                    <Object sid="s11">卡介苗</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e12">新冠疫情暴发以来的一些
+                    <Object oid="o12">流行病学调查数据</Object>
+                    <Denoter did="d12" type="operation">显示</Denoter>
+                </Event>，
+                <Event eid="e13">推行
+                    <Object oid="o13">卡介苗</Object>
+                    <Denoter did="d13" type="operation">强制接种</Denoter>政策的
+                    <Participant oid="o13,o14">国家</Participant>
+                </Event>，
+                <Event eid="e14">
+                    <Object oid="o14">新冠病毒感染率和病亡率</Object>相对较
+                    <Denoter did="d14" type="stateChange">低</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e15">然而，
+                    <Object oid="o15">各国国情</Object>
+                    <Denoter did="d15"type="action" >存在</Denoter>
+                    <Object oid="o15">广泛差异</Object>
+                </Event>，
+                <Event eid="e16">在
+                    <Means mid="m16">社会经济状况、人口结构、农村和城市环境、新冠“大流行”波及时间、检测标准和检测数量以及国家防疫策略等多种因素干扰下</Means>，这些
+                    <Object oid="o16">调查数据</Object>
+                    <Denoter did="d16" type="operation">难以验证</Denoter>
+                </Event>，因而充满争议。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e17">
+                    <Participant oid="o17" type="agent">美国弗吉尼亚理工大学、国家过敏与传染病研究所等机构研究人员</Participant>
+                    <Means mid="m17">近日在《国家科学院学报》上发表报告</Means>
+                    <Denoter did="d17" type="statement">说</Denoter>
+                </Event>，
+                <Event eid="e18">
+                    <Participant oid="o18" type="agent">他们</Participant>
+                    <Denoter did="d18" type="action">回顾</Denoter>了
+                    <Object sid="s18">潜在生物学证据</Object>
+                </Event>
+                <Event eid="e19">
+                    <Object oid="o19">卡介苗</Object>
+                    <Denoter did="d19">预防</Denoter>
+                    <Object sid="s18">新冠病毒</Object>感染
+                </Event>的潜在生物学证据，并通过
+                <Event eid="e20">
+                    <Denoter did="d20" type="stateChange">减少</Denoter>
+                    <Object sid="s20">潜在干扰因素</Object>
+                </Event>进一步
+                <Event eid="e21">
+                    <Denoter did="d21" type="action">完善</Denoter>了
+                    <Object sid="s21">相关流行病学数据分析</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e22">
+                    <Object oid="o22">结果</Object>
+                    <Denoter did="d22" type="perception">发现</Denoter>
+                </Event>，
+                <Event eid="e23">
+                    <Location lid="l23">在国情相似的各欧洲国家</Location>，
+                    <Object oid="o23">一个国家的卡介苗接种率与新冠病亡率</Object>之间存在
+                    <Denoter did="d23" type="operation">显著相关</Denoter>性，卡介苗接种率每提高约10%，新冠病亡率就会降低10.4%
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e24">
+                    <Object oid="o24">这一结果</Object>
+                    <Denoter did="d24" >表明</Denoter>
+                </Event>，
+                <Event eid="e25">
+                    <Object oid="o25">卡介苗</Object>可能对
+                    <Object sid="s25">新冠病毒感染</Object>
+                    <Denoter did="d25" type="operation">确有保护作用</Denoter>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e26">不过
+                    <Participant oid="o26" type="agent">研究人员</Participant>
+                    <Denoter did="d26" type="statement">强调</Denoter>
+                </Event>，
+                <Event eid="e27">这项
+                    <Object oid="o27">“大尺度”研究</Object>还
+                    <Denoter did="d27" type="action">存在</Denoter>
+                    <Object sid="s27">局限性</Object>
+                </Event>，
+                <Event eid="e28">因此仍应
+                    <Denoter did="d28" type="action">持</Denoter>
+                    <Object sid="s28">谨慎态度</Object>
+                </Event>，
+                <Event eid="e29">需要通过临床试验进一步
+                    <Denoter did="d29" type="action">证实</Denoter>该
+                    <Object sid="s29">研究的结论</Object>
+                </Event>，
+                <Event eid="e30">并
+                    <Denoter did="d30" type="operation">确认</Denoter>
+                    <Object sid="s30">卡介苗接种和预防新冠重症之间的因果关联</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>关于卡介苗对新冠病毒传播的影响，
+                <Event eid="e31">
+                    <Time tid="t31" type="timeInterval">此前</Time>已有
+                    <Participant oid="o31">团队和机构</Participant>
+                    <Denoter did="d31" type="action">给出</Denoter>了
+                    <Object sid="s31">差异化的结论</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e32">
+                    <Participant oid="o32" type="agent">美国约翰斯·霍普金斯大学彭博公共卫生学院等机构研究人员</Participant>
+                    <Time tid="t32" type="relTime">4月初</Time>在预印本网站上发文
+                    <Denoter did="d32" type="statement">说</Denoter>
+                </Event>，
+                <Event eid="e33">
+                    <Participant oid="o33" type="agent">他们</Participant>通过建立
+                    <Object sid="s33">回归模型</Object>
+                    <Denoter did="d33" type="perception">分析发现</Denoter>
+                </Event>，
+                <Event eid="e34">
+                    <Object oid="o34">广泛接种卡介苗的国家新冠病亡率</Object>大幅
+                    <Denoter did="d34" type="action">低于</Denoter>
+                    <Object sid="s34">不接种卡介苗的国家</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e35">
+                    <Participant oid="o35" type="agent">研究人员</Participant>
+                    <Denoter did="d35" type="action">考虑</Denoter>了
+                    <Object sid="s35">国家经济状况、人口年龄结构等影响因素</Object>
+                </Event>，
+                <Event eid="e36">但
+                    <Object oid="o36">文章</Object>仍
+                    <Denoter did="d36" type="action">有待</Denoter>
+                    <Object sid="s36">同行评审</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e37">
+                    <Participant oid="o37" type="agent">世界卫生组织</Participant>在
+                    <Time tid="t37" type="relTime">4月13日</Time>发布的
+                    <Means mid="m37">每日疫情报告</Means>中
+                    <Denoter did="d37" type="statement">指出</Denoter>
+                </Event>，
+                <Event eid="e38">迄今还没有
+                    <Object oid="o38">证据</Object>
+                    <Denoter did="d38" type="statement">表明</Denoter>
+                </Event>
+                <Event eid="e39">
+                    <Object oid="o39">卡介苗</Object>可
+                    <Denoter did="d39" type="operation">保护</Denoter>
+                    <Object sid="s39">人们</Object>免受新冠病毒感染
+                </Event>，因此不推荐通过接种卡介苗预防新冠。
+            </Sentence>
+            <Sentence>不过这一早期观点可能随着更多新发现而修正。</Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>随着相关研究和讨论越来越多，
+                <Event eid="e40">
+                    <Participant oid="o40" type="agent">多国</Participant>已
+                    <Denoter did="d40" type="stateChange">启动</Denoter>
+                    <Object sid="s40">临床试验</Object>来评估卡介苗预防新冠感染效果
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e41">
+                    <Participant oid="o41" type="agent">澳大利亚默多克儿童研究所</Participant>
+                    <Denoter did="d41" type="operation">负责</Denoter>的一项
+                    <Object sid="s41">临床试验</Object>
+                </Event>中，
+                <Event eid="e42">
+                    <Participant oid="o42" type="agent">研究人员</Participant>从澳各地
+                    <Denoter did="d42" type="operation">招募</Denoter>到
+                    <Participant sid="s42" type="recipient">2500多名医护人员</Participant>
+                </Event>，
+                <Event eid="e43">
+                    <Means mid="m43">采用多点随机对照试验</Means>的方法，以
+                    <Denoter did="d43" type="operation">测试</Denoter>
+                    <Object sid="s43">卡介苗</Object>
+                </Event>
+                <Event eid="e44">是否能在高暴露风险下帮助
+                    <Denoter did="d44" type="action">抵御</Denoter>
+                    <Object sid="s44">新冠病毒</Object>感染
+                </Event>，
+                <Event eid="e45">或感染后
+                    <Denoter did="d45" type="action">不至于发展</Denoter>
+                    <Object sid="s45">成重症</Object>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e46">据
+                    <Participant oid="o46" type="agent">媒体</Participant>
+                    <Denoter did="d46" type="statement">报道</Denoter>
+                </Event>，
+                <Event eid="e47">
+                    <Participant oid="o47" type="agent">荷兰</Participant>
+                    <Participant oid="o47" type="agent">南非等国</Participant>也
+                    <Denoter did="d47" type="operation">开展</Denoter>了类似
+                    <Object sid="s47">临床试验</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e48">
+                    <Participant oid="o48" type="agent">著名医学期刊《柳叶刀》</Participant>
+                    <Time tid="t48" type="relTime">4月底</Time>
+                    <Denoter did="d48" type="statement">发表</Denoter>
+                    <Object sid="s48">题为《对接种卡介苗以减少新冠感染影响的思考》的评论文章</Object>说
+                </Event>，
+                <Event eid="e49">虽然有一定
+                    <Object oid="o49">证据</Object>
+                    <Denoter did="d49" type="statement">表明</Denoter>
+                </Event>
+                <Event eid="e50">
+                    <Object oid="o50">卡介苗</Object>或许对
+                    <Denoter did="d50" type="operation">预防</Denoter>
+                    <Object sid="s50">新冠病毒</Object>感染有效
+                </Event>，但相关临床试验完成之前，严格遵循世卫组织的建议非常重要，
+                <Event eid="e51">只能
+                    <Means mid="m51">在随机对照试验</Means>中
+                    <Denoter did="d51" type="action">使用</Denoter>
+                    <Object sid="s51">卡介苗</Object>预防新冠病毒感染
+                </Event>，
+                <Event eid="e52">
+                    <Object oid="o52">滥用卡介苗</Object>也可能
+                    <Denoter did="d52" type="action">带来</Denoter>一系列
+                    <Object sid="s52">负面影响</Object>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+    </Content>
+    <eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+    <eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e3"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eid="e7"/>
+    <eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>
+    <eRelation relType="Causal" cause_eid="e15" effect_eid="e16"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eid="e18-e21"/>
+    <eRelation relType="Accompany" accompanya_eid="e19" accompanyb_eid="e20"/>
+    <eRelation relType="Follow" bevent_eid="e19-e20" aevent_eid="e21"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e22" thoughtcontent_eid="e23"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e24" thoughtcontent_eid="e25"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e26" thoughtcontent_eid="e27-e30"/>
+    <eRelation relType="Causal" cause_eid="e27" effect_eid="e28-e30"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e32" thoughtcontent_eid="e33"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e33" thoughtcontent_eid="e34"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e37" thoughtcontent_eid="e38-e39"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e38" thoughtcontent_eid="e39"/>
+    <eRelation relType="Follow" bevent_eid="e42" aevent_eid="e43"/>
+    <eRelation relType="Accompany" accompanya_eid="e41" accompanyb_eid="e47"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e48" thoughtcontent_eid="e49-e61"/>
+</Body>

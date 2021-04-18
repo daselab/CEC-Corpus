@@ -1,0 +1,332 @@
+<Denoter did="d"></Denoter>
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+    <Title>武汉暂时关闭机场、火车站离汉通道 公交、地铁等停运</Title>
+    <ReportTime type="absTime">2020-01-23T00:00</ReportTime>中国新闻网
+    <Content>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e1">
+                    <Location lid="l1">武汉市</Location>
+                    <Participant oid="o1" type="agent">新型冠状病毒感染的肺炎疫情防控指挥部</Participant>
+                    <Time tid="t1" type="relTime">23日凌晨</Time>
+                    <Denoter did="d1" type="statement">发布通告</Denoter>称
+                </Event>，
+                <Event eid="e2">自
+                    <Time tid="t2" type="absTime">2020年1月23日10时</Time>起，
+                    <Participant oid="o2" type="agent">全市城市公交、地铁、轮渡、长途客运</Participant>
+                    <Denoter did="d2" type="operation">暂停运营</Denoter>
+                </Event>；
+                <Event eid="e3">无特殊原因，
+                    <Participant oid="o3" type="agent">市民</Participant>不要
+                    <Denoter did="d3" type="movement">离开</Denoter>
+                    <Location lid="l3">武汉</Location>
+                </Event>，
+                <Event eid="e4">
+                    <Object oid="o4">机场、火车站离汉通道</Object>暂时
+                    <Denoter did="d4" type="stateChange">关闭</Denoter>。
+                </Event>
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e5">
+                    <Object oid="o5">通告</Object>中
+                    <Denoter did="d5" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e6">此举是为了全力做好
+                    <Object sid="s6">新型冠状病毒感染的肺炎疫情</Object>
+                    <Denoter did="d6" type="operation">防控</Denoter>工作
+                </Event>，
+                <Event eid="e7">有效
+                    <Denoter did="d7" type="action">切断</Denoter>
+                    <Object sid="s7">病毒传播途径</Object>
+                </Event>，
+                <Event eid="e8">坚决
+                    <Denoter did="d8" type="action">遏制</Denoter>
+                    <Object sid="s8">疫情蔓延势头</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e9">
+                    <Object oid="o9">相关离汉通道及公共交通恢复时间</Object>
+                    <Denoter did="d9" type="statement">另行通告</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e10">
+                    <Time tid="t10" type="relTime">当天上午9时</Time>许，
+                    <Participant oid="o10" type="agent">记者</Participant>在
+                    <Location lid="l10">武汉地铁2号线大智路站</Location>
+                    <Denoter did="d10" type="perception">看到</Denoter>
+                </Event>，
+                <Event eid="e11">
+                    <Location lid="l11">站内</Location>
+                    <Denoter did="d11" type="action">张贴</Denoter>了一份
+                    <Object sid="s11">临时打印的紧急公告</Object>
+                </Event>”。
+            </Sentence>
+            <Sentence>
+                <Event eid="e12">
+                    <Object oid="o12">公告</Object>中
+                    <Denoter did="d12" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e13">自
+                    <Time tid="t13" type="absTime">2020年1月23日10时</Time>起，
+                    <Object oid="o13">武汉轨道交通所辖全部线路</Object>
+                    <Denoter did="d13" type="operation">暂停运营</Denoter>
+                </Event>，
+                <Event eid="e14">
+                    <Object sid="s14">恢复时间</Object>
+                    <Denoter did="d14" type="statement">另行通告</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e15">
+                    <Denoter did="d15" type="action">恳请</Denoter>
+                    <Participant sid="s15" oid="o16" type="recipient">广大市民</Participant>，
+                    <Participant sid="s15" oid="o16" type="recipient">乘客</Participant>
+                </Event>
+                <Event eid="e16">
+                    <Denoter did="d16" type="action">理解支持</Denoter>
+                </Event>
+            </Sentence>！
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e17">与以往相比，工作人员在
+                    <Participant oid="o17" type="agent">乘客</Participant>
+                    <Denoter did="d17" type="action">进站</Denoter>后
+                </Event>，
+                <Event eid="e18">
+                    <Denoter did="d18" type="operation">增设</Denoter>
+                    <Object sid="s18">检测体温环节</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e19">
+                    <Participant oid="o19">记者</Participant>
+                    <Means mid="m19">从武汉地铁运营公司相关工作人员处</Means>
+                    <Denoter did="d19" type="action">证实</Denoter>
+                </Event>，
+                <Event eid="e20">
+                    <Time tid="t20" type="relTime">上午10时</Time>，
+                    <Object oid="o20,o21">武汉轨道交通各条线路最后一趟车</Object>从各
+                    <Location lid="l20">起点站</Location>
+                    <Denoter did="d20" type="operation">发出</Denoter>
+                </Event>，
+                <Event eid="e21">到达
+                    <Location lid="l21">终点站</Location>后
+                    <Denoter did="d21">结束运营</Denoter>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>在
+                <Event eid="e22">
+                    <Location lid="l22">武汉市洪山区珞狮路马房山站公交站</Location>前，
+                    <Participant oid="o22" type="agent">记者</Participant>
+                    <Denoter did="d22" type="perception">看到</Denoter>
+                </Event>，
+                <Event eid="e23">
+                    <Object oid="o23">显示公交进站信息的电子牌</Object>已
+                    <Denoter did="d23" type="stateChange">停止更新</Denoter>
+                    <Object sid="s23">信息</Object>
+                </Event>。
+            </Sentence>
+            <Sentence>
+                <Event eid="e24">
+                    <Time tid="t24" type="timeInterval">半小时左右</Time>，
+                    <Participant oid="o24" type="agent">记者</Participant>
+                    <Denoter did="d24" type="perception">发现</Denoter>
+                </Event>
+                <Event eid="e25">经停该站的十余条公交线路，只有
+                    <Object sid="s25">591路</Object>
+                    <Denoter did="d25" type="perception">途经</Denoter>。
+                </Event>
+            </Sentence>
+            <Sentence>
+                <Event eid="e26">而平时高峰期，该站很多
+                    <Object oid="o26">线路公交</Object>都是
+                    <Participant sid="s26">乘客</Participant>
+                    <Denoter did="d26" type="statement">爆满</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e27">
+                    <Time tid="t27">当日上午</Time>，
+                    <Location lid="l27">武汉天河机场</Location>
+                    <Denoter did="d27" type="statement">发布提示称</Denoter>
+                </Event>，
+                <Event eid="e28">
+                    <Time tid="t28" type="relTime">1月23日</Time>
+                    <Location lid="l28">武汉天河机场</Location>
+                    <Denoter did="d28" type="operation">计划</Denoter>
+                    <Object sid="s28">进出港航班共600架次</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e29">
+                    <Time tid="t29" type="timeInterval">截至上午9时</Time>，已正常
+                    <Denoter did="d29" type="statement">起降</Denoter>
+                    <Object oid="o29">45架次</Object>
+                </Event>，
+                <Event eid="e30">因故临时
+                    <Denoter did="d30" type="stateChange">取消</Denoter>
+                    <Object sid="s30">进出港航班199架次</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e31">据
+                    <Denoter did="d31" type="statement">悉</Denoter>
+                </Event>，
+                <Event eid="e32">
+                    <Participant oid="o32" type="agent">南航</Participant>
+                    <Time tid="t32" type="relTime">上午10时</Time>之后
+                    <Object sid="s32">所有航班</Object>已
+                    <Denoter did="d32" type="stateChange">全部取消</Denoter>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e33">
+                    <Object oid="o33">其他航空公司的航班</Object>正在
+                    <Denoter did="d33" type="operation">调整</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e34">
+                    <Participant oid="o34" type="agent">机场方面</Participant>
+                    <Denoter did="d34" type="statement">表示</Denoter>
+                </Event>，
+                <Event eid="e35">
+                    <Participant oid="o35" type="agent">各航空公司</Participant>
+                    <Time tid="t35">今明两天</Time>将
+                    <Denoter did="d35" type="operation">大幅调整</Denoter>
+                    <Object sid="s35">航班计划</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>请
+                <Event eid="e36">
+                    <Participant oid="o36" type="agent">已购票的旅客</Participant>
+                    <Denoter did="d36" type="action">密切关注</Denoter>
+                    <Object sid="s36">航班信息变化</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e37">对已
+                    <Denoter did="d37" type="action">取消</Denoter>
+                    <Object sid="s37">航班</Object>的
+                    <Participant oid="o37,o38">旅客</Participant>
+                </Event>，
+                <Event eid="e38">可按照有关规定
+                    <Denoter did="d38" type="operation">免费办理</Denoter>
+                    <Object sid="s38">退票手续</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e39">
+                    <Participant oid="o39" type="agent">未购票旅客</Participant>
+                    <Denoter did="d39" type="movement">请勿到</Denoter>
+                    <Location lid="l39">机场</Location>候票
+                </Event>，
+                <Event eid="e40">
+                    <Denoter did="d40" type="operation">减少聚集</Denoter>
+                    <Participant sid="s40">人员</Participant>
+                </Event>。
+            </Sentence>
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e41">
+                    <Location lid="l41">武汉天河机场</Location>将在切实做好
+                    <Object sid="s41">疫情</Object>
+                    <Denoter did="d41" type="operation">防控</Denoter>的前提下，
+                </Event>
+                <Event eid="e42">
+                    <Denoter did="d42" type="operation">组织协调</Denoter>
+                    <Object sid="s42">大巴车、出租车、网约车等交通工具</Object>
+                </Event>
+                <Event eid="e43">
+                    <Denoter did="d43" type="action">满足</Denoter>
+                    <Participant sid="s43">旅客</Participant>
+                    <Object sid="s43">抵离机场需要</Object>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+        <Paragraph>
+            <Sentence>
+                <Event eid="e44">
+                    <Participant oid="o44" type="agent">记者</Participant>
+                    <Time tid="t44" type="relTime">23日清晨</Time>走访
+                    <Denoter did="d44" type="perception">发现</Denoter>
+                </Event>，
+                <Event eid="e45">在
+                    <Location lid="l45">位于武汉市青山区武东集贸市场内</Location>，
+                    <Participant oid="o45">部分市民</Participant>前来
+                    <Denoter did="d45">采购</Denoter>
+                    <Object sid="s45">大白菜、萝卜、土豆等易于储藏的蔬菜</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e46">
+                    <Location lid="l46">武汉杨家湾一家大型超市</Location>内，
+                    <Participant oid="o46" type="agent">许多市民</Participant>正在
+                    <Denoter did="d46" type="action">采购</Denoter>
+                    <Object oid="o46">年货</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e47">
+                    <Participant oid="o47">大部分市民</Participant>均
+                    <Denoter did="d47" type="action">佩戴</Denoter>有
+                    <Object sid="s47">口罩</Object>
+                </Event>
+            </Sentence>。
+            <Sentence>
+                <Event eid="e48">
+                    <Participant oid="o48" type="agent">工作人员</Participant>
+                    <Denoter did="d48" type="statement">称</Denoter>
+                </Event>，
+                <Event eid="e49">
+                    <Time tid="t49" type="timeInterval">春节期间</Time>
+                    <Participant oid="o49" type="agent">超市</Participant>
+                    <Denoter did="d49" type="action">正常营业</Denoter>
+                </Event>
+            </Sentence>。
+        </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eid="e2-e4"/>
+    <eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e3"/>
+    <eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e4"/>
+    <eRelation relType="Causal" cause_eid="e6" effect_eid="e2"/>
+    <eRelation relType="Composite" fevent_eid="e7" sevent_eids="e8"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eid="e6-e9"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eid="e11"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eid="e13-e16"/>
+    <eRelation relType="Follow" bevent_eid="e17" aevent_eid="e18"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e19" thoughtcontent_eid="e20-e21"/>
+    <eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>
+    <eRelation relType="Causal" cause_eid="e2" effect_eid="e13"/>
+    <eRelation relType="Causal" cause_eid="e2" effect_eid="e23"/>
+    <eRelation relType="Causal" cause_eid="e2" effect_eid="e32"/>
+    <eRelation relType="Causal" cause_eid="e2" effect_eid="e33"/>
+    <eRelation relType="Follow" bevent_eid="e35" aevent_eid="e36"/>
+    <eRelation relType="Follow" bevent_eid="e37" aevent_eid="e38"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e22" thoughtcontent_eid="e23"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e24" thoughtcontent_eid="e25-e26"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e27" thoughtcontent_eid="e28-e30"/>
+    <eRelation relType="Accompany" accompanya_eid="e32" accompanyb_eid="e33"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e31" thoughtcontent_eid="e32-e33"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e34" thoughtcontent_eid="e35-e40"/>
+    <eRelation relType="Follow" bevent_eid="e41" aevent_eid="e42"/>
+    <eRelation relType="Follow" bevent_eid="e41" aevent_eid="e43"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e44" thoughtcontent_eid="e45-e47"/>
+    <eRelation relType="Accompany" accompanya_eid="e46" accompanyb_eid="e47"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e48" thoughtcontent_eid="e49"/>
+</Body>
